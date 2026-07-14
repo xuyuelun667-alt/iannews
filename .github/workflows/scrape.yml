@@ -1,7 +1,6 @@
 name: Scrape Twitter News
 on:
   schedule:
-    # 每隔一天，北京时间 16:00 (UTC 08:00)
     - cron: '0 8 */2 * *'
   workflow_dispatch:
 
@@ -23,10 +22,10 @@ jobs:
           X_API_BEARER: ${{ secrets.X_API_BEARER }}
         run: python scripts/scrape.py
 
-      - name: Commit & push updated news
-        run: |
-          git config user.name "iannews-bot"
-          git config user.email "bot@example.com"
-          git add data/news.json
-          git diff --staged --quiet || git commit -m "auto: update news $(date +%Y-%m-%d)"
-          git push --force
+      - name: Commit & push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "auto: update news"
+          commit_user_name: iannews-bot
+          commit_user_email: bot@iannews.cc
+          file_pattern: data/news.json
