@@ -1,8 +1,38 @@
 {
-  "fetchedAt": "2026-07-14T16:13:05Z",
+  "fetchedAt": "2026-07-14T16:46:57Z",
   "articles": [
     {
       "id": "rss_TechCrunch_0",
+      "author": "TechCrunch",
+      "text": "DeepSeek reportedly in talks to raise $1.5B, then IPO - DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation.",
+      "translated": "据报道，DeepSeek 正在洽谈筹集 1.5B 美元，然后进行 IPO - 据说中国大型语言模型开发商 DeepSeek 正在准备 2027 年首次公开募股，因为它还希望以 710 亿美元的估值筹集约 15 亿美元的新基金。",
+      "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+      "createdAt": "Tue, 14 Jul 2026 16:45:23 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_SCMP_0",
+      "author": "SCMP",
+      "text": "Trump scraps Hormuz toll plan but presses ahead with Iran blockade - US President Donald Trump on Tuesday abandoned plans to impose a 20 per cent charge on commercial cargo passing through the Strait of Hormuz, less than a day after unveiling the proposal, while pressing ahead with a naval blockade targeting Iranian trade. Trump said the proposed fee would be replaced by trade and investment agreements with Gulf states following discussions with regional leaders. “Based on highly productive conv",
+      "translated": "特朗普废除霍尔木兹海峡收费计划，但继续推进对伊朗的封锁——美国总统唐纳德·特朗普周二放弃了对通过霍尔木兹海峡的商业货物征收20%费用的计划，距离公布该提议不到一天，同时继续推进针对伊朗贸易的海上封锁。特朗普表示，在与地区领导人讨论后，拟议的费用将被与海湾国家的贸易和投资协议所取代。 “基于与中东领导人的富有成效的对话，我决定更换......",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3360574/trump-scraps-hormuz-toll-plan-presses-ahead-iran-blockade?utm_source=rss_feed",
+      "createdAt": "Tue, 14 Jul 2026 16:37:29 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_1",
+      "author": "TechCrunch",
+      "text": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer - Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+      "translated": "Meta 的 Adam Mosseri 表示，每个工程师的 AI 代币预算可能很快就会受到限制 - Instagram 负责人 Adam Mosseri 认为，公司最终需要像管理工资或其他运营费用一样管理 AI 代币支出，并预测工程师可能很快就会面临使用 AI 工具的支出限制。",
+      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "createdAt": "Tue, 14 Jul 2026 16:22:15 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_2",
       "author": "TechCrunch",
       "text": "Google Images gets a Pinterest-like redesign focused on discovery - Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
       "translated": "Google 图片进行了类似 Pinterest 的重新设计，专注于发现 - 现在，当用户导航到 Google 图片时，他们会看到一个根据他们的兴趣和浏览历史记录定制的“For You”图片库。",
@@ -12,7 +42,17 @@
       "retweets": null
     },
     {
-      "id": "rss_TechCrunch_1",
+      "id": "rss_BBC_4",
+      "author": "BBC",
+      "text": "Tyrannosaurus rex most expensive dinosaur ever sold - The dinosaur skeleton, which roamed the planet 67 million years ago, was sold by Sotheby's in New York.",
+      "translated": "霸王龙是有史以来售出的最昂贵的恐龙 - 6700 万年前在地球上漫步的恐龙骨架由纽约苏富比拍卖行售出。",
+      "url": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Tue, 14 Jul 2026 15:37:52 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_3",
       "author": "TechCrunch",
       "text": "New York State halts construction of all new data centers - New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
       "translated": "纽约州停止所有新数据中心的建设——纽约州成为第一个暂时停止批准大型数据中心的州，因为州长 Kathy Hochul 认为人工智能驱动的建筑热潮不应以更高的电力成本、供水或地方控制为代价。",
@@ -22,7 +62,7 @@
       "retweets": null
     },
     {
-      "id": "rss_TechCrunch_2",
+      "id": "rss_TechCrunch_4",
       "author": "TechCrunch",
       "text": "Iran abused mobile networks’ vulnerabilities to locate US military in the Middle East, report says - The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war.",
       "translated": "报告称，伊朗滥用移动网络的漏洞来定位驻中东的美军——伊朗政府在战争的准备和开始阶段利用手机网络中众所周知的缺陷来定位并攻击美国军事人员。",
@@ -32,7 +72,7 @@
       "retweets": null
     },
     {
-      "id": "rss_SCMP_0",
+      "id": "rss_SCMP_1",
       "author": "SCMP",
       "text": "China used a giant net to land a reusable rocket. Does the idea have legs? - China’s successful recovery of a reusable rocket has sparked debate among aerospace experts over whether its unconventional approach could actually cut the cost of reaching space. On Friday, the country’s Long March-10B became the first orbital-class rocket outside the United States to return to Earth and be recovered intact. The rocket’s first-stage booster deployed four hooks as it descended and was then caught by a g",
       "translated": "中国使用一张巨大的网来着陆可重复使用的火箭。这个想法有腿吗？ - 中国成功回收可重复使用火箭引发了航空航天专家的争论，争论的焦点是其非常规方法是否能够真正降低进入太空的成本。周五，中国的长征十号乙运载火箭成为美国以外首个返回地球并完好无损回收的轨道级火箭。火箭的第一级助推器在下降时展开了四个钩子，然后被在南中国海等待的一艘船上的一张巨大的网捕获。 SpaceX 和蓝色起源...",
@@ -42,47 +82,7 @@
       "retweets": null
     },
     {
-      "id": "rss_BBC_3",
-      "author": "BBC",
-      "text": "MPs expected to approve long-delayed Hillsborough Law - The legislation has returned to the Commons in Sir Keir Starmer's final days as prime minister.",
-      "translated": "议员们预计将批准拖延已久的希尔斯堡法案——该法案在凯尔·斯塔默爵士担任首相的最后几天返回下议院。",
-      "url": "https://www.bbc.co.uk/news/articles/c9q2qwnvd75o?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Tue, 14 Jul 2026 14:56:48 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_3",
-      "author": "TechCrunch",
-      "text": "I’m de-influencing you from buying the RingConn 3 (even though it’s pretty) - The RingConn 3 actually looks like real jewelry, not a wearable -- but its fitness tracking and headache detection features are disappointing.",
-      "translated": "我不想让你购买 RingConn 3（尽管它很漂亮）——RingConn 3 实际上看起来像真正的珠宝，而不是可穿戴设备——但它的健身追踪和头痛检测功能令人失望。",
-      "url": "https://techcrunch.com/2026/07/14/ringconn-3-review/",
-      "createdAt": "Tue, 14 Jul 2026 14:45:11 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_4",
-      "author": "TechCrunch",
-      "text": "Reflection inks $1B compute deal with Nebius - Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
-      "translated": "Reflection 与 Nebius 签署了 10 亿美元的计算协议 - Reflection AI 已签署了一项 10 亿美元的协议来访问 Nebius 的计算。 Reflection成立于2024年，正在开发开源人工智能技术。",
-      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-      "createdAt": "Tue, 14 Jul 2026 14:37:48 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC_4",
-      "author": "BBC",
-      "text": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal - Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
-      "translated": "“如果我们死了，我们会一起死”：差点被瑞安航空飞机吸出的男子的妻子讲述了痛苦的经历 - 斯韦特兰娜·格尔科维奇 (Svetlana Grković) 告诉塞尔维亚媒体，她的丈夫“受了重伤，处于休克状态”。",
-      "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Tue, 14 Jul 2026 13:49:42 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_SCMP_1",
+      "id": "rss_SCMP_2",
       "author": "SCMP",
       "text": "EU signals emergency import curbs after dramatic growth in Chinese trade gap - The European Union is prepared to introduce emergency measures to combat China’s extraordinary export surge as new figures showed the trade gap had widened dramatically, its top trade enforcer said on Tuesday. Safeguard measures that permit tariffs and quotas to be enforced to combat sudden import surges may “become legitimate on a case-by-case basis”, Denis Redonnet told the European Parliament’s trade committee. Red",
       "translated": "中国贸易逆差急剧扩大后，欧盟发出紧急进口限制信号——欧盟最高贸易执法机构周二表示，新数据显示贸易逆差急剧扩大，欧盟准备采取紧急措施应对中国出口激增。丹尼斯·雷东内对欧洲议会贸易委员会表示，允许实施关税和配额以应对突然进口激增的保障措施可能“根据具体情况变得合法”。欧盟负责贸易的副总干事雷东内补充说，欧盟...",
@@ -112,7 +112,7 @@
       "retweets": null
     },
     {
-      "id": "rss_SCMP_2",
+      "id": "rss_SCMP_3",
       "author": "SCMP",
       "text": "The young Chinese scientist behind an ‘impossible’ breakthrough on sodium batteries - Scientist Lu Yaxiang, a professor at the Chinese Academy of Sciences’ Institute of Physics, has spent a decade working to make sodium-ion batteries commercially viable. Those years of work on energy storage in April earned Lu a China Youth May Fourth Medal – the nation’s top honour for outstanding achievers under 35. For years, lithium-ion batteries have dominated the market, even though their raw materials are",
       "translated": "中国科学院物理研究所教授卢亚翔是钠电池“不可能”突破背后的年轻中国科学家，他花了十年的时间致力于使钠离子电池商业化。 4月份，卢先生在储能领域的多年工作为他赢得了中国青年五四奖章——这​​是国家为35岁以下杰出成就者颁发的最高荣誉。多年来，锂离子电池一直主导着市场，尽管其原材料稀缺且提取过程对环境要求很高。钠离子电池被视为...",
@@ -122,7 +122,7 @@
       "retweets": null
     },
     {
-      "id": "rss_SCMP_3",
+      "id": "rss_SCMP_4",
       "author": "SCMP",
       "text": "China sends a message to Pacific islands amid unease over missile test - A week after a Chinese missile test sparked protests across the Pacific, Beijing has reaffirmed its unconditional support for Honiara and pledged to deepen ties. The commitment came as Chinese Foreign Minister Wang Yi met his Solomon Islands counterpart Rick Houenipwela in Beijing on Tuesday, just days after China test-fired a ballistic missile from a nuclear-powered submarine on July 6. The test, which marked China’s first",
       "translated": "在导弹试验引发的不安之际，中国向太平洋岛屿发出信息——中国导弹试验引发太平洋地区抗议一周后，北京重申对霍尼亚拉的无条件支持，并承诺深化关系。这一承诺是在中国外交部长王毅于周二在北京会见所罗门群岛外长里克·胡尼普韦拉之际做出的。几天前，中国于 7 月 6 日从核动力潜艇上试射了弹道导弹。这次试验标志着中国首次从战略潜射导弹中发射远程弹道导弹。",
@@ -148,16 +148,6 @@
       "translated": "",
       "url": "https://www.bbc.com/zhongwen/articles/c2dydezz0jro/trad?at_medium=RSS&at_campaign=rss",
       "createdAt": "Tue, 14 Jul 2026 11:06:56 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_SCMP_4",
-      "author": "SCMP",
-      "text": "How Beijing proposes to solve South China Sea disputes 10 years after Hague ruling - A decade after the Hague’s South China Sea ruling, Beijing should continue engaging in good-faith diplomacy and explore international mediation, analysts say, arguing that the unenforced decision had failed to curb regional maritime tensions. The assessments came after a weekend of fresh accusations over the 2016 decision by an international tribunal that most of China’s claims to historical and economic rights ",
-      "translated": "海牙裁决十年后北京建议如何解决南海争端 - 分析人士表示，海牙南海裁决十年后，北京应继续开展善意外交并探索国际调解，他们认为这一未得到执行的决定未能遏制地区海上紧张局势。就在周末，国际法庭对中国在南海的大部分历史和经济权利主张无效的裁决提出了新的指控，北京方面坚决拒绝了这一裁决。在...",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3360541/how-beijing-proposes-solve-south-china-sea-disputes-10-years-after-hague-ruling?utm_source=rss_feed",
-      "createdAt": "Tue, 14 Jul 2026 10:11:37 +0000",
       "likes": null,
       "retweets": null
     },
@@ -202,6 +192,16 @@
       "retweets": null
     },
     {
+      "id": "rss_BBC_3",
+      "author": "BBC",
+      "text": "Who will win the World Cup? The view from the semi-finalists' countries - BBC Sport speaks to journalists and fans from the World Cup's four semi-finalists to see who they think will win the tournament.",
+      "translated": "谁将赢得世界杯？半决赛国家的观点 - BBC 体育频道采访了世界杯四支半决赛国家的记者和球迷，了解他们认为谁将赢得世界杯。",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjrgew3wv4xo?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Tue, 14 Jul 2026 05:43:53 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
       "id": "rss_NASA_0",
       "author": "NASA",
       "text": "Fans of the Arctic - Sediment eroded from ice-capped mountains splays out across a broad river valley on Russia’s Severny Island.",
@@ -225,7 +225,7 @@
       "id": "rss_NASA_1",
       "author": "NASA",
       "text": "Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July - Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Thursday, July 2, 2026 Curiosity spent the week leading up to the Fourth of July holiday approaching a geologic boundary between a very smooth but somewhat sandy region and a rougher bedrock unit. Leaving the polygonal […]",
-      "translated": "好奇号博客，Sols 4941-4947：（Pin）7 月 4 日条纹 - 由 NASA 喷气推进实验室 MSL 运营产品地面系统任务负责人 Deborah Padgett 撰写 地球规划日期：2026 年 7 月 2 日星期四 好奇号在 7 月 4 日假期前的一周里接近了非常光滑但有些沙质区域和较粗糙基岩单元之间的地质边界。离开多边形[...]",
+      "translated": "好奇号博客，Sols 4941-4947：（Pin）7 月 4 日条纹 - 由 NASA 喷气推进实验室 MSL 运营产品地面系统任务负责人 Deborah Padgett 撰写 地球规划日期：2026 年 7 月 2 日星期四 好奇号在 7 月 4 日假期前的一周里接近了一个非常光滑但有些沙质区域和一个较粗糙基岩单元之间的地质边界。离开多边形[...]",
       "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/",
       "createdAt": "Tue, 14 Jul 2026 01:04:04 +0000",
       "likes": null,
