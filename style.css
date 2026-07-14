@@ -121,6 +121,37 @@ footer {
   font-size: 0.8rem;
 }
 
+/* Translate button */
+.translate-btn {
+  background: none;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 3px 10px;
+  font-size: 0.78rem;
+  color: #666;
+  cursor: pointer;
+  margin-bottom: 6px;
+  transition: all 0.15s;
+}
+
+.translate-btn:hover {
+  border-color: #1da1f2;
+  color: #1da1f2;
+  background: #f0f7ff;
+}
+
+.translate-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.translated-tip {
+  font-size: 0.7rem;
+  color: #aaa;
+  display: inline-block;
+  margin-top: 4px;
+}
+
 /* Error */
 .error {
   text-align: center;
