@@ -1,32 +1,4 @@
 {
-  "fetchedAt": "2026-07-14T13:00:00.000Z",
-  "articles": [
-    {
-      "id": "tweet_001",
-      "author": "TechCrunch",
-      "text": "OpenAI 宣布 GPT-5 将在下月发布，据称推理能力相比 GPT-4 提升 3 倍，同时成本降低 40%。",
-      "url": "https://x.com/TechCrunch/status/1234567890",
-      "createdAt": "2026-07-14T08:30:00.000Z",
-      "likes": 4523,
-      "retweets": 1201
-    },
-    {
-      "id": "tweet_002",
-      "author": "NASA",
-      "text": "毅力号在火星 Jezero 陨石坑发现有机化合物沉积层，可能包含古代微生物活动的证据。",
-      "url": "https://x.com/NASA/status/1234567891",
-      "createdAt": "2026-07-14T06:15:00.000Z",
-      "likes": 12890,
-      "retweets": 3402
-    },
-    {
-      "id": "tweet_003",
-      "author": "Reuters",
-      "text": "日本央行维持利率不变，日元兑美元跌破 160 关口，创 38 年新低。市场密切关注后续干预信号。",
-      "url": "https://x.com/Reuters/status/1234567892",
-      "createdAt": "2026-07-14T04:00:00.000Z",
-      "likes": 2156,
-      "retweets": 876
-    }
-  ]
+  "fetchedAt": "2026-07-14T14:31:20Z",
+  "articles": []
 }
