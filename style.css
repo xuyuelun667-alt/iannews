@@ -145,6 +145,14 @@ footer {
   cursor: not-allowed;
 }
 
+.mission {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  padding: 20px 0 12px;
+  line-height: 1.6;
+}
+
 .translated-label {
   font-size: 0.7rem;
   color: #aaa;

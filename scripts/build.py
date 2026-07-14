@@ -90,11 +90,12 @@ def render():
   <header>
     <div class="container header-inner">
       <h1 class="logo">IanNews</h1>
-      <span class="tagline">每日速递 · 精选推文</span>
+      <span class="tagline">降低获取全球信息的门槛</span>
     </div>
   </header>
 
   <main class="container">
+    <div class="mission">精选可信来源，减少信息噪音，让您更高效地了解世界。</div>
     {update_html}
     <div class="news-list" id="newsList">
       {news_content}
