@@ -1,6 +1,24 @@
 {
-  "fetchedAt": "2026-07-14T15:05:32Z",
+  "fetchedAt": "2026-07-14T15:18:34Z",
   "articles": [
+    {
+      "id": "rss_TechCrunch_0",
+      "author": "TechCrunch",
+      "text": "New York State halts construction of all new data centers - New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
+      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+      "createdAt": "Tue, 14 Jul 2026 15:17:59 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_1",
+      "author": "TechCrunch",
+      "text": "Iran abused mobile networks’ vulnerabilities to locate U.S. military in the Middle East, report says - The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war.",
+      "url": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
+      "createdAt": "Tue, 14 Jul 2026 15:14:40 +0000",
+      "likes": null,
+      "retweets": null
+    },
     {
       "id": "rss_SCMP_0",
       "author": "SCMP",
@@ -20,7 +38,7 @@
       "retweets": null
     },
     {
-      "id": "rss_TechCrunch_0",
+      "id": "rss_TechCrunch_2",
       "author": "TechCrunch",
       "text": "I’m de-influencing you from buying the RingConn 3 (even though it’s pretty) - The RingConn 3 actually looks like real jewelry, not a wearable -- but its fitness tracking and headache detection features are disappointing.",
       "url": "https://techcrunch.com/2026/07/14/ringconn-3-review/",
@@ -29,38 +47,20 @@
       "retweets": null
     },
     {
-      "id": "rss_TechCrunch_1",
+      "id": "rss_TechCrunch_3",
       "author": "TechCrunch",
-      "text": "Reflection inks $1B compute deal with Nebius - Reflection AI has signed a $1 billion deal to access Nebius's compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "text": "Reflection inks $1B compute deal with Nebius - Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
       "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
       "createdAt": "Tue, 14 Jul 2026 14:37:48 +0000",
       "likes": null,
       "retweets": null
     },
     {
-      "id": "rss_TechCrunch_2",
+      "id": "rss_TechCrunch_4",
       "author": "TechCrunch",
       "text": "The real AI race may no longer be at the frontier - Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
       "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
       "createdAt": "Tue, 14 Jul 2026 14:24:53 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_3",
-      "author": "TechCrunch",
-      "text": "Telegram’s shortlink domain is back online after day-long suspension - Telegram CEO Pavel Durov confirmed an outage in a tweet, saying that shortlinks to the messaging app had \"stopped working.\"",
-      "url": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
-      "createdAt": "Tue, 14 Jul 2026 14:10:13 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_4",
-      "author": "TechCrunch",
-      "text": "Spotify expands its AI push with a ChatGPT-like music assistant - Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
-      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-      "createdAt": "Tue, 14 Jul 2026 14:06:47 +0000",
       "likes": null,
       "retweets": null
     },
@@ -137,6 +137,15 @@
       "retweets": null
     },
     {
+      "id": "rss_爱范儿_0",
+      "author": "爱范儿",
+      "text": "比亚迪王朝大改车型命名规则：L 系列消失，MAX 和 Ultra 将代表旗舰 - 起名也是一种艺术。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "url": "https://www.ifanr.com/1671991?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Tue, 14 Jul 2026 07:42:37 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
       "id": "rss_NASA_0",
       "author": "NASA",
       "text": "Fans of the Arctic - Sediment eroded from ice-capped mountains splays out across a broad river valley on Russia’s Severny Island.",
@@ -151,6 +160,15 @@
       "text": "Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July - Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Thursday, July 2, 2026 Curiosity spent the week leading up to the Fourth of July holiday approaching a geologic boundary between a very smooth but somewhat sandy region and a rougher bedrock unit. Leaving the polygonal […]",
       "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/",
       "createdAt": "Tue, 14 Jul 2026 01:04:04 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_1",
+      "author": "爱范儿",
+      "text": "早报｜苹果iPhone 20或迎来大幅设计调整/海南规划2030年禁售燃油车/字节回应探索自动驾驶传闻 - · 腾讯混元 Hy3 登顶 OpenRouter 周榜，单周处理 Token 超 6 万亿 · 台积电上半年营收同比增长 35.6%，6 月营收创单月新高 · 长鑫科技拟募资 295 亿元，员工每人可分超百万#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "url": "https://www.ifanr.com/1671983?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Tue, 14 Jul 2026 00:16:36 +0000",
       "likes": null,
       "retweets": null
     },
@@ -223,6 +241,78 @@
       "text": "NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes - Astronomers using archival data from Hubble and supportive observations from Webb have located their first stellar-mass black hole in the star cluster Omega Centauri.",
       "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/",
       "createdAt": "Mon, 13 Jul 2026 14:00:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_2",
+      "author": "爱范儿",
+      "text": "68 万元起！腾势 Z 开启国内预售，海外网友已吵翻 - 百万级的易三方，有着百万级的表现。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "url": "https://www.ifanr.com/1671949?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Mon, 13 Jul 2026 12:30:38 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_3",
+      "author": "爱范儿",
+      "text": "英伟达 AIPC 中国首秀，笔记本里装下一座「曼哈顿」 - 英伟达想通过定义 AIPC 本身，来切走未来更大的那块蛋糕。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "url": "https://www.ifanr.com/1671945?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Mon, 13 Jul 2026 10:19:45 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_4",
+      "author": "爱范儿",
+      "text": "小米澎程 4 款新车公布，纯电续航最高 380km，N90 露营版要做成房车平替 - 小米澎程是雷军卖给你的第一套房。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "url": "https://www.ifanr.com/1671928?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Mon, 13 Jul 2026 10:18:54 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_36氪_0",
+      "author": "36氪",
+      "text": "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业 - 大公司： 中国神华：预计上半年净利润同比增长6.9%-21.1% 36氪获悉，中国神华公告，预计2026年上半年归属于上市公司股东的净利润为263亿元至298亿元，同比增长6.9%-21.1%。业绩变动主要系煤化工业务量及自有铁路、港口、航运业务量增加，带动相关业务利润同比增长。 中国人寿：预计上半年净利润同比增长约215%-235% 36氪获悉，中国人寿公告，预计2026年半年度归属于母公司股东的净利润约1289.33亿元到1371.19亿元，同比增长约215%到235%。业绩变动主要系公司持续深化资产负债联动，优化资产配置，提升投资专业能力，取得良好投资业绩。 光迅科技：预计上半年净利润同比增长50%-65.15% 36氪获悉，光迅科技公告，预计2026年半年度归属于上市公司股东的净利润为5.59亿元-6.15亿元，同比增长50%-65.15%。报告期内，得益于全球AI算力投资浪潮驱动数通光模块需求快速增长，叠加国内云服务商加大数据中心建设投入，",
+      "url": "https://36kr.com/p/3895322613185543?f=rss",
+      "createdAt": "2026-07-14 19:21:42  +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_36氪_1",
+      "author": "36氪",
+      "text": "估值110亿美元，这家超级独角兽要帮初创公司从Day0走向全球 - 凌晨三点，一家刚成立不久的AI创业公司，可能已经在同时服务旧金山的客户、采购首尔的技术服务，并与拉各斯的合作伙伴签下合同。这家公司甚至还没有招到第一名全职财务人员，业务却已经跨越多个市场、币种和监管辖区。&nbsp; AI正在让这样的创业路径成为可能。过去需要市场、运营、客服等一整套全球化团队才能完成的工作，现在借助智能体就能承担相当一部分。新一代初创企业不必再按照“先站稳本土、再逐步出海”的传统顺序扩张，而可能从成立第一天起，就直接面对全球客户和供应商。 但当AI以足够快的速度跑在前面时，大多数企业的金融管道仍未为此做好准备。这也是为什么，全球顶级资本开始押注金融基础设施的AI化重构。 2025年6月，全球金融基础设施平台Airwallex空中云汇宣布完成3.2亿美元H轮融资，估值达110亿美元，较半年前的80亿美元大幅跃升，本轮融资由老股东Addition领投，Baillie Gifford、T. Rowe Price、Amex Ventures等现有及新晋投资者跟投。 这笔融资也传递出一个明确的信号：AI经济需要",
+      "url": "https://36kr.com/p/3895355856403456?f=rss",
+      "createdAt": "2026-07-14 18:48:32  +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_36氪_2",
+      "author": "36氪",
+      "text": "🎁36氪放福利啦！体验10秒，即可免费抽AirPods 4、Redmi手环、超人帆布包！ - 无门槛参与，所有微信用户都可以免费抽奖！ 只需打开微信，扫描下方二维码进入抽奖链接，浏览10秒36氪企业全情报，任意订阅一家企业，即可获得抽奖资格。 无需付费，无需任何额外操作，简单体验即可参与，AirPods 4、Redmi手环3、36氪限定超人帆布包等好礼随机送出，人人都有机会中奖！ &nbsp; 直接扫描下方二维码即可参与，或直接点击参与：https://wxmpurl.cn/KEeJSzRvNFr 扫码参与免费抽奖！ 🎁本次活动奖品清单 🥇一等奖：AirPods 4 音质出色、佩戴舒适，无论日常通勤、运动还是办公，都能带来优秀的使用体验。 🥈二等奖：Redmi 手环3 轻巧便携，支持运动、健康监测等多项功能，记录每一天的运动与生活状态。 🥉三等奖：36氪限定超人帆布包 36氪官方定制周边，印有\"I AM SUPERMAN 每个人都是超人\"设计，容量充足，通勤、办公、日常出行都很实用。 本次活动共送出13份奖品，全部免费抽取！ &nbsp; 为什么同样一条消息，有人赚钱，有人却总是慢一步",
+      "url": "https://36kr.com/p/3894914381970438?f=rss",
+      "createdAt": "2026-07-14 12:21:11  +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_36氪_3",
+      "author": "36氪",
+      "text": "36氪首发 | 浙大系桌面CNC团队获商汤国香、首形科技等近亿元天使轮，要用AI技术降低制造门槛 - 作者&nbsp;|&nbsp;张子怡 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，桌面级CNC（数控机床）企业「奇塑科技」于近期完成近亿元人民币天使轮融资。本轮融资由商汤国香、首形科技、全新世、奇绩创坛共同投资。本轮资金将主要用于桌面级CNC软硬件产品的研发、量产以及后续的市场营销。 在消费级3D打印机和激光雕刻机已完成大众市场教育，并诞生了诸如拓竹、xTool等多个头部企业后，能够实现“从软材到硬材强三维加工”的CNC产品，被视为消费级制造领域的下一片万亿蓝海。 早在2018年行业普遍聚焦3D打印赛道时，奇塑科技团队就已将目光投向CNC领域。在创始人夏楠看来，CNC是制造业最基础、通用性最强的加工方式，覆盖的场景比3D打印更广，拥有万亿级的产业底盘；如果能用AI重构CNC的制造范式、降低门槛，将进一步拓宽CNC的使用场景，甚至下沉到普通用户的桌面端。这会改变全社会的生产模式，释放极大的增量价值。 当前，市面上已涌现出数家消费级CNC初创公司，资本也争相涌入。企业共同面临的问题是：",
+      "url": "https://36kr.com/p/3894935854677249?f=rss",
+      "createdAt": "2026-07-14 11:34:12  +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_36氪_4",
+      "author": "36氪",
+      "text": "36氪首发 | 前博世自动驾驶算法工程师创业，用合成数据做触觉大模型 - 触觉手套（图源/企业） 本文约2400字，建议阅读6分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，空间智能公司「大衍科技」近期完成数千万元天使轮融资，由松禾清湛领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。 「大衍科技」2025年5月成立于浙江桐乡，是一家专注于4D世界重建、世界模型及可控扩散模型技术的空间智���公司。 创始人兼CEO杨林是新加坡国立大学计算机博士，曾在速腾、酷睿程、比亚迪、苏州博世等企业深耕自动驾驶算法7-8年。此外，公司核心技术源自首席科学家、联合国科学院院士、加拿大工程院院士埃尔萨迪克团队二十余年的数字孪生与触觉交互积累。 杨林告诉硬氪，他观察到，此前数据市场需求以汽车合成数据为主，但2025年开始，机器人数据订单急剧增加。 “汽车数据没涨，甚至有点跌。随着机器人本体竞争越来越激烈，大家就开始卷机器人大脑，而大脑的瓶颈就是数据。”杨林称。 目前，「大衍科技」已形成三条产品线： 一是合成数据业务：以合成数据为主，同时结合第一人",
+      "url": "https://36kr.com/p/3894821059918855?f=rss",
+      "createdAt": "2026-07-14 09:38:13  +0800",
       "likes": null,
       "retweets": null
     }
