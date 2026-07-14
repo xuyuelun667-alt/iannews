@@ -1,4 +1,230 @@
 {
-  "fetchedAt": "2026-07-14T14:58:58Z",
-  "articles": []
+  "fetchedAt": "2026-07-14T15:05:32Z",
+  "articles": [
+    {
+      "id": "rss_SCMP_0",
+      "author": "SCMP",
+      "text": "China used a giant net to land a reusable rocket. Does the idea have legs? - China’s successful recovery of a reusable rocket has sparked debate among aerospace experts over whether its unconventional approach could actually cut the cost of reaching space. On Friday, the country’s Long March-10B became the first orbital-class rocket outside the United States to return to Earth and be recovered intact. The rocket’s first-stage booster deployed four hooks as it descended and was then caught by a g",
+      "url": "https://www.scmp.com/news/china/science/article/3360553/china-used-giant-net-land-reusable-rocket-does-idea-have-legs?utm_source=rss_feed",
+      "createdAt": "Tue, 14 Jul 2026 15:00:08 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC_3",
+      "author": "BBC",
+      "text": "MPs expected to approve long-delayed Hillsborough Law - The legislation has returned to the Commons in Sir Keir Starmer's final days as prime minister.",
+      "url": "https://www.bbc.co.uk/news/articles/c9q2qwnvd75o?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Tue, 14 Jul 2026 14:56:48 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_0",
+      "author": "TechCrunch",
+      "text": "I’m de-influencing you from buying the RingConn 3 (even though it’s pretty) - The RingConn 3 actually looks like real jewelry, not a wearable -- but its fitness tracking and headache detection features are disappointing.",
+      "url": "https://techcrunch.com/2026/07/14/ringconn-3-review/",
+      "createdAt": "Tue, 14 Jul 2026 14:45:11 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_1",
+      "author": "TechCrunch",
+      "text": "Reflection inks $1B compute deal with Nebius - Reflection AI has signed a $1 billion deal to access Nebius's compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "createdAt": "Tue, 14 Jul 2026 14:37:48 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_2",
+      "author": "TechCrunch",
+      "text": "The real AI race may no longer be at the frontier - Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
+      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "createdAt": "Tue, 14 Jul 2026 14:24:53 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_3",
+      "author": "TechCrunch",
+      "text": "Telegram’s shortlink domain is back online after day-long suspension - Telegram CEO Pavel Durov confirmed an outage in a tweet, saying that shortlinks to the messaging app had \"stopped working.\"",
+      "url": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
+      "createdAt": "Tue, 14 Jul 2026 14:10:13 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_4",
+      "author": "TechCrunch",
+      "text": "Spotify expands its AI push with a ChatGPT-like music assistant - Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "createdAt": "Tue, 14 Jul 2026 14:06:47 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC_4",
+      "author": "BBC",
+      "text": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal - Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
+      "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Tue, 14 Jul 2026 13:49:42 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_SCMP_1",
+      "author": "SCMP",
+      "text": "EU signals emergency import curbs after dramatic growth in Chinese trade gap - The European Union is prepared to introduce emergency measures to combat China’s extraordinary export surge as new figures showed the trade gap had widened dramatically, its top trade enforcer said on Tuesday. Safeguard measures that permit tariffs and quotas to be enforced to combat sudden import surges may “become legitimate on a case-by-case basis”, Denis Redonnet told the European Parliament’s trade committee. Red",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3360556/eu-signals-emergency-import-curbs-after-dramatic-surge-chinese-trade-gap?utm_source=rss_feed",
+      "createdAt": "Tue, 14 Jul 2026 12:47:54 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC_1",
+      "author": "BBC",
+      "text": "Scott Mills was highest-paid BBC star before sacking - The former Radio 2 breakfast host earned about £745,000 from the BBC in the last financial year.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gynyz4wqpo?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Tue, 14 Jul 2026 12:19:47 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC_0",
+      "author": "BBC",
+      "text": "UK wasted £10bn on PPE that left NHS staff poorly protected, Covid inquiry finds - Healthcare staff were unable to properly protect themselves, or those in their care, from dangerous infections, says the latest inquiry report.",
+      "url": "https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Tue, 14 Jul 2026 12:12:53 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_SCMP_2",
+      "author": "SCMP",
+      "text": "The young Chinese scientist behind an ‘impossible’ breakthrough on sodium batteries - Scientist Lu Yaxiang, a professor at the Chinese Academy of Sciences’ Institute of Physics, has spent a decade working to make sodium-ion batteries commercially viable. Those years of work on energy storage in April earned Lu a China Youth May Fourth Medal – the nation’s top honour for outstanding achievers under 35. For years, lithium-ion batteries have dominated the market, even though their raw materials are",
+      "url": "https://www.scmp.com/news/china/science/article/3360474/young-chinese-scientist-behind-impossible-breakthrough-sodium-batteries?utm_source=rss_feed",
+      "createdAt": "Tue, 14 Jul 2026 12:00:07 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_SCMP_3",
+      "author": "SCMP",
+      "text": "China sends a message to Pacific islands amid unease over missile test - A week after a Chinese missile test sparked protests across the Pacific, Beijing has reaffirmed its unconditional support for Honiara and pledged to deepen ties. The commitment came as Chinese Foreign Minister Wang Yi met his Solomon Islands counterpart Rick Houenipwela in Beijing on Tuesday, just days after China test-fired a ballistic missile from a nuclear-powered submarine on July 6. The test, which marked China’s first",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3360549/china-sends-message-pacific-islands-amid-their-unease-over-missile-test?utm_source=rss_feed",
+      "createdAt": "Tue, 14 Jul 2026 11:55:15 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC_2",
+      "author": "BBC",
+      "text": "Wildfires burn in parts of UK as fire chiefs warn of extreme pressure - Major incidents were declared in North Wales and in Glossop, Derbyshire in the Peak District on Sunday.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyey14r4wzo?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Tue, 14 Jul 2026 11:15:00 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_SCMP_4",
+      "author": "SCMP",
+      "text": "How Beijing proposes to solve South China Sea disputes 10 years after Hague ruling - A decade after the Hague’s South China Sea ruling, Beijing should continue engaging in good-faith diplomacy and explore international mediation, analysts say, arguing that the unenforced decision had failed to curb regional maritime tensions. The assessments came after a weekend of fresh accusations over the 2016 decision by an international tribunal that most of China’s claims to historical and economic rights ",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3360541/how-beijing-proposes-solve-south-china-sea-disputes-10-years-after-hague-ruling?utm_source=rss_feed",
+      "createdAt": "Tue, 14 Jul 2026 10:11:37 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_0",
+      "author": "NASA",
+      "text": "Fans of the Arctic - Sediment eroded from ice-capped mountains splays out across a broad river valley on Russia’s Severny Island.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
+      "createdAt": "Tue, 14 Jul 2026 04:01:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_1",
+      "author": "NASA",
+      "text": "Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July - Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Thursday, July 2, 2026 Curiosity spent the week leading up to the Fourth of July holiday approaching a geologic boundary between a very smooth but somewhat sandy region and a rougher bedrock unit. Leaving the polygonal […]",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/",
+      "createdAt": "Tue, 14 Jul 2026 01:04:04 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_4",
+      "author": "WSJ",
+      "text": "Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out - Apps can add flexibility and freshness to your routine. Just try not to get injured.",
+      "url": "https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology",
+      "createdAt": "Sun, 26 Jan 2025 09:00:00 -0500",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_0",
+      "author": "WSJ",
+      "text": "What to Know About China's DeepSeek AI - The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
+      "url": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology",
+      "createdAt": "Mon, 27 Jan 2025 13:17:00 -0500",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_1",
+      "author": "WSJ",
+      "text": "Tech, Media & Telecom Roundup: Market Talk - DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology",
+      "createdAt": "Mon, 27 Jan 2025 12:28:00 -0500",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_2",
+      "author": "WSJ",
+      "text": "Silicon Valley Is Raving About a Made-in-China AI Model - DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
+      "url": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology",
+      "createdAt": "Mon, 27 Jan 2025 09:36:00 -0500",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_3",
+      "author": "WSJ",
+      "text": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup - The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
+      "url": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
+      "createdAt": "Mon, 27 Jan 2025 08:00:00 -0500",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_2",
+      "author": "NASA",
+      "text": "NASA Study Points to Smoother Air Taxi Rides - No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips — understand the relationship between comfort and willingness to fly. That’s where NASA comes in, with data that can help identify how to plan air taxi rides that can [&#8230;]",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
+      "createdAt": "Mon, 13 Jul 2026 21:46:11 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_3",
+      "author": "NASA",
+      "text": "NASA Astronaut Anil Menon - NASA astronaut Anil Menon poses in a spacesuit for a portrait at NASA&#8217;s Johnson Space Center in Houston, Texas on Jan. 8, 2026. Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the Expedition [&#8230;]",
+      "url": "https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/",
+      "createdAt": "Mon, 13 Jul 2026 15:11:16 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_4",
+      "author": "NASA",
+      "text": "NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes - Astronomers using archival data from Hubble and supportive observations from Webb have located their first stellar-mass black hole in the star cluster Omega Centauri.",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/",
+      "createdAt": "Mon, 13 Jul 2026 14:00:00 +0000",
+      "likes": null,
+      "retweets": null
+    }
+  ]
 }
