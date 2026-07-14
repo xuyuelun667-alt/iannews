@@ -1,0 +1,33 @@
+name: Scrape Twitter News
+on:
+  schedule:
+    # Every 2 days at 08:00 UTC (16:00 北京时间)
+    - cron: '0 8 */2 * *'
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # TODO: 后续接入 X API v2 后取消注释
+      # - name: Install dependencies
+      #   run: pip install requests python-dotenv
+
+      # - name: Run scraper
+      #   env:
+      #     X_API_BEARER: ${{ secrets.X_API_BEARER }}
+      #   run: python scripts/scrape.py
+
+      - name: Commit updated news
+        run: |
+          git config user.name "iannews-bot"
+          git config user.email "bot@example.com"
+          git add data/news.json
+          git diff --staged --quiet || git commit -m "auto: update news $(date +%Y-%m-%d)"
+          git push
