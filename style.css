@@ -145,11 +145,18 @@ footer {
   cursor: not-allowed;
 }
 
-.translated-tip {
+.translated-label {
   font-size: 0.7rem;
   color: #aaa;
-  display: inline-block;
-  margin-top: 4px;
+  margin-left: 4px;
+}
+
+.card-translated {
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px dashed #eee;
 }
 
 /* Error */

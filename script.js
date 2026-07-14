@@ -17,66 +17,27 @@ async function loadNews() {
       update.textContent = '🕐 更新于 ' + d.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' });
     }
 
-    list.innerHTML = data.articles.map((a, i) => `
-      <div class="card" data-idx="${i}">
+    list.innerHTML = data.articles.map((a, i) => {
+      const hasTranslated = a.translated && a.translated.length > 0;
+      const isChinese = /[\u4e00-\u9fff]/.test(a.author);
+      return `
+      <div class="card">
         <div class="card-source">
           <a href="${escapeHtml(a.url)}" target="_blank" rel="noopener">${escapeHtml(a.author)}</a>
         </div>
-        <div class="card-text" data-original="${escapeHtml(a.text)}">${escapeHtml(a.text)}</div>
-        ${isChinese(a.author) ? '' : '<button class="translate-btn" onclick="translateCard(this)">🌐 中</button>'}
+        <div class="card-text">${escapeHtml(a.text)}</div>
+        ${hasTranslated ? `<div class="card-translated">${escapeHtml(a.translated)}<span class="translated-label">（翻译）</span></div>` : ''}
         <div class="card-meta">
           <span>${formatTime(a.createdAt)}</span>
           ${a.likes != null ? `<span class="likes">❤ ${a.likes}</span>` : ''}
           ${a.retweets != null ? `<span class="retweets">🔁 ${a.retweets}</span>` : ''}
         </div>
       </div>
-    `).join('');
+    `}).join('');
 
   } catch (err) {
     list.innerHTML = `<div class="error">加载失败: ${escapeHtml(err.message)}</div>`;
   }
-}
-
-async function translateCard(btn) {
-  const card = btn.closest('.card');
-  const textEl = card.querySelector('.card-text');
-  const original = textEl.dataset.original || textEl.textContent;
-
-  btn.disabled = true;
-  btn.textContent = '🔄 翻译中...';
-
-  try {
-    const res = await fetch('/translate', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ text: original }),
-    });
-
-    if (!res.ok) {
-      const err = await res.json();
-      throw new Error(err.error || `HTTP ${res.status}`);
-    }
-
-    const data = await res.json();
-    if (data.translated) {
-      textEl.innerHTML = escapeHtml(data.translated) + '<br><span class="translated-tip">⬆ 机器翻译</span>';
-      btn.textContent = '🔙 原文';
-      btn.onclick = function() {
-        textEl.innerHTML = escapeHtml(original);
-        btn.textContent = '🌐 中';
-        btn.onclick = function() { translateCard(this); };
-        btn.disabled = false;
-      };
-    }
-  } catch (err) {
-    btn.textContent = '❌ 翻译失败';
-    setTimeout(() => { btn.textContent = '🌐 中'; btn.disabled = false; }, 2000);
-  }
-  btn.disabled = false;
-}
-
-function isChinese(author) {
-  return /[\u4e00-\u9fff]/.test(author);
 }
 
 function escapeHtml(text) {
