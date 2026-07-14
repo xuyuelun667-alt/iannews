@@ -38,6 +38,14 @@ SOURCES = [
     },
     # ── 中文 ──
     {
+        "name": "BBC中文",
+        "rss": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
+    },
+    {
+        "name": "华尔街日报中文",
+        "rss": "https://cn.wsj.com/rss/",
+    },
+    {
         "name": "环球网",
         "rss": "https://www.huanqiu.com/rss/globalnews.xml",
     },
@@ -52,10 +60,6 @@ SOURCES = [
     {
         "name": "爱范儿",
         "rss": "https://www.ifanr.com/feed",
-    },
-    {
-        "name": "cnBeta",
-        "rss": "https://www.cnbeta.com/backend.php",
     },
 ]
 
