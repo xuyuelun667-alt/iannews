@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-14T15:18:34Z",
+  "fetchedAt": "2026-07-14T15:24:40Z",
   "articles": [
     {
       "id": "rss_TechCrunch_0",
@@ -128,11 +128,47 @@
       "retweets": null
     },
     {
+      "id": "rss_BBC中文_0",
+      "author": "BBC中文",
+      "text": "「不出去，這一輩子我的心都不甘」：中國異見人士董廣平跨海偷渡韓國 - 作為中國異見人士，他過去11年四次偷渡出國都失敗，更兩度遭遣返被判入獄。這次，他選擇了更冒險的方式——駕艇穿越300公里黃海。",
+      "url": "https://www.bbc.com/zhongwen/articles/c2dydezz0jro/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Tue, 14 Jul 2026 11:06:56 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
       "id": "rss_SCMP_4",
       "author": "SCMP",
       "text": "How Beijing proposes to solve South China Sea disputes 10 years after Hague ruling - A decade after the Hague’s South China Sea ruling, Beijing should continue engaging in good-faith diplomacy and explore international mediation, analysts say, arguing that the unenforced decision had failed to curb regional maritime tensions. The assessments came after a weekend of fresh accusations over the 2016 decision by an international tribunal that most of China’s claims to historical and economic rights ",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3360541/how-beijing-proposes-solve-south-china-sea-disputes-10-years-after-hague-ruling?utm_source=rss_feed",
       "createdAt": "Tue, 14 Jul 2026 10:11:37 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_4",
+      "author": "BBC中文",
+      "text": "追蹤你的食品購買紀錄有益健康嗎？ - 食品追蹤應用程式十分受歡迎，但它們是否真能幫助人們建立更健康的飲食習慣？",
+      "url": "https://www.bbc.com/zhongwen/articles/c5yzy00z89po/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Tue, 14 Jul 2026 09:42:11 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_1",
+      "author": "BBC中文",
+      "text": "南海仲裁案：一紙裁決為何十年仍未能平息爭議？ - 十年後，南海仲裁案究竟改變了什麼？為何南海爭議至今仍未落幕？",
+      "url": "https://www.bbc.com/zhongwen/articles/c1jy6kjn762o/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Tue, 14 Jul 2026 09:26:37 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_3",
+      "author": "BBC中文",
+      "text": "「越來越像一隻迷因股」：SpaceX IPO熱潮消退了嗎？ - SpaceX上市首月，投資者的情緒已由最初的歡慶，逐漸轉為不安。",
+      "url": "https://www.bbc.com/zhongwen/articles/c4gyglylpmro/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Tue, 14 Jul 2026 09:02:27 GMT",
       "likes": null,
       "retweets": null
     },
@@ -146,20 +182,11 @@
       "retweets": null
     },
     {
-      "id": "rss_NASA_0",
-      "author": "NASA",
-      "text": "Fans of the Arctic - Sediment eroded from ice-capped mountains splays out across a broad river valley on Russia’s Severny Island.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
-      "createdAt": "Tue, 14 Jul 2026 04:01:00 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_1",
-      "author": "NASA",
-      "text": "Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July - Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Thursday, July 2, 2026 Curiosity spent the week leading up to the Fourth of July holiday approaching a geologic boundary between a very smooth but somewhat sandy region and a rougher bedrock unit. Leaving the polygonal […]",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/",
-      "createdAt": "Tue, 14 Jul 2026 01:04:04 +0000",
+      "id": "rss_BBC中文_2",
+      "author": "BBC中文",
+      "text": "「雙開」馬興瑞：習時代「技術官僚」代表隕落，政治局三委員落馬 - 中國官方新華社公佈，中共政治局委員、前新疆黨委書記馬興瑞被開除黨籍、開除公職處分，即「雙開」。",
+      "url": "https://www.bbc.com/zhongwen/articles/cy472d80ewwo/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Tue, 14 Jul 2026 03:50:28 GMT",
       "likes": null,
       "retweets": null
     },
@@ -214,33 +241,6 @@
       "text": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup - The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
       "url": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
       "createdAt": "Mon, 27 Jan 2025 08:00:00 -0500",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_2",
-      "author": "NASA",
-      "text": "NASA Study Points to Smoother Air Taxi Rides - No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips — understand the relationship between comfort and willingness to fly. That’s where NASA comes in, with data that can help identify how to plan air taxi rides that can [&#8230;]",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
-      "createdAt": "Mon, 13 Jul 2026 21:46:11 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_3",
-      "author": "NASA",
-      "text": "NASA Astronaut Anil Menon - NASA astronaut Anil Menon poses in a spacesuit for a portrait at NASA&#8217;s Johnson Space Center in Houston, Texas on Jan. 8, 2026. Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the Expedition [&#8230;]",
-      "url": "https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/",
-      "createdAt": "Mon, 13 Jul 2026 15:11:16 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_4",
-      "author": "NASA",
-      "text": "NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes - Astronomers using archival data from Hubble and supportive observations from Webb have located their first stellar-mass black hole in the star cluster Omega Centauri.",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/",
-      "createdAt": "Mon, 13 Jul 2026 14:00:00 +0000",
       "likes": null,
       "retweets": null
     },
@@ -310,7 +310,7 @@
     {
       "id": "rss_36氪_4",
       "author": "36氪",
-      "text": "36氪首发 | 前博世自动驾驶算法工程师创业，用合成数据做触觉大模型 - 触觉手套（图源/企业） 本文约2400字，建议阅读6分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，空间智能公司「大衍科技」近期完成数千万元天使轮融资，由松禾清湛领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。 「大衍科技」2025年5月成立于浙江桐乡，是一家专注于4D世界重建、世界模型及可控扩散模型技术的空间智���公司。 创始人兼CEO杨林是新加坡国立大学计算机博士，曾在速腾、酷睿程、比亚迪、苏州博世等企业深耕自动驾驶算法7-8年。此外，公司核心技术源自首席科学家、联合国科学院院士、加拿大工程院院士埃尔萨迪克团队二十余年的数字孪生与触觉交互积累。 杨林告诉硬氪，他观察到，此前数据市场需求以汽车合成数据为主，但2025年开始，机器人数据订单急剧增加。 “汽车数据没涨，甚至有点跌。随着机器人本体竞争越来越激烈，大家就开始卷机器人大脑，而大脑的瓶颈就是数据。”杨林称。 目前，「大衍科技」已形成三条产品线： 一是合成数据业务：以合成数据为主，同时结合第一人",
+      "text": "36氪首发 | 前博世自动驾驶算法工程师创业，用合成数据做触觉大模型 - 触觉手套（图源/企业） 本文约2400字，建议阅读6分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，空间智能公司「大衍科技」近期完成数千万元天使轮融资，由松禾清湛领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。 「大衍科技」2025年5月成立于浙江桐乡，是一家专注于4D世界重建、世界模型及可控扩散模型技术的空间智能公司。 创始人兼CEO杨林是新加坡国立大学计算机博士，曾在速腾、酷睿程、比亚迪、苏州博世等企业深耕自动驾驶算法7-8年。此外，公司核心技术源自首席科学家、联合国科学院院士、加拿大工程院院士埃尔萨迪克团队二十余年的数字孪生与触觉交互积累。 杨林告诉硬氪，他观察到，此前数据市场需求以汽车合成数据为主，但2025年开始，机器人数据订单急剧增加。 “汽车数据没涨，甚至有点跌。随着机器人本体竞争越来越激烈，大家就开始卷机器人大脑，而大脑的瓶颈就是数据。”杨林称。 目前，「大衍科技」已形成三条产品线： 一是合成数据业务：以合成数据为主，同时结合第一人称视",
       "url": "https://36kr.com/p/3894821059918855?f=rss",
       "createdAt": "2026-07-14 09:38:13  +0800",
       "likes": null,
