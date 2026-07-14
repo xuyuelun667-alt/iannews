@@ -15,40 +15,47 @@ from xml.etree import ElementTree
 NEWS_FILE = os.path.join(os.path.dirname(__file__), "..", "data", "news.json")
 
 SOURCES = [
-    {
-        "name": "Reuters",
-        "rss": "https://www.reutersagency.com/feed/",
-        "lang": "en",
-    },
+    # ── 英文 ──
     {
         "name": "TechCrunch",
         "rss": "https://techcrunch.com/feed/",
-        "lang": "en",
     },
     {
         "name": "NASA",
         "rss": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-        "lang": "en",
     },
     {
         "name": "BBC",
         "rss": "https://feeds.bbci.co.uk/news/rss.xml",
-        "lang": "en",
-    },
-    {
-        "name": "CNN",
-        "rss": "https://edition.cnn.com/services/rss/",
-        "lang": "en",
     },
     {
         "name": "WSJ",
         "rss": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-        "lang": "en",
     },
     {
         "name": "SCMP",
         "rss": "https://www.scmp.com/rss/4/feed",
-        "lang": "en",
+    },
+    # ── 中文 ──
+    {
+        "name": "环球网",
+        "rss": "https://www.huanqiu.com/rss/globalnews.xml",
+    },
+    {
+        "name": "澎湃新闻",
+        "rss": "https://www.thepaper.cn/rss/news.xml",
+    },
+    {
+        "name": "36氪",
+        "rss": "https://36kr.com/feed",
+    },
+    {
+        "name": "爱范儿",
+        "rss": "https://www.ifanr.com/feed",
+    },
+    {
+        "name": "cnBeta",
+        "rss": "https://www.cnbeta.com/backend.php",
     },
 ]
 
