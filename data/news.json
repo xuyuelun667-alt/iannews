@@ -1,8 +1,18 @@
 {
-  "fetchedAt": "2026-07-14T15:53:04Z",
+  "fetchedAt": "2026-07-14T16:06:52Z",
   "articles": [
     {
       "id": "rss_TechCrunch_0",
+      "author": "TechCrunch",
+      "text": "Google Images gets a Pinterest-like redesign focused on discovery - Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
+      "translated": "Google 图片进行了类似 Pinterest 的重新设计，专注于发现 - 现在，当用户导航到 Google 图片时，他们会看到一个根据他们的兴趣和浏览历史记录定制的“For You”图片库。",
+      "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+      "createdAt": "Tue, 14 Jul 2026 16:00:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_1",
       "author": "TechCrunch",
       "text": "New York State halts construction of all new data centers - New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
       "translated": "纽约州停止所有新数据中心的建设——纽约州成为第一个暂时停止批准大型数据中心的州，因为州长 Kathy Hochul 认为人工智能驱动的建筑热潮不应以更高的电力成本、供水或地方控制为代价。",
@@ -12,7 +22,7 @@
       "retweets": null
     },
     {
-      "id": "rss_TechCrunch_1",
+      "id": "rss_TechCrunch_2",
       "author": "TechCrunch",
       "text": "Iran abused mobile networks’ vulnerabilities to locate US military in the Middle East, report says - The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war.",
       "translated": "报告称，伊朗滥用移动网络的漏洞来定位驻中东的美军——伊朗政府在战争的准备和开始阶段利用手机网络中众所周知的缺陷来定位并攻击美国军事人员。",
@@ -42,7 +52,7 @@
       "retweets": null
     },
     {
-      "id": "rss_TechCrunch_2",
+      "id": "rss_TechCrunch_3",
       "author": "TechCrunch",
       "text": "I’m de-influencing you from buying the RingConn 3 (even though it’s pretty) - The RingConn 3 actually looks like real jewelry, not a wearable -- but its fitness tracking and headache detection features are disappointing.",
       "translated": "我不想让你购买 RingConn 3（尽管它很漂亮）——RingConn 3 实际上看起来像真正的珠宝，而不是可穿戴设备——但它的健身追踪和头痛检测功能令人失望。",
@@ -52,22 +62,12 @@
       "retweets": null
     },
     {
-      "id": "rss_TechCrunch_3",
+      "id": "rss_TechCrunch_4",
       "author": "TechCrunch",
       "text": "Reflection inks $1B compute deal with Nebius - Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
       "translated": "Reflection 与 Nebius 签署了 10 亿美元的计算协议 - Reflection AI 已签署了一项 10 亿美元的协议来访问 Nebius 的计算。 Reflection成立于2024年，正在开发开源人工智能技术。",
       "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
       "createdAt": "Tue, 14 Jul 2026 14:37:48 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_4",
-      "author": "TechCrunch",
-      "text": "The real AI race may no longer be at the frontier - Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
-      "translated": "真正的人工智能竞赛可能不再处于前沿——Hugging Face 首席执行官 Clem Delangue 表示，由于成本、可访问性和所有权，企业越来越需要开放模型。如果大多数生产型人工智能最终都在开放模型上运行，前沿模型还重要吗？",
-      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-      "createdAt": "Tue, 14 Jul 2026 14:24:53 +0000",
       "likes": null,
       "retweets": null
     },
@@ -202,12 +202,32 @@
       "retweets": null
     },
     {
+      "id": "rss_NASA_0",
+      "author": "NASA",
+      "text": "Fans of the Arctic - Sediment eroded from ice-capped mountains splays out across a broad river valley on Russia’s Severny Island.",
+      "translated": "北极迷——冰山侵蚀的沉积物遍布俄罗斯塞维尼岛的广阔河谷。",
+      "url": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
+      "createdAt": "Tue, 14 Jul 2026 04:01:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
       "id": "rss_BBC中文_2",
       "author": "BBC中文",
       "text": "「雙開」馬興瑞：習時代「技術官僚」代表隕落，政治局三委員落馬 - 中國官方新華社公佈，中共政治局委員、前新疆黨委書記馬興瑞被開除黨籍、開除公職處分，即「雙開」。",
       "translated": "",
       "url": "https://www.bbc.com/zhongwen/articles/cy472d80ewwo/trad?at_medium=RSS&at_campaign=rss",
       "createdAt": "Tue, 14 Jul 2026 03:50:28 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_1",
+      "author": "NASA",
+      "text": "Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July - Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Thursday, July 2, 2026 Curiosity spent the week leading up to the Fourth of July holiday approaching a geologic boundary between a very smooth but somewhat sandy region and a rougher bedrock unit. Leaving the polygonal […]",
+      "translated": "好奇号博客，Sols 4941-4947：（Pin）7 月 4 日条纹 - 由 NASA 喷气推进实验室 MSL 运营产品地面系统任务负责人 Deborah Padgett 撰写 地球规划日期：2026 年 7 月 2 日星期四 好奇号在 7 月 4 日假期前的一周里接近了一个非常光滑但有些沙质区域和一个较粗糙基岩单元之间的地质边界。离开多边形[...]",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/",
+      "createdAt": "Tue, 14 Jul 2026 01:04:04 +0000",
       "likes": null,
       "retweets": null
     },
@@ -268,6 +288,36 @@
       "translated": "Reid Hoffman 为人工智能癌症研究初创公司筹集了 2460 万美元资金 - 这位 LinkedIn 联合创始人正在与《万病之王》作者 Siddhartha Mukherjee 一起创办 Manas AI。",
       "url": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
       "createdAt": "Mon, 27 Jan 2025 08:00:00 -0500",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_2",
+      "author": "NASA",
+      "text": "NASA Study Points to Smoother Air Taxi Rides - No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips — understand the relationship between comfort and willingness to fly. That’s where NASA comes in, with data that can help identify how to plan air taxi rides that can [&#8230;]",
+      "translated": "美国国家航空航天局 (NASA) 研究指出，空中出租车的乘坐将更加顺畅——没有人愿意乘坐一架不舒服的飞机。美国宇航局的研究可以帮助新兴的空中出租车行业（用于短途旅行的小型垂直起降飞机）了解舒适度和飞行意愿之间的关系。这就是 NASA 发挥作用的地方，其数据可以帮助确定如何规划空中出租车行程，从而 [&#8230;]",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
+      "createdAt": "Mon, 13 Jul 2026 21:46:11 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_3",
+      "author": "NASA",
+      "text": "NASA Astronaut Anil Menon - NASA astronaut Anil Menon poses in a spacesuit for a portrait at NASA&#8217;s Johnson Space Center in Houston, Texas on Jan. 8, 2026. Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the Expedition [&#8230;]",
+      "translated": "NASA 宇航员阿尼尔·梅农 (Anil Menon) - 2026 年 1 月 8 日，NASA 宇航员阿尼尔·梅农 (Anil Menon) 在位于德克萨斯州休斯顿的 NASA 约翰逊航天中心摆出一套宇航服拍照。梅农将于 7 月 14 日星期二搭乘 Roscosmos Soyuz MS-29 航天器飞往国际空间站，宇航员彼得·杜布罗夫 (Pyotr Dubrov) 和安娜·基基纳 (Anna Kikina) 陪同，在那里他们将加入探险队[&#8230;]",
+      "url": "https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/",
+      "createdAt": "Mon, 13 Jul 2026 15:11:16 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_4",
+      "author": "NASA",
+      "text": "NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes - Astronomers using archival data from Hubble and supportive observations from Webb have located their first stellar-mass black hole in the star cluster Omega Centauri.",
+      "translated": "美国宇航局的哈勃发现了第一个星团失踪的黑洞——天文学家利用哈勃的档案数据和韦伯的支持观测结果在半人马座欧米伽星团中找到了他们的第一个恒星质量黑洞。",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/",
+      "createdAt": "Mon, 13 Jul 2026 14:00:00 +0000",
       "likes": null,
       "retweets": null
     },
