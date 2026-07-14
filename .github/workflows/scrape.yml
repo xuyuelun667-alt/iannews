@@ -20,13 +20,16 @@ jobs:
       - name: Run scraper
         run: python scripts/scrape.py
 
-      - name: Build static HTML
+      - name: Build index.html
         run: python scripts/build.py
+
+      - name: Generate SEO assets
+        run: python scripts/seo.py
 
       - name: Commit & push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "auto: update news"
+          commit_message: "auto: update news + seo"
           commit_user_name: iannews-bot
           commit_user_email: bot@iannews.cc
-          file_pattern: data/news.json index.html
+          file_pattern: data/news.json index.html sitemap.xml robots.txt rss.xml atom.xml favicon.svg site.webmanifest google*.html

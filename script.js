@@ -1,74 +1,76 @@
 /**
- * IanNews - 前端脚本
- * 优先使用 HTML 中嵌入的数据 (window.__NEWS_DATA__)，
- * 如果不可用则回退 fetch data/news.json。
+ * IanNews — 前端增强脚本
+ * 当 HTML 中已预渲染新闻内容时，JS 仅负责更新时间戳等动态功能。
+ * 当通过 fetch 加载 data/news.json 时（fallback），会执行完整渲染。
  */
 
-async function loadNews() {
-  const list = document.getElementById('newsList');
-  const update = document.getElementById('lastUpdate');
-  if (!list) return;
+(function () {
+  'use strict';
 
-  try {
-    let data;
+  const listEl = document.getElementById('newsList');
+  const updateEl = document.getElementById('lastUpdate');
 
-    // 优先使用 HTML 中已嵌入的数据（爬虫友好）
-    if (window.__NEWS_DATA__ && window.__NEWS_DATA__.articles) {
-      data = window.__NEWS_DATA__;
-    } else {
-      const res = await fetch('data/news.json');
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      data = await res.json();
+  function escapeHtml(text) {
+    var div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+  }
+
+  function formatTime(iso) {
+    if (!iso) return '';
+    try {
+      var d = new Date(
+        iso
+          .replace(' +0000', 'Z')
+          .replace(' GMT', '')
+          .replace(/(\+\d{2})(\d{2})$/, '$1:$2')
+      );
+      return d.toLocaleString('zh-CN', {
+        month: 'short',
+        day: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit',
+        timeZone: 'Asia/Shanghai',
+      });
+    } catch (_) {
+      return iso;
     }
+  }
 
-    if (!data.articles || data.articles.length === 0) {
-      // HTML 中已经有 "暂无新闻" 提示
+  function init() {
+    var data = window.__NEWS_DATA__;
+
+    if (!data || !data.articles) {
+      // 无内嵌数据时回退 fetch（兼容性兜底）
+      fetch('/data/news.json')
+        .then(function (r) { return r.ok ? r.json() : Promise.reject(); })
+        .then(function (d) { updateUI(d); })
+        .catch(function () {
+          if (listEl) listEl.innerHTML =
+            '<div class="error">加载失败，请刷新重试</div>';
+        });
       return;
     }
 
-    // 更新更新时间
-    if (update && data.fetchedAt) {
-      const d = new Date(data.fetchedAt);
-      update.textContent = '🕐 更新于 ' + d.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' });
-    }
-
-    // 如果 HTML 里已经有渲染好的内容（__NEWS_DATA__ 模式下），就不重复渲染
-    if (window.__NEWS_DATA__) return;
-
-    // 回退渲染（当 JS 独立加载 data/news.json 时使用）
-    list.innerHTML = data.articles.map(a => {
-      const text = escapeHtml(a.text);
-      const author = escapeHtml(a.author);
-      const url = escapeHtml(a.url);
-      const translated = a.translated ? `
-        <div class="card-translated">${escapeHtml(a.translated.slice(0, 500))}<span class="translated-label">（翻译）</span></div>` : '';
-      const meta = `<span>${formatTime(a.createdAt)}</span>`
-        + (a.likes != null ? `<span class="likes">❤ ${a.likes}</span>` : '')
-        + (a.retweets != null ? `<span class="retweets">🔁 ${a.retweets}</span>` : '');
-      return `
-      <div class="card">
-        <div class="card-source"><a href="${url}" target="_blank" rel="noopener">${author}</a></div>
-        <div class="card-text">${text}</div>
-        ${translated}
-        <div class="card-meta">${meta}</div>
-      </div>`;
-    }).join('');
-
-  } catch (err) {
-    list.innerHTML = `<div class="error">加载失败: ${escapeHtml(err.message)}</div>`;
+    updateUI(data);
   }
-}
 
-function escapeHtml(text) {
-  const div = document.createElement('div');
-  div.textContent = text;
-  return div.innerHTML;
-}
+  function updateUI(data) {
+    // 更新时间
+    if (updateEl && data.fetchedAt) {
+      try {
+        var d = new Date(data.fetchedAt.replace('Z', '+00:00'));
+        updateEl.innerHTML =
+          '<time datetime="' + data.fetchedAt + '">🕐 更新于 ' +
+          d.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' }) +
+          '</time>';
+      } catch (_) {}
+    }
+  }
 
-function formatTime(iso) {
-  if (!iso) return '';
-  const d = new Date(iso);
-  return d.toLocaleString('zh-CN', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
-}
-
-loadNews();
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();

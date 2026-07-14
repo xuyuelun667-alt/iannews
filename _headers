@@ -1,0 +1,19 @@
+# Cloudflare Pages 缓存策略
+/style.css
+  Cache-Control: public, max-age=604800, immutable
+/script.js
+  Cache-Control: public, max-age=604800, immutable
+/favicon.svg
+  Cache-Control: public, max-age=2592000, immutable
+/site.webmanifest
+  Cache-Control: public, max-age=3600
+/sitemap.xml
+  Cache-Control: public, max-age=3600
+/robots.txt
+  Cache-Control: public, max-age=86400
+/rss.xml
+  Cache-Control: public, max-age=1800, stale-while-revalidate=3600
+/atom.xml
+  Cache-Control: public, max-age=1800, stale-while-revalidate=3600
+/data/news.json
+  Cache-Control: public, max-age=600, stale-while-revalidate=3600
