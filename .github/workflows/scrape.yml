@@ -29,4 +29,5 @@ jobs:
           git config user.email "bot@example.com"
           git add data/news.json
           git diff --staged --quiet || git commit -m "auto: update news $(date +%Y-%m-%d)"
+          git pull --rebase
           git push
