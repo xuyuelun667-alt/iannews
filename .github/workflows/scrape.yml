@@ -1,4 +1,4 @@
-name: Scrape Twitter News
+name: Scrape News
 on:
   schedule:
     - cron: '0 8 */2 * *'
@@ -18,8 +18,6 @@ jobs:
         run: pip install requests
 
       - name: Run scraper
-        env:
-          X_API_BEARER: ${{ secrets.X_API_BEARER }}
         run: python scripts/scrape.py
 
       - name: Commit & push
