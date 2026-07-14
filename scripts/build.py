@@ -62,7 +62,7 @@ def render():
         from datetime import datetime
         try:
             dt = datetime.fromisoformat(fetched_at.replace("Z", "+00:00"))
-            update_html = f'<div class="last-update">🕐 更新于 {dt.strftime("%Y/%m/%d %H:%M")}</div>'
+            update_html = f'<div class="last-update" id="lastUpdate">🕐 更新于 {dt.strftime("%Y/%m/%d %H:%M")}</div>'
         except:
             pass
 
