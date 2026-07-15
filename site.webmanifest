@@ -1,0 +1,18 @@
+{
+  "name": "IanNews - 全球新闻聚合",
+  "short_name": "IanNews",
+  "description": "降低获取全球信息的门槛。精选可信来源，减少信息噪音。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#1a1a1a",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

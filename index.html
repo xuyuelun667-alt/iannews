@@ -4,47 +4,49 @@
   <!-- ═══════════ 基础 SEO ═══════════ -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-  <title>IanNews — 全球新闻聚合</title>
+  <title>IanNews — 全球新闻聚合 — 精选可信来源，减少信息噪音</title>
   <meta name="description" content="降低获取全球信息的门槛。精选可信来源，减少信息噪音，让您更高效地了解世界。">
-  <meta name="keywords" content="全球新闻,国际新闻,科技新闻,财经新闻,新闻聚合,中文,翻译">
+  <meta name="keywords" content="全球新闻,国际新闻,科技新闻,财经新闻,新闻聚合,中文,翻译,Reuters,TechCrunch,BBC,NASA,WSJ,SCMP,澎湃,36氪">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <link rel="canonical" href="https://iannews.cc/">
   <meta name="language" content="zh-CN">
   <meta name="application-name" content="IanNews">
 
-  <!-- ═══════════ Open Graph ═══════════ -->
+  <!-- ═══════════ Open Graph / Facebook ═══════════ -->
   <meta property="og:type" content="website">
   <meta property="og:locale" content="zh_CN">
   <meta property="og:site_name" content="IanNews">
-  <meta property="og:title" content="IanNews — 全球新闻聚合">
+  <meta property="og:title" content="IanNews — 全球新闻聚合 — 精选可信来源，减少信息噪音">
   <meta property="og:description" content="降低获取全球信息的门槛。精选可信来源，减少信息噪音，让您更高效地了解世界。">
   <meta property="og:url" content="https://iannews.cc/">
   <meta property="og:image" content="https://iannews.cc/favicon.svg">
   <meta property="og:image:width" content="100">
   <meta property="og:image:height" content="100">
   <meta property="og:image:alt" content="IanNews Logo">
+  <meta property="og:updated_time" content="2026-07-15T10:47:59Z">
 
   <!-- ═══════════ Twitter Card ═══════════ -->
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="IanNews — 全球新闻聚合">
+  <meta name="twitter:site" content="@iannews">
+  <meta name="twitter:title" content="IanNews — 全球新闻聚合 — 精选可信来源，减少信息噪音">
   <meta name="twitter:description" content="降低获取全球信息的门槛。精选可信来源，减少信息噪音，让您更高效地了解世界。">
   <meta name="twitter:image" content="https://iannews.cc/favicon.svg">
 
   <!-- ═══════════ Feeds ═══════════ -->
-  <link rel="alternate" type="application/rss+xml" title="IanNews RSS Feed" href="/rss.xml">
-  <link rel="alternate" type="application/atom+xml" title="IanNews Atom Feed" href="/atom.xml">
+  <link rel="alternate" type="application/rss+xml" title="IanNews RSS Feed" href="https://iannews.cc/rss.xml">
+  <link rel="alternate" type="application/atom+xml" title="IanNews Atom Feed" href="https://iannews.cc/atom.xml">
 
   <!-- ═══════════ PWA / Manifest ═══════════ -->
-  <link rel="manifest" href="/site.webmanifest">
+  <link rel="manifest" href="https://iannews.cc/site.webmanifest">
   <meta name="theme-color" content="#1a1a1a">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="IanNews">
 
   <!-- ═══════════ Favicon ═══════════ -->
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-  <link rel="apple-touch-icon" href="/favicon.svg">
-  <link rel="mask-icon" href="/favicon.svg" color="#1da1f2">
+  <link rel="icon" type="image/svg+xml" href="https://iannews.cc/favicon.svg">
+  <link rel="apple-touch-icon" href="https://iannews.cc/favicon.svg">
+  <link rel="mask-icon" href="https://iannews.cc/favicon.svg" color="#1da1f2">
 
   <!-- ═══════════ DNS Prefetch ═══════════ -->
   <link rel="dns-prefetch" href="https://iannews.cc">
@@ -52,59 +54,1088 @@
   <!-- ═══════════ CSS ═══════════ -->
   <link rel="stylesheet" href="/style.css">
 
-  <!-- ═══════════ Structured Data ═══════════ -->
+  <!-- ═══════════ JSON-LD Structured Data ═══════════ -->
   <script type="application/ld+json">
-  [{
+[
+  {
     "@context": "https://schema.org",
     "@type": "Organization",
     "@id": "https://iannews.cc/#organization",
     "name": "IanNews",
     "url": "https://iannews.cc",
     "description": "降低获取全球信息的门槛。精选可信来源，减少信息噪音，让您更高效地了解世界。",
-    "logo": "https://iannews.cc/favicon.svg"
-  },{
+    "logo": "https://iannews.cc/favicon.svg",
+    "foundingDate": "2026",
+    "nonprofitStatus": "Nonprofit"
+  },
+  {
     "@context": "https://schema.org",
     "@type": "WebSite",
     "@id": "https://iannews.cc/#website",
     "url": "https://iannews.cc",
     "name": "IanNews",
     "description": "降低获取全球信息的门槛。精选可信来源，减少信息噪音，让您更高效地了解世界。",
-    "publisher": {"@id": "https://iannews.cc/#organization"},
-    "inLanguage": "zh-CN"
-  },{
+    "publisher": {
+      "@id": "https://iannews.cc/#organization"
+    },
+    "inLanguage": "zh-CN",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://iannews.cc/?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    }
+  },
+  {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     "@id": "https://iannews.cc/#webpage",
     "url": "https://iannews.cc/",
-    "name": "IanNews — 全球新闻聚合",
+    "name": "IanNews — 全球新闻聚合 — 精选可信来源，减少信息噪音",
     "description": "降低获取全球信息的门槛。精选可信来源，减少信息噪音，让您更高效地了解世界。",
-    "isPartOf": {"@id": "https://iannews.cc/#website"}
-  }]
+    "about": "降低获取全球信息的门槛。精选可信来源，减少信息噪音，让您更高效地了解世界。",
+    "isPartOf": {
+      "@id": "https://iannews.cc/#website"
+    },
+    "mainEntity": {
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "NewsArticle",
+          "position": 1,
+          "headline": "China warns of more extreme weather as Typhoon Bavi leaves trail of rain, flooding - Chinese forecasters warned that more extreme weather was on the horizon as the country continued to battle the afte",
+          "url": "https://www.scmp.com/news/china/politics/article/3360678/china-warns-more-extreme-weather-typhoon-bavi-leaves-trail-rain-flooding?utm_source=rss_feed",
+          "author": {
+            "@type": "Organization",
+            "name": "SCMP"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "SCMP"
+          },
+          "inLanguage": "en",
+          "description": "随着台风巴威带来降雨和洪水，中国警告将出现更多极端天气 - 中国预报员警告称，随着中国继续与台风巴威的后遗症作斗争，更多极端天气即将出现。周二晚间，东北吉林省发布多条河流洪水紧急警报。当局呼吁实施交通管制，警告居民呆在家里，并命令河流附近的人们撤离。吉林省气象部门表示，受强降雨影响，长白山山麓至少10个城市面临危险……",
+          "datePublished": "2026-07-15T10:36:58Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 2,
+          "headline": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era - Someone has to bundle all the wires that go into rockets, missiles, and satellites.",
+          "url": "https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/",
+          "author": {
+            "@type": "Organization",
+            "name": "TechCrunch"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "TechCrunch"
+          },
+          "inLanguage": "en",
+          "description": "一位 SpaceX 资深人士筹集了 6500 万美元，让线束摆脱冷战时代——必须有人将火箭、导弹和卫星中的所有电线捆绑起来。",
+          "datePublished": "2026-07-15T10:30:00Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 3,
+          "headline": "Midnight social media curfew proposed for UK teens aged 16 and 17 - but they can opt out - The government also wants 'addictive' app features such as auto-play and infinite scroll to be set to be disa",
+          "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+          "author": {
+            "@type": "Organization",
+            "name": "BBC"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "BBC"
+          },
+          "inLanguage": "en",
+          "description": "英国政府提议对 16 岁和 17 岁的英国青少年实施午夜社交媒体宵禁，但他们可以选择退出。政府还希望将自动播放和无限滚动等“令人上瘾”的应用程序功能设置为禁用。",
+          "datePublished": "2026-07-15T10:47:59Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 4,
+          "headline": "Travellers warned of methanol poisoning risks in new campaign - Holidaymakers are urged to understand the dangers and symptoms of methanol poisoning.",
+          "url": "https://www.bbc.co.uk/news/articles/c9929dg5l5lo?at_medium=RSS&at_campaign=rss",
+          "author": {
+            "@type": "Organization",
+            "name": "BBC"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "BBC"
+          },
+          "inLanguage": "en",
+          "description": "新活动中，旅行者警告甲醇中毒风险 - 敦促度假者了解甲醇中毒的危险和症状。",
+          "datePublished": "2026-07-15T10:47:59Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 5,
+          "headline": "China report warns against European-led Nato 3.0 expansion in the Asia-Pacific - The transition of the North Atlantic military alliance to a more Europe-led “Nato 3.0” will fail to heal deep-seated st",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3360606/china-report-warns-against-european-led-nato-30-expansion-asia-pacific?utm_source=rss_feed",
+          "author": {
+            "@type": "Organization",
+            "name": "SCMP"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "SCMP"
+          },
+          "inLanguage": "en",
+          "description": "中国报告警告欧洲领导的北约3.0在亚太扩张——中国一家主要智库表示，北大西洋军事联盟向欧洲主导的“北约3.0”过渡将无法弥合华盛顿与欧洲各国首都之间根深蒂固的战略分歧。中国现代国际关系研究院（CICIR）在周一发布的一份报告中还警告说，北约与日本等亚太国家不断扩大的军事和防务合作将使该集团“与加速发展的北约日益矛盾……”",
+          "datePublished": "2026-07-15T10:00:17Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 6,
+          "headline": "雷军详解澎程 N90 七座布局：前两排做客厅，第三排多坐一人 - 小米的车内哲学。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "url": "https://www.ifanr.com/1672080?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": {
+            "@type": "Organization",
+            "name": "爱范儿"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "爱范儿"
+          },
+          "inLanguage": "zh-CN",
+          "description": "雷军详解澎程 N90 七座布局：前两排做客厅，第三排多坐一人 - 小米的车内哲学。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "datePublished": "2026-07-15T09:45:31Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 7,
+          "headline": "Trump threatens to bomb bridges and power plants unless Iran resumes talks - Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Irania",
+          "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+          "author": {
+            "@type": "Organization",
+            "name": "BBC"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "BBC"
+          },
+          "inLanguage": "en",
+          "description": "特朗普威胁称，除非伊朗恢复谈判，否则将轰炸桥梁和发电厂——特朗普的这番言论是在两国连续第四天交火、美国恢复封锁伊朗港口之际发表的。",
+          "datePublished": "2026-07-15T10:47:59Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 8,
+          "headline": "Don’t buy brides, China’s Bangladesh embassy warns as trafficking surges - China’s embassy in Bangladesh has joined a number of Chinese diplomatic missions warning the country’s citizens about using i",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3360664/dont-buy-brides-bangladesh-chinese-embassy-warns-trafficking-surges?utm_source=rss_feed",
+          "author": {
+            "@type": "Organization",
+            "name": "SCMP"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "SCMP"
+          },
+          "inLanguage": "en",
+          "description": "随着贩卖人口激增，中国驻孟加拉国大使馆警告不要买新娘——中国驻孟加拉国大使馆与多个中国外交使团一起警告该国公民不要使用非法婚介服务寻找新娘。大使馆周二在社交媒体上发帖称，任何前往南亚国家通过经纪人或机构寻找妻子的人都可能因涉嫌人口贩运而面临逮捕。根据孟加拉国法律，人口贩运定罪可判处至少七年监禁，并处以至少 500,000 塔卡的罚款。",
+          "datePublished": "2026-07-15T09:05:31Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 9,
+          "headline": "醫療廢物還是神奇療法？為什麼有人會走私人類胎盤？ - 巴基斯坦一宗刑事調查揭露，有人涉嫌從醫院走私人類胎盤。但這宗案件揭示了一個更大的圖像：一個圍繞這種在分娩後被棄置的暫時性器官而迅速增長的全球市場。",
+          "url": "https://www.bbc.com/zhongwen/articles/cgjxj0wv982o/trad?at_medium=RSS&at_campaign=rss",
+          "author": {
+            "@type": "Organization",
+            "name": "BBC中文"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "BBC中文"
+          },
+          "inLanguage": "zh-CN",
+          "description": "醫療廢物還是神奇療法？為什麼有人會走私人類胎盤？ - 巴基斯坦一宗刑事調查揭露，有人涉嫌從醫院走私人類胎盤。但這宗案件揭示了一個更大的圖像：一個圍繞這種在分娩後被棄置的暫時性器官而迅速增長的全球市場。",
+          "datePublished": "2026-07-15T10:47:59Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 10,
+          "headline": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures - The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hour",
+          "url": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&at_campaign=rss",
+          "author": {
+            "@type": "Organization",
+            "name": "BBC"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "BBC"
+          },
+          "inLanguage": "en",
+          "description": "英国热浪带来了异常的阳光和持续 30 摄氏度的气温——达伦·贝特 (Darren Bett) 解释说，当前的热浪炎热、干燥且阳光异常充足，一些地方的日照时数是本月此时通常记录的两倍。",
+          "datePublished": "2026-07-15T10:47:59Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 11,
+          "headline": "机器人也开始修炼「见闻色」，星尘智能发布具身基座模型 Lumo-2，让动作更快更准了 - 在概率里找最可能发生的，这就是机器人的「见闻色」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "url": "https://www.ifanr.com/1672067?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": {
+            "@type": "Organization",
+            "name": "爱范儿"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "爱范儿"
+          },
+          "inLanguage": "zh-CN",
+          "description": "机器人也开始修炼「见闻色」，星尘智能发布具身基座模型 Lumo-2，让动作更快更准了 - 在概率里找最可能发生的，这就是机器人的「见闻色」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "datePublished": "2026-07-15T07:58:21Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 12,
+          "headline": "‘China’s real-life transformer’: new rescue tech used in dramatic flood evacuation - It is part-boat, part-bridge and part-life raft – and in the massive floods in southern China, it has been all resc",
+          "url": "https://www.scmp.com/news/china/science/article/3360638/chinas-real-life-transformer-new-rescue-tech-used-dramatic-flood-evacuation?utm_source=rss_feed",
+          "author": {
+            "@type": "Organization",
+            "name": "SCMP"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "SCMP"
+          },
+          "inLanguage": "en",
+          "description": "“中国现实生活中的变形金刚”：在戏剧性的洪水疏散中使用的新救援技术——它一半是船，一半是桥，一半是救生筏——而在中国南方的特大洪水中，它完全是救援车辆。这种可折叠自航式浮驳船已成为应对灾难的有力新工具，用于救援广西壮族自治区因水位上涨而被困的数千人。上周，最大规模的救援行动之一在位于贵港的广西物流职业技术学院进行，该学院有 6,000 多名工作人员和...",
+          "datePublished": "2026-07-15T07:57:14Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 13,
+          "headline": "中國以間諜罪嫌拘留研究朝鮮核試驗的地震學家陳友麟 - 陳友麟家屬表示，中國當局以間諜罪嫌，將其錯誤拘留將近兩年。",
+          "url": "https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad?at_medium=RSS&at_campaign=rss",
+          "author": {
+            "@type": "Organization",
+            "name": "BBC中文"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "BBC中文"
+          },
+          "inLanguage": "zh-CN",
+          "description": "中國以間諜罪嫌拘留研究朝鮮核試驗的地震學家陳友麟 - 陳友麟家屬表示，中國當局以間諜罪嫌，將其錯誤拘留將近兩年。",
+          "datePublished": "2026-07-15T10:47:59Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 14,
+          "headline": "「香港應是個更自由的地方」：大陸讀者眼中的獨立書店往事 - 在獵人書店負責人被捕後，不少中國大陸讀者在社交平台分享自己與香港獨立書店的故事。BBC中文了解四位讀者跨越地域的集體回憶。",
+          "url": "https://www.bbc.com/zhongwen/articles/cn757r6824vo/trad?at_medium=RSS&at_campaign=rss",
+          "author": {
+            "@type": "Organization",
+            "name": "BBC中文"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "BBC中文"
+          },
+          "inLanguage": "zh-CN",
+          "description": "「香港應是個更自由的地方」：大陸讀者眼中的獨立書店往事 - 在獵人書店負責人被捕後，不少中國大陸讀者在社交平台分享自己與香港獨立書店的故事。BBC中文了解四位讀者跨越地域的集體回憶。",
+          "datePublished": "2026-07-15T10:47:59Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 15,
+          "headline": "中國經濟增長放緩至4.3%，創2022年底以來最低 - 今年第二季度的經濟增長顯著放緩至4.3%，低於全年經濟增長目標，並且是自2022年底以來最低的季度增長。",
+          "url": "https://www.bbc.com/zhongwen/articles/cgrkrk4yvxpo/trad?at_medium=RSS&at_campaign=rss",
+          "author": {
+            "@type": "Organization",
+            "name": "BBC中文"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "BBC中文"
+          },
+          "inLanguage": "zh-CN",
+          "description": "中國經濟增長放緩至4.3%，創2022年底以來最低 - 今年第二季度的經濟增長顯著放緩至4.3%，低於全年經濟增長目標，並且是自2022年底以來最低的季度增長。",
+          "datePublished": "2026-07-15T10:47:59Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 16,
+          "headline": "Chinese in the driver’s seat? India-China reset hits a bump on New Delhi’s streets - It was supposed to be just another hectic day on New Delhi’s roads. Instead, early this month, several e-rickshaws ",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3360618/chinese-drivers-seat-india-china-reset-hits-bump-delhis-streets?utm_source=rss_feed",
+          "author": {
+            "@type": "Organization",
+            "name": "SCMP"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "SCMP"
+          },
+          "inLanguage": "en",
+          "description": "中国人坐在驾驶座上？中印关系重置在新德里的街道上造成了冲击——这本应是新德里道路上又一个忙碌的一天。相反，本月初，据报道，印度首都拥挤街道上的几辆电动三轮车在行驶过程中因不同事件而停下来，导致司机陷入困境，乘客寻找答案。交通中断的视频很快在社交媒体上疯传，将当地的交通故障变成了全国性的辩论。所谓的罪魁祸首不是机械故障，而是软件。这条线索通向...",
+          "datePublished": "2026-07-15T06:00:11Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 17,
+          "headline": "Curiosity Blog, Sols 4947-4953: Gale Crater Then and Now - Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, July 10, 2026 Curiosity had a success",
+          "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/",
+          "author": {
+            "@type": "Organization",
+            "name": "NASA"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "NASA"
+          },
+          "inLanguage": "en",
+          "description": "好奇号博客，Sols 4947-4953：盖尔陨石坑的过去和现在 - 由多伦多约克大学大气科学家 Alex Innanen 撰写 地球规划日期：2026 年 7 月 10 日星期五 好奇号度过了一个成功的长周末，本周准备探索更多。我们相当快速地穿过不同的地图“单元”或不同的感兴趣的地质区域，访问每个[...]的不同区域。",
+          "datePublished": "2026-07-15T05:25:30Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 18,
+          "headline": "I still feel pain of '98 but this can be different for England, says Shearer - England's defeat by Argentina at the 1998 World Cup still burns deep for Alan Shearer, but he explains why this team can ",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6212j5zw3ko?at_medium=RSS&at_campaign=rss",
+          "author": {
+            "@type": "Organization",
+            "name": "BBC"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "BBC"
+          },
+          "inLanguage": "en",
+          "description": "我仍然感受到 98 年的痛苦，但这对英格兰来说可能是不同的，希勒说 - 英格兰在 1998 年世界杯上被阿根廷击败仍然让艾伦·希勒感到深深的痛苦，但他解释了为什么这支球队可以抓住机会永远改变他们的生活。",
+          "datePublished": "2026-07-15T10:47:59Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 19,
+          "headline": "Heat Dome Broils the Western U.S. - A ridge of high pressure fueled record-breaking temperatures in Montana, Utah, and Wyoming on July 12, 2026.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/",
+          "author": {
+            "@type": "Organization",
+            "name": "NASA"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "NASA"
+          },
+          "inLanguage": "en",
+          "description": "炎热穹顶席卷美国西部 - 2026 年 7 月 12 日，蒙大拿州、犹他州和怀俄明州的高压脊导致破纪录的气温。",
+          "datePublished": "2026-07-15T04:01:00Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 20,
+          "headline": "苹果想要「掐死」OpenAI 手机 - 苹果也有自己的越战泥潭#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "url": "https://www.ifanr.com/1672040?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": {
+            "@type": "Organization",
+            "name": "爱范儿"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "爱范儿"
+          },
+          "inLanguage": "zh-CN",
+          "description": "苹果想要「掐死」OpenAI 手机 - 苹果也有自己的越战泥潭#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "datePublished": "2026-07-15T03:39:38Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 21,
+          "headline": "小紅書前員工跨境實名舉報，傳聞中的赴港上市計劃會有變化嗎？ - 一名自稱是小紅書的前員工聲稱已向香港監管機構實名舉報公司或存在合規問題。學者向BBC中文分析，若涉及系統性問題，或有機會影響上市進程。",
+          "url": "https://www.bbc.com/zhongwen/articles/cj3g3mygk2xo/trad?at_medium=RSS&at_campaign=rss",
+          "author": {
+            "@type": "Organization",
+            "name": "BBC中文"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "BBC中文"
+          },
+          "inLanguage": "zh-CN",
+          "description": "小紅書前員工跨境實名舉報，傳聞中的赴港上市計劃會有變化嗎？ - 一名自稱是小紅書的前員工聲稱已向香港監管機構實名舉報公司或存在合規問題。學者向BBC中文分析，若涉及系統性問題，或有機會影響上市進程。",
+          "datePublished": "2026-07-15T10:47:59Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 22,
+          "headline": "早报｜OpenAI首款硬件曝光/享界G9获批北京L3自动驾驶路测牌照/雷军晒小米机器人进厂打工成绩 - · 小米机器人汽车工厂「实习」4 个月，差 1%「转正」 · 三星、苹果份额逆势增长，全球手机市场第二季度下滑 4% · 1299 元起，REDMI Note 17 系列发布#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "url": "https://www.ifanr.com/1672037?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": {
+            "@type": "Organization",
+            "name": "爱范儿"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "爱范儿"
+          },
+          "inLanguage": "zh-CN",
+          "description": "早报｜OpenAI首款硬件曝光/享界G9获批北京L3自动驾驶路测牌照/雷军晒小米机器人进厂打工成绩 - · 小米机器人汽车工厂「实习」4 个月，差 1%「转正」 · 三星、苹果份额逆势增长，全球手机市场第二季度下滑 4% · 1299 元起，REDMI Note 17 系列发布#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "datePublished": "2026-07-15T00:34:14Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 23,
+          "headline": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B - The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+          "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+          "author": {
+            "@type": "Organization",
+            "name": "TechCrunch"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "TechCrunch"
+          },
+          "inLanguage": "en",
+          "description": "OpenAI 研究员 Miles Wang 正在洽谈创办估值 20 亿美元的人工智能药物发现初创公司 - 融资讨论表明投资者对应用人工智能在生命科学领域取得突破的兴趣。",
+          "datePublished": "2026-07-15T00:27:04Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 24,
+          "headline": "Lorde says AI glasses are ‘not sexy’ - \"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
+          "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+          "author": {
+            "@type": "Organization",
+            "name": "TechCrunch"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "TechCrunch"
+          },
+          "inLanguage": "en",
+          "description": "洛德说人工智能眼镜“并不性感”——“在我们的世界里，越来越难知道什么是真实的，”洛德在台上说。",
+          "datePublished": "2026-07-14T23:10:02Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 25,
+          "headline": "OpenAI’s first hardware device is reportedly a screenless speaker that can move - The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report",
+          "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+          "author": {
+            "@type": "Organization",
+            "name": "TechCrunch"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "TechCrunch"
+          },
+          "inLanguage": "en",
+          "description": "据报道，OpenAI 的第一款硬件设备是一款可以移动的无屏幕扬声器——该设备被奇怪地描述为“可以自行移动的机械元件”，彭博社的报告详细介绍了该设备的设计细节，“感觉就像一个伴侣，并成为 OpenAI 的 ChatGPT 的物理表现”。",
+          "datePublished": "2026-07-14T22:22:24Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 26,
+          "headline": "OpenAI pushes back on Apple trade secret lawsuit - OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+          "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+          "author": {
+            "@type": "Organization",
+            "name": "TechCrunch"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "TechCrunch"
+          },
+          "inLanguage": "en",
+          "description": "OpenAI 反击苹果商业秘密诉讼 - OpenAI 就该诉讼发表了另一份声明，这一次表明该诉讼缺乏法律依据。",
+          "datePublished": "2026-07-14T22:07:42Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 27,
+          "headline": "NASA Invites Media to Serbia Artemis Accords Signing Ceremony - The Republic of Serbia will sign the Artemis Accords at 5 p.m. EDT Thursday, July 16, during a ceremony at NASA Headquarters in Washingt",
+          "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/",
+          "author": {
+            "@type": "Organization",
+            "name": "NASA"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "NASA"
+          },
+          "inLanguage": "en",
+          "description": "NASA 邀请媒体参加塞尔维亚阿耳忒弥斯协议签署仪式 - 塞尔维亚共和国将于下午 5 点签署阿耳忒弥斯协议美国东部时间 7 月 16 日星期四，在华盛顿 NASA 总部举行的仪式上。美国宇航局副局长马特·安德森将接待塞尔维亚外交部长马尔科·杜里奇和美国国务院负责海洋和国际环境与科学事务的助理国务卿韦斯利·布鲁克斯出席仪式。这个[&#8230;]",
+          "datePublished": "2026-07-14T21:03:29Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 28,
+          "headline": "NASA Astronaut Anil Menon, Crewmates Arrive at Space Station - NASA astronaut Anil Menon, along with Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, arrived safely at the International Space Statio",
+          "url": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/",
+          "author": {
+            "@type": "Organization",
+            "name": "NASA"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "NASA"
+          },
+          "inLanguage": "en",
+          "description": "美国国家航空航天局 (NASA) 宇航员阿尼尔·梅农 (Anil Menon) 及其宇航员抵达空间站 - 美国国家航空航天局 (NASA) 宇航员阿尼尔·梅农 (Anil Menon) 与俄罗斯航天局 (Roscosmos) 宇航员彼得·杜布罗夫 (Pyotr Dubrov) 和安娜·基基纳 (Anna Kikina) 于周二安全抵达国际空间站，在接下来的两周内，轨道实验室的宇航员人数将达到 10 人。三人组于美国东部时间上午 10 点 47 分（当地时间下午 7 点 47 分）搭乘联盟号 MS-29 飞船从拜科努尔航天发射场发射升空。",
+          "datePublished": "2026-07-14T18:26:02Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 29,
+          "headline": "Hubble Sees Crimson Cloud and Stars - Blue and white stars shine brilliantly against a crimson background of glowing gas in this July 3, 2026, image of stellar nursery LH 95 from NASA’s&#160;Hubble Sp",
+          "url": "https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/",
+          "author": {
+            "@type": "Organization",
+            "name": "NASA"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "NASA"
+          },
+          "inLanguage": "en",
+          "description": "哈勃看到深红色云和恒星 - 在这张 2026 年 7 月 3 日由 NASA 哈勃太空望远镜拍摄的恒星苗圃 LH 95 图像中，蓝色和白色恒星在炽热气体的深红色背景下闪闪发光。 LH 95 是大麦哲伦星云中的一个区域，大麦哲伦星云是一个绕银河系运行的矮星系。低质量婴儿恒星与巨大的蓝巨星一起生活在[&#8230;]",
+          "datePublished": "2026-07-14T18:06:33Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 30,
+          "headline": "比亚迪王朝大改车型命名规则：L 系列消失，MAX 和 Ultra 将代表旗舰 - 起名也是一种艺术。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "url": "https://www.ifanr.com/1671991?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": {
+            "@type": "Organization",
+            "name": "爱范儿"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "爱范儿"
+          },
+          "inLanguage": "zh-CN",
+          "description": "比亚迪王朝大改车型命名规则：L 系列消失，MAX 和 Ultra 将代表旗舰 - 起名也是一种艺术。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "datePublished": "2026-07-14T07:42:37Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 31,
+          "headline": "Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out - Apps can add flexibility and freshness to your routine. Just try not to get injured.",
+          "url": "https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology",
+          "author": {
+            "@type": "Organization",
+            "name": "WSJ"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "WSJ"
+          },
+          "inLanguage": "en",
+          "description": "应用程序可以取代私人教练吗？我测试了近十二个应用程序来找出答案 - 应用程序可以为您的日常生活增添灵活性和新鲜感。只是尽量不要受伤。",
+          "datePublished": "2025-01-26T09:00:00Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 32,
+          "headline": "What to Know About China's DeepSeek AI - The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
+          "url": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology",
+          "author": {
+            "@type": "Organization",
+            "name": "WSJ"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "WSJ"
+          },
+          "inLanguage": "en",
+          "description": "关于中国 DeepSeek AI 的了解 - 这家中国新贵表示，它已经以低廉的成本训练了高性能的 AI 模型，而无需使用最先进的芯片。",
+          "datePublished": "2025-01-27T13:17:00Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 33,
+          "headline": "Tech, Media & Telecom Roundup: Market Talk - DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
+          "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology",
+          "author": {
+            "@type": "Organization",
+            "name": "WSJ"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "WSJ"
+          },
+          "inLanguage": "en",
+          "description": "技术、媒体和电信综述：市场谈话 - DeepSeek、SoFi 等最新市场谈话涵盖技术、媒体和电信。",
+          "datePublished": "2025-01-27T12:28:00Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 34,
+          "headline": "Silicon Valley Is Raving About a Made-in-China AI Model - DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
+          "url": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology",
+          "author": {
+            "@type": "Organization",
+            "name": "WSJ"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "WSJ"
+          },
+          "inLanguage": "en",
+          "description": "硅谷对中国制造的人工智能模型赞不绝口——尽管 DeepSeek 使用的是不太先进的芯片，但仍被称为“令人惊叹且令人印象深刻”。",
+          "datePublished": "2025-01-27T09:36:00Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 35,
+          "headline": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup - The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
+          "url": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
+          "author": {
+            "@type": "Organization",
+            "name": "WSJ"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "WSJ"
+          },
+          "inLanguage": "en",
+          "description": "Reid Hoffman 为人工智能癌症研究初创公司筹集了 2460 万美元资金 - 这位 LinkedIn 联合创始人正在与《万病之王》作者 Siddhartha Mukherjee 一起创办 Manas AI。",
+          "datePublished": "2025-01-27T08:00:00Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 36,
+          "headline": "下一代AI原生UGC平台，藏在《蛋仔派对》里 - 2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完成项目内容，成员仅有1-3人的微型团队。 但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。 AI&nbsp;技术的普及，正在持续重构内容创作的生产力边界。原本需要",
+          "url": "https://36kr.com/p/3896755010963333?f=rss",
+          "author": {
+            "@type": "Organization",
+            "name": "36氪"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "36氪"
+          },
+          "inLanguage": "zh-CN",
+          "description": "下一代AI原生UGC平台，藏在《蛋仔派对》里 - 2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完成项目内容，成员仅有1-3人的微型团队。 但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。 AI&nbsp;技术的普及，正在持续重构内容创作的生产力边界。原本需要",
+          "datePublished": "2026-07-15T10:47:59Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 37,
+          "headline": "支付宝不想做AI时代的配角 - 作者&nbsp;|&nbsp;王晗玉 编辑&nbsp;|&nbsp;张帆 支付宝首页调出AI界面，对话框取代了密密麻麻的小程序；用户对着“阿宝”说一句“找附近的奶茶优惠券”，周边门店的活动自动匹配好，核销下单一步完成。 最近，支付宝完成了上线22年来最大一次改版。 本月初，AI版支付宝“阿宝”正式开启全量公测，几乎同一时间，微信支付“AI专属卡”也在智能体WorkB",
+          "url": "https://36kr.com/p/3896720584738435?f=rss",
+          "author": {
+            "@type": "Organization",
+            "name": "36氪"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "36氪"
+          },
+          "inLanguage": "zh-CN",
+          "description": "支付宝不想做AI时代的配角 - 作者&nbsp;|&nbsp;王晗玉 编辑&nbsp;|&nbsp;张帆 支付宝首页调出AI界面，对话框取代了密密麻麻的小程序；用户对着“阿宝”说一句“找附近的奶茶优惠券”，周边门店的活动自动匹配好，核销下单一步完成。 最近，支付宝完成了上线22年来最大一次改版。 本月初，AI版支付宝“阿宝”正式开启全量公测，几乎同一时间，微信支付“AI专属卡”也在智能体WorkB",
+          "datePublished": "2026-07-15T10:47:59Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 38,
+          "headline": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活 - 7月3日-7月4日，「越过湖畔 进化新生」首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园区圆满举行。 这个夏天，阳澄湖畔的吸引力有了新的注脚。 对AI创业者和OPC来说，阳澄湖半岛不只是一个风景秀丽的度假胜地。这里拥有50公里湖岸线、8平方公里生态内湖，也有比斯特购物村、酒店群、网球中心、康养社区、宠物友好空间等高频线下场景。更重要的是，2025年阳",
+          "url": "https://36kr.com/p/3896639400183687?f=rss",
+          "author": {
+            "@type": "Organization",
+            "name": "36氪"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "36氪"
+          },
+          "inLanguage": "zh-CN",
+          "description": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活 - 7月3日-7月4日，「越过湖畔 进化新生」首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园区圆满举行。 这个夏天，阳澄湖畔的吸引力有了新的注脚。 对AI创业者和OPC来说，阳澄湖半岛不只是一个风景秀丽的度假胜地。这里拥有50公里湖岸线、8平方公里生态内湖，也有比斯特购物村、酒店群、网球中心、康养社区、宠物友好空间等高频线下场景。更重要的是，2025年阳",
+          "datePublished": "2026-07-15T10:47:59Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 39,
+          "headline": "四大一线城市房价继续修复上涨 - 7月15日，国家统计局公布《6月份70个大中城市商品住宅销售价格变动情况》，统计数据显示，一线城市新房、二手房价格继续整体环比上涨，维持修复回暖信号。 自2026年3月以来，一线城市新房和二手房销售价格指数已经连续上涨四个月。6月份，一线城市新建商品住宅销售价格涨幅有回落态势，环比上涨0.1%，涨幅比上月回落了0.1个百分点。其中，北京是唯一一个房价继续环比下降的",
+          "url": "https://36kr.com/p/3896544104793993?f=rss",
+          "author": {
+            "@type": "Organization",
+            "name": "36氪"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "36氪"
+          },
+          "inLanguage": "zh-CN",
+          "description": "四大一线城市房价继续修复上涨 - 7月15日，国家统计局公布《6月份70个大中城市商品住宅销售价格变动情况》，统计数据显示，一线城市新房、二手房价格继续整体环比上涨，维持修复回暖信号。 自2026年3月以来，一线城市新房和二手房销售价格指数已经连续上涨四个月。6月份，一线城市新建商品住宅销售价格涨幅有回落态势，环比上涨0.1%，涨幅比上月回落了0.1个百分点。其中，北京是唯一一个房价继续环比下降的",
+          "datePublished": "2026-07-15T10:47:59Z"
+        },
+        {
+          "@type": "NewsArticle",
+          "position": 40,
+          "headline": "优衣库再失一枚棋子 - 上周的Lemaire大秀选在巴士底歌剧院一座尚未完工的音乐厅里举行，而在秀场之外，一桩足以改写另一家时尚公司设计版图的变动正在酝酿。 资深时尚记者Lauren Sherman近日在行业媒体PUCK披露，Christophe Lemaire与Sarah-Linh Tran计划退出优衣库Uniqlo U系列，2026秋冬系列或将成为两人与优衣库合作十年的收官之作。 她同时透露，",
+          "url": "https://36kr.com/p/3885699885445122?f=rss",
+          "author": {
+            "@type": "Organization",
+            "name": "36氪"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "36氪"
+          },
+          "inLanguage": "zh-CN",
+          "description": "优衣库再失一枚棋子 - 上周的Lemaire大秀选在巴士底歌剧院一座尚未完工的音乐厅里举行，而在秀场之外，一桩足以改写另一家时尚公司设计版图的变动正在酝酿。 资深时尚记者Lauren Sherman近日在行业媒体PUCK披露，Christophe Lemaire与Sarah-Linh Tran计划退出优衣库Uniqlo U系列，2026秋冬系列或将成为两人与优衣库合作十年的收官之作。 她同时透露，",
+          "datePublished": "2026-07-15T10:47:59Z"
+        }
+      ]
+    },
+    "dateModified": "2026-07-15T10:47:59Z",
+    "datePublished": "2026-07-14"
+  }
+]
+  </script>
+
+  <!-- ═══════════ Embedded Data ═══════════ -->
+  <script>
+    window.__NEWS_DATA__ = {&quot;fetchedAt&quot;: &quot;2026-07-15T10:47:59Z&quot;, &quot;articles&quot;: [{&quot;id&quot;: &quot;rss_SCMP_0&quot;, &quot;author&quot;: &quot;SCMP&quot;, &quot;text&quot;: &quot;China warns of more extreme weather as Typhoon Bavi leaves trail of rain, flooding - Chinese forecasters warned that more extreme weather was on the horizon as the country continued to battle the aftereffects of Typhoon Bavi. Jilin province in the northeast issued an emergency alert on Tuesday night for flooding of multiple rivers. Authorities called for traffic controls, cautioned residents to stay home and ordered people near the rivers to evacuate. Jilin weather authorities said that due to h&quot;, &quot;translated&quot;: &quot;随着台风巴威带来降雨和洪水，中国警告将出现更多极端天气 - 中国预报员警告称，随着中国继续与台风巴威的后遗症作斗争，更多极端天气即将出现。周二晚间，东北吉林省发布多条河流洪水紧急警报。当局呼吁实施交通管制，警告居民呆在家里，并命令河流附近的人们撤离。吉林省气象部门表示，受强降雨影响，长白山山麓至少10个城市面临危险……&quot;, &quot;url&quot;: &quot;https://www.scmp.com/news/china/politics/article/3360678/china-warns-more-extreme-weather-typhoon-bavi-leaves-trail-rain-flooding?utm_source=rss_feed&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 10:36:58 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_TechCrunch_0&quot;, &quot;author&quot;: &quot;TechCrunch&quot;, &quot;text&quot;: &quot;A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era - Someone has to bundle all the wires that go into rockets, missiles, and satellites.&quot;, &quot;translated&quot;: &quot;一位 SpaceX 资深人士筹集了 6500 万美元，让线束摆脱冷战时代——必须有人将火箭、导弹和卫星中的所有电线捆绑起来。&quot;, &quot;url&quot;: &quot;https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 10:30:00 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_BBC_1&quot;, &quot;author&quot;: &quot;BBC&quot;, &quot;text&quot;: &quot;Midnight social media curfew proposed for UK teens aged 16 and 17 - but they can opt out - The government also wants &#x27;addictive&#x27; app features such as auto-play and infinite scroll to be set to be disabled.&quot;, &quot;translated&quot;: &quot;英国政府提议对 16 岁和 17 岁的英国青少年实施午夜社交媒体宵禁，但他们可以选择退出。政府还希望将自动播放和无限滚动等“令人上瘾”的应用程序功能设置为禁用。&quot;, &quot;url&quot;: &quot;https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&amp;at_campaign=rss&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 10:11:27 GMT&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_BBC_3&quot;, &quot;author&quot;: &quot;BBC&quot;, &quot;text&quot;: &quot;Travellers warned of methanol poisoning risks in new campaign - Holidaymakers are urged to understand the dangers and symptoms of methanol poisoning.&quot;, &quot;translated&quot;: &quot;新活动中，旅行者警告甲醇中毒风险 - 敦促度假者了解甲醇中毒的危险和症状。&quot;, &quot;url&quot;: &quot;https://www.bbc.co.uk/news/articles/c9929dg5l5lo?at_medium=RSS&amp;at_campaign=rss&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 10:00:29 GMT&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_SCMP_1&quot;, &quot;author&quot;: &quot;SCMP&quot;, &quot;text&quot;: &quot;China report warns against European-led Nato 3.0 expansion in the Asia-Pacific - The transition of the North Atlantic military alliance to a more Europe-led “Nato 3.0” will fail to heal deep-seated strategic rifts between Washington and the European capitals, according to a leading Chinese think tank. In a report published on Monday, the China Institutes of Contemporary International Relations (CICIR) also warned that Nato’s expanding military and defence cooperation with Asia-Pacific nations su&quot;, &quot;translated&quot;: &quot;中国报告警告欧洲领导的北约3.0在亚太扩张——中国一家主要智库表示，北大西洋军事联盟向欧洲主导的“北约3.0”过渡将无法弥合华盛顿与欧洲各国首都之间根深蒂固的战略分歧。中国现代国际关系研究院（CICIR）在周一发布的一份报告中还警告说，北约与日本等亚太国家不断扩大的军事和防务合作将使该集团“与加速发展的北约日益矛盾……”&quot;, &quot;url&quot;: &quot;https://www.scmp.com/news/china/diplomacy/article/3360606/china-report-warns-against-european-led-nato-30-expansion-asia-pacific?utm_source=rss_feed&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 10:00:17 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_爱范儿_0&quot;, &quot;author&quot;: &quot;爱范儿&quot;, &quot;text&quot;: &quot;雷军详解澎程 N90 七座布局：前两排做客厅，第三排多坐一人 - 小米的车内哲学。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&quot;, &quot;translated&quot;: &quot;&quot;, &quot;url&quot;: &quot;https://www.ifanr.com/1672080?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 09:45:31 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_BBC_0&quot;, &quot;author&quot;: &quot;BBC&quot;, &quot;text&quot;: &quot;Trump threatens to bomb bridges and power plants unless Iran resumes talks - Trump&#x27;s comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.&quot;, &quot;translated&quot;: &quot;特朗普威胁称，除非伊朗恢复谈判，否则将轰炸桥梁和发电厂——特朗普的这番言论是在两国连续第四天交火、美国恢复封锁伊朗港口之际发表的。&quot;, &quot;url&quot;: &quot;https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&amp;at_campaign=rss&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 09:06:52 GMT&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_SCMP_2&quot;, &quot;author&quot;: &quot;SCMP&quot;, &quot;text&quot;: &quot;Don’t buy brides, China’s Bangladesh embassy warns as trafficking surges - China’s embassy in Bangladesh has joined a number of Chinese diplomatic missions warning the country’s citizens about using illegal matchmaking services to find brides. Anyone who goes to the South Asian country to find a wife using brokers or agencies could face arrest on suspicion of human trafficking, the embassy said in a social media post on Tuesday. Under Bangladeshi law, a human trafficking conviction carries a min&quot;, &quot;translated&quot;: &quot;随着贩卖人口激增，中国驻孟加拉国大使馆警告不要买新娘——中国驻孟加拉国大使馆与多个中国外交使团一起警告该国公民不要使用非法婚介服务寻找新娘。大使馆周二在社交媒体上发帖称，任何前往南亚国家通过经纪人或机构寻找妻子的人都可能因涉嫌人口贩运而面临逮捕。根据孟加拉国法律，人口贩运定罪可判处至少七年监禁，并处以至少 500,000 塔卡的罚款。&quot;, &quot;url&quot;: &quot;https://www.scmp.com/news/china/diplomacy/article/3360664/dont-buy-brides-bangladesh-chinese-embassy-warns-trafficking-surges?utm_source=rss_feed&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 09:05:31 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_BBC中文_2&quot;, &quot;author&quot;: &quot;BBC中文&quot;, &quot;text&quot;: &quot;醫療廢物還是神奇療法？為什麼有人會走私人類胎盤？ - 巴基斯坦一宗刑事調查揭露，有人涉嫌從醫院走私人類胎盤。但這宗案件揭示了一個更大的圖像：一個圍繞這種在分娩後被棄置的暫時性器官而迅速增長的全球市場。&quot;, &quot;translated&quot;: &quot;&quot;, &quot;url&quot;: &quot;https://www.bbc.com/zhongwen/articles/cgjxj0wv982o/trad?at_medium=RSS&amp;at_campaign=rss&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 08:36:31 GMT&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_BBC_4&quot;, &quot;author&quot;: &quot;BBC&quot;, &quot;text&quot;: &quot;UK heatwave delivers exceptional sunshine and persistent 30C temperatures - The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this point in the month, as Darren Bett explains.&quot;, &quot;translated&quot;: &quot;英国热浪带来了异常的阳光和持续 30 摄氏度的气温——达伦·贝特 (Darren Bett) 解释说，当前的热浪炎热、干燥且阳光异常充足，一些地方的日照时数是本月此时通常记录的两倍。&quot;, &quot;url&quot;: &quot;https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&amp;at_campaign=rss&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 08:06:00 GMT&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_爱范儿_1&quot;, &quot;author&quot;: &quot;爱范儿&quot;, &quot;text&quot;: &quot;机器人也开始修炼「见闻色」，星尘智能发布具身基座模型 Lumo-2，让动作更快更准了 - 在概率里找最可能发生的，这就是机器人的「见闻色」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&quot;, &quot;translated&quot;: &quot;&quot;, &quot;url&quot;: &quot;https://www.ifanr.com/1672067?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 07:58:21 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_SCMP_3&quot;, &quot;author&quot;: &quot;SCMP&quot;, &quot;text&quot;: &quot;‘China’s real-life transformer’: new rescue tech used in dramatic flood evacuation - It is part-boat, part-bridge and part-life raft – and in the massive floods in southern China, it has been all rescue vehicle. The foldable, self-propelled pontoon barge has emerged as a powerful new tool in the response to the disaster, used to rescue thousands of people trapped by rising waters in Guangxi Zhuang autonomous region. One of the biggest rescue operations took place last week at the Guangxi Logisti&quot;, &quot;translated&quot;: &quot;“中国现实生活中的变形金刚”：在戏剧性的洪水疏散中使用的新救援技术——它一半是船，一半是桥，一半是救生筏——而在中国南方的特大洪水中，它完全是救援车辆。这种可折叠自航式浮驳船已成为应对灾难的有力新工具，用于救援广西壮族自治区因水位上涨而被困的数千人。上周，最大规模的救援行动之一在位于贵港的广西物流职业技术学院进行，该学院有 6,000 多名工作人员和...&quot;, &quot;url&quot;: &quot;https://www.scmp.com/news/china/science/article/3360638/chinas-real-life-transformer-new-rescue-tech-used-dramatic-flood-evacuation?utm_source=rss_feed&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 07:57:14 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_BBC中文_0&quot;, &quot;author&quot;: &quot;BBC中文&quot;, &quot;text&quot;: &quot;中國以間諜罪嫌拘留研究朝鮮核試驗的地震學家陳友麟 - 陳友麟家屬表示，中國當局以間諜罪嫌，將其錯誤拘留將近兩年。&quot;, &quot;translated&quot;: &quot;&quot;, &quot;url&quot;: &quot;https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad?at_medium=RSS&amp;at_campaign=rss&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 07:16:07 GMT&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_BBC中文_1&quot;, &quot;author&quot;: &quot;BBC中文&quot;, &quot;text&quot;: &quot;「香港應是個更自由的地方」：大陸讀者眼中的獨立書店往事 - 在獵人書店負責人被捕後，不少中國大陸讀者在社交平台分享自己與香港獨立書店的故事。BBC中文了解四位讀者跨越地域的集體回憶。&quot;, &quot;translated&quot;: &quot;&quot;, &quot;url&quot;: &quot;https://www.bbc.com/zhongwen/articles/cn757r6824vo/trad?at_medium=RSS&amp;at_campaign=rss&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 06:37:51 GMT&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_BBC中文_4&quot;, &quot;author&quot;: &quot;BBC中文&quot;, &quot;text&quot;: &quot;中國經濟增長放緩至4.3%，創2022年底以來最低 - 今年第二季度的經濟增長顯著放緩至4.3%，低於全年經濟增長目標，並且是自2022年底以來最低的季度增長。&quot;, &quot;translated&quot;: &quot;&quot;, &quot;url&quot;: &quot;https://www.bbc.com/zhongwen/articles/cgrkrk4yvxpo/trad?at_medium=RSS&amp;at_campaign=rss&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 06:08:28 GMT&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_SCMP_4&quot;, &quot;author&quot;: &quot;SCMP&quot;, &quot;text&quot;: &quot;Chinese in the driver’s seat? India-China reset hits a bump on New Delhi’s streets - It was supposed to be just another hectic day on New Delhi’s roads. Instead, early this month, several e-rickshaws on the Indian capital’s crowded streets reportedly came to a halt mid-ride in separate incidents that left drivers stranded and passengers searching for answers. Videos of the disruption quickly went viral on social media, turning a local transport breakdown into a national debate. The alleged culpr&quot;, &quot;translated&quot;: &quot;中国人坐在驾驶座上？中印关系重置在新德里的街道上造成了冲击——这本应是新德里道路上又一个忙碌的一天。相反，本月初，据报道，印度首都拥挤街道上的几辆电动三轮车在行驶过程中因不同事件而停下来，导致司机陷入困境，乘客寻找答案。交通中断的视频很快在社交媒体上疯传，将当地的交通故障变成了全国性的辩论。所谓的罪魁祸首不是机械故障，而是软件。这条线索通向...&quot;, &quot;url&quot;: &quot;https://www.scmp.com/news/china/diplomacy/article/3360618/chinese-drivers-seat-india-china-reset-hits-bump-delhis-streets?utm_source=rss_feed&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 06:00:11 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_NASA_0&quot;, &quot;author&quot;: &quot;NASA&quot;, &quot;text&quot;: &quot;Curiosity Blog, Sols 4947-4953: Gale Crater Then and Now - Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, July 10, 2026 Curiosity had a successful long weekend and came into this week ready to explore some more. We’ve been moving fairly rapidly through different mapped “units,” or distinct geological areas of interest, visiting a different one at each of […]&quot;, &quot;translated&quot;: &quot;好奇号博客，Sols 4947-4953：盖尔陨石坑的过去和现在 - 由多伦多约克大学大气科学家 Alex Innanen 撰写 地球规划日期：2026 年 7 月 10 日星期五 好奇号度过了一个成功的长周末，本周准备探索更多。我们相当快速地穿过不同的地图“单元”或不同的感兴趣的地质区域，访问每个[...]的不同区域。&quot;, &quot;url&quot;: &quot;https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 05:25:30 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_BBC_2&quot;, &quot;author&quot;: &quot;BBC&quot;, &quot;text&quot;: &quot;I still feel pain of &#x27;98 but this can be different for England, says Shearer - England&#x27;s defeat by Argentina at the 1998 World Cup still burns deep for Alan Shearer, but he explains why this team can take their chance to change their lives forever.&quot;, &quot;translated&quot;: &quot;我仍然感受到 98 年的痛苦，但这对英格兰来说可能是不同的，希勒说 - 英格兰在 1998 年世界杯上被阿根廷击败仍然让艾伦·希勒感到深深的痛苦，但他解释了为什么这支球队可以抓住机会永远改变他们的生活。&quot;, &quot;url&quot;: &quot;https://www.bbc.co.uk/sport/football/articles/c6212j5zw3ko?at_medium=RSS&amp;at_campaign=rss&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 05:02:28 GMT&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_NASA_1&quot;, &quot;author&quot;: &quot;NASA&quot;, &quot;text&quot;: &quot;Heat Dome Broils the Western U.S. - A ridge of high pressure fueled record-breaking temperatures in Montana, Utah, and Wyoming on July 12, 2026.&quot;, &quot;translated&quot;: &quot;炎热穹顶席卷美国西部 - 2026 年 7 月 12 日，蒙大拿州、犹他州和怀俄明州的高压脊导致破纪录的气温。&quot;, &quot;url&quot;: &quot;https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 04:01:00 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_爱范儿_2&quot;, &quot;author&quot;: &quot;爱范儿&quot;, &quot;text&quot;: &quot;苹果想要「掐死」OpenAI 手机 - 苹果也有自己的越战泥潭#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&quot;, &quot;translated&quot;: &quot;&quot;, &quot;url&quot;: &quot;https://www.ifanr.com/1672040?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 03:39:38 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_BBC中文_3&quot;, &quot;author&quot;: &quot;BBC中文&quot;, &quot;text&quot;: &quot;小紅書前員工跨境實名舉報，傳聞中的赴港上市計劃會有變化嗎？ - 一名自稱是小紅書的前員工聲稱已向香港監管機構實名舉報公司或存在合規問題。學者向BBC中文分析，若涉及系統性問題，或有機會影響上市進程。&quot;, &quot;translated&quot;: &quot;&quot;, &quot;url&quot;: &quot;https://www.bbc.com/zhongwen/articles/cj3g3mygk2xo/trad?at_medium=RSS&amp;at_campaign=rss&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 00:44:35 GMT&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_爱范儿_3&quot;, &quot;author&quot;: &quot;爱范儿&quot;, &quot;text&quot;: &quot;早报｜OpenAI首款硬件曝光/享界G9获批北京L3自动驾驶路测牌照/雷军晒小米机器人进厂打工成绩 - · 小米机器人汽车工厂「实习」4 个月，差 1%「转正」 · 三星、苹果份额逆势增长，全球手机市场第二季度下滑 4% · 1299 元起，REDMI Note 17 系列发布#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&quot;, &quot;translated&quot;: &quot;&quot;, &quot;url&quot;: &quot;https://www.ifanr.com/1672037?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 00:34:14 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_TechCrunch_1&quot;, &quot;author&quot;: &quot;TechCrunch&quot;, &quot;text&quot;: &quot;OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B - The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.&quot;, &quot;translated&quot;: &quot;OpenAI 研究员 Miles Wang 正在洽谈创办估值 20 亿美元的人工智能药物发现初创公司 - 融资讨论表明投资者对应用人工智能在生命科学领域取得突破的兴趣。&quot;, &quot;url&quot;: &quot;https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/&quot;, &quot;createdAt&quot;: &quot;Wed, 15 Jul 2026 00:27:04 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_TechCrunch_2&quot;, &quot;author&quot;: &quot;TechCrunch&quot;, &quot;text&quot;: &quot;Lorde says AI glasses are ‘not sexy’ - \&quot;Increasingly in our world, it gets harder and harder to know what is real,\&quot; Lorde said onstage.&quot;, &quot;translated&quot;: &quot;洛德说人工智能眼镜“并不性感”——“在我们的世界里，越来越难知道什么是真实的，”洛德在台上说。&quot;, &quot;url&quot;: &quot;https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/&quot;, &quot;createdAt&quot;: &quot;Tue, 14 Jul 2026 23:10:02 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_TechCrunch_3&quot;, &quot;author&quot;: &quot;TechCrunch&quot;, &quot;text&quot;: &quot;OpenAI’s first hardware device is reportedly a screenless speaker that can move - The device is weirdly described as involving \&quot;mechanical elements that can move on their own\&quot; and the Bloomberg report includes the detail that the device is designed to \&quot;feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\&quot;&quot;, &quot;translated&quot;: &quot;据报道，OpenAI 的第一款硬件设备是一款可以移动的无屏幕扬声器——该设备被奇怪地描述为“可以自行移动的机械元件”，彭博社的报告详细介绍了该设备的设计细节，“感觉就像一个伴侣，并成为 OpenAI 的 ChatGPT 的物理表现”。&quot;, &quot;url&quot;: &quot;https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/&quot;, &quot;createdAt&quot;: &quot;Tue, 14 Jul 2026 22:22:24 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_TechCrunch_4&quot;, &quot;author&quot;: &quot;TechCrunch&quot;, &quot;text&quot;: &quot;OpenAI pushes back on Apple trade secret lawsuit - OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.&quot;, &quot;translated&quot;: &quot;OpenAI 反击苹果商业秘密诉讼 - OpenAI 就该诉讼发表了另一份声明，这一次表明该诉讼缺乏法律依据。&quot;, &quot;url&quot;: &quot;https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/&quot;, &quot;createdAt&quot;: &quot;Tue, 14 Jul 2026 22:07:42 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_NASA_2&quot;, &quot;author&quot;: &quot;NASA&quot;, &quot;text&quot;: &quot;NASA Invites Media to Serbia Artemis Accords Signing Ceremony - The Republic of Serbia will sign the Artemis Accords at 5 p.m. EDT Thursday, July 16, during a ceremony at NASA Headquarters in Washington. NASA Deputy Administrator Matt Anderson will host Serbia’s Minister of Foreign Affairs Marko Đurić and U.S. State Department&amp;#160;Assistant Secretary for Oceans and International Environmental and Scientific Affairs Wesley&amp;#160;Brooks&amp;#160;for the ceremony. This [&amp;#8230;]&quot;, &quot;translated&quot;: &quot;NASA 邀请媒体参加塞尔维亚阿耳忒弥斯协议签署仪式 - 塞尔维亚共和国将于下午 5 点签署阿耳忒弥斯协议美国东部时间 7 月 16 日星期四，在华盛顿 NASA 总部举行的仪式上。美国宇航局副局长马特·安德森将接待塞尔维亚外交部长马尔科·杜里奇和美国国务院负责海洋和国际环境与科学事务的助理国务卿韦斯利·布鲁克斯出席仪式。这个[&amp;#8230;]&quot;, &quot;url&quot;: &quot;https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/&quot;, &quot;createdAt&quot;: &quot;Tue, 14 Jul 2026 21:03:29 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_NASA_3&quot;, &quot;author&quot;: &quot;NASA&quot;, &quot;text&quot;: &quot;NASA Astronaut Anil Menon, Crewmates Arrive at Space Station - NASA astronaut Anil Menon, along with Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, arrived safely at the International Space Station Tuesday, bringing the orbiting laboratory’s crew to 10 for about the next two weeks. The trio launched aboard the Soyuz MS-29 spacecraft at 10:47 a.m. EDT (7:47 p.m. local time) from the Baikonur Cosmodrome in [&amp;#8230;]&quot;, &quot;translated&quot;: &quot;美国国家航空航天局 (NASA) 宇航员阿尼尔·梅农 (Anil Menon) 及其宇航员抵达空间站 - 美国国家航空航天局 (NASA) 宇航员阿尼尔·梅农 (Anil Menon) 与俄罗斯航天局 (Roscosmos) 宇航员彼得·杜布罗夫 (Pyotr Dubrov) 和安娜·基基纳 (Anna Kikina) 于周二安全抵达国际空间站，在接下来的两周内，轨道实验室的宇航员人数将达到 10 人。三人组于美国东部时间上午 10 点 47 分（当地时间下午 7 点 47 分）搭乘联盟号 MS-29 飞船从拜科努尔航天发射场发射升空。&quot;, &quot;url&quot;: &quot;https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/&quot;, &quot;createdAt&quot;: &quot;Tue, 14 Jul 2026 18:26:02 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_NASA_4&quot;, &quot;author&quot;: &quot;NASA&quot;, &quot;text&quot;: &quot;Hubble Sees Crimson Cloud and Stars - Blue and white stars shine brilliantly against a crimson background of glowing gas in this July 3, 2026, image of stellar nursery LH 95 from NASA’s&amp;#160;Hubble Space Telescope. LH 95 is a region in the&amp;#160;Large Magellanic Cloud, a dwarf galaxy that orbits the Milky Way. Low-mass infant stars live alongside massive blue giant stars in [&amp;#8230;]&quot;, &quot;translated&quot;: &quot;哈勃看到深红色云和恒星 - 在这张 2026 年 7 月 3 日由 NASA 哈勃太空望远镜拍摄的恒星苗圃 LH 95 图像中，蓝色和白色恒星在炽热气体的深红色背景下闪闪发光。 LH 95 是大麦哲伦星云中的一个区域，大麦哲伦星云是一个绕银河系运行的矮星系。低质量婴儿恒星与巨大的蓝巨星一起生活在[&amp;#8230;]&quot;, &quot;url&quot;: &quot;https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/&quot;, &quot;createdAt&quot;: &quot;Tue, 14 Jul 2026 18:06:33 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_爱范儿_4&quot;, &quot;author&quot;: &quot;爱范儿&quot;, &quot;text&quot;: &quot;比亚迪王朝大改车型命名规则：L 系列消失，MAX 和 Ultra 将代表旗舰 - 起名也是一种艺术。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。&quot;, &quot;translated&quot;: &quot;&quot;, &quot;url&quot;: &quot;https://www.ifanr.com/1671991?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=&quot;, &quot;createdAt&quot;: &quot;Tue, 14 Jul 2026 07:42:37 +0000&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_WSJ_4&quot;, &quot;author&quot;: &quot;WSJ&quot;, &quot;text&quot;: &quot;Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out - Apps can add flexibility and freshness to your routine. Just try not to get injured.&quot;, &quot;translated&quot;: &quot;应用程序可以取代私人教练吗？我测试了近十二个应用程序来找出答案 - 应用程序可以为您的日常生活增添灵活性和新鲜感。只是尽量不要受伤。&quot;, &quot;url&quot;: &quot;https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology&quot;, &quot;createdAt&quot;: &quot;Sun, 26 Jan 2025 09:00:00 -0500&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_WSJ_0&quot;, &quot;author&quot;: &quot;WSJ&quot;, &quot;text&quot;: &quot;What to Know About China&#x27;s DeepSeek AI - The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.&quot;, &quot;translated&quot;: &quot;关于中国 DeepSeek AI 的了解 - 这家中国新贵表示，它已经以低廉的成本训练了高性能的 AI 模型，而无需使用最先进的芯片。&quot;, &quot;url&quot;: &quot;https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology&quot;, &quot;createdAt&quot;: &quot;Mon, 27 Jan 2025 13:17:00 -0500&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_WSJ_1&quot;, &quot;author&quot;: &quot;WSJ&quot;, &quot;text&quot;: &quot;Tech, Media &amp; Telecom Roundup: Market Talk - DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.&quot;, &quot;translated&quot;: &quot;技术、媒体和电信综述：市场谈话 - DeepSeek、SoFi 等最新市场谈话涵盖技术、媒体和电信。&quot;, &quot;url&quot;: &quot;https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology&quot;, &quot;createdAt&quot;: &quot;Mon, 27 Jan 2025 12:28:00 -0500&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_WSJ_2&quot;, &quot;author&quot;: &quot;WSJ&quot;, &quot;text&quot;: &quot;Silicon Valley Is Raving About a Made-in-China AI Model - DeepSeek is called “amazing and impressive” despite working with less-advanced chips.&quot;, &quot;translated&quot;: &quot;硅谷对中国制造的人工智能模型赞不绝口——尽管 DeepSeek 使用的是不太先进的芯片，但仍被称为“令人惊叹且令人印象深刻”。&quot;, &quot;url&quot;: &quot;https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology&quot;, &quot;createdAt&quot;: &quot;Mon, 27 Jan 2025 09:36:00 -0500&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_WSJ_3&quot;, &quot;author&quot;: &quot;WSJ&quot;, &quot;text&quot;: &quot;Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup - The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.&quot;, &quot;translated&quot;: &quot;Reid Hoffman 为人工智能癌症研究初创公司筹集了 2460 万美元资金 - 这位 LinkedIn 联合创始人正在与《万病之王》作者 Siddhartha Mukherjee 一起创办 Manas AI。&quot;, &quot;url&quot;: &quot;https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology&quot;, &quot;createdAt&quot;: &quot;Mon, 27 Jan 2025 08:00:00 -0500&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_36氪_0&quot;, &quot;author&quot;: &quot;36氪&quot;, &quot;text&quot;: &quot;下一代AI原生UGC平台，藏在《蛋仔派对》里 - 2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完成项目内容，成员仅有1-3人的微型团队。 但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。 AI&amp;nbsp;技术的普及，正在持续重构内容创作的生产力边界。原本需要专业团队完成的开发工作，如今个体创作者借助工具就能实现。这一趋势在游戏&amp;nbsp;UGC&amp;nbsp;领域体现得尤为明显：普通用户不再只是内容消费者，也能成为游戏玩法的开发者。 只不过，过去的UGC&amp;nbsp;创作者大多停留在&amp;nbsp;「用爱发电」&amp;nbsp;的业余阶段，受限于工具能力与变现空间，很难成长为真正意义上的微型创业主体。直到&amp;nbsp;AI&amp;nbsp;的深度渗透，让这层天花板开始松动。 上周末，网易《蛋仔派对》举办了第四届创作者大会，在公布了自己在UGC生态成果的同时，正式推出行业首个同时覆盖帧同步与状态同步的UGC编辑器体——「双子星」编辑器体系，并进一步升级AI能力在创作全链路&quot;, &quot;translated&quot;: &quot;&quot;, &quot;url&quot;: &quot;https://36kr.com/p/3896755010963333?f=rss&quot;, &quot;createdAt&quot;: &quot;2026-07-15 18:36:56  +0800&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_36氪_1&quot;, &quot;author&quot;: &quot;36氪&quot;, &quot;text&quot;: &quot;支付宝不想做AI时代的配角 - 作者&amp;nbsp;|&amp;nbsp;王晗玉 编辑&amp;nbsp;|&amp;nbsp;张帆 支付宝首页调出AI界面，对话框取代了密密麻麻的小程序；用户对着“阿宝”说一句“找附近的奶茶优惠券”，周边门店的活动自动匹配好，核销下单一步完成。 最近，支付宝完成了上线22年来最大一次改版。 本月初，AI版支付宝“阿宝”正式开启全量公测，几乎同一时间，微信支付“AI专属卡”也在智能体WorkBuddy中落地。 进入2026年以来，从头部平台到各家支付机构密集亮出AI底牌，支付行业的智能体竞争悄然开场。 从“用完即走”到“主动来聊” 伴随AI化进程，支付APP第一次出现了非工具属性的用户行为。 在AI版本开启内测后，支付宝相关人士告诉36氪，在此期间一个现象让团队意外：很多用户打开阿宝不是为了办事，而是单纯来“遛”它——比如闲聊、问脑洞问题、测试各种反应等。“‘阿宝’的活人感增加了用户的沟通兴趣，很多人来‘遛’阿宝，这个我们也挺意外。在传统版支付宝，这个是不太可能发生的。” 这是一个标志性的信号。 过去十年，支付APP的核心诉求是“高效、无感、用完即走”，用户停留时间越短，说明体验越&quot;, &quot;translated&quot;: &quot;&quot;, &quot;url&quot;: &quot;https://36kr.com/p/3896720584738435?f=rss&quot;, &quot;createdAt&quot;: &quot;2026-07-15 17:50:30  +0800&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_36氪_2&quot;, &quot;author&quot;: &quot;36氪&quot;, &quot;text&quot;: &quot;越过湖畔，AI在阳澄湖半岛「跑进」真实生活 - 7月3日-7月4日，「越过湖畔 进化新生」首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园区圆满举行。 这个夏天，阳澄湖畔的吸引力有了新的注脚。 对AI创业者和OPC来说，阳澄湖半岛不只是一个风景秀丽的度假胜地。这里拥有50公里湖岸线、8平方公里生态内湖，也有比斯特购物村、酒店群、网球中心、康养社区、宠物友好空间等高频线下场景。更重要的是，2025年阳澄湖半岛接待游客量达到950万人次。这意味着，这里本身就是一个足够真实、足够丰富，也足够开放的流量场。 AI产品好不好用？用户愿不愿意停下来体验？场景方是否愿意继续合作？这些问题很难只靠PPT回答，AI应用需要在线下社区和商业街区中反复测试，才能变得越来越成熟。 阳澄湖半岛的价值，也正在这里显现。游客会为一次新鲜体验停下脚步，运动爱好者愿意尝试新的训练方式，亲子家庭、爱宠人士、康养人群、酒店住客等人群，则构成了更多元的生活切面。对一家AI企业而言，这样的场景才能真正产生有价值的反馈。 从更大的行业背景看，AI正在从“能不能做出来”，走向“能不能用起来”。文旅、运动、康养、宠物这些日常场景，恰恰&quot;, &quot;translated&quot;: &quot;&quot;, &quot;url&quot;: &quot;https://36kr.com/p/3896639400183687?f=rss&quot;, &quot;createdAt&quot;: &quot;2026-07-15 16:30:35  +0800&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_36氪_3&quot;, &quot;author&quot;: &quot;36氪&quot;, &quot;text&quot;: &quot;四大一线城市房价继续修复上涨 - 7月15日，国家统计局公布《6月份70个大中城市商品住宅销售价格变动情况》，统计数据显示，一线城市新房、二手房价格继续整体环比上涨，维持修复回暖信号。 自2026年3月以来，一线城市新房和二手房销售价格指数已经连续上涨四个月。6月份，一线城市新建商品住宅销售价格涨幅有回落态势，环比上涨0.1%，涨幅比上月回落了0.1个百分点。其中，北京是唯一一个房价继续环比下降的城市，降幅为0.3%，上海、广州和深圳分别上涨0.3%、0.2%和0.3%。 来源：统计局 二手房也出现相同趋势，6月份，一线城市二手住宅销售价格环比上涨0.3%，涨幅比上月回落0.1个百分点。其中，北京、上海、广州和深圳分别上涨0.1%、0.4%、0.4%和0.3%。 但从整体上来看，全国70个大中城市楼市出现清晰的筑底修复信号。6月份，70个大中城市中，新建商品住宅销售价格环比上涨城市有20个，比上月增加4个，为2025年5月以来最多。二线城市回暖面扩大，住宅销售价格环比由上月下降0.1%转为持平，杭州、徐州、沈阳等城市环比涨幅领先。 来源：统计局 58安居客研究院院长张波分析认为，一线城&quot;, &quot;translated&quot;: &quot;&quot;, &quot;url&quot;: &quot;https://36kr.com/p/3896544104793993?f=rss&quot;, &quot;createdAt&quot;: &quot;2026-07-15 14:49:46  +0800&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}, {&quot;id&quot;: &quot;rss_36氪_4&quot;, &quot;author&quot;: &quot;36氪&quot;, &quot;text&quot;: &quot;优衣库再失一枚棋子 - 上周的Lemaire大秀选在巴士底歌剧院一座尚未完工的音乐厅里举行，而在秀场之外，一桩足以改写另一家时尚公司设计版图的变动正在酝酿。 资深时尚记者Lauren Sherman近日在行业媒体PUCK披露，Christophe Lemaire与Sarah-Linh Tran计划退出优衣库Uniqlo U系列，2026秋冬系列或将成为两人与优衣库合作十年的收官之作。 她同时透露，迅销集团对Lemaire同名品牌的持股已经下调。迅销内部曾讨论U系列能否在没有两位设计师的情况下独立存续，但这一提议被柳井正本人否决了。截至发稿，Lemaire与迅销均拒绝置评。Sherman也提醒：“未来几个月情况可能会有变化。” 优衣库与德国设计师Jil Sander合作的+J系列未能长期延续，曾是柳井正心目中的“巨大遗憾”。U系列谢幕消息虽尚未落定，行业内部人士已普遍预期这段合作将走向终点——一段持续了整整十年、被行业观察者形容为“既坚定又互利”的关系。 一场各取所需的十年联姻 Uniqlo U的前身，是2015年的联名项目“Uniqlo and Lemaire”。初次试水一炮而红，20&quot;, &quot;translated&quot;: &quot;&quot;, &quot;url&quot;: &quot;https://36kr.com/p/3885699885445122?f=rss&quot;, &quot;createdAt&quot;: &quot;2026-07-15 13:25:41  +0800&quot;, &quot;likes&quot;: null, &quot;retweets&quot;: null}]};
   </script>
 </head>
 <body>
-  <a href="#main-content" class="skip-link">跳到主要内容</a>
-
   <header>
     <div class="container header-inner">
       <a href="/" class="logo-link" aria-label="IanNews 首页">
         <h1 class="logo">IanNews</h1>
       </a>
-      <span class="tagline">全球新闻聚合</span>
+      <span class="tagline">全球新闻聚合 — 精选可信来源，减少信息噪音</span>
     </div>
   </header>
 
-  <main class="container" id="main-content">
+  <main class="container">
     <div class="mission">降低获取全球信息的门槛。精选可信来源，减少信息噪音，让您更高效地了解世界。</div>
-    <div class="last-update" id="lastUpdate"></div>
+    <div class="last-update" id="lastUpdate"><time datetime="2026-07-15T10:47:59Z">🕐 更新于 2026/07/15 10:47</time></div>
     <div class="news-list" id="newsList">
-      <div class="loading">暂无新闻，等待下次抓取</div>
+          <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.scmp.com/news/china/politics/article/3360678/china-warns-more-extreme-weather-typhoon-bavi-leaves-trail-rain-flooding?utm_source=rss_feed">
+      <meta itemprop="datePublished" content="2026-07-15T10:36:58Z">
+      <meta itemprop="headline" content="China warns of more extreme weather as Typhoon Bavi leaves trail of rain, flooding - Chinese forecasters warned that more extreme weather was on the horizon as the country continued to battle the afte">
+      <div class="card-source"><a href="https://www.scmp.com/news/china/politics/article/3360678/china-warns-more-extreme-weather-typhoon-bavi-leaves-trail-rain-flooding?utm_source=rss_feed" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">SCMP</span></a></div>
+      <div class="card-text" itemprop="articleBody">China warns of more extreme weather as Typhoon Bavi leaves trail of rain, flooding - Chinese forecasters warned that more extreme weather was on the horizon as the country continued to battle the aftereffects of Typhoon Bavi. Jilin province in the northeast issued an emergency alert on Tuesday night for flooding of multiple rivers. Authorities called for traffic controls, cautioned residents to stay home and ordered people near the rivers to evacuate. Jilin weather authorities said that due to h</div>
+      <div class="card-translated">随着台风巴威带来降雨和洪水，中国警告将出现更多极端天气 - 中国预报员警告称，随着中国继续与台风巴威的后遗症作斗争，更多极端天气即将出现。周二晚间，东北吉林省发布多条河流洪水紧急警报。当局呼吁实施交通管制，警告居民呆在家里，并命令河流附近的人们撤离。吉林省气象部门表示，受强降雨影响，长白山山麓至少10个城市面临危险……<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月15日 10:36</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/">
+      <meta itemprop="datePublished" content="2026-07-15T10:30:00Z">
+      <meta itemprop="headline" content="A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era - Someone has to bundle all the wires that go into rockets, missiles, and satellites.">
+      <div class="card-source"><a href="https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">TechCrunch</span></a></div>
+      <div class="card-text" itemprop="articleBody">A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era - Someone has to bundle all the wires that go into rockets, missiles, and satellites.</div>
+      <div class="card-translated">一位 SpaceX 资深人士筹集了 6500 万美元，让线束摆脱冷战时代——必须有人将火箭、导弹和卫星中的所有电线捆绑起来。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月15日 10:30</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&amp;at_campaign=rss">
+      <meta itemprop="datePublished" content="2026-07-15T10:47:59Z">
+      <meta itemprop="headline" content="Midnight social media curfew proposed for UK teens aged 16 and 17 - but they can opt out - The government also wants &#x27;addictive&#x27; app features such as auto-play and infinite scroll to be set to be disa">
+      <div class="card-source"><a href="https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">BBC</span></a></div>
+      <div class="card-text" itemprop="articleBody">Midnight social media curfew proposed for UK teens aged 16 and 17 - but they can opt out - The government also wants &#x27;addictive&#x27; app features such as auto-play and infinite scroll to be set to be disabled.</div>
+      <div class="card-translated">英国政府提议对 16 岁和 17 岁的英国青少年实施午夜社交媒体宵禁，但他们可以选择退出。政府还希望将自动播放和无限滚动等“令人上瘾”的应用程序功能设置为禁用。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月15日 10:47</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.bbc.co.uk/news/articles/c9929dg5l5lo?at_medium=RSS&amp;at_campaign=rss">
+      <meta itemprop="datePublished" content="2026-07-15T10:47:59Z">
+      <meta itemprop="headline" content="Travellers warned of methanol poisoning risks in new campaign - Holidaymakers are urged to understand the dangers and symptoms of methanol poisoning.">
+      <div class="card-source"><a href="https://www.bbc.co.uk/news/articles/c9929dg5l5lo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">BBC</span></a></div>
+      <div class="card-text" itemprop="articleBody">Travellers warned of methanol poisoning risks in new campaign - Holidaymakers are urged to understand the dangers and symptoms of methanol poisoning.</div>
+      <div class="card-translated">新活动中，旅行者警告甲醇中毒风险 - 敦促度假者了解甲醇中毒的危险和症状。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月15日 10:47</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.scmp.com/news/china/diplomacy/article/3360606/china-report-warns-against-european-led-nato-30-expansion-asia-pacific?utm_source=rss_feed">
+      <meta itemprop="datePublished" content="2026-07-15T10:00:17Z">
+      <meta itemprop="headline" content="China report warns against European-led Nato 3.0 expansion in the Asia-Pacific - The transition of the North Atlantic military alliance to a more Europe-led “Nato 3.0” will fail to heal deep-seated st">
+      <div class="card-source"><a href="https://www.scmp.com/news/china/diplomacy/article/3360606/china-report-warns-against-european-led-nato-30-expansion-asia-pacific?utm_source=rss_feed" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">SCMP</span></a></div>
+      <div class="card-text" itemprop="articleBody">China report warns against European-led Nato 3.0 expansion in the Asia-Pacific - The transition of the North Atlantic military alliance to a more Europe-led “Nato 3.0” will fail to heal deep-seated strategic rifts between Washington and the European capitals, according to a leading Chinese think tank. In a report published on Monday, the China Institutes of Contemporary International Relations (CICIR) also warned that Nato’s expanding military and defence cooperation with Asia-Pacific nations su</div>
+      <div class="card-translated">中国报告警告欧洲领导的北约3.0在亚太扩张——中国一家主要智库表示，北大西洋军事联盟向欧洲主导的“北约3.0”过渡将无法弥合华盛顿与欧洲各国首都之间根深蒂固的战略分歧。中国现代国际关系研究院（CICIR）在周一发布的一份报告中还警告说，北约与日本等亚太国家不断扩大的军事和防务合作将使该集团“与加速发展的北约日益矛盾……”<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月15日 10:00</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.ifanr.com/1672080?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">
+      <meta itemprop="datePublished" content="2026-07-15T09:45:31Z">
+      <meta itemprop="headline" content="雷军详解澎程 N90 七座布局：前两排做客厅，第三排多坐一人 - 小米的车内哲学。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。">
+      <div class="card-source"><a href="https://www.ifanr.com/1672080?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">爱范儿</span></a></div>
+      <div class="card-text" itemprop="articleBody">雷军详解澎程 N90 七座布局：前两排做客厅，第三排多坐一人 - 小米的车内哲学。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</div>
+      
+      <div class="card-meta"><span>07月15日 09:45</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&amp;at_campaign=rss">
+      <meta itemprop="datePublished" content="2026-07-15T10:47:59Z">
+      <meta itemprop="headline" content="Trump threatens to bomb bridges and power plants unless Iran resumes talks - Trump&#x27;s comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Irania">
+      <div class="card-source"><a href="https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">BBC</span></a></div>
+      <div class="card-text" itemprop="articleBody">Trump threatens to bomb bridges and power plants unless Iran resumes talks - Trump&#x27;s comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.</div>
+      <div class="card-translated">特朗普威胁称，除非伊朗恢复谈判，否则将轰炸桥梁和发电厂——特朗普的这番言论是在两国连续第四天交火、美国恢复封锁伊朗港口之际发表的。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月15日 10:47</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.scmp.com/news/china/diplomacy/article/3360664/dont-buy-brides-bangladesh-chinese-embassy-warns-trafficking-surges?utm_source=rss_feed">
+      <meta itemprop="datePublished" content="2026-07-15T09:05:31Z">
+      <meta itemprop="headline" content="Don’t buy brides, China’s Bangladesh embassy warns as trafficking surges - China’s embassy in Bangladesh has joined a number of Chinese diplomatic missions warning the country’s citizens about using i">
+      <div class="card-source"><a href="https://www.scmp.com/news/china/diplomacy/article/3360664/dont-buy-brides-bangladesh-chinese-embassy-warns-trafficking-surges?utm_source=rss_feed" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">SCMP</span></a></div>
+      <div class="card-text" itemprop="articleBody">Don’t buy brides, China’s Bangladesh embassy warns as trafficking surges - China’s embassy in Bangladesh has joined a number of Chinese diplomatic missions warning the country’s citizens about using illegal matchmaking services to find brides. Anyone who goes to the South Asian country to find a wife using brokers or agencies could face arrest on suspicion of human trafficking, the embassy said in a social media post on Tuesday. Under Bangladeshi law, a human trafficking conviction carries a min</div>
+      <div class="card-translated">随着贩卖人口激增，中国驻孟加拉国大使馆警告不要买新娘——中国驻孟加拉国大使馆与多个中国外交使团一起警告该国公民不要使用非法婚介服务寻找新娘。大使馆周二在社交媒体上发帖称，任何前往南亚国家通过经纪人或机构寻找妻子的人都可能因涉嫌人口贩运而面临逮捕。根据孟加拉国法律，人口贩运定罪可判处至少七年监禁，并处以至少 500,000 塔卡的罚款。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月15日 09:05</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.bbc.com/zhongwen/articles/cgjxj0wv982o/trad?at_medium=RSS&amp;at_campaign=rss">
+      <meta itemprop="datePublished" content="2026-07-15T10:47:59Z">
+      <meta itemprop="headline" content="醫療廢物還是神奇療法？為什麼有人會走私人類胎盤？ - 巴基斯坦一宗刑事調查揭露，有人涉嫌從醫院走私人類胎盤。但這宗案件揭示了一個更大的圖像：一個圍繞這種在分娩後被棄置的暫時性器官而迅速增長的全球市場。">
+      <div class="card-source"><a href="https://www.bbc.com/zhongwen/articles/cgjxj0wv982o/trad?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">BBC中文</span></a></div>
+      <div class="card-text" itemprop="articleBody">醫療廢物還是神奇療法？為什麼有人會走私人類胎盤？ - 巴基斯坦一宗刑事調查揭露，有人涉嫌從醫院走私人類胎盤。但這宗案件揭示了一個更大的圖像：一個圍繞這種在分娩後被棄置的暫時性器官而迅速增長的全球市場。</div>
+      
+      <div class="card-meta"><span>07月15日 10:47</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&amp;at_campaign=rss">
+      <meta itemprop="datePublished" content="2026-07-15T10:47:59Z">
+      <meta itemprop="headline" content="UK heatwave delivers exceptional sunshine and persistent 30C temperatures - The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hour">
+      <div class="card-source"><a href="https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">BBC</span></a></div>
+      <div class="card-text" itemprop="articleBody">UK heatwave delivers exceptional sunshine and persistent 30C temperatures - The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this point in the month, as Darren Bett explains.</div>
+      <div class="card-translated">英国热浪带来了异常的阳光和持续 30 摄氏度的气温——达伦·贝特 (Darren Bett) 解释说，当前的热浪炎热、干燥且阳光异常充足，一些地方的日照时数是本月此时通常记录的两倍。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月15日 10:47</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.ifanr.com/1672067?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">
+      <meta itemprop="datePublished" content="2026-07-15T07:58:21Z">
+      <meta itemprop="headline" content="机器人也开始修炼「见闻色」，星尘智能发布具身基座模型 Lumo-2，让动作更快更准了 - 在概率里找最可能发生的，这就是机器人的「见闻色」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。">
+      <div class="card-source"><a href="https://www.ifanr.com/1672067?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">爱范儿</span></a></div>
+      <div class="card-text" itemprop="articleBody">机器人也开始修炼「见闻色」，星尘智能发布具身基座模型 Lumo-2，让动作更快更准了 - 在概率里找最可能发生的，这就是机器人的「见闻色」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</div>
+      
+      <div class="card-meta"><span>07月15日 07:58</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.scmp.com/news/china/science/article/3360638/chinas-real-life-transformer-new-rescue-tech-used-dramatic-flood-evacuation?utm_source=rss_feed">
+      <meta itemprop="datePublished" content="2026-07-15T07:57:14Z">
+      <meta itemprop="headline" content="‘China’s real-life transformer’: new rescue tech used in dramatic flood evacuation - It is part-boat, part-bridge and part-life raft – and in the massive floods in southern China, it has been all resc">
+      <div class="card-source"><a href="https://www.scmp.com/news/china/science/article/3360638/chinas-real-life-transformer-new-rescue-tech-used-dramatic-flood-evacuation?utm_source=rss_feed" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">SCMP</span></a></div>
+      <div class="card-text" itemprop="articleBody">‘China’s real-life transformer’: new rescue tech used in dramatic flood evacuation - It is part-boat, part-bridge and part-life raft – and in the massive floods in southern China, it has been all rescue vehicle. The foldable, self-propelled pontoon barge has emerged as a powerful new tool in the response to the disaster, used to rescue thousands of people trapped by rising waters in Guangxi Zhuang autonomous region. One of the biggest rescue operations took place last week at the Guangxi Logisti</div>
+      <div class="card-translated">“中国现实生活中的变形金刚”：在戏剧性的洪水疏散中使用的新救援技术——它一半是船，一半是桥，一半是救生筏——而在中国南方的特大洪水中，它完全是救援车辆。这种可折叠自航式浮驳船已成为应对灾难的有力新工具，用于救援广西壮族自治区因水位上涨而被困的数千人。上周，最大规模的救援行动之一在位于贵港的广西物流职业技术学院进行，该学院有 6,000 多名工作人员和...<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月15日 07:57</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad?at_medium=RSS&amp;at_campaign=rss">
+      <meta itemprop="datePublished" content="2026-07-15T10:47:59Z">
+      <meta itemprop="headline" content="中國以間諜罪嫌拘留研究朝鮮核試驗的地震學家陳友麟 - 陳友麟家屬表示，中國當局以間諜罪嫌，將其錯誤拘留將近兩年。">
+      <div class="card-source"><a href="https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">BBC中文</span></a></div>
+      <div class="card-text" itemprop="articleBody">中國以間諜罪嫌拘留研究朝鮮核試驗的地震學家陳友麟 - 陳友麟家屬表示，中國當局以間諜罪嫌，將其錯誤拘留將近兩年。</div>
+      
+      <div class="card-meta"><span>07月15日 10:47</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.bbc.com/zhongwen/articles/cn757r6824vo/trad?at_medium=RSS&amp;at_campaign=rss">
+      <meta itemprop="datePublished" content="2026-07-15T10:47:59Z">
+      <meta itemprop="headline" content="「香港應是個更自由的地方」：大陸讀者眼中的獨立書店往事 - 在獵人書店負責人被捕後，不少中國大陸讀者在社交平台分享自己與香港獨立書店的故事。BBC中文了解四位讀者跨越地域的集體回憶。">
+      <div class="card-source"><a href="https://www.bbc.com/zhongwen/articles/cn757r6824vo/trad?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">BBC中文</span></a></div>
+      <div class="card-text" itemprop="articleBody">「香港應是個更自由的地方」：大陸讀者眼中的獨立書店往事 - 在獵人書店負責人被捕後，不少中國大陸讀者在社交平台分享自己與香港獨立書店的故事。BBC中文了解四位讀者跨越地域的集體回憶。</div>
+      
+      <div class="card-meta"><span>07月15日 10:47</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.bbc.com/zhongwen/articles/cgrkrk4yvxpo/trad?at_medium=RSS&amp;at_campaign=rss">
+      <meta itemprop="datePublished" content="2026-07-15T10:47:59Z">
+      <meta itemprop="headline" content="中國經濟增長放緩至4.3%，創2022年底以來最低 - 今年第二季度的經濟增長顯著放緩至4.3%，低於全年經濟增長目標，並且是自2022年底以來最低的季度增長。">
+      <div class="card-source"><a href="https://www.bbc.com/zhongwen/articles/cgrkrk4yvxpo/trad?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">BBC中文</span></a></div>
+      <div class="card-text" itemprop="articleBody">中國經濟增長放緩至4.3%，創2022年底以來最低 - 今年第二季度的經濟增長顯著放緩至4.3%，低於全年經濟增長目標，並且是自2022年底以來最低的季度增長。</div>
+      
+      <div class="card-meta"><span>07月15日 10:47</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.scmp.com/news/china/diplomacy/article/3360618/chinese-drivers-seat-india-china-reset-hits-bump-delhis-streets?utm_source=rss_feed">
+      <meta itemprop="datePublished" content="2026-07-15T06:00:11Z">
+      <meta itemprop="headline" content="Chinese in the driver’s seat? India-China reset hits a bump on New Delhi’s streets - It was supposed to be just another hectic day on New Delhi’s roads. Instead, early this month, several e-rickshaws ">
+      <div class="card-source"><a href="https://www.scmp.com/news/china/diplomacy/article/3360618/chinese-drivers-seat-india-china-reset-hits-bump-delhis-streets?utm_source=rss_feed" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">SCMP</span></a></div>
+      <div class="card-text" itemprop="articleBody">Chinese in the driver’s seat? India-China reset hits a bump on New Delhi’s streets - It was supposed to be just another hectic day on New Delhi’s roads. Instead, early this month, several e-rickshaws on the Indian capital’s crowded streets reportedly came to a halt mid-ride in separate incidents that left drivers stranded and passengers searching for answers. Videos of the disruption quickly went viral on social media, turning a local transport breakdown into a national debate. The alleged culpr</div>
+      <div class="card-translated">中国人坐在驾驶座上？中印关系重置在新德里的街道上造成了冲击——这本应是新德里道路上又一个忙碌的一天。相反，本月初，据报道，印度首都拥挤街道上的几辆电动三轮车在行驶过程中因不同事件而停下来，导致司机陷入困境，乘客寻找答案。交通中断的视频很快在社交媒体上疯传，将当地的交通故障变成了全国性的辩论。所谓的罪魁祸首不是机械故障，而是软件。这条线索通向...<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月15日 06:00</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/">
+      <meta itemprop="datePublished" content="2026-07-15T05:25:30Z">
+      <meta itemprop="headline" content="Curiosity Blog, Sols 4947-4953: Gale Crater Then and Now - Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, July 10, 2026 Curiosity had a success">
+      <div class="card-source"><a href="https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">NASA</span></a></div>
+      <div class="card-text" itemprop="articleBody">Curiosity Blog, Sols 4947-4953: Gale Crater Then and Now - Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, July 10, 2026 Curiosity had a successful long weekend and came into this week ready to explore some more. We’ve been moving fairly rapidly through different mapped “units,” or distinct geological areas of interest, visiting a different one at each of […]</div>
+      <div class="card-translated">好奇号博客，Sols 4947-4953：盖尔陨石坑的过去和现在 - 由多伦多约克大学大气科学家 Alex Innanen 撰写 地球规划日期：2026 年 7 月 10 日星期五 好奇号度过了一个成功的长周末，本周准备探索更多。我们相当快速地穿过不同的地图“单元”或不同的感兴趣的地质区域，访问每个[...]的不同区域。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月15日 05:25</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.bbc.co.uk/sport/football/articles/c6212j5zw3ko?at_medium=RSS&amp;at_campaign=rss">
+      <meta itemprop="datePublished" content="2026-07-15T10:47:59Z">
+      <meta itemprop="headline" content="I still feel pain of &#x27;98 but this can be different for England, says Shearer - England&#x27;s defeat by Argentina at the 1998 World Cup still burns deep for Alan Shearer, but he explains why this team can ">
+      <div class="card-source"><a href="https://www.bbc.co.uk/sport/football/articles/c6212j5zw3ko?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">BBC</span></a></div>
+      <div class="card-text" itemprop="articleBody">I still feel pain of &#x27;98 but this can be different for England, says Shearer - England&#x27;s defeat by Argentina at the 1998 World Cup still burns deep for Alan Shearer, but he explains why this team can take their chance to change their lives forever.</div>
+      <div class="card-translated">我仍然感受到 98 年的痛苦，但这对英格兰来说可能是不同的，希勒说 - 英格兰在 1998 年世界杯上被阿根廷击败仍然让艾伦·希勒感到深深的痛苦，但他解释了为什么这支球队可以抓住机会永远改变他们的生活。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月15日 10:47</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/">
+      <meta itemprop="datePublished" content="2026-07-15T04:01:00Z">
+      <meta itemprop="headline" content="Heat Dome Broils the Western U.S. - A ridge of high pressure fueled record-breaking temperatures in Montana, Utah, and Wyoming on July 12, 2026.">
+      <div class="card-source"><a href="https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">NASA</span></a></div>
+      <div class="card-text" itemprop="articleBody">Heat Dome Broils the Western U.S. - A ridge of high pressure fueled record-breaking temperatures in Montana, Utah, and Wyoming on July 12, 2026.</div>
+      <div class="card-translated">炎热穹顶席卷美国西部 - 2026 年 7 月 12 日，蒙大拿州、犹他州和怀俄明州的高压脊导致破纪录的气温。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月15日 04:01</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.ifanr.com/1672040?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">
+      <meta itemprop="datePublished" content="2026-07-15T03:39:38Z">
+      <meta itemprop="headline" content="苹果想要「掐死」OpenAI 手机 - 苹果也有自己的越战泥潭#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。">
+      <div class="card-source"><a href="https://www.ifanr.com/1672040?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">爱范儿</span></a></div>
+      <div class="card-text" itemprop="articleBody">苹果想要「掐死」OpenAI 手机 - 苹果也有自己的越战泥潭#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</div>
+      
+      <div class="card-meta"><span>07月15日 03:39</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.bbc.com/zhongwen/articles/cj3g3mygk2xo/trad?at_medium=RSS&amp;at_campaign=rss">
+      <meta itemprop="datePublished" content="2026-07-15T10:47:59Z">
+      <meta itemprop="headline" content="小紅書前員工跨境實名舉報，傳聞中的赴港上市計劃會有變化嗎？ - 一名自稱是小紅書的前員工聲稱已向香港監管機構實名舉報公司或存在合規問題。學者向BBC中文分析，若涉及系統性問題，或有機會影響上市進程。">
+      <div class="card-source"><a href="https://www.bbc.com/zhongwen/articles/cj3g3mygk2xo/trad?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">BBC中文</span></a></div>
+      <div class="card-text" itemprop="articleBody">小紅書前員工跨境實名舉報，傳聞中的赴港上市計劃會有變化嗎？ - 一名自稱是小紅書的前員工聲稱已向香港監管機構實名舉報公司或存在合規問題。學者向BBC中文分析，若涉及系統性問題，或有機會影響上市進程。</div>
+      
+      <div class="card-meta"><span>07月15日 10:47</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.ifanr.com/1672037?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">
+      <meta itemprop="datePublished" content="2026-07-15T00:34:14Z">
+      <meta itemprop="headline" content="早报｜OpenAI首款硬件曝光/享界G9获批北京L3自动驾驶路测牌照/雷军晒小米机器人进厂打工成绩 - · 小米机器人汽车工厂「实习」4 个月，差 1%「转正」 · 三星、苹果份额逆势增长，全球手机市场第二季度下滑 4% · 1299 元起，REDMI Note 17 系列发布#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。">
+      <div class="card-source"><a href="https://www.ifanr.com/1672037?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">爱范儿</span></a></div>
+      <div class="card-text" itemprop="articleBody">早报｜OpenAI首款硬件曝光/享界G9获批北京L3自动驾驶路测牌照/雷军晒小米机器人进厂打工成绩 - · 小米机器人汽车工厂「实习」4 个月，差 1%「转正」 · 三星、苹果份额逆势增长，全球手机市场第二季度下滑 4% · 1299 元起，REDMI Note 17 系列发布#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</div>
+      
+      <div class="card-meta"><span>07月15日 00:34</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/">
+      <meta itemprop="datePublished" content="2026-07-15T00:27:04Z">
+      <meta itemprop="headline" content="OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B - The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.">
+      <div class="card-source"><a href="https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">TechCrunch</span></a></div>
+      <div class="card-text" itemprop="articleBody">OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B - The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.</div>
+      <div class="card-translated">OpenAI 研究员 Miles Wang 正在洽谈创办估值 20 亿美元的人工智能药物发现初创公司 - 融资讨论表明投资者对应用人工智能在生命科学领域取得突破的兴趣。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月15日 00:27</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/">
+      <meta itemprop="datePublished" content="2026-07-14T23:10:02Z">
+      <meta itemprop="headline" content="Lorde says AI glasses are ‘not sexy’ - &quot;Increasingly in our world, it gets harder and harder to know what is real,&quot; Lorde said onstage.">
+      <div class="card-source"><a href="https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">TechCrunch</span></a></div>
+      <div class="card-text" itemprop="articleBody">Lorde says AI glasses are ‘not sexy’ - &quot;Increasingly in our world, it gets harder and harder to know what is real,&quot; Lorde said onstage.</div>
+      <div class="card-translated">洛德说人工智能眼镜“并不性感”——“在我们的世界里，越来越难知道什么是真实的，”洛德在台上说。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月14日 23:10</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/">
+      <meta itemprop="datePublished" content="2026-07-14T22:22:24Z">
+      <meta itemprop="headline" content="OpenAI’s first hardware device is reportedly a screenless speaker that can move - The device is weirdly described as involving &quot;mechanical elements that can move on their own&quot; and the Bloomberg report">
+      <div class="card-source"><a href="https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">TechCrunch</span></a></div>
+      <div class="card-text" itemprop="articleBody">OpenAI’s first hardware device is reportedly a screenless speaker that can move - The device is weirdly described as involving &quot;mechanical elements that can move on their own&quot; and the Bloomberg report includes the detail that the device is designed to &quot;feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.&quot;</div>
+      <div class="card-translated">据报道，OpenAI 的第一款硬件设备是一款可以移动的无屏幕扬声器——该设备被奇怪地描述为“可以自行移动的机械元件”，彭博社的报告详细介绍了该设备的设计细节，“感觉就像一个伴侣，并成为 OpenAI 的 ChatGPT 的物理表现”。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月14日 22:22</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/">
+      <meta itemprop="datePublished" content="2026-07-14T22:07:42Z">
+      <meta itemprop="headline" content="OpenAI pushes back on Apple trade secret lawsuit - OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.">
+      <div class="card-source"><a href="https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">TechCrunch</span></a></div>
+      <div class="card-text" itemprop="articleBody">OpenAI pushes back on Apple trade secret lawsuit - OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.</div>
+      <div class="card-translated">OpenAI 反击苹果商业秘密诉讼 - OpenAI 就该诉讼发表了另一份声明，这一次表明该诉讼缺乏法律依据。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月14日 22:07</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/">
+      <meta itemprop="datePublished" content="2026-07-14T21:03:29Z">
+      <meta itemprop="headline" content="NASA Invites Media to Serbia Artemis Accords Signing Ceremony - The Republic of Serbia will sign the Artemis Accords at 5 p.m. EDT Thursday, July 16, during a ceremony at NASA Headquarters in Washingt">
+      <div class="card-source"><a href="https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">NASA</span></a></div>
+      <div class="card-text" itemprop="articleBody">NASA Invites Media to Serbia Artemis Accords Signing Ceremony - The Republic of Serbia will sign the Artemis Accords at 5 p.m. EDT Thursday, July 16, during a ceremony at NASA Headquarters in Washington. NASA Deputy Administrator Matt Anderson will host Serbia’s Minister of Foreign Affairs Marko Đurić and U.S. State Department&amp;#160;Assistant Secretary for Oceans and International Environmental and Scientific Affairs Wesley&amp;#160;Brooks&amp;#160;for the ceremony. This [&amp;#8230;]</div>
+      <div class="card-translated">NASA 邀请媒体参加塞尔维亚阿耳忒弥斯协议签署仪式 - 塞尔维亚共和国将于下午 5 点签署阿耳忒弥斯协议美国东部时间 7 月 16 日星期四，在华盛顿 NASA 总部举行的仪式上。美国宇航局副局长马特·安德森将接待塞尔维亚外交部长马尔科·杜里奇和美国国务院负责海洋和国际环境与科学事务的助理国务卿韦斯利·布鲁克斯出席仪式。这个[&amp;#8230;]<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月14日 21:03</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/">
+      <meta itemprop="datePublished" content="2026-07-14T18:26:02Z">
+      <meta itemprop="headline" content="NASA Astronaut Anil Menon, Crewmates Arrive at Space Station - NASA astronaut Anil Menon, along with Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, arrived safely at the International Space Statio">
+      <div class="card-source"><a href="https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">NASA</span></a></div>
+      <div class="card-text" itemprop="articleBody">NASA Astronaut Anil Menon, Crewmates Arrive at Space Station - NASA astronaut Anil Menon, along with Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, arrived safely at the International Space Station Tuesday, bringing the orbiting laboratory’s crew to 10 for about the next two weeks. The trio launched aboard the Soyuz MS-29 spacecraft at 10:47 a.m. EDT (7:47 p.m. local time) from the Baikonur Cosmodrome in [&amp;#8230;]</div>
+      <div class="card-translated">美国国家航空航天局 (NASA) 宇航员阿尼尔·梅农 (Anil Menon) 及其宇航员抵达空间站 - 美国国家航空航天局 (NASA) 宇航员阿尼尔·梅农 (Anil Menon) 与俄罗斯航天局 (Roscosmos) 宇航员彼得·杜布罗夫 (Pyotr Dubrov) 和安娜·基基纳 (Anna Kikina) 于周二安全抵达国际空间站，在接下来的两周内，轨道实验室的宇航员人数将达到 10 人。三人组于美国东部时间上午 10 点 47 分（当地时间下午 7 点 47 分）搭乘联盟号 MS-29 飞船从拜科努尔航天发射场发射升空。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月14日 18:26</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/">
+      <meta itemprop="datePublished" content="2026-07-14T18:06:33Z">
+      <meta itemprop="headline" content="Hubble Sees Crimson Cloud and Stars - Blue and white stars shine brilliantly against a crimson background of glowing gas in this July 3, 2026, image of stellar nursery LH 95 from NASA’s&amp;#160;Hubble Sp">
+      <div class="card-source"><a href="https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">NASA</span></a></div>
+      <div class="card-text" itemprop="articleBody">Hubble Sees Crimson Cloud and Stars - Blue and white stars shine brilliantly against a crimson background of glowing gas in this July 3, 2026, image of stellar nursery LH 95 from NASA’s&amp;#160;Hubble Space Telescope. LH 95 is a region in the&amp;#160;Large Magellanic Cloud, a dwarf galaxy that orbits the Milky Way. Low-mass infant stars live alongside massive blue giant stars in [&amp;#8230;]</div>
+      <div class="card-translated">哈勃看到深红色云和恒星 - 在这张 2026 年 7 月 3 日由 NASA 哈勃太空望远镜拍摄的恒星苗圃 LH 95 图像中，蓝色和白色恒星在炽热气体的深红色背景下闪闪发光。 LH 95 是大麦哲伦星云中的一个区域，大麦哲伦星云是一个绕银河系运行的矮星系。低质量婴儿恒星与巨大的蓝巨星一起生活在[&amp;#8230;]<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>07月14日 18:06</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.ifanr.com/1671991?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">
+      <meta itemprop="datePublished" content="2026-07-14T07:42:37Z">
+      <meta itemprop="headline" content="比亚迪王朝大改车型命名规则：L 系列消失，MAX 和 Ultra 将代表旗舰 - 起名也是一种艺术。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。">
+      <div class="card-source"><a href="https://www.ifanr.com/1671991?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">爱范儿</span></a></div>
+      <div class="card-text" itemprop="articleBody">比亚迪王朝大改车型命名规则：L 系列消失，MAX 和 Ultra 将代表旗舰 - 起名也是一种艺术。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</div>
+      
+      <div class="card-meta"><span>07月14日 07:42</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology">
+      <meta itemprop="datePublished" content="2025-01-26T09:00:00Z">
+      <meta itemprop="headline" content="Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out - Apps can add flexibility and freshness to your routine. Just try not to get injured.">
+      <div class="card-source"><a href="https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">WSJ</span></a></div>
+      <div class="card-text" itemprop="articleBody">Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out - Apps can add flexibility and freshness to your routine. Just try not to get injured.</div>
+      <div class="card-translated">应用程序可以取代私人教练吗？我测试了近十二个应用程序来找出答案 - 应用程序可以为您的日常生活增添灵活性和新鲜感。只是尽量不要受伤。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>01月26日 14:00</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology">
+      <meta itemprop="datePublished" content="2025-01-27T13:17:00Z">
+      <meta itemprop="headline" content="What to Know About China&#x27;s DeepSeek AI - The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.">
+      <div class="card-source"><a href="https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">WSJ</span></a></div>
+      <div class="card-text" itemprop="articleBody">What to Know About China&#x27;s DeepSeek AI - The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.</div>
+      <div class="card-translated">关于中国 DeepSeek AI 的了解 - 这家中国新贵表示，它已经以低廉的成本训练了高性能的 AI 模型，而无需使用最先进的芯片。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>01月27日 18:17</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology">
+      <meta itemprop="datePublished" content="2025-01-27T12:28:00Z">
+      <meta itemprop="headline" content="Tech, Media &amp; Telecom Roundup: Market Talk - DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.">
+      <div class="card-source"><a href="https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">WSJ</span></a></div>
+      <div class="card-text" itemprop="articleBody">Tech, Media &amp; Telecom Roundup: Market Talk - DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.</div>
+      <div class="card-translated">技术、媒体和电信综述：市场谈话 - DeepSeek、SoFi 等最新市场谈话涵盖技术、媒体和电信。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>01月27日 17:28</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology">
+      <meta itemprop="datePublished" content="2025-01-27T09:36:00Z">
+      <meta itemprop="headline" content="Silicon Valley Is Raving About a Made-in-China AI Model - DeepSeek is called “amazing and impressive” despite working with less-advanced chips.">
+      <div class="card-source"><a href="https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">WSJ</span></a></div>
+      <div class="card-text" itemprop="articleBody">Silicon Valley Is Raving About a Made-in-China AI Model - DeepSeek is called “amazing and impressive” despite working with less-advanced chips.</div>
+      <div class="card-translated">硅谷对中国制造的人工智能模型赞不绝口——尽管 DeepSeek 使用的是不太先进的芯片，但仍被称为“令人惊叹且令人印象深刻”。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>01月27日 14:36</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology">
+      <meta itemprop="datePublished" content="2025-01-27T08:00:00Z">
+      <meta itemprop="headline" content="Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup - The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.">
+      <div class="card-source"><a href="https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">WSJ</span></a></div>
+      <div class="card-text" itemprop="articleBody">Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup - The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.</div>
+      <div class="card-translated">Reid Hoffman 为人工智能癌症研究初创公司筹集了 2460 万美元资金 - 这位 LinkedIn 联合创始人正在与《万病之王》作者 Siddhartha Mukherjee 一起创办 Manas AI。<span class="translated-label">（翻译）</span></div>
+      <div class="card-meta"><span>01月27日 13:00</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://36kr.com/p/3896755010963333?f=rss">
+      <meta itemprop="datePublished" content="2026-07-15T10:47:59Z">
+      <meta itemprop="headline" content="下一代AI原生UGC平台，藏在《蛋仔派对》里 - 2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完成项目内容，成员仅有1-3人的微型团队。 但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。 AI&amp;nbsp;技术的普及，正在持续重构内容创作的生产力边界。原本需要">
+      <div class="card-source"><a href="https://36kr.com/p/3896755010963333?f=rss" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">36氪</span></a></div>
+      <div class="card-text" itemprop="articleBody">下一代AI原生UGC平台，藏在《蛋仔派对》里 - 2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完成项目内容，成员仅有1-3人的微型团队。 但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。 AI&amp;nbsp;技术的普及，正在持续重构内容创作的生产力边界。原本需要专业团队完成的开发工作，如今个体创作者借助工具就能实现。这一趋势在游戏&amp;nbsp;UGC&amp;nbsp;领域体现得尤为明显：普通用户不再只是内容消费者，也能成为游戏玩法的开发者。 只不过，过去的UGC&amp;nbsp;创作者大多停留在&amp;nbsp;「用爱发电」&amp;nbsp;的业余阶段，受限于工具能力与变现空间，很难成长为真正意义上的微型创业主体。直到&amp;nbsp;AI&amp;nbsp;的深度渗透，让这层天花板开始松动。 上周末，网易《蛋仔派对》举办了第四届创作者大会，在公布了自己在UGC生态成果的同时，正式推出行业首个同时覆盖帧同步与状态同步的UGC编辑器体——「双子星」编辑器体系，并进一步升级AI能力在创作全链路</div>
+      
+      <div class="card-meta"><span>07月15日 10:47</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://36kr.com/p/3896720584738435?f=rss">
+      <meta itemprop="datePublished" content="2026-07-15T10:47:59Z">
+      <meta itemprop="headline" content="支付宝不想做AI时代的配角 - 作者&amp;nbsp;|&amp;nbsp;王晗玉 编辑&amp;nbsp;|&amp;nbsp;张帆 支付宝首页调出AI界面，对话框取代了密密麻麻的小程序；用户对着“阿宝”说一句“找附近的奶茶优惠券”，周边门店的活动自动匹配好，核销下单一步完成。 最近，支付宝完成了上线22年来最大一次改版。 本月初，AI版支付宝“阿宝”正式开启全量公测，几乎同一时间，微信支付“AI专属卡”也在智能体WorkB">
+      <div class="card-source"><a href="https://36kr.com/p/3896720584738435?f=rss" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">36氪</span></a></div>
+      <div class="card-text" itemprop="articleBody">支付宝不想做AI时代的配角 - 作者&amp;nbsp;|&amp;nbsp;王晗玉 编辑&amp;nbsp;|&amp;nbsp;张帆 支付宝首页调出AI界面，对话框取代了密密麻麻的小程序；用户对着“阿宝”说一句“找附近的奶茶优惠券”，周边门店的活动自动匹配好，核销下单一步完成。 最近，支付宝完成了上线22年来最大一次改版。 本月初，AI版支付宝“阿宝”正式开启全量公测，几乎同一时间，微信支付“AI专属卡”也在智能体WorkBuddy中落地。 进入2026年以来，从头部平台到各家支付机构密集亮出AI底牌，支付行业的智能体竞争悄然开场。 从“用完即走”到“主动来聊” 伴随AI化进程，支付APP第一次出现了非工具属性的用户行为。 在AI版本开启内测后，支付宝相关人士告诉36氪，在此期间一个现象让团队意外：很多用户打开阿宝不是为了办事，而是单纯来“遛”它——比如闲聊、问脑洞问题、测试各种反应等。“‘阿宝’的活人感增加了用户的沟通兴趣，很多人来‘遛’阿宝，这个我们也挺意外。在传统版支付宝，这个是不太可能发生的。” 这是一个标志性的信号。 过去十年，支付APP的核心诉求是“高效、无感、用完即走”，用户停留时间越短，说明体验越</div>
+      
+      <div class="card-meta"><span>07月15日 10:47</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://36kr.com/p/3896639400183687?f=rss">
+      <meta itemprop="datePublished" content="2026-07-15T10:47:59Z">
+      <meta itemprop="headline" content="越过湖畔，AI在阳澄湖半岛「跑进」真实生活 - 7月3日-7月4日，「越过湖畔 进化新生」首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园区圆满举行。 这个夏天，阳澄湖畔的吸引力有了新的注脚。 对AI创业者和OPC来说，阳澄湖半岛不只是一个风景秀丽的度假胜地。这里拥有50公里湖岸线、8平方公里生态内湖，也有比斯特购物村、酒店群、网球中心、康养社区、宠物友好空间等高频线下场景。更重要的是，2025年阳">
+      <div class="card-source"><a href="https://36kr.com/p/3896639400183687?f=rss" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">36氪</span></a></div>
+      <div class="card-text" itemprop="articleBody">越过湖畔，AI在阳澄湖半岛「跑进」真实生活 - 7月3日-7月4日，「越过湖畔 进化新生」首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园区圆满举行。 这个夏天，阳澄湖畔的吸引力有了新的注脚。 对AI创业者和OPC来说，阳澄湖半岛不只是一个风景秀丽的度假胜地。这里拥有50公里湖岸线、8平方公里生态内湖，也有比斯特购物村、酒店群、网球中心、康养社区、宠物友好空间等高频线下场景。更重要的是，2025年阳澄湖半岛接待游客量达到950万人次。这意味着，这里本身就是一个足够真实、足够丰富，也足够开放的流量场。 AI产品好不好用？用户愿不愿意停下来体验？场景方是否愿意继续合作？这些问题很难只靠PPT回答，AI应用需要在线下社区和商业街区中反复测试，才能变得越来越成熟。 阳澄湖半岛的价值，也正在这里显现。游客会为一次新鲜体验停下脚步，运动爱好者愿意尝试新的训练方式，亲子家庭、爱宠人士、康养人群、酒店住客等人群，则构成了更多元的生活切面。对一家AI企业而言，这样的场景才能真正产生有价值的反馈。 从更大的行业背景看，AI正在从“能不能做出来”，走向“能不能用起来”。文旅、运动、康养、宠物这些日常场景，恰恰</div>
+      
+      <div class="card-meta"><span>07月15日 10:47</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://36kr.com/p/3896544104793993?f=rss">
+      <meta itemprop="datePublished" content="2026-07-15T10:47:59Z">
+      <meta itemprop="headline" content="四大一线城市房价继续修复上涨 - 7月15日，国家统计局公布《6月份70个大中城市商品住宅销售价格变动情况》，统计数据显示，一线城市新房、二手房价格继续整体环比上涨，维持修复回暖信号。 自2026年3月以来，一线城市新房和二手房销售价格指数已经连续上涨四个月。6月份，一线城市新建商品住宅销售价格涨幅有回落态势，环比上涨0.1%，涨幅比上月回落了0.1个百分点。其中，北京是唯一一个房价继续环比下降的">
+      <div class="card-source"><a href="https://36kr.com/p/3896544104793993?f=rss" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">36氪</span></a></div>
+      <div class="card-text" itemprop="articleBody">四大一线城市房价继续修复上涨 - 7月15日，国家统计局公布《6月份70个大中城市商品住宅销售价格变动情况》，统计数据显示，一线城市新房、二手房价格继续整体环比上涨，维持修复回暖信号。 自2026年3月以来，一线城市新房和二手房销售价格指数已经连续上涨四个月。6月份，一线城市新建商品住宅销售价格涨幅有回落态势，环比上涨0.1%，涨幅比上月回落了0.1个百分点。其中，北京是唯一一个房价继续环比下降的城市，降幅为0.3%，上海、广州和深圳分别上涨0.3%、0.2%和0.3%。 来源：统计局 二手房也出现相同趋势，6月份，一线城市二手住宅销售价格环比上涨0.3%，涨幅比上月回落0.1个百分点。其中，北京、上海、广州和深圳分别上涨0.1%、0.4%、0.4%和0.3%。 但从整体上来看，全国70个大中城市楼市出现清晰的筑底修复信号。6月份，70个大中城市中，新建商品住宅销售价格环比上涨城市有20个，比上月增加4个，为2025年5月以来最多。二线城市回暖面扩大，住宅销售价格环比由上月下降0.1%转为持平，杭州、徐州、沈阳等城市环比涨幅领先。 来源：统计局 58安居客研究院院长张波分析认为，一线城</div>
+      
+      <div class="card-meta"><span>07月15日 10:47</span></div>
+    </article>    <article class="card" itemscope itemtype="https://schema.org/NewsArticle">
+      <meta itemprop="url" content="https://36kr.com/p/3885699885445122?f=rss">
+      <meta itemprop="datePublished" content="2026-07-15T10:47:59Z">
+      <meta itemprop="headline" content="优衣库再失一枚棋子 - 上周的Lemaire大秀选在巴士底歌剧院一座尚未完工的音乐厅里举行，而在秀场之外，一桩足以改写另一家时尚公司设计版图的变动正在酝酿。 资深时尚记者Lauren Sherman近日在行业媒体PUCK披露，Christophe Lemaire与Sarah-Linh Tran计划退出优衣库Uniqlo U系列，2026秋冬系列或将成为两人与优衣库合作十年的收官之作。 她同时透露，">
+      <div class="card-source"><a href="https://36kr.com/p/3885699885445122?f=rss" target="_blank" rel="noopener" itemprop="author" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">36氪</span></a></div>
+      <div class="card-text" itemprop="articleBody">优衣库再失一枚棋子 - 上周的Lemaire大秀选在巴士底歌剧院一座尚未完工的音乐厅里举行，而在秀场之外，一桩足以改写另一家时尚公司设计版图的变动正在酝酿。 资深时尚记者Lauren Sherman近日在行业媒体PUCK披露，Christophe Lemaire与Sarah-Linh Tran计划退出优衣库Uniqlo U系列，2026秋冬系列或将成为两人与优衣库合作十年的收官之作。 她同时透露，迅销集团对Lemaire同名品牌的持股已经下调。迅销内部曾讨论U系列能否在没有两位设计师的情况下独立存续，但这一提议被柳井正本人否决了。截至发稿，Lemaire与迅销均拒绝置评。Sherman也提醒：“未来几个月情况可能会有变化。” 优衣库与德国设计师Jil Sander合作的+J系列未能长期延续，曾是柳井正心目中的“巨大遗憾”。U系列谢幕消息虽尚未落定，行业内部人士已普遍预期这段合作将走向终点——一段持续了整整十年、被行业观察者形容为“既坚定又互利”的关系。 一场各取所需的十年联姻 Uniqlo U的前身，是2015年的联名项目“Uniqlo and Lemaire”。初次试水一炮而红，20</div>
+      
+      <div class="card-meta"><span>07月15日 10:47</span></div>
+    </article>
     </div>
   </main>
 
   <footer>
     <div class="container footer-inner">
-      <p>&copy; 2026 <a href="/">IanNews</a> · 数据来源公开 RSS · <a href="/rss.xml">RSS</a> · <a href="/atom.xml">Atom</a></p>
+      <p>&copy; 2026 <a href="https://iannews.cc/">IanNews</a> · 数据来源公开 RSS · <a href="https://iannews.cc/rss.xml">RSS</a> · <a href="https://iannews.cc/atom.xml">Atom</a></p>
     </div>
   </footer>
 
