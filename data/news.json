@@ -1,13 +1,303 @@
 {
-  "fetchedAt": "2026-07-27T16:36:53Z",
+  "fetchedAt": "2026-07-29T15:36:16Z",
   "articles": [
+    {
+      "id": "rss_TechCrunch_0",
+      "author": "TechCrunch",
+      "text": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners - AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+      "translated": "由玛莎·斯图尔特 (Martha Stewart) 共同创立的人工智能初创公司 Hint，为房主提供人工智能助手 - 由玛莎·斯图尔特 (Martha Stewart) 共同创立的人工智能家居管理初创公司 Hint，希望成为“家庭人工智能”，将财产记录、维护计划、家庭文件和人工智能助手整合到一个应用程序中。",
+      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+      "createdAt": "Wed, 29 Jul 2026 15:35:09 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_0",
+      "author": "NASA",
+      "text": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures - As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission scientists: honeycomb-like textures called polygonal fractures, each one about 1.5 to 3 inches (4 to 8 centimeters) across. The mission has spotted small patches of these geometric shapes several times [&#8230;]",
+      "translated": "NASA 的好奇号火星探测器发现了蜂窝状纹理区域——当 NASA 的好奇号火星车最近开始爬上一个绰号为“Valle Grande”的火星山谷时，它发回了任务科学家所熟悉的图像：被称为多边形裂缝的蜂窝状纹理，每个纹理的宽度约为 1.5 至 3 英寸（4 至 8 厘米）。该任务已多次发现这些几何形状的小块[&#8230;]",
+      "url": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
+      "createdAt": "Wed, 29 Jul 2026 15:30:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_1",
+      "author": "NASA",
+      "text": "Understanding How Martian Auroras Are Made - This July 23, 2026, illustration depicts charged particles from a solar storm stripping away charged particles of Mars&#8217; atmosphere, one of the processes of Martian atmosphere loss studied by NASA&#8217;s MAVEN (Mars Atmosphere and Volatile Evolution) mission. NASA MAVEN mission scientists have found that certain types of auroras on Mars form in a similar way [&#8230;]",
+      "translated": "了解火星极光是如何形成的 - 2026 年 7 月 23 日，插图描绘了太阳风暴中的带电粒子剥离了火星极光的带电粒子。大气，这是美国宇航局 MAVEN（火星大气和挥发性演化）任务研究的火星大气损失过程之一。 NASA MAVEN 任务科学家发现火星上某些类型的极光以类似的方式形成[&#8230;]",
+      "url": "https://www.nasa.gov/image-article/understanding-how-martian-auroras-are-made/",
+      "createdAt": "Wed, 29 Jul 2026 15:20:28 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_SCMP_0",
+      "author": "SCMP",
+      "text": "Fauci refuses to answer questions at heated Senate hearing on Covid-19 origins - Anthony Fauci repeatedly invoked his constitutional right against self-incrimination at a contentious US Senate hearing on Wednesday, refusing to answer questions about American funding for coronavirus research in China and allegations that he misled Congress about the origins of Covid-19. The extraordinary appearance reopened one of Washington’s most politically divisive disputes: whether the pandemic began through",
+      "translated": "福奇拒绝在激烈的参议院听证会上回答有关Covid-19起源的问题——周三，安东尼·福奇在一场有争议的美国参议院听证会上多次援引宪法规定的反对自证其罪的权利，拒绝回答有关美国资助中国冠状病毒研究的问题，以及有关他在Covid-19起源问题上误导国会的指控。这一非同寻常的出现重新引发了华盛顿最具政治分歧的争议之一：这场大流行是通过动物自然传播还是武汉的实验室相关事件开始的，以及……",
+      "url": "https://www.scmp.com/news/us/article/3362306/fauci-refuses-answer-questions-heated-senate-hearing-covid-19-origins?utm_source=rss_feed",
+      "createdAt": "Wed, 29 Jul 2026 15:08:40 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_1",
+      "author": "TechCrunch",
+      "text": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work - Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.",
+      "translated": "曾在 Comet 工作的 Perplexity 员工推出了一款针对知识型工作的 AI 浏览器 - Polar 也推出了一款针对知识型工作者的 AI 优先浏览器，目前已经筹集了由 Madrona 领投的 570 万美元种子轮融资。",
+      "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
+      "createdAt": "Wed, 29 Jul 2026 15:00:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC_2",
+      "author": "BBC",
+      "text": "Serial killer given whole life orders for murders of two men as police investigate four more deaths - Police are reviewing four unexplained deaths at a homeless shelter where James Desborough stayed.",
+      "translated": "连环杀手被判处终身谋杀两名男子，警方正在调查另外四起死亡事件 - 警方正在审查詹姆斯·德斯伯勒所在的无家可归者收容所发生的四起不明原因的死亡事件。",
+      "url": "https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 29 Jul 2026 14:56:48 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_2",
+      "author": "TechCrunch",
+      "text": "Encore AI raises $30M to build AI agents that learn from customer calls - The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+      "translated": "Encore AI 筹集了 3000 万美元，用于构建能够从客户呼叫中学习的人工智能代理 - 该初创公司分析呼叫、消息和 CRM 数据，以确定有效的销售技巧，并将其转化为人工智能代理的剧本。",
+      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "createdAt": "Wed, 29 Jul 2026 14:41:06 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC_0",
+      "author": "BBC",
+      "text": "More than half of England in drought, Environment Agency declares - The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
+      "translated": "环境署宣布，超过一半的英格兰地区处于干旱状态 - 干旱声明是在异常炎热和干燥的时期之后发生的，这对河流、农作物和自然造成了影响。",
+      "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 29 Jul 2026 14:37:30 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC_1",
+      "author": "BBC",
+      "text": "Burnham doesn't rule out tax rises to fix social care - The prime minister holds cross-party talks as he speeds up review of social care in England.",
+      "translated": "伯纳姆不排除通过增税来解决社会保障问题——首相在加快审查英格兰社会保障的同时举行了跨党派会谈。",
+      "url": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 29 Jul 2026 14:13:12 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_SCMP_1",
+      "author": "SCMP",
+      "text": "Is China’s biotech boom at risk? Fear of policy backlash after death in gene-editing trial - The death of a six-year-old girl after receiving an experimental gene-editing therapy has been described by scientists as a tragedy that highlights the need to improve trial safeguards. But some in the biotechnology industry fear Chinese policymakers may curtail the regulatory flexibility that scientists have long enjoyed in initiating clinical trials – a key mechanism behind China’s competitive edge in ",
+      "translated": "中国的生物技术繁荣面临风险吗？基因编辑试验死亡后担心政策反弹——一名六岁女孩在接受实验性基因编辑疗法后死亡，被科学家描述为一场悲剧，这凸显了改善试验保障措施的必要性。但生物技术行业的一些人士担心，中国政策制定者可能会削弱科学家长期以来在启动临床试验方面享有的监管灵活性——这是中国在前沿治疗领域竞争优势背后的关键机制。 “我希望这场悲剧不会对……产生持久的负面影响。",
+      "url": "https://www.scmp.com/news/china/science/article/3362253/chinas-biotech-boom-risk-fear-policy-backlash-after-death-gene-editing-trial?utm_source=rss_feed",
+      "createdAt": "Wed, 29 Jul 2026 14:00:14 +0000",
+      "likes": null,
+      "retweets": null
+    },
     {
       "id": "rss_NASA_2",
       "author": "NASA",
-      "text": "NASA Astronaut Chris Williams, Crewmates Return from Space Station - Concluding an eight-month science mission aboard the International Space Station, NASA astronaut Chris Williams returned to Earth on Sunday alongside Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev. The crew made its safe, parachute-assisted landing at 5:27 a.m. CDT (3:27 p.m., Kazakhstan time), southeast of Dzhezkazgan, after departing the space station at 2:03 a.m., aboard the [&#8230;]",
-      "translated": "美国宇航局宇航员克里斯·威廉姆斯和宇航员从空间站返回——美国宇航局宇航员克里斯·威廉姆斯结束了在国际空间站上为期八个月的科学任务，周日与俄罗斯航天局宇航员谢尔盖·库德-斯维尔奇科夫和谢尔盖·米卡耶夫一起返回地球。机组人员于凌晨 2 点 03 分离开空间站，搭乘 [&#8230;]",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/",
-      "createdAt": "Sun, 26 Jul 2026 10:59:44 +0000",
+      "text": "NASA Webb Explores Family Tree of Newly Discovered Distant Objects - Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots (LRDs) have been the subject of great interest to astronomers. Understanding the nature of these extremely distant, compact red sources has been a puzzling scientific endeavor. One popular theory is that little red dots are supermassive black holes known as active […]",
+      "translated": "NASA 韦伯探索新发现的遥远天体的家谱 - 自从 NASA 的詹姆斯韦伯太空望远镜于 2022 年发现小红点 (LRD) 以来，小红点 (LRD) 一直是天文学家非常感兴趣的主题。了解这些极其遥远、致密的红色光源的本质一直是一项令人费解的科学努力。一种流行的理论是，小红点是被称为活跃的超大质量黑洞[…]",
+      "url": "https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
+      "createdAt": "Wed, 29 Jul 2026 14:00:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_3",
+      "author": "NASA",
+      "text": "Contractor to Civil Servant: NASA Welcomes Ray Williams - Ray Williams’ progression at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has uniquely prepared him for his new role. As part of NASA’s plan to restore core competencies by converting contractors to civil service, the New Orleans native and Grambling State University graduate now works as a supervisor for test operations support at [&#8230;]",
+      "translated": "公务员承包商：美国宇航局欢迎雷·威廉姆斯——雷·威廉姆斯在密西西比州圣路易斯湾附近的美国宇航局斯坦尼斯航天中心的进展，为他适应新的角色做好了独特的准备。作为美国宇航局通过将承包商转变为公务员来恢复核心能力的计划的一部分，这位新奥尔良本地人和格兰布林州立大学毕业生现在在[&#8230;]担任测试操作支持主管。",
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-ray-williams/",
+      "createdAt": "Wed, 29 Jul 2026 13:32:50 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_SCMP_2",
+      "author": "SCMP",
+      "text": "Scalpers snap up local paper after profile on Fields winner Wang Hong goes viral - Copies of the official paper of the Guangxi Zhuang Autonomous Region Committee of the Communist Party of China are not usually a hot commodity. But the Saturday edition of Guangxi Daily became an overnight collector’s item after its front-page story on Wang Hong – who last week received the prestigious Fields Medal alongside her compatriot Deng Yu – went viral online. Wang, who hails from the southern region, took",
+      "translated": "菲尔兹奖得主王宏的简介疯传后，黄牛抢购当地报纸 - 中国共产党广西壮族自治区委员会的官方文件通常不是热门商品。但《广西日报》周六版的头版报道王红——上周与同胞邓宇一起荣获著名的菲尔兹奖——在网上疯传，一夜之间成为收藏品。 7月23日，来自南方地区的王获得了40岁以下数学家的最高荣誉。",
+      "url": "https://www.scmp.com/news/china/science/article/3362289/scalpers-snap-local-paper-after-profile-fields-winner-wang-hong-goes-viral?utm_source=rss_feed",
+      "createdAt": "Wed, 29 Jul 2026 13:30:08 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_SCMP_3",
+      "author": "SCMP",
+      "text": "Can the US fend off China’s subsea drones? Its coastguard looks for answers - As the Chinese military expands its autonomous underwater capabilities, the US Coast Guard is seeking new ways to counter undersea drones, highlighting what analysts describe as a gap in America’s defence. The law enforcement agency said it was requesting information on commercially available systems capable of detecting, tracking and disabling unmanned underwater vehicles (UUVs). While the July 24 notice does not ment",
+      "translated": "美国能抵御中国的海底无人机吗？美国海岸警卫队正在寻找答案——随着中国军队扩大水下自主能力，美国海岸警卫队正在寻找对抗水下无人机的新方法，这凸显了分析人士所说的美国国防方面的差距。该执法机构表示，正在要求提供能够检测、跟踪和禁用无人水下航行器（UUV）的商用系统的信息。虽然 7 月 24 日的通知没有提及中国，但距离北京公布几艘无人驾驶飞机还不到一年……",
+      "url": "https://www.scmp.com/news/china/military/article/3362267/can-us-fend-chinas-subsea-drones-its-coastguard-looks-answers?utm_source=rss_feed",
+      "createdAt": "Wed, 29 Jul 2026 13:00:10 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_3",
+      "author": "TechCrunch",
+      "text": "DoorDash is building its own drone delivery business - DoorDash has received FAA approval to operate a commercial drone delivery service in the United States.",
+      "translated": "DoorDash 正在建立自己的无人机送货业务 - DoorDash 已获得美国联邦航空管理局 (FAA) 批准在美国运营商业无人机送货服务。",
+      "url": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
+      "createdAt": "Wed, 29 Jul 2026 13:00:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC_4",
+      "author": "BBC",
+      "text": "Boy, 7, dies in hospital after beach tragedy - Musa Ahmed is the third person to die after getting into difficulty in the water last Wednesday.",
+      "translated": "7 岁男孩在海滩悲剧后在医院死亡 - 穆萨·艾哈迈德 (Musa Ahmed) 是上周三在水中陷入困境后第三个死亡的人。",
+      "url": "https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 29 Jul 2026 12:42:14 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_SCMP_4",
+      "author": "SCMP",
+      "text": "Philippine defence chief warns Chinese teaching exchanges pose grey-zone threat - Philippine Defence Secretary Gilberto Teodoro Jnr has urged greater vigilance over academic exchange programmes with China following reports that language teachers in Manila had been trained by a Chinese university at the centre of a recent controversy over the Batanes Islands. Speaking in Manila on Wednesday, Teodoro cautioned that foreign-linked educational initiatives risked being exploited as conduits for grey-",
+      "translated": "菲律宾国防部长警告中国教学交流构成灰色地带威胁——有报道称，马尼拉的语言教师曾接受过最近巴丹群岛争议中心的一所中国大学的培训，菲律宾国防部长吉尔伯托·特奥多罗敦促对与中国的学术交流项目更加警惕。特奥多罗周三在马尼拉发表讲话时警告说，与外国有关的教育举措可能会被利用为灰色地带影响力和国家支持的虚假信息的渠道。他的言论是在一份报告之后发表的……",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3362291/philippine-defence-chief-warns-chinese-teaching-exchanges-pose-grey-zone-threat?utm_source=rss_feed",
+      "createdAt": "Wed, 29 Jul 2026 12:30:30 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_4",
+      "author": "BBC中文",
+      "text": "OpenAI：失控AI曾試圖入侵其他公司系統 - 這個失控的AI找到四組登入憑證，令它能夠存取多個未具名的網上服務。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/c39ezlgpyx0o/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 29 Jul 2026 12:14:14 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_4",
+      "author": "TechCrunch",
+      "text": "Fast Metals is treating waste with more waste to extract critical minerals - Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit.",
+      "translated": "Fast Metals 正在用更多的废物来处理废物，以提取关键矿物质 - 铝生产给世界带来了数十亿吨的腐蚀性废物。一家初创公司制定了一项清理并扭亏为盈的计划。",
+      "url": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
+      "createdAt": "Wed, 29 Jul 2026 12:00:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_0",
+      "author": "爱范儿",
+      "text": "还没上市就被「网暴」，小米澎程 N90 能加 92，得罪了谁？ - 当小米每一张海报都要接受「审讯」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "translated": "",
+      "url": "https://www.ifanr.com/1673400?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Wed, 29 Jul 2026 11:49:38 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_1",
+      "author": "爱范儿",
+      "text": "苹果这块 AI 屏幕，想让 Siri 接管你家的一切 - 苹果这次能重新定义「家庭中枢」吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "translated": "",
+      "url": "https://www.ifanr.com/1673412?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Wed, 29 Jul 2026 11:42:46 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_3",
+      "author": "BBC中文",
+      "text": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」 - 美國和中國正陷入一場爭奪全球機械人與人工智能領導地位的競賽。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/c3ekn91y5j5o/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 29 Jul 2026 11:14:21 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_2",
+      "author": "BBC中文",
+      "text": "四名女性指控傑瑞德·萊托涉及刑事不當性行為 - 這名演員兼音樂人合共面對10名女性的指控。她們表示，自己在青少年時期曾遭他不當對待。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/c36d5l57e7no/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 29 Jul 2026 10:35:20 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_1",
+      "author": "BBC中文",
+      "text": "日本熊本縣發生6.8級地震，這是目前已知的情況 - 日本九州島發生強烈地震，目前災情嚴重。以下是我們目前所了解的情況。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2jxz2xdw4o/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 29 Jul 2026 07:08:24 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC_3",
+      "author": "BBC",
+      "text": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers - The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+      "translated": "四名女性指控杰瑞德·莱托 (Jared Leto) 在青少年时期有性犯罪行为 - 这位演员兼音乐家面临总共 10 名女性的指控，这些女性称他在青少年时期虐待了她们。",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 29 Jul 2026 05:00:07 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_4",
+      "author": "NASA",
+      "text": "Sizing Up the Sargassum Belt - Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in June 2026, with the Caribbean Sea and Gulf of America both reaching all-time highs.",
+      "translated": "评估马尾藻带 - 构成大大西洋马尾藻带的海藻在 2026 年 6 月达到接近历史最高水平，加勒比海和美洲湾均达到历史最高水平。",
+      "url": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/",
+      "createdAt": "Wed, 29 Jul 2026 04:00:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_2",
+      "author": "爱范儿",
+      "text": "刚过保就鼓包！家用车的电池，扛不住网约车的强度 - 电池大考，网约车提前交卷。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "translated": "",
+      "url": "https://www.ifanr.com/1673315?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Wed, 29 Jul 2026 03:54:13 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_3",
+      "author": "爱范儿",
+      "text": "车长超 5.3 米！奥迪全新 Q9 海外上市，大六座市场又添「9 系」 - 「灭霸」来了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "translated": "",
+      "url": "https://www.ifanr.com/1673335?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Wed, 29 Jul 2026 03:52:43 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_4",
+      "author": "爱范儿",
+      "text": "早报｜苹果智能家居新品曝光,AI Siri加持/马斯克X钱包在美国上线/携程CEO全员信曝光:诚恳接受处罚 - · 2026 年《财富》世界 500 强排行榜揭晓：亚马逊超沃尔玛登顶，Alphabet 成为最赚钱企业 · 阿里整合钉钉与阿里云资源，内测「千问办公」 · Qoder 上线实时语音智能体 Qoder Voice#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "translated": "",
+      "url": "https://www.ifanr.com/1673331?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Wed, 29 Jul 2026 00:55:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_0",
+      "author": "BBC中文",
+      "text": "中國使領館外牆的政治標語：如何從重慶擴展至全球 - 從重慶到紐約、柏林和悉尼，政治投影近年成為部分海外倡議團體表達政治訴求的新方式。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/crrvd51lnp5o/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 29 Jul 2026 00:22:01 GMT",
       "likes": null,
       "retweets": null
     },
@@ -18,276 +308,6 @@
       "translated": "应用程序可以取代私人教练吗？我测试了近十二个应用程序来找出答案 - 应用程序可以为您的日常生活增添灵活性和新鲜感。只是尽量不要受伤。",
       "url": "https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology",
       "createdAt": "Sun, 26 Jan 2025 09:00:00 -0500",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_爱范儿_3",
-      "author": "爱范儿",
-      "text": "早报｜Claude Opus 5发布,半价追平Fable 5/小鹏人形机器人开启小批量试产/曝英伟达将上调显卡价格 - · 菲尔兹奖得主 Jacob Tsimerman 将加入 OpenAI 安全部门 · 腾讯 WXG 员工因泄露敏感信息被辞退，年末激励约 317 万元 · Patreon 裁减 20% 员工，CEO 强调重组并非因为 AI 替代人类#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "translated": "",
-      "url": "https://www.ifanr.com/1673124?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "createdAt": "Sat, 25 Jul 2026 00:23:18 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_爱范儿_4",
-      "author": "爱范儿",
-      "text": "30.99 万元！岚图发布 FUV 追光 S，预售一小时订单破万 - 但从订单到销量，岚图还有一段路要走。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "translated": "",
-      "url": "https://www.ifanr.com/1673113?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "createdAt": "Sat, 25 Jul 2026 00:14:38 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC_0",
-      "author": "BBC",
-      "text": "Devastating European wildfires in maps - and how they're being tackled - A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
-      "translated": "地图上毁灭性的欧洲野火 - 以及如何应对 - 波尔多附近的一场大火在不到四天内就烧毁了超过 162 平方英里（420 平方公里），而马德里地区正在经历有史以来最严重的火灾。",
-      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Mon, 27 Jul 2026 15:59:27 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC_4",
-      "author": "BBC",
-      "text": "Zelensky visit sends clear message of support for Ukraine, Burnham says - The Ukrainian president became the new prime minister's first international visitor since taking office.",
-      "translated": "伯纳姆表示，泽连斯基的访问发出了支持乌克兰的明确信息——乌克兰总统成为新总理上任以来的第一位国际访客。",
-      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Mon, 27 Jul 2026 15:58:27 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_0",
-      "author": "TechCrunch",
-      "text": "Google’s AI search is rapidly becoming the default, new data shows - Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
-      "translated": "新数据显示，谷歌的人工智能搜索正在迅速成为默认搜索——谷歌的人工智能概述现在出现在 43% 的搜索中，这突显出人工智能生成的答案正以多么快的速度成为人们在线发现信息的默认方式。",
-      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-      "createdAt": "Mon, 27 Jul 2026 15:57:12 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC中文_1",
-      "author": "BBC中文",
-      "text": "胡志偉向BBC談倫敦機場風波：僅獲「入境保釋」，面臨遣返香港 - 因中國《香港國安法》案件被判囚的前民主黨主席胡志偉對BBC中文否認曾提出政治庇護申請，如今對被遣返後能否再次赴英感到徬徨。",
-      "translated": "",
-      "url": "https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/trad?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Mon, 27 Jul 2026 15:43:45 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_1",
-      "author": "TechCrunch",
-      "text": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026  - At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
-      "translated": "增强您的人工智能基础设施！ TechCrunch Disrupt 2026 上的智能系统阶段议程初探 - 在 TechCrunch Disrupt 2026 上，智能系统阶段将是能源、基础设施和技术碰撞的地方，涵盖从融合突破到人工智能给整个经济带来的电网压力等各个方面。",
-      "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-      "createdAt": "Mon, 27 Jul 2026 15:30:00 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_2",
-      "author": "TechCrunch",
-      "text": "This $9 key physically locks your most addictive apps - This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-      "translated": "这把 9 美元的钥匙可以物理锁定您最容易上瘾的应用程序 - 这把 9 美元的 NFC 钥匙需要您对其进行物理扫描才能解锁手机上令人分心的应用程序。",
-      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-      "createdAt": "Mon, 27 Jul 2026 15:25:37 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC_1",
-      "author": "BBC",
-      "text": "Funeral director who left people unburied breached families' trust 'on industrial scale', court hears - The sentencing hearing of Robert Bush hears how the funeral parlour was likened to a \"horror scene\".",
-      "translated": "法庭审理称，未埋葬死者的殡葬承办人“在工业规模上”违反了家人的信任——罗伯特·布什的量刑听证会听到殡仪馆如何被比作“恐怖场景”。",
-      "url": "https://www.bbc.co.uk/news/articles/cp8ek0682jdo?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Mon, 27 Jul 2026 15:04:09 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_3",
-      "author": "TechCrunch",
-      "text": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research - After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
-      "translated": "Ilya Sutskever 的 Safe Superintelligence 与 Nvidia 合作扩大其人工智能研究规模 - 经过两年的秘密研究，Safe Superintelligence 宣布与 Nvidia 建立长期合作伙伴关系，准备扩大到下一阶段。",
-      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-      "createdAt": "Mon, 27 Jul 2026 15:01:50 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_SCMP_0",
-      "author": "SCMP",
-      "text": "Trump, tariffs and ties with China at stake in Brazilian presidential race - With less than three months to go until Brazil’s presidential election, China is closely watching a high-stakes political duel between a Beijing-friendly incumbent and his pro-Washington challenger. Brazilian President Luiz Inacio Lula da Silva, who maintains close ties with Beijing, is seeking a fourth non-consecutive term. His rival, Senator Flavio Bolsonaro – son of former president Jair Bolsonaro, who was jailed las",
-      "translated": "特朗普、关税以及与中国的关系在巴西总统竞选中岌岌可危——距离巴西总统选举还有不到三个月的时间，中国正在密切关注亲北京的现任总统与其亲华盛顿挑战者之间的一场高风险的政治对决。与北京保持密切关系的巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦正在寻求第四个非连续任期。他的竞争对手、参议员弗拉维奥·博尔索纳罗（Flavio Bolsonaro）——前总统雅伊尔·博尔索纳罗（Jair Bolsonaro）的儿子，去年因企图军事政变而入狱——周六被确认为...",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3362030/trump-tariffs-and-ties-china-stake-brazilian-presidential-race?utm_source=rss_feed",
-      "createdAt": "Mon, 27 Jul 2026 15:00:08 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_0",
-      "author": "NASA",
-      "text": "NASA to Cover Three US Spacewalks, Host Preview News Conference - NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar arrays, replace a communications antenna, and connect power and data cables in support of space station operations. Experts will preview the upcoming spacewalks during a news conference at 2 p.m. EDT, Thursday, July 30, [&#8230;]",
-      "translated": "NASA 将报道美国三次太空行走，主持预览新闻发布​​会 - NASA 将在 8 月份的三次太空行走中报道宇航员在国际空间站外冒险的情况，以继续升级太阳能电池阵列、更换通信天线并连接电源和数据电缆，以支持空间站的运行。专家们将在下午 2 点的新闻发布会上预览即将到来的太空行走。美国东部时间，7 月 30 日，星期四，[&#8230;]",
-      "url": "https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
-      "createdAt": "Mon, 27 Jul 2026 14:35:11 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_1",
-      "author": "NASA",
-      "text": "NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down - NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline.",
-      "translated": "NASA 的哈勃望远镜显示仙女座星系中的恒星形成逐渐减少 - NASA 的哈勃发现仙女座星系中的恒星形成已经经历了 5 亿年的减少。",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/",
-      "createdAt": "Mon, 27 Jul 2026 14:00:14 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_SCMP_1",
-      "author": "SCMP",
-      "text": "Why use rare earths in rubber production? Chinese scientists are engineering tougher tyres - Chinese researchers have completed trials of a new rare earth-based synthetic rubber production facility, industrialising a major raw material for manufacturing electric vehicle and heavy-duty vehicle tyres. High-quality synthetic rubber, most of which uses metal as a catalyst during production, is vital to the transport industry, manufacturing and national defence. The unit, built by Xinjiang-based Petr",
-      "translated": "为什么在橡胶生产中使用稀土？中国科学家正在设计更坚固的轮胎——中国研究人员已经完成了新型稀土合成橡胶生产设施的试验，实现了制造电动汽车和重型汽车轮胎的主要原材料的工业化。高质量的合成橡胶在生产过程中大部分使用金属作为催化剂，对运输业、制造业和国防至关重要。该装置由中国石油新疆子公司独山子石化在长春应用研究院的支持下建造。",
-      "url": "https://www.scmp.com/news/china/science/article/3361704/why-use-rare-earths-rubber-production-chinese-scientists-are-engineering-tougher-tyres?utm_source=rss_feed",
-      "createdAt": "Mon, 27 Jul 2026 14:00:06 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC_3",
-      "author": "BBC",
-      "text": "Man jailed for abduction and rape of girl, 15, in Edinburgh basement - Aaron Strachan was told he may never be released from prison after abducting and raping the girl in Edinburgh last year.",
-      "translated": "一名男子因在爱丁堡地下室绑架并强奸 15 岁女孩而入狱 - 亚伦·斯特拉坎 (Aaron Strachan) 去年在爱丁堡绑架并强奸了该女孩后，被告知他可能永远不会出狱。",
-      "url": "https://www.bbc.co.uk/news/articles/c141x6lp8p4o?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Mon, 27 Jul 2026 13:22:22 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_4",
-      "author": "TechCrunch",
-      "text": "Snapchat now lets you share what you’re listening to in real time - Starting with Spotify, Snapchat users will be able to link their accounts, choose who can see their listening activity, and see what their friends are listening to in real time.",
-      "translated": "Snapchat 现在可以让您实时分享您正在收听的内容 - 从 Spotify 开始，Snapchat 用户将能够链接他们的帐户，选择谁可以查看他们的收听活动，并实时查看他们的朋友正在收听的内容。",
-      "url": "https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/",
-      "createdAt": "Mon, 27 Jul 2026 13:00:00 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_SCMP_2",
-      "author": "SCMP",
-      "text": "India is losing its regional primacy as Beijing and Washington move in - South Asia is undergoing a gradual but important shift. Smaller states now command a widening array of options, and India’s primacy is quietly giving way. The lesson is clear. Regional leadership can no longer rest on geography and must be sustained through credible and mutually beneficial engagements that compare favourably with the alternatives. China’s challenge begins at India’s border. Both countries fought in 1962, co",
-      "translated": "随着北京和华盛顿的介入，印度正在失去其地区主导地位——南亚正在经历渐进但重要的转变。小国家现在拥有越来越多的选择，而印度的主导地位正在悄然让位。教训很清楚。区域领导力不能再依赖于地理位置，而必须通过与其他选择相比更有利的可信和互利的接触来维持。中国的挑战始于印度边境。两国在 1962 年交战，在大约 3,500 公里的边界上继续存在争议，并发生了最致命的……",
-      "url": "https://www.scmp.com/opinion/asia-opinion/article/3361501/india-losing-its-regional-primacy-beijing-and-washington-move?utm_source=rss_feed",
-      "createdAt": "Mon, 27 Jul 2026 12:30:07 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC中文_2",
-      "author": "BBC中文",
-      "text": "所羅門群島中資金礦坍塌傳多人死亡　突顯「淘金熱」隱憂 - 中資控股金嶺金礦凌晨坍塌，法新社傳至少10人死亡；非法礦工淘金熱再釀悲劇，凸顯所羅門資源治理困境。",
-      "translated": "",
-      "url": "https://www.bbc.com/zhongwen/articles/cn0n57kynz2o/trad?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Mon, 27 Jul 2026 12:02:43 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_SCMP_3",
-      "author": "SCMP",
-      "text": "Will the heat from a cooking oil scandal help the opposition in Taiwan? - Taipei mayor Wayne Chiang Wan-an has emerged as the biggest political winner from an opposition protest against the government’s handling of a food safety scandal that drew what organisers said were more than 200,000 people onto the streets of the city. The unexpectedly large turnout on Saturday appears to have given the island’s main opposition party, the Kuomintang, fresh momentum ahead of the local elections in November",
-      "translated": "食用油丑闻的热度会帮助台湾的反对派吗？ - 台北市市长蒋万安成为反对派抗议政府处理食品安全丑闻的最大政治赢家，据组织者称，该丑闻吸引了超过 20 万人走上街头。周六出人意料的高投票率似乎为该岛主要反对党国民党在 11 月份的地方选举之前提供了新的动力，并可能重塑该党明年候选人的竞选格局。",
-      "url": "https://www.scmp.com/news/china/politics/article/3362017/will-heat-cooking-oil-scandal-help-opposition-taiwan?utm_source=rss_feed",
-      "createdAt": "Mon, 27 Jul 2026 12:00:10 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC_2",
-      "author": "BBC",
-      "text": "UK's iconic Jodrell Bank telescope faces axe in science cuts - Astronomers warn it would tear the heart out of UK science, and leave a generation untrained.",
-      "translated": "英国标志性的乔德雷尔班克望远镜面临着科学削减——天文学家警告说，它会撕裂英国科学的核心，让一代人失去训练。",
-      "url": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Mon, 27 Jul 2026 11:50:13 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_SCMP_4",
-      "author": "SCMP",
-      "text": "China charges alleged scam kingpin Chen Zhi with intentional injury: report - Alleged scam-network mastermind Chen Zhi could face the death penalty, with Chinese prosecutors adding intentional injury to the list of charges against him. Chen, 38, was extradited from Cambodia to China six months ago and formally arrested on July 6, according to Chinese business magazine Caixin. He founded the Cambodian conglomerate Prince Group, which authorities say was linked to a sprawling online scam network. ",
-      "translated": "中国指控诈骗头目陈志故意伤害：报告 - 涉嫌网络诈骗主谋陈志可能面临死刑，中国检察官在针对他的指控清单中增加了故意伤害罪。据中国商业杂志财新报道，38 岁的陈六个月前被从柬埔寨引渡到中国，并于 7 月 6 日正式被捕。他创立了柬埔寨企业集团太子集团，当局称该集团与一个庞大的在线诈骗网络有关。财新周一报道称，检察官撤销了之前的指控...",
-      "url": "https://www.scmp.com/news/china/politics/article/3361986/china-charges-alleged-scam-kingpin-chen-zhi-intentional-injury-report?utm_source=rss_feed",
-      "createdAt": "Mon, 27 Jul 2026 11:00:12 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_爱范儿_0",
-      "author": "爱范儿",
-      "text": "Opus 5 砍掉超 80% 系统提示词，我们用 AI 的方式也该变了 ｜附指南 - 不想被 AI 淘汰就要学着当 AI 的老板#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "translated": "",
-      "url": "https://www.ifanr.com/1673165?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "createdAt": "Mon, 27 Jul 2026 10:05:15 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC中文_0",
-      "author": "BBC中文",
-      "text": "中國女童基因編輯治療後死亡，為何引發巨大爭議？ - 中國一名6歲女童接受實驗性基因編輯治療後一周內死亡，事件一直未有公開，直至國際學術期刊《科學》與學術誠信監督平台「撤稿觀察」展開調查才曝光，引發中國官方調查及科學界廣泛關注。",
-      "translated": "",
-      "url": "https://www.bbc.com/zhongwen/articles/cjrv7vp8p53o/trad?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Mon, 27 Jul 2026 09:19:49 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_爱范儿_1",
-      "author": "爱范儿",
-      "text": "最直白、最不绕弯子告诉你：为什么到处都是「AI手机」？｜AG&I - 是产品进化，也是厂商、平台、用户共同参与的利益重组。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "translated": "",
-      "url": "https://www.ifanr.com/1673151?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "createdAt": "Mon, 27 Jul 2026 07:48:30 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC中文_3",
-      "author": "BBC中文",
-      "text": "一文讀懂德國柏林驕傲遊行攻擊事經過 - 德國總理譴責這起襲擊事件令人髮指，此前一名嫌疑人駕車衝入歡慶同志驕傲遊行的群眾，該嫌犯已被警方擊斃。",
-      "translated": "",
-      "url": "https://www.bbc.com/zhongwen/articles/ce34qp6zdryo/trad?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Mon, 27 Jul 2026 07:10:04 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC中文_4",
-      "author": "BBC中文",
-      "text": "「它一點點侵蝕我的身體」：韓國超級便利隔夜送貨的人命代價 - 在高度互聯的韓國夜間送貨十分普遍，但引發了關於工作條件的討論。",
-      "translated": "",
-      "url": "https://www.bbc.com/zhongwen/articles/c1l1m290yl3o/trad?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Mon, 27 Jul 2026 04:51:41 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_爱范儿_2",
-      "author": "爱范儿",
-      "text": "早报｜曝苹果智能眼镜明年亮相/OpenAI签署支持AI开源模型发展公开信/罗永浩再批智能电视交互 - · OpenAI 签署支持 AI 开源模型发展公开信 · 马斯克：X 下月开放更多系统代码并接受审计 · 曝 Anthropic 向 SK 寻求自研芯片所需供应·#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "translated": "",
-      "url": "https://www.ifanr.com/1673132?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "createdAt": "Mon, 27 Jul 2026 00:10:33 +0000",
       "likes": null,
       "retweets": null
     },
@@ -325,79 +345,59 @@
       "id": "rss_WSJ_3",
       "author": "WSJ",
       "text": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup - The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
-      "translated": "Reid Hoffman 为人工智能癌症研究初创公司筹集了 2460 万美元资金 - 这位 LinkedIn 联合创始人正在与《万病之王》作者 Siddhartha Mukherjee 一起创办 Manas AI。",
+      "translated": "Reid Hoffman 为人工智能癌症研究初创公司筹集了 2460 万美元——这位 LinkedIn 联合创始人正在与《万病之王》的作者 Siddhartha Mukherjee 一起创办 Manas AI。",
       "url": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
       "createdAt": "Mon, 27 Jan 2025 08:00:00 -0500",
       "likes": null,
       "retweets": null
     },
     {
-      "id": "rss_NASA_3",
-      "author": "NASA",
-      "text": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon - On July 3, one of NASA’s two Mars-destined ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft captured photos of Earth and the Moon in visible and thermal infrared light. At the time, the spacecraft was 363,250 miles (584,600 kilometers) from Earth and 115,600 miles (186,100 kilometers) from the Moon, making the Moon appear relatively […]",
-      "translated": "NASA 的 ESCAPADE 拍摄了地球、月球的全家福 - 7 月 3 日，NASA 两艘飞往火星的 ESCAPADE（逃逸和等离子体加速与动力学探索者）航天器之一在可见光和热红外光下拍摄了地球和月球的照片。当时，飞船距离地球 363,250 英里（584,600 公里），距离月球 115,600 英里（186,100 公里），使得月球看起来相对 [...]",
-      "url": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
-      "createdAt": "Fri, 24 Jul 2026 17:47:06 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_4",
-      "author": "NASA",
-      "text": "New Crew Members Welcomed to International Space Station - From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a July 18, 2026, photo while holding a cake celebrating their recent arrival aboard the International Space Station. The trio arrived at the space station on July 14, 2026, after launching from the Baikonur Cosmodrome [&#8230;]",
-      "translated": "欢迎新机组成员来到国际空间站 - 从左至右，俄罗斯联邦航天局 (Roscosmos) 的 Expedition 74 飞行工程师安娜·基基纳 (Anna Kikina) 和彼得·杜布罗夫 (Pyotr Dubrov) 以及美国宇航局 (NASA) 的阿尼尔·梅农 (Anil Menon) 于 2026 年 7 月 18 日合影，同时举着蛋糕庆祝他们最近抵达国际空间站。三人组从拜科努尔航天发射场发射后于 2026 年 7 月 14 日抵达空间站 [&#8230;]",
-      "url": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/",
-      "createdAt": "Fri, 24 Jul 2026 16:43:02 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
       "id": "rss_36氪_0",
       "author": "36氪",
-      "text": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争 - 大公司： 汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家 汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面） 小米MiMo-V2.5登OpenRouter全球周榜、月榜双第一 36氪获悉，7月27日，OpenRouter最新数据显示，小米MiMo-V2.5登上全球大模型调用量周榜、月榜双第一，成为当周全球调用量唯一突破10T的模型。5月以来，MiMo-V2.5全球调用量持续攀升，单周token量从1.46T逐步升至10.46T，两个月增长约 616%。 美团AI“小团”全面升级 36氪获悉，7月27日，美团宣布旗下本地生活AI原生助手“小团”全面升级。新版“小团”在搜索、问答和决策辅助之外，进一",
+      "text": "让AI先吃，这个国民级健康难题有解了 - 在科学减重这件事上，继战略投资薄荷健康之后，蚂蚁阿福又放了个大招。 7月29日，蚂蚁阿福宣布升级上线“AI拍饮食”功能，用户拍食物照片发给阿福，就能自动估算营养和热量信息，获得健康饮食搭配建议和运动消耗计划等，还支持一健存入个人健康档案，建立“热量账户”。吃得对不对，多不多，一目了然。 阿福此次推出“AI拍饮食”功能，并非是一项孤立动作。 一个月前，36氪曾报道，蚂蚁阿福发起“科学减重1亿斤”号召，推出“1分钱”低价供应体脂秤、升级AI功能，发起21天打卡挑战赛等三大行动，帮助大众科学管理体重，建立日常健康习惯。 这场“全民科学减重行动”带来的风潮超出预期。越来越多人加入“减重”大军，爬华山、游东湖、骑单车、跳单杠等场景都出现了阿福陪练、陪游的身影。目前全国已有近150万网友参与科学减重行动，减重超过200万斤。 在运动之外，吃什么，怎么吃，往往是减重中最难也是最容易忽略的一环。普通人很难持续、准确地记录自己吃了多少，热量是否超标，搭配是否合理。对大众来说，阻碍科学减重的，并非缺少意愿，而是缺少一种足够专业、低门槛、且能长期坚持和反馈的趁手工具",
       "translated": "",
-      "url": "https://36kr.com/p/3913320648971395?f=rss",
-      "createdAt": "2026-07-27 19:37:06  +0800",
+      "url": "https://36kr.com/p/3916800672656773?f=rss",
+      "createdAt": "2026-07-29 22:21:47  +0800",
       "likes": null,
       "retweets": null
     },
     {
       "id": "rss_36氪_1",
       "author": "36氪",
-      "text": "清华博士团队创业，这家公司要给飞机做氢能「心脏」｜36氪首发 - 文&nbsp;|&nbsp;阿至 航空新能源动力系统，正在酝酿新的变革。 36氪获悉，航空新能源动力系统解决方案供应商「易氢动力」已完成数千万元天使+轮融资，由红鸟启航基金和贵州科创天使基金领投，水木清华校友种子基金，启迪之星创投，楹辉创投，金源合及天使会跟投。本轮资金主要用于航空级液冷燃料电池产品的开发及验证，以及空冷燃料电池在多场景的商业化推广及应用。 过去十年，氢燃料电池研发与产业化应用主要集中在汽车领域，已形成相对清晰的降本路线和成熟标准，但在航空领域，国内氢能应用的发展并不同步。 氢能航空并非新的概念，事实上，欧洲早在21世纪初就开始论证航空新能源动力系统不同路线方向的优缺点和路径可行性。氢燃料电池的核心优势在于，能量密度高、环境适应性更强。相对于动力电池，其航程可提高3倍以上，并且补能快、低温性能好，更适合eVTOL“空中出租车”高频周转的商业模式。 对比传统航空煤油和SAF，从长期来看，其燃料成本更低，在兼顾性能达标与经济可行性方面具备优势。 但受限于上游技术迭代、产业配套和应用成本问题，在较长一段时间里，",
+      "text": "氪星晚报 | 月之暗面Kimi已完成超35亿美元F轮融资，投后估值涨至350亿美元； SpaceX空头持仓超260亿美元，账面获利超70亿 - 大公司： 美的集团：受欧洲持续极端高温影响当地空调需求爆发，空调芜湖、广州双基地一月内新增欧洲订单共20万台 36氪获悉，美的集团在互动平台表示，受欧洲持续极端高温影响，当地空调需求爆发，美的空调芜湖、广州双基地一月内新增欧洲订单共20万台。PortaSplit移动分体空调自6月新增接单超16万台。7月，法国3万台移动空调紧急订单中2万台已完成发运。 &nbsp;新东方：2026财年第四季度净营收15.3亿美元，同比增长23.0% 36氪获悉，新东方发布截至2026年5月31日止第四季度及年度的未经审核财务业绩，第四财季净营收15.3亿美元，同比增长23.0%；第四财季经营利润8580万美元，上年同期亏损870万美元。 瓴羊AgentOne“四名AI员工”正式上岗，覆盖销售、客服、运营、营销四大场景 7月29日，瓴羊AgentOne四名AI员工正式上岗，分别覆盖AI销售、AI客服、AI运营和AI营销四个场景。企业也可以根据自身业务需求，基于Ag",
       "translated": "",
-      "url": "https://36kr.com/p/3913736066028932?f=rss",
-      "createdAt": "2026-07-27 18:19:29  +0800",
+      "url": "https://36kr.com/p/3916547493965442?f=rss",
+      "createdAt": "2026-07-29 19:04:52  +0800",
       "likes": null,
       "retweets": null
     },
     {
       "id": "rss_36氪_2",
       "author": "36氪",
-      "text": "2026年，为什么资本更青睐“会赚钱”的AI应用？ - 今年 WAIC 前夕，月之暗面发布了 Kimi K3，发布即破圈。但资本市场的注意力，更多地落在了另一件事上。 过去半年，这家明星大模型公司估值翻了 6 倍，目标 300 亿美元，同步推进赴港 IPO。而在 2025 年底的跨年夜全员信中，创始人杨植麟写下了一句话：2026 年聚焦 Agent，不以绝对用户数量为目标。 估值半年翻 6 倍的同时，他们也主动放弃了 DAU 这个过去两年颇被资本市场追着看的指标。 足以证明，用户规模虽仍旧重要，但不再是 AI 应用估值的唯一硬通货，新的叙事主线，重新回到了产品形态长期可持续的商业化。 资本评估 AI 的 benchmark 变了：过去两年盛行的是算力补贴换规模，但账面 DAU 只撑得起估值，撑不起毛利。资本市场发现，互联网时代的圈地打法在 AI 这里行不通，算力成本和留存曲线接连“显出原形”，曾经被寄予厚望的爆款产品也开始一批批退场。 行业拐点由此到来，资本不再为规模本身买单，转向了商业化质量验证。 新逻辑之下，拥有稳健商业模型的公司，反而有了更多作为“良币”留下来的机会，拿到更好的估",
+      "text": "AI智能浪潮重塑母婴赛道，吸牛裤如何实现 “智能育儿”？ - 导语： 凌晨三点，新手爸妈第三次起身，摸黑查看宝宝尿裤有无侧漏、臀部是否闷出红疹。依靠经验熬夜看护的传统育儿模式，已是无数家庭的共同困扰。而随着 AI 技术产业化落地，这一育儿痛点迎来全新解法。 2022 年 ChatGPT 问世，拉开生成式 AI 商业化序幕。国内 AI 产业蓬勃发展，百模大战持续推进，AI 感知、物联网、大数据等技术日趋成熟，为实体产业智能化升级提供坚实支撑。 母婴作为刚需赛道，顺势拥抱智能变革。新锐品牌吸牛裤抢先布局 AI 智能尿裤赛道，精准捕捉行业变革风口，依托自研硬核技术，开辟贴身智能育儿新路径。 图片1 育儿需求 从“满足生存”转向“精准科学养护” 90、95 后双职工父母成为母婴消费主力，育儿理念彻底摆脱传统经验主义，科学化、轻量化、低焦虑成为核心诉求。据易观《Z 世代新母婴人群消费洞察 2023》，51% Z 世代宝妈选购母婴产品优先选择智能款，44.1% 认为智能产品安全性更高，43.1% 看重便捷性。结合多份行业调研，新一代父母核心需求分为四点： 职场育儿双重压力，急需减负工具 92% Z",
       "translated": "",
-      "url": "https://36kr.com/p/3913706151400583?f=rss",
-      "createdAt": "2026-07-27 17:48:07  +0800",
+      "url": "https://36kr.com/p/3916187215408776?f=rss",
+      "createdAt": "2026-07-29 16:30:52  +0800",
       "likes": null,
       "retweets": null
     },
     {
       "id": "rss_36氪_3",
       "author": "36氪",
-      "text": "最前线 | 最大起飞重量8吨的无人货运 eVTOL，牧羽天航空飞行重卡AT8000整机机身下线 - 文 | 张卓倩 编辑 | 袁斯来 低空经济领域迎来里程碑式突破！牧羽天航空近日正式宣布，旗下飞行重卡 AT8000 整机机身已经在无锡市新吴区空港园区隆重下线。作为全球已知最大的eVTOL，飞行重卡AT8000 的下线标志着我国在重载低空物流装备领域实现全球领跑，为低空经济商业化落地应用注入核心动力。 飞行重卡 AT8000&nbsp; 全球重载无人货运标杆，8 吨级 “空中重卡” 定义行业新高度 飞行重卡 AT8000 是牧羽天航空深耕重载货运 eVTOL 领域的全新力作，最大起飞重量达 8000 公斤（8 吨），远超同类在研机型，是目前全球公认的重载货运 eVTOL 天花板。 核心性能：最大有效载重 3500 公斤（增程），巡航速度 252 公里 / 小时，满载航程 1000 公里（增程），可覆盖市县、山村、海岛等全场景低空物流网络。 创新构型：采用18 升力旋翼（4 个倾转）+2 推进旋翼的半倾转混动架构，垂直起降更稳定、巡航效率更高，兼顾高可靠性与长续航能力。 全栈自研：从概念设",
+      "text": "华辰芯光完成超亿元融资，全栈技术能力突破高端激光芯片封锁 - 文 | 张卓倩 编辑 | 袁斯来 近日，国内IDM激光芯片企业浙江华辰芯光技术有限公司（简称华辰芯光）宣布完成新一轮超亿元级人民币融资。本轮融资由同创伟业领投，张江垚坤、洪山资本跟投，部分老股东追投，该批资金将主要用于加强华辰芯光的多系列量产芯片可靠性测试能力建设。 华辰芯光坚定走高端光芯片研发发展路线，自公司成立之初就确立了“IDM（垂直整合制造）芯片制造模式”及“研发高可靠大功率单模通信激光芯片”的双轮驱动战略。通过长期技术攻关，逐步攻克高端光芯片的底层制造壁垒，其GaAs核心产品1000mW 974nm/976nm泵浦激光芯片已通过严格的内部测试，光电性能与可靠性可对标美国同级产品，制造成本约为国外产品的50%，成为全球极少数能够量产通信用泵浦激光芯片的企业。 该产品主要用于骨干网、核心网、城域网等陆地以及海洋光纤通信、星间激光互通、AI数据中心DCI等光网络中信号放大产品中，该产品计划于2026年下半年将进入量产阶段并向全球销售；同时华辰芯光还依托自己的IDM能力，面向CPO产品，积极研发超大功率InP CW激光芯片",
       "translated": "",
-      "url": "https://36kr.com/p/3912369056240772?f=rss",
-      "createdAt": "2026-07-27 16:23:39  +0800",
+      "url": "https://36kr.com/p/3916108853521792?f=rss",
+      "createdAt": "2026-07-29 13:38:46  +0800",
       "likes": null,
       "retweets": null
     },
     {
       "id": "rss_36氪_4",
       "author": "36氪",
-      "text": "36氪首发 | 前大疆工程师创业做智能网球发球机，产品已开启海外市场批量交付 - 作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，智能体育硬件公司「一思智能」（AceiiLab）开启批量交付，此前完成超千万元天使轮融资，由零以资本、变量资本、海益资本投资。资金将主要用于产品研发迭代及市场拓展。 一思智能成立于2024年12月，从AI网球机器人切入，尝试构建覆盖硬件、软件、数据、AI教练与运动服务的智能训练生态。公司创始人刘礼谦拥有十余年机器人研发和产品经验，曾在大疆、KUKA等企业从事研发工作，联合创始人晁光此前曾任职于投资机构和机器人公司，长期关注智能硬件领域投资与运营增长。团队覆盖无人机、无人车、商用清洁、割草、泳池清洁等机器人方向，此前积累了较丰富的消费硬件出海经验，具备从产品定义、研发到市场推广的完整链路能力。 随着AI能力、机器人技术和传感器技术逐渐成熟，体育消费领域正在出现智能化升级趋势。相比传统运动装备，智能体育硬件正在从记录数据向辅助训练、提升体验方向发展，覆盖智能健身设备、运动穿戴、AI陪练等多个场景。其中，网球、羽毛球、高尔夫等",
+      "text": "在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab - 文｜王欣逸 编辑｜张雨忻 见到Mind Lab创始人陈锴杰，是在北京的晚上9点半，他已经见了一天的投资人。 陈锴杰是一位连续创业者，从杜克大学休学，做过AI互动故事平台MidReal，也推出了Personal Agent应用Macaron（马卡龙），上线当天就登顶了Product Hunt日榜；2025年10月，Mind Lab成立，团队约30余人，Mind Lab创始人Andrew Chen曾和姚顺雨共同发表FireAct论文，团队��要来自xAI、DeepMind、DeepSeek、字节跳动Seed、MIT和清华大学等企业与高校。他们以Neo Lab的形象再度出现在大众的视野里。 他们所押注的方向，与图灵奖得主、强化学习之父Richard Sutton和OpenAI前CTO Mira Murati所强调的持续学习方向，高度一致。 几天前，WAIC 2026首日主论坛上，Sutton发表演讲，强调了下一代AI的核心路线是经验驱动，而静态标注数据模式已触达天花板。DeepSeek近期也把持续学习带进了更多人的视",
       "translated": "",
-      "url": "https://36kr.com/p/3913490184754313?f=rss",
-      "createdAt": "2026-07-27 14:08:54  +0800",
+      "url": "https://36kr.com/p/3916202023660929?f=rss",
+      "createdAt": "2026-07-29 12:10:36  +0800",
       "likes": null,
       "retweets": null
     }
