@@ -5,10 +5,12 @@
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans SC", sans-serif;
-  background: #f5f5f5;
-  color: #1a1a1a;
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans SC", sans-serif;
+  background: radial-gradient(1200px 600px at 20% -10%, #f0e4d2 0%, transparent 60%), radial-gradient(1000px 500px at 90% 110%, #e8d9c4 0%, transparent 55%), #f7f1e6;
+  background-attachment: fixed;
+  color: #2b2118;
   line-height: 1.6;
+  padding-bottom: 48px;
 }
 
 .container {
@@ -17,14 +19,65 @@ body {
   padding: 0 20px;
 }
 
-/* Header */
-header {
-  background: #1a1a1a;
-  color: #fff;
-  padding: 16px 0;
+/* 全站导航（暖色半透明底，主站红） */
+.nav {
   position: sticky;
   top: 0;
-  z-index: 10;
+  z-index: 100;
+  background: rgba(247, 241, 230, .9);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-bottom: 1px solid rgba(192, 57, 43, .16);
+}
+.nav .container {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  width: 100%;
+  max-width: 720px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  flex-wrap: wrap;
+}
+.nav .logo {
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: .5px;
+  background: linear-gradient(90deg, #c0392b, #e0705f);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-right: 12px;
+  text-decoration: none;
+}
+.nav a.sbtn {
+  background: transparent;
+  border: 1px solid rgba(192, 57, 43, .18);
+  color: #8a7d6d;
+  border-radius: 8px;
+  padding: 5px 11px;
+  font-size: 12px;
+  cursor: pointer;
+  transition: all .25s ease;
+  text-decoration: none;
+  font-family: inherit;
+}
+.nav a.sbtn:hover {
+  color: #c0392b;
+  border-color: #c0392b;
+  background: rgba(192, 57, 43, .07);
+  transform: translateY(-1px);
+}
+.nav a.sbtn.on {
+  color: #fff;
+  background: #c0392b;
+  border-color: #c0392b;
+}
+.nav a.sbtn.on:hover { transform: none; }
+
+/* Header */
+header {
+  padding: 24px 0 8px;
 }
 
 .header-inner {
@@ -37,19 +90,20 @@ header {
   font-size: 1.4rem;
   font-weight: 700;
   letter-spacing: 0.5px;
+  color: #2b2118;
 }
 
 .tagline {
   font-size: 0.85rem;
-  color: #888;
+  color: #8a7d6d;
 }
 
 /* Update time */
 .last-update {
   font-size: 0.8rem;
-  color: #888;
+  color: #8a7d6d;
   padding: 16px 0 8px;
-  border-bottom: 1px solid #e0e0e0;
+  border-bottom: 1px solid rgba(192, 57, 43, .12);
   margin-bottom: 16px;
 }
 
@@ -64,32 +118,40 @@ header {
 .loading {
   text-align: center;
   padding: 60px 0;
-  color: #aaa;
+  color: #a89a88;
   font-size: 0.95rem;
 }
 
 /* Card */
 .card {
-  background: #fff;
-  border-radius: 10px;
+  background: rgba(255, 255, 255, .85);
+  border: 1px solid rgba(192, 57, 43, .14);
+  border-radius: 14px;
   padding: 16px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
-  transition: box-shadow 0.15s;
+  transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease;
 }
 
 .card:hover {
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, .08);
+  border-color: rgba(192, 57, 43, .45);
 }
 
 .card-source {
   font-size: 0.75rem;
-  color: #1da1f2;
+  color: #c0392b;
   margin-bottom: 4px;
+  font-weight: 600;
 }
 
 .card-source a {
-  color: #1da1f2;
+  color: #c0392b;
   text-decoration: none;
+}
+
+.card-source a:hover {
+  color: #92291e;
+  text-decoration: underline;
 }
 
 .card-text {
@@ -100,7 +162,7 @@ header {
 
 .card-meta {
   font-size: 0.75rem;
-  color: #999;
+  color: #a89a88;
   display: flex;
   gap: 12px;
 }
@@ -117,27 +179,27 @@ header {
 footer {
   text-align: center;
   padding: 32px 0;
-  color: #aaa;
+  color: #a89a88;
   font-size: 0.8rem;
 }
 
 /* Translate button */
 .translate-btn {
   background: none;
-  border: 1px solid #ddd;
+  border: 1px solid rgba(192, 57, 43, .25);
   border-radius: 6px;
   padding: 3px 10px;
   font-size: 0.78rem;
-  color: #666;
+  color: #6b5f52;
   cursor: pointer;
   margin-bottom: 6px;
   transition: all 0.15s;
 }
 
 .translate-btn:hover {
-  border-color: #1da1f2;
-  color: #1da1f2;
-  background: #f0f7ff;
+  border-color: #c0392b;
+  color: #c0392b;
+  background: rgba(192, 57, 43, .06);
 }
 
 .translate-btn:disabled {
@@ -148,23 +210,23 @@ footer {
 .mission {
   text-align: center;
   font-size: 0.9rem;
-  color: #666;
+  color: #8a7d6d;
   padding: 20px 0 12px;
   line-height: 1.6;
 }
 
 .translated-label {
   font-size: 0.7rem;
-  color: #aaa;
+  color: #a89a88;
   margin-left: 4px;
 }
 
 .card-translated {
   font-size: 0.9rem;
-  color: #555;
+  color: #6b5f52;
   margin-top: 6px;
   padding-top: 6px;
-  border-top: 1px dashed #eee;
+  border-top: 1px dashed rgba(192, 57, 43, .2);
 }
 
 /* Error */
