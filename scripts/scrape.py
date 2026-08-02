@@ -13,6 +13,8 @@ from datetime import datetime, timezone
 import requests
 from xml.etree import ElementTree
 
+import trafilatura
+
 try:
     from deep_translator import GoogleTranslator
     HAS_TRANSLATOR = True
@@ -110,6 +112,7 @@ HEADERS = {
 
 MAX_ITEMS = 12
 MAX_TOTAL = 150
+MAX_CONTENT = 2000  # 正文抓取上限（字符）
 
 # 中文字符范围
 CJK_RE = re.compile(r"[\u4e00-\u9fff]")
@@ -143,6 +146,31 @@ def translate_text(text, max_len=2000):
         return result or ""
     except Exception as e:
         print(f"  ⚠️  翻译失败: {e}")
+        return ""
+
+
+def fetch_article_content(url):
+    """抓取文章正文全文（trafilatura 提取，失败返回空串）。"""
+    if not url:
+        return ""
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=15)
+        if resp.status_code != 200:
+            return ""
+        text = trafilatura.extract(
+            resp.text,
+            include_comments=False,
+            include_tables=False,
+            favor_precision=True,
+        )
+        if not text:
+            return ""
+        # 压缩空白，保留段落换行
+        paras = [p.strip() for p in text.split("\n") if p.strip()]
+        joined = "\n\n".join(paras)
+        return joined[:MAX_CONTENT]
+    except Exception as e:
+        print(f"    ⚠️  正文抓取失败: {e}")
         return ""
 
 
@@ -224,10 +252,20 @@ def main():
         all_articles.extend(articles)
 
     all_articles.sort(key=lambda a: a.get("createdAt", ""), reverse=True)
+    all_articles = all_articles[:MAX_TOTAL]
+
+    # 批量抓取正文全文
+    print("\n📖 开始抓取正文全文...")
+    for i, a in enumerate(all_articles):
+        content = fetch_article_content(a["url"])
+        a["content"] = content
+        status = f"{len(content)}字" if content else "无正文(回退摘要)"
+        print(f"  [{i+1}/{len(all_articles)}] {a['author']}: {status}")
+        time.sleep(0.4)  # 礼貌限速
 
     data = {
         "fetchedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "articles": all_articles[:MAX_TOTAL],
+        "articles": all_articles,
     }
 
     os.makedirs(os.path.dirname(NEWS_FILE), exist_ok=True)

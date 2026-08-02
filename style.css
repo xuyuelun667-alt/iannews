@@ -160,6 +160,56 @@ header {
   word-break: break-word;
 }
 
+/* 正文折叠 */
+.card-body-wrap {
+  margin: 8px 0 10px;
+  border: 1px solid rgba(192, 57, 43, .14);
+  border-radius: 10px;
+  background: rgba(192, 57, 43, .03);
+  overflow: hidden;
+}
+.card-body-wrap summary {
+  cursor: pointer;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #c0392b;
+  padding: 8px 12px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  user-select: none;
+}
+.card-body-wrap summary::before {
+  content: '▸';
+  transition: transform .2s;
+}
+.card-body-wrap[open] summary::before {
+  transform: rotate(90deg);
+}
+.card-body-wrap summary:hover {
+  background: rgba(192, 57, 43, .06);
+}
+.card-body {
+  padding: 0 14px 12px;
+  font-size: 0.9rem;
+  line-height: 1.85;
+  color: #4a3c2c;
+  word-break: break-word;
+  white-space: normal;
+}
+.card-full {
+  display: inline-block;
+  margin: 0 14px 12px;
+  font-size: 0.78rem;
+  color: #c0392b;
+  text-decoration: none;
+  font-weight: 600;
+}
+.card-full:hover {
+  text-decoration: underline;
+}
+
 .card-meta {
   font-size: 0.75rem;
   color: #a89a88;

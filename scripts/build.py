@@ -19,16 +19,27 @@ def render():
     articles = data.get("articles", [])
 
     cards_html = []
-    for a in articles:
+    for idx, a in enumerate(articles):
         text = escape(a.get("text", ""))
         author = escape(a.get("author", ""))
         url = escape(a.get("url", ""))
+        content = a.get("content", "")
         translated = a.get("translated", "")
         translated_html = ""
         if translated:
             translated_html = (
                 f'<div class="card-translated">{escape(translated[:500])}'
                 f'<span class="translated-label">（翻译）</span></div>'
+            )
+        # 正文全文：有则折叠展示，无则回退摘要
+        body_html = ""
+        if content:
+            body_html = (
+                f'<details class="card-body-wrap">'
+                f'<summary>📖 展开全文（{len(content)}字）</summary>'
+                f'<div class="card-body">'
+                + "<br><br>".join(escape(p) for p in content.split("\n\n"))
+                + f'</div><a class="card-full" href="{url}" target="_blank" rel="noopener">阅读原文 ↗</a></details>'
             )
         author_short = escape(a.get("author", ""))[:20]
         ts = a.get("createdAt", "")
@@ -49,10 +60,11 @@ def render():
             meta_parts.append(f'<span class="retweets">🔁 {retweets}</span>')
 
         cards_html.append(f"""\
-    <div class="card">
+    <div class="card" id="card-{idx}">
         <div class="card-source"><a href="{url}" target="_blank" rel="noopener">{author}</a></div>
-        <div class="card-text">{text[:1000]}</div>
+        <div class="card-text">{text[:400]}</div>
         {translated_html}
+        {body_html}
         <div class="card-meta">{"".join(meta_parts)}</div>
     </div>""")
 
