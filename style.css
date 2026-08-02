@@ -265,6 +265,72 @@ footer {
   line-height: 1.6;
 }
 
+/* 导航区 */
+.nav-section {
+  margin: 12px 0 8px;
+}
+.nav-group {
+  margin-bottom: 22px;
+}
+.nav-group h2 {
+  font-size: 1.05rem;
+  color: #5b4a38;
+  margin-bottom: 10px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid rgba(192, 57, 43, .12);
+}
+.nav-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  gap: 10px;
+}
+.nav-site {
+  display: block;
+  text-decoration: none;
+  background: rgba(255, 255, 255, .85);
+  border: 1px solid rgba(192, 57, 43, .14);
+  border-radius: 10px;
+  padding: 10px 12px;
+  transition: all .2s;
+}
+.nav-site:hover {
+  transform: translateY(-2px);
+  border-color: #c0392b;
+  box-shadow: 0 4px 14px rgba(192, 57, 43, .12);
+}
+.ns-name {
+  display: block;
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: #2b2118;
+}
+.nav-site:hover .ns-name {
+  color: #c0392b;
+}
+.ns-desc {
+  display: block;
+  font-size: 0.72rem;
+  color: #a89a88;
+  margin-top: 3px;
+}
+.news-heading {
+  font-size: 1.15rem;
+  color: #5b4a38;
+  margin: 28px 0 8px;
+  padding-top: 18px;
+  border-top: 1px solid rgba(192, 57, 43, .15);
+}
+.card-full {
+  font-size: 0.75rem;
+  color: #c0392b;
+  text-decoration: none;
+  font-weight: 600;
+  margin-left: auto;
+}
+.card-full:hover {
+  text-decoration: underline;
+}
+
 .translated-label {
   font-size: 0.7rem;
   color: #a89a88;

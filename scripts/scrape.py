@@ -111,8 +111,7 @@ HEADERS = {
 }
 
 MAX_ITEMS = 12
-MAX_TOTAL = 150
-MAX_CONTENT = 2000  # 正文抓取上限（字符）
+MAX_TOTAL = 50
 
 # 中文字符范围
 CJK_RE = re.compile(r"[\u4e00-\u9fff]")
@@ -253,15 +252,6 @@ def main():
 
     all_articles.sort(key=lambda a: a.get("createdAt", ""), reverse=True)
     all_articles = all_articles[:MAX_TOTAL]
-
-    # 批量抓取正文全文
-    print("\n📖 开始抓取正文全文...")
-    for i, a in enumerate(all_articles):
-        content = fetch_article_content(a["url"])
-        a["content"] = content
-        status = f"{len(content)}字" if content else "无正文(回退摘要)"
-        print(f"  [{i+1}/{len(all_articles)}] {a['author']}: {status}")
-        time.sleep(0.4)  # 礼貌限速
 
     data = {
         "fetchedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
