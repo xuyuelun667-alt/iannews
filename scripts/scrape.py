@@ -68,6 +68,39 @@ SOURCES = [
         "name": "爱范儿",
         "rss": "https://www.ifanr.com/feed",
     },
+    # ── 中文科技/垂直（2026-08-02 扩充）──
+    {
+        "name": "量子位",
+        "rss": "https://www.qbitai.com/feed",
+    },
+    {
+        "name": "IT之家",
+        "rss": "https://www.ithome.com/rss/",
+    },
+    {
+        "name": "机核",
+        "rss": "https://www.gcores.com/rss",
+    },
+    {
+        "name": "Solidot",
+        "rss": "https://www.solidot.org/index.rss",
+    },
+    {
+        "name": "芥末堆",
+        "rss": "https://www.jiemodui.com/feed",
+    },
+    {
+        "name": "触乐",
+        "rss": "https://www.chuapp.com/feed",
+    },
+    {
+        "name": "雷锋网",
+        "rss": "https://www.leiphone.com/feed",
+    },
+    {
+        "name": "极客公园",
+        "rss": "https://www.geekpark.net/rss",
+    },
 ]
 
 HEADERS = {
@@ -75,7 +108,8 @@ HEADERS = {
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
 
-MAX_ITEMS = 5
+MAX_ITEMS = 12
+MAX_TOTAL = 150
 
 # 中文字符范围
 CJK_RE = re.compile(r"[\u4e00-\u9fff]")
@@ -193,7 +227,7 @@ def main():
 
     data = {
         "fetchedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "articles": all_articles[:50],
+        "articles": all_articles[:MAX_TOTAL],
     }
 
     os.makedirs(os.path.dirname(NEWS_FILE), exist_ok=True)
