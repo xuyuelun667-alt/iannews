@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T13:15:40Z",
+  "fetchedAt": "2026-09-15T13:23:11Z",
   "articles": [
     {
       "id": "rss_WSJ_10",
@@ -22,37 +22,7 @@
       "retweets": null
     },
     {
-      "id": "rss_触乐_8",
-      "author": "触乐",
-      "text": "触乐怪话：期待9月10日 - 触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。 对的对的，就是这样！（图/小罗） 今天是9月9日，明天是9月10日。从前几天开始，有一个事情我一直在心里隐隐约约地存在，但是没有说出来，那就是我真的很期待9月10日。 这种期待不算特别正式，也很少被付诸口头纸面，有时候还比较隐私。比如，我可以坦坦荡荡地在一篇稿件里说&ldquo;我期待某款产品给行业和品类带来新的启发&rdquo;，但我确实似乎有点难为情公开告诉所有人：我其实特别期待9月10日，我想玩《王者万象棋》，也想赶紧在《王者荣耀》里买上返场的王昭君&ldquo;映山客&rdquo;皮肤，我还特别期待《夜幕之下》在这天开启某某人的新卡池&hellip;&hellip; 为什么会觉得难为情？我觉得可能一定程度上是因为这些&ldquo;期待&rdquo;听起来都不太成熟，略有幼稚，也有点夸张&mdash;&mdash;毕竟并不是模糊地期待，而是很具体地关注、等待、盼望着某个具体的日子，甚至会特意为了这个时间熬夜到0点或者凌晨4点。 其中还夹杂一些微妙的鄙视链：如果我说期待某款单机大作、期待某天堂直面会，",
-      "translated": "",
-      "url": "http://www.chuapp.com/article/291623.html",
-      "createdAt": "Wed, 09 Sep 2026 19:21:03 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_触乐_9",
-      "author": "触乐",
-      "text": "当90万玩家一起“突围”：一场从玩家到官方，从游戏到现实的公益接力 - 今年6月26日，《暗区突围》端内上线了一个名为&ldquo;突围吧少年&rdquo;的公益捐赠活动。筹集的善款将用于残障青少年捐赠脑机接口仿生假肢。 那天，《暗区突围》联合腾讯公益、腾讯成长守护、四川省科技公益发展基金会，发起了&ldquo;科技赋能助残行动&rdquo;。玩家们可以直接在游戏中完成善款的捐赠。几个月后，这些善款变成了基于脑机接口技术的仿生智能假肢，捐赠给那些家庭经济困难的残障青少年。这些善款能够让一个先天失去手部功能的孩子，第一次拧开瓶盖，翻开书页；一个失去腿部功能的孩子可以从轮椅上站起，感受更自由的世界。 走出困境 久久公益节期间，《暗区突围》发布了这个项目的最新进展反馈。截至目前，已有31位受助人通过资料初筛和线下评估并完成取模，其中22位已经安装上了义肢，正在进行康复训练。按照项目节奏，后续的适配和安装仍将持续推进。 《暗区突围》这次的公益活动也给&ldquo;突围&rdquo;一词赋予了新的含义，它不再只是游戏中的一次撤离，更是帮助那些困难家庭突出生活重围的曙光。 &ldquo;在卡莫纳，",
-      "translated": "",
-      "url": "http://www.chuapp.com/article/291622.html",
-      "createdAt": "Wed, 09 Sep 2026 19:21:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_极客公园_8",
-      "author": "极客公园",
-      "text": "\n        千问办公发布多人工作台，重写企业软件的最后一公里\n       - 作者｜Cynthia 编辑｜郑玄 2026 年 2 月 3 日，由 Anthropic 带头，华尔街替 SaaS 写好了讣告。 几天前，Anthropic 正式官宣把 Claude Cowork 的插件能力扩展到法律、销售、金融等知识工作。与普通聊天机器人不同，这些插件可以携带部门工作流、调用外部工具和数据，并按照预设规则完成一段具体工作。 市场很快把这种能力翻译成了另一个词：替代。2 月 3 日，高盛一篮子美国软件股单日下跌 6%；彭博统计，当天软件、金融服务和资产管理相关股票合计蒸发约 2850 亿美元。一天之后，Wind 香港 SaaS 指数又下跌 6.39%，板块总市值缩水近 150 亿港元。 七个月后，这个问题又进一步从资本市场蔓延到了产品端。 9 月 7 日，千问办公上线多人工作台。用户不再先选择我要做 CRM 或者我要做项目管理，只要说清有哪些角色、每个人要做什么、需要保存哪些数据。系统据此生成一个可以在线发布的协作应用，带角色权限、云端数据库和管理后台，最多支持百人同时在线。 「千问办",
-      "translated": "",
-      "url": "http://www.geekpark.net/news/370061",
-      "createdAt": "Wed, 09 Sep 2026 15:07:04 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_芥末堆_4",
+      "id": "rss_芥末堆_6",
       "author": "芥末堆",
       "text": "斑马儿童科教集团亮相2026服贸会  展示「AI赋能儿童教育」的中国样本 - 教育AI的门槛，未必只是模型参数规模，而是能否把模型能力真正嵌入教育流程。对于儿童教育尤其如此。",
       "translated": "",
@@ -62,7 +32,7 @@
       "retweets": null
     },
     {
-      "id": "rss_芥末堆_5",
+      "id": "rss_芥末堆_7",
       "author": "芥末堆",
       "text": "国内首个覆盖全学段的AI顶级赛事，全国中小学生免费参赛 - 全国中小学生均可免费参加，报名通道将于9月20日23:59关闭。",
       "translated": "",
@@ -72,7 +42,7 @@
       "retweets": null
     },
     {
-      "id": "rss_芥末堆_6",
+      "id": "rss_芥末堆_8",
       "author": "芥末堆",
       "text": "邀请函 |「2026教培江湖秋分大会」将于9月23日在郑州举办 - 欢迎大家来郑州小聚。",
       "translated": "",
@@ -82,7 +52,7 @@
       "retweets": null
     },
     {
-      "id": "rss_芥末堆_7",
+      "id": "rss_芥末堆_9",
       "author": "芥末堆",
       "text": "一起教育科技2026年Q2营收9009万元，同比增长254.6% - 未来将持续完善三层AI智能体体系。",
       "translated": "",
@@ -92,17 +62,7 @@
       "retweets": null
     },
     {
-      "id": "rss_极客公园_9",
-      "author": "极客公园",
-      "text": "\n        折叠屏 iPhone 初期产量受限，每日仅数百部；环比增长 379%，腾讯 HY4 登顶全球大模型调用榜；特斯拉时隔 19 个月再降价｜极客早知道\n       - 消息称苹果折叠屏 iPhone 初期产量受限，每日仅数百部 9 月 8 日，据日经中文网报道，根据多位知情人士指出，市场期待已久的首部苹果折叠 iPhone，由于苹果极为严格的质量管控标准，初期生产量每天仅有「数百部」，而苹果及其供货商正全力加快产量爬坡。 熟悉情况的供应链主管向《日经亚洲》透露：「苹果设定了极高的质量标准，在正式量产之前，8 月又追加了一轮试产」。该人员表示：「截至 8 月下旬日产量仅数百部。按这样的初期产能计算，有可能难以满足市场需求」。 《日经亚洲》先前报导，苹果计划今年内生产 800 万~1000 万部折叠屏 iPhone，并希望凭借这款全新外型设计的机型激发市场需求，进而推升营收。（来源：DoNews） OpenAI 最强 AI 生图模型：ChatGPT Images 2.5 登场，延迟降低 50%、新增 Sketch 草图 9 月 9 日，OpenAI 官宣发布 ChatGPT",
-      "translated": "",
-      "url": "http://www.geekpark.net/news/370026",
-      "createdAt": "Wed, 09 Sep 2026 08:37:42 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_芥末堆_8",
+      "id": "rss_芥末堆_10",
       "author": "芥末堆",
       "text": "飞象星球亮相2026服贸会 展示飞象老师最新升级与校园应用实践 - 如何让教师更方便地将教学想法转化为可用的课堂资源与活动，是飞象老师持续迭代的方向。",
       "translated": "",
@@ -112,392 +72,432 @@
       "retweets": null
     },
     {
-      "id": "rss_触乐_10",
-      "author": "触乐",
-      "text": "Workbuddy联动《和平精英》，AI如何连接游戏生态？ - AI进入工作和生活领域，能做到的事情可能完全不一样。而在使用AI工具的过程中，人们也会发现，一旦自己成为那个&ldquo;向AI发布需求&rdquo;的人，许多事情的内在逻辑又十分相似。 一个职场人向AI办公助手提出需求时，往往会先提出问题，再说明自己想要什么，总结几份材料，分析一些表格，或是把一个简略的想法变成可执行的方案。AI既要读懂使用者的问题，也要做好&ldquo;落实&rdquo;的环节。 游戏玩家也可能遇到类似的情况。面对一款游戏，新玩家想要尽快上手，核心玩家需要解决对局中遭遇的具体问题，休闲玩家则可能更关心副玩法更新、福利和联动。以往，这些信息需要玩家在官方公告、攻略、视频和其他人的经验里查找，既要花时间寻找答案，又要判断哪些内容真正适合自己。 如今，这些同样可以使用AI来完成。9月8日，腾讯推出的全场景职场AI智能体桌面工作台WorkBuddy与《和平精英》开启联动，上线主题外观、桌宠装扮、活动奖励，以及专属AI专家&ldquo;吉事通&middot;和平精英&rdquo;。 WorkBuddy首次跨界游戏",
-      "translated": "",
-      "url": "http://www.chuapp.com/article/291620.html",
-      "createdAt": "Tue, 08 Sep 2026 20:19:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_触乐_11",
-      "author": "触乐",
-      "text": "触乐怪话：没有音乐的人会伤心 - 触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。 图/小罗 很多年前，朋友推荐我一张他很喜欢的专辑，言语间充满对音乐制作的赞赏。我看封面觉得很眼熟，点进去听了一分钟发现果然如此：&ldquo;我听过这个！在写xxx的时候听这个专辑特别有那种氛围。&rdquo; 朋友：&ldquo;&hellip;&hellip;对你来说只是你写东西时背景音乐吗。&rdquo; 我：&ldquo;对不起。&rdquo; 而另一位热爱音乐的朋友显然对此更为宽容。她是某个韩国男团的粉丝，经常在购买电子专辑时慷慨地给我分享一份，留言：&ldquo;这次的专辑是xxxx风格的，也许很适合你写东西的时候听&rdquo;，贴心得令人惭愧。 我试图认真欣赏这些歌曲，并给出恰如其分的评论&mdash;&mdash;毕竟朋友花了钱的&mdash;&mdash;比如说&ldquo;这次的歌词写得好有感染力&rdquo;、&ldquo;好喜欢这段副歌，最爽进鼓&rdquo;、&ldquo;哇我居然能听到贝斯了&rdquo;之类的&mdash;&mdash;但不得不说，一些专辑确实很适合放在",
-      "translated": "",
-      "url": "http://www.chuapp.com/article/291617.html",
-      "createdAt": "Tue, 08 Sep 2026 20:19:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_极客公园_10",
-      "author": "极客公园",
-      "text": "\n        IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上\n       - 本文转载自 Hardwire，欢迎关注，共同看见硬件行业新风向 👇 &nbsp; 屏幕消失不是做减法，是把「显示」换成了「采集」。 作者｜张勇毅 编辑｜靖宇 &nbsp; IFA 开幕前一天，小米在柏林把手环 11 端了出来。还是 1.72 英寸的屏幕，亮度从上一代的 1500 尼特提到 2000 尼特，国内 289 元起，9 月 7 日首售。官方通稿的第一个卖点，就是这块屏幕在太阳底下有多清楚。 同一周的同一个展馆里，另一批穿戴设备正在把屏幕拆掉。 会场对面地铁站附近，Plaud 的广告｜图片来源：极客公园 Luna Band 从 IFA 开幕这天起全球发货，149 美元，没有屏幕，也没有订阅费；Circular 发了两枚戒指，最薄的那枚 1.9 克；Hama 拿出一枚 129 欧元的戒指；一家深圳团队做的 11 克录音手环，可以扣在 Apple Watch 的表带旁边；还有一条会看着你吃饭的项链，拿了今年的 IFA 创新奖。 「今年 IFA 来的不只是欧洲本地的观众，有不少",
-      "translated": "",
-      "url": "http://www.geekpark.net/news/370007",
-      "createdAt": "Tue, 08 Sep 2026 15:29:19 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_极客公园_11",
-      "author": "极客公园",
-      "text": "\n        单人一月烧掉 19 万，硅谷开始倒查员工 AI 账单\n       - 「有人星夜赶科场，有人辞官归故里。」 作者｜张勇毅 编辑｜靖宇 过去很长一段时间里，微软员工之间流传着一张自发维护的表格，用来互相交换薪资和奖金数字，大公司里常见的那种「工资透明化」地下工程。 今年，这张后来被 Business Insider 拿到的表格上，多出了一列新数字：「每月 AI 花费」。 各部门员工自报 AI 用量，28 天口径｜图片来源：Business Insider 约 350 名美国员工填了这一列。最高的那一格写着：28 天，2.8 万美元（约合 19 万元人民币）。 微软的反应不是给这位同学发先进。据 Android Headlines 报道，公司已经开始收紧 token 用量管理：部门级预算生效，个人 token 支出进了仪表盘，内部默认模型切到了 OpenAI 的 GPT-5.6 Sol。 翻译一下就是，微软开始内部查账了。 01 token 用量分出阶级 这张表格最大的信息量不在数字，在位置&mdash;&mdash;「AI 花费」这一列，出现在晒工资的表格里。 员工把",
-      "translated": "",
-      "url": "http://www.geekpark.net/news/370006",
-      "createdAt": "Tue, 08 Sep 2026 15:27:11 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_芥末堆_9",
-      "author": "芥末堆",
-      "text": "字节跳动Gauth用AI教数学，还支持用户创建AI互动课 - 随着AI能力升级，Gauth已经不局限于只是被当作简单的解题工具，而是想成为覆盖多学科的All-in-One学习平台。",
-      "translated": "",
-      "url": "https://www.jiemodui.com/N/139550.html",
-      "createdAt": "Tue, 08 Sep 2026 02:59:50 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_芥末堆_10",
-      "author": "芥末堆",
-      "text": "陕西省教育厅：拟设立5家成人文化教育类培训机构 - 其中三家属于新东方旗下。",
-      "translated": "",
-      "url": "https://www.jiemodui.com/N/139549.html",
-      "createdAt": "Tue, 08 Sep 2026 02:57:23 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_WSJ_8",
-      "author": "WSJ",
-      "text": "Canada to Review Amazon Contracts After Quebec Layoffs - Canada has warned Amazon.com that it is reviewing business ties with the company’s cloud-computing unit following Amazon’s decision to shut down its warehouses in Quebec, leading to the layoff of 1,700 workers.",
-      "translated": "",
-      "url": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology",
-      "createdAt": "Thu, 23 Jan 2025 19:59:00 -0500",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_WSJ_9",
-      "author": "WSJ",
-      "text": "Tech, Media & Telecom Roundup: Market Talk - Find insight on Electronic Arts, consumer spending on videogames, Meta and more in the latest Market Talks covering Technology, Media and Telecom.",
-      "translated": "",
-      "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-28593f8d?mod=rss_Technology",
-      "createdAt": "Thu, 23 Jan 2025 16:57:00 -0500",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_触乐_5",
-      "author": "触乐",
-      "text": "腾讯游戏的长期战略：拥抱AI、理性投资，打造长青游戏 - 编者按：在刚刚过去的2026年科隆国际游戏展上，一大批中国厂商站上舞台C位，吸引了玩家和从业者的广泛关注，其中腾讯更成为了人们瞩目的焦点。本届科隆展期间，腾讯游戏国际业务运营、战略与合规副总裁朱永毅时隔一年再次接受外媒GameIndustry.biz专访，详细介绍了腾讯游戏的长远战略，包括继续深耕服务型游戏领域，打造长青游戏，以更加审慎、理性的方式投资海外工作室，加强不同团队之间的联系和协作，以及鼓励开发者使用AI等。 除了腾讯游戏的战略之外，朱永毅还提到，随着《黑神话：悟空》等国产游戏获得巨大成功，许多中国开发者备受鼓舞，并正在努力开发真正高品质的PC和主机端游戏。他相信假以时日，在创作者审美提升、AI工具普及等因素的影响下，国产游戏将有机会快速缩小与欧美游戏之间的差距。 腾讯游戏商务展台 近年来，以索尼为代表的一些公司纷纷加大对服务型游戏的投入，希望推出能够持续运营多年并稳定创收的长青作品，却屡屡遭遇失败。卡普空等公司坚持传统路线，似乎刻意与在线服务模式保持距离，业绩反而一路猛涨。因此，人们对各大厂商追逐服务型游戏热潮的做法",
-      "translated": "",
-      "url": "http://www.chuapp.com/article/291627.html",
-      "createdAt": "Thu, 10 Sep 2026 23:41:59 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_极客公园_3",
-      "author": "极客公园",
-      "text": "\n        走出聊天框，Agent 开始进入现实世界\n       - &nbsp; 头图来源：小度 Agent 正在寻找自己的「身体」。 过去一年，智能体的主要工作对象是文件、网页和软件。它们可以搜索资料、分析数据、制作 PPT，也可以打开浏览器、调用工具，把一句需求推进成一份可供交付的结果。衡量一个 Agent 能力的方式，也集中在任务能不能做完、执行路径是否稳定、生成结果是否可用。 但屏幕里的 Agent 仍然与现实世界隔着一层。 它可以替人整理一周的工作记录，却不知道会议室里刚刚讨论了什么；能够生成一套家庭计划，却看不到孩子有没有开始写作业；可以给出老人用药的注意事项，却无法确认提醒是否被听见。文件、网页和软件提供的是结构化信息，现实世界则充满持续变化的人、物品、声音和空间。Agent 想从数字工具变成更普遍的行动者，首先要获得感知和触达这些信息的入口。 硬件由此进入 AI 公司的视野。 9 月 2 日，腾讯在 WorkBuddy 生态发布会上展示了九款联名智能硬件，覆盖智能眼镜、录音卡、麦克风、耳机和桌面陪伴设备。它们承担声音、图像等现实信息的采集，WorkBuddy ",
-      "translated": "",
-      "url": "http://www.geekpark.net/news/370064",
-      "createdAt": "Thu, 10 Sep 2026 21:39:07 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_极客公园_4",
-      "author": "极客公园",
-      "text": "\n        微信，悄悄迈出 AI 社交的第一步\n       - &nbsp; 头图来源：视觉中国、ChatGPT 生成 &nbsp; 最近，微信开始小范围测试一项新的「小微 AI 社交」功能。 用户如果想联系一位朋友，可以先把诉求告诉自己的「小微」。小微找到对方的小微后，会说明此次沟通的话题，并向对方本人请求授权。获得同意后，两个小微先行交流；遇到需要用户作出选择或者确认的地方，再分别回来提醒各自的主人。 这和「帮我给某某发一条微信」并不相同。 代发消息仍然由用户决定说什么，AI 只是代替用户点击发送。小微 AI 社交中，用户交给 AI 的是一个目的。如何发起询问、交换哪些信息、怎样归纳分歧，部分沟通过程已经交给两个 AI 完成。 据极客公园实测，两个小微之间的交流不会出现在双方原有的微信聊天框中，而是留在小微内部的独立空间。AI 没有直接进入私人对话，而是在两名用户之间建立了一条代理通道。 不过，小微目前仍处于小范围测试阶段，相关功能尚未全面开放。从产品完成度看，这还是一次早期实验。但它触及的问题是，当 AI 能够代表这个人与另一个人的 AI 沟通，社交平台连接的对象就开始从",
-      "translated": "",
-      "url": "http://www.geekpark.net/news/370155",
-      "createdAt": "Thu, 10 Sep 2026 21:36:57 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_7",
-      "author": "NASA",
-      "text": "NASA Invites Media to Djibouti Artemis Accords Signing Ceremony - The Republic of Djibouti will sign the Artemis Accords during a ceremony at 11 a.m. EDT, Monday, Sept. 14, at NASA Headquarters in Washington, becoming the 72nd country signatory. NASA Deputy Administrator Matt Anderson will host Ambassador of Djibouti to the United States Mohamed Siad Douale for the ceremony, together with U.S. State Department Assistant [&#8230;]",
-      "translated": "",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/",
-      "createdAt": "Thu, 10 Sep 2026 21:11:32 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_8",
-      "author": "NASA",
-      "text": "NASA Answers President’s Call to Establish United States Space Academy - Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce and leadership. NASA Administrator Jared Isaacman chaired the first Presidential Commission on the United States Space Academy [&#8230;]",
-      "translated": "",
-      "url": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/",
-      "createdAt": "Thu, 10 Sep 2026 20:26:52 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_9",
-      "author": "NASA",
-      "text": "NASA’s Life-Saving Technology Where Cell Signals Can’t Go - Search and rescue technology developed in part by NASA saved five lives",
-      "translated": "",
-      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/",
-      "createdAt": "Thu, 10 Sep 2026 20:12:39 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_极客公园_5",
-      "author": "极客公园",
-      "text": "\n        对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑\n       - 在刚刚结束的 IFA 柏林国际消费电子展上，几乎每家机器人公司的展台上，都会摆上一台可穿戴外骨骼设备。就像 10 年前，很多互联网新锐创业者都喜欢在办公桌上摆一台无人机。这既是对这个品类「前沿」的认可，也表露出某种对市场增长的看好。 2025 年被认为是「消费级外骨骼元年」。今年，这个行业迅速涌入了上百个新玩家。 极壳 Hypershell 去年的全球出货量超过了 3 万台，是这个细分领域里公认的头号玩家。创始人孙宽认为，这仍然是一个相对早期和小众的品类，现有的产品体验还有大量提升的空间。 在孙宽看来，竞争并不是当下驱动行业创新的核心动力。他希望跨越鸿沟，把外骨骼产品的目标用户从户外、老年等几个特定群体，推向「国民级」的消费市场。 9 月，极壳在 IFA 发布了行业首个髋膝一体化的下肢外骨骼新品 Halo。这个项目的研发起始于 2023 年，但很长一段时间里没有满意的进展。孙宽告诉我们，核心变化来源于团队今年的一次调整，「还是同样的研发团队，聚焦目标之后，之前做了两年多的东西，很",
-      "translated": "",
-      "url": "http://www.geekpark.net/news/370150",
-      "createdAt": "Thu, 10 Sep 2026 19:41:33 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_触乐_6",
-      "author": "触乐",
-      "text": "触乐怪话：含人量多少？ - 触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。 小罗惨被&ldquo;鉴&rdquo;（图/小罗） 最近，我围观了一起闹得沸沸扬扬的绘圈&ldquo;鉴AI&rdquo;事件。 因为绘圈非常重视原创性，对于任何与AI沾边的内容都深恶痛绝，约画稿的买方通常都会要求卖方纯手搓无AI。但这个圈子主要是私稿交易，缺乏真正意义上的监管机构，所以不管是买方还是卖方维权都基本上只能靠民间互相监督，&ldquo;鉴AI&rdquo;的一套流程应运而生。如果有画师疑似使用了AI辅助作画，就可能被要求拿出一部分金钱和&ldquo;鉴方&rdquo;对赌。在中间人的主持下，画师在各方监督下直播露手作画，最后由一部分被认为有资质（通常是有一定绘画基础和约稿经验的人）的围观群众投票，看有多少人认为画师的&ldquo;手搓&rdquo;水平配得上成稿水平，以排除AI辅助的嫌疑。 且不说这个过程本身有很大逻辑漏洞，现在很多人已经意识到，一方面，这种方法对原本就有基础的画师很难起到作用；另一方面，空口无凭泼脏水的情况也存在，最近闹得很大的那一场，正是因为直播完了之后鉴方还纠缠不休，直到",
-      "translated": "",
-      "url": "http://www.chuapp.com/article/291624.html",
-      "createdAt": "Thu, 10 Sep 2026 18:48:23 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_触乐_7",
-      "author": "触乐",
-      "text": "和“蛙儿子”告别 - 《旅行青蛙：中国之旅》宣布即将停运停服的消息传来，许多还在养蛙的玩家都忙了起来。哪怕知道三个月后账号里所有的资料都会清零，他们还是努力在社交网络上发帖，和同好们交换着自己还没有收集到的明信片，把喜欢的场景截图留念。游戏里平时屯起来的高级食物都拿了出来，没有兑换的家具和装饰也都赶紧兑换了。蛙在装饰精致的小屋里吃饭睡觉的样子也全都被留存下来。 玩家花殇分享给我蛙蛙踢被子的场面 他们更像是在为蛙准备一次长长的远行。作为一款放置类休闲游戏，自拿到原版的IP授权，从H5小游戏到手游，《旅行青蛙：中国之旅》度过了近8年的生命周期。这个游戏曾经被赋予各种意义，被作为某个企业或某种游戏形态的预兆被提起和分析，人们从它身上看到了许多种未来。再之后人们遗忘了它，在很长的一段时间里，没人再提起它。很多人完全忘了这个游戏。 但青蛙仍然在旅行。8年时间足够蛙走过许多地方，对玩家来说也是。他们的生活和8年前相比有了很多变化，只有蛙一如既往地带回明信片与特产。现在，他们要分开了。 ■ 1 云雀从2021年左右开始养蛙。 那时候她还是个高中生，寒暑假都得坐在家里写作业。平时社交也比较少，游戏只能",
-      "translated": "",
-      "url": "http://www.chuapp.com/article/291625.html",
-      "createdAt": "Thu, 10 Sep 2026 18:14:07 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_爱范儿_9",
-      "author": "爱范儿",
-      "text": "20.99 万元起！全新智己 LS6 预售，全线控底盘全系标配 - 「全线控」已成智己的招牌。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "translated": "",
-      "url": "https://www.ifanr.com/1679681?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "createdAt": "Thu, 10 Sep 2026 13:52:09 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_爱范儿_10",
-      "author": "爱范儿",
-      "text": "补贴后 12.99 万元起，银河 TT 上市：全系 800V+宁德时代定制电池 - 银河 TT 想通吃性能党和家庭用户。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "translated": "",
-      "url": "https://www.ifanr.com/1679668?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "createdAt": "Thu, 10 Sep 2026 13:46:20 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_爱范儿_11",
-      "author": "爱范儿",
-      "text": "iPhone 18 Pro 发布速览：「面子」变化不大，「里子」全面升级 - 更贵了，也更强了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "translated": "",
-      "url": "https://www.ifanr.com/1679651?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "createdAt": "Thu, 10 Sep 2026 13:11:37 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC中文_11",
-      "author": "BBC中文",
-      "text": "青島北海造船廠外籍貨輪大火 失聯25人已確定全部死亡 - 中國官方媒體稱，一艘外籍貨輪靠港維修期間起火，造成嚴重傷亡。習近平與李強下達救災指示。",
-      "translated": "",
-      "url": "https://www.bbc.com/zhongwen/articles/czjzvdxw8gvo/trad?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Thu, 10 Sep 2026 12:47:54 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_芥末堆_2",
-      "author": "芥末堆",
-      "text": "别人都在生成课件，他把每堂课“留”给了千问办公 - 千问办公走进课堂，老师和学生“减负”了。",
-      "translated": "",
-      "url": "https://www.jiemodui.com/N/139557.html",
-      "createdAt": "Thu, 10 Sep 2026 12:16:49 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC中文_10",
-      "author": "BBC中文",
-      "text": "香港記協主席訴《華爾街日報》解僱案 法庭判局部有罪 - 香港記者協會主席鄭嘉如指控《華爾街日報》出版商道瓊斯，因其參與工會活動，而將其革職，法庭部分支持其主張。",
-      "translated": "",
-      "url": "https://www.bbc.com/zhongwen/articles/ckgxyvrel0ko/trad?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Thu, 10 Sep 2026 10:46:03 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_极客公园_6",
-      "author": "极客公园",
-      "text": "\n        苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道\n       - 苹果首款折叠 iPhone Duo 亮相，国行 15999 元起 北京时间 9 月 10 日凌晨，苹果发布首款折叠手机 iPhone Duo，国行 15999 元起，10 月 16 日开启预售，23 日正式发售。同场推出 iPhone 18 Pro 系列，9999 元起；标准版 iPhone 18 推迟至明年春季发布。 该机采用书本式内折设计，内外屏尺寸与小米 18 Fold 接近，价格高出 5000 元。机身重 254 克，厚度在同类折叠机型中偏厚重，但支持 IP68 防水。机型取消长焦镜头与面容 ID，改用侧边 Touch ID，搭载 A20 Pro 芯片。iOS 27 首次加入手机分屏功能，后续还将支持 Apple Pencil。 此外，Apple Watch Series 12 新增对话摘要功能，AirPods 5 基础款首次搭载主动降噪。多款 AI 相关新功能暂未在国内上线。苹果仅优化了折",
-      "translated": "",
-      "url": "http://www.geekpark.net/news/370089",
-      "createdAt": "Thu, 10 Sep 2026 08:58:59 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_芥末堆_3",
-      "author": "芥末堆",
-      "text": "钉钉发布A1教育版：给每位老师配一个会听、会记、会出题的AI助教 - 截至目前，钉钉A1已从标准版延伸出律师版、医生版和教育版。",
-      "translated": "",
-      "url": "https://www.jiemodui.com/N/139556.html",
-      "createdAt": "Thu, 10 Sep 2026 07:15:58 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_极客公园_7",
-      "author": "极客公园",
-      "text": "\n        苹果第一台折叠 iPhone，15999 元起\n       - iPhone Duo，国行 15999 元起 作者｜张勇毅 编辑｜靖宇 北京时间今天凌晨，苹果发布了第一台折叠屏手机，名字叫 iPhone Duo。国行 15999 元起，10 月 16 日晚 8 点预购，10 月 23 日发售。同场发布的 iPhone 18 Pro 系列 9999 元起，9 月 12 日晚 8 点预购，18 日发售。 三天前，小米发布了 18 Fold：外屏 5.38 英寸，内屏 7.58 英寸，10999 元起。iPhone Duo 按苹果规格页的标准矩形口径，外屏 5.36 英寸，内屏 7.58 英寸。 两块屏幕的尺寸，差别在小数点后第二位。价格差了 5000 元。 书本式内折，合上是一块 5.4 英寸的外屏，翻开是 7.6 英寸的内屏，苹果的口径是比 iPhone 18 Pro Max 的屏幕大一半。两块屏比例相同，都支持自适应刷新率和常亮显示，峰值亮度都是 3000 尼特。内屏做了纳米纹理，苹果说这是为了让折痕不那么显眼。外屏上方是一颗 1200 万像素的前置摄像头，会自动切",
-      "translated": "",
-      "url": "http://www.geekpark.net/news/370088",
-      "createdAt": "Thu, 10 Sep 2026 03:43:09 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC中文_9",
-      "author": "BBC中文",
-      "text": "911事件25週年：震驚世界的襲擊如何發生，造成多少人死亡？ - 2001年的襲擊造成數千名美國人喪生，並對全球產生了深遠影響。",
-      "translated": "",
-      "url": "https://www.bbc.com/zhongwen/articles/ced7g3qpyyjo/trad?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Thu, 10 Sep 2026 00:14:46 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_WSJ_4",
-      "author": "WSJ",
-      "text": "Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out - Apps can add flexibility and freshness to your routine. Just try not to get injured.",
-      "translated": "",
-      "url": "https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology",
-      "createdAt": "Sun, 26 Jan 2025 09:00:00 -0500",
-      "likes": null,
-      "retweets": null
-    },
-    {
       "id": "rss_机核_0",
       "author": "机核",
-      "text": "AL夺得《英雄联盟》LPL 2026总冠军 - 在《英雄联盟》LPL 2026年总决赛现场，AL 以3比1 击败了 BLG 战队。AL 战队不仅捧起队史首座银龙杯，更将作为LPL赛区一号种子出征2026全球总决赛。同时，Tarzan 获得2026 LPL 总决赛 FMVP 。",
+      "text": "宇宙，在此刻变得完整｜《无人深空》「宇宙」大更新 - 作者：引擎我们仰望的这片宇宙在不断地膨胀，就像肖恩与他的hellogames，也总在不停地更新《无人深空》——而这一更，就是十年。十年间，三十八个免费大版本更新已经让《无人深空》焕然一新，但这片宇宙，从未停止扩张。“快开门，免费更新又来咯！”《无人深空》的制作人肖恩·默里（Sean Murray）如往常一样，带来了这次十周年的新版本——「宇宙」（COSMOS）。 在《无人深空》的社区，我看到了这样一张迷姆图：玩家对着端来大版本免费更新的肖恩·默里说道：“我希望你能学会原谅自己。”肖恩回头看了一眼，没有说话，随后转身离开。他是在为10年前那场灾难般的首发赎罪吗，还是仅仅深爱着自己创造的那片宇宙？无论怎么样，肖恩·默里与他的hello games早已实现了《无人深空》发售前的承诺。如果最初《无人深空》是个大碗，那么当前版本游戏的内容量已经多到溢满出来，肆无忌惮地漫在桌子上，而那个厨师，还在上菜…… 今年6月，我曾写过一篇详细介绍《无人深空》发售前后所经历的那场风波的文章。如果对《无人深空》以及制作人肖恩莫里更感兴趣的话，可以点击这里回顾",
       "translated": "",
-      "url": "https://www.gcores.com/articles/219662",
-      "createdAt": "Sun, 13 Sep 2026 21:03:12 +0800",
+      "url": "https://www.gcores.com/articles/219757",
+      "createdAt": "Tue, 15 Sep 2026 19:30:35 +0800",
       "likes": null,
       "retweets": null
     },
     {
       "id": "rss_机核_1",
       "author": "机核",
-      "text": "手柄摇杆的终极进化，是“去掉摇杆”？ - 作者：柏亚舟今年的科隆游戏展（Gamescom）让我解锁了不少新奇的体验，尤其是最后一天，我在10号馆碰到了一个有些怪异的新家伙——BASH Controller（以下简称“BASH”）。 单从长相上来说，BASH和正常的手柄的区别，主要体现在摇杆上——它完全去掉了我们游戏玩家再熟悉不过的两根摇杆，取而代之的是两块软趴趴的柔性硅胶，就像两个长在手柄上的“捏捏”。 带着满满的猎奇心，我在深入体验了这款手柄在FPS游戏、赛车游戏以及一般向游戏之后，找到了这款手柄的背后的公司—— AXISRAY LAB 的市场总监阿舜，以及 BASH Controller 产品经理小周同学 聊了很久。 我逐渐意识到，这个看似只是解决痛点的改动，往小了说至少能给手柄FPS开辟一片新天地，往大了说，它或许能掀起一场“迟到了20年”的“底层交互革命”。 01 “我就想瘫在沙发上玩FPS”要想讲明白这个“捏捏”为什么具有颠覆性，得先从 BASH Controller 产品经理小周自己的“受苦史”说起。除了游戏玩家，小周还有一个“身份”：Valve公司的“硬件粉”。从初代 S",
+      "text": "【传言】英伟达60系显卡2027年上半年发售 - 据科技博主 Moore's Law Is Dead 引述英伟达内部人士消息， 英伟达定于在2027年上半年推出下一代GeForce RTX 60系列显卡。据悉，这款基于 Rubin 架构打造的新显卡原本预计于年内推出，后来因英伟达需要将台积电产能优先让给人工智能硬件而推迟。 与往代产品相比，目前关于RTX 60系列的架构和规格泄露极少。博主认为，信息匮乏主要是因为英伟达收紧了内部防泄密措施。消息人士暗示，旗舰型号RTX 6090的相关设计可能不同于以往。例如可能改用小芯片设计，或加入强化版的神经渲染AI硬件。 如果英伟达按计划在2027年上半年发售RTX 60系列，依旧可能面临供应链与成本方面的瓶颈。目前，2027年的内存产能预计面临严重短缺。同时，RTX 60系列预计采用的台积电2纳米工艺成本会大幅上涨，且产能依然需要优先分配给AI硬件。",
       "translated": "",
-      "url": "https://www.gcores.com/articles/219661",
-      "createdAt": "Sun, 13 Sep 2026 20:56:38 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_0",
-      "author": "雷锋网",
-      "text": "斜跃智能完成数亿元天使+轮融资，加速推进Duplex Reasoning全新范式具身基础模型 - 近日，斜跃智能完成数亿元天使+轮融资，线性资本、钧山资本、弘颐资本、隐山资本等机构参与投资。随着这一轮融资完成，斜跃将持续推进具身基础模型训练、算力与数据基础设施建设和核心团队扩充，以及家庭机器人本体研发和场景验证。斜跃智能成立于2026年2月，是一家以家庭为第一落地场景的具身基础模型公司，斜跃正在构建面向真实物理世界的通用具身模型，以自研模型驱动通用家庭机器人落地。斜跃由理想前AI首席科学家、基座模型部门负责人陈伟，以及理想前产品线总裁张骁联合创立，核心团队来自全球知名科技、AI、机器人及智能汽车企业，能力横跨大模型算法、AI Infra 基础设施、机器人运控、产品与供应链管理五大领域，是国内少数具备万卡大模型训练、数字与物理大模型及智能体开发、C 端产品从定义到量产交付全链路经验的顶尖团队。斜跃认为，家庭是最复杂、最高频、也最具长期价值的真实物理环境之一，家庭任务天然融合感知、理解、规划、操作和交互，既包含脑力任务，也包含体力任务，是验证通用具身智能能力的理想场景。斜跃相信，家庭是具身",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/industrynews/PHYwHDvtZ5GGXTK6.html",
-      "createdAt": "Sun, 13 Sep 2026 18:30:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_1",
-      "author": "雷锋网",
-      "text": "让AI真正“住进家里”：后摩智能×绿联HomeAgent探索家庭智能新形态 - 9月12日晚，绿联科技品牌全球发布会正式举行。绿联发布与后摩智能合作的UGREEN HomeAgent HA100 Pro，以本地AI算力打造家庭AI中枢。当AI开始从云端走向终端，它正在进入越来越多真实的生活场景，家庭正是其中之一。如今，智能摄像头、音箱、NAS等设备不断进入家庭，但设备增多并不意味着真正的智能：数据分散、入口割裂，照片、视频、家庭监控等数据也面临隐私与安全的考验。家庭需要的，或许不只是更多智能设备，而是一个能够理解家庭数据、连接家庭设备，并主动响应需求的本地AI中枢。基于这一需求，后摩智能与绿联展开合作，将后摩智能M50的本地AI算力与UGREEN HomeAgent&nbsp;HA100 Pro的家庭场景能力结合，共同探索AI进入家庭的新形态。从“设备智能”走向“家庭智能”过去，家庭中的AI往往依附于单一设备：摄像头负责看护，音箱负责交互，NAS负责存储，智能家居设备负责执行。每个设备都具备一定的智能能力，但彼此之间相对独立。体验相对割裂，且数据一般都要经过云端。UGREEN Home",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/chips/OWi6OEGUYbDYwZof.html",
-      "createdAt": "Sun, 13 Sep 2026 17:16:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_2",
-      "author": "雷锋网",
-      "text": "蚂蚁数科在外滩大会达成31项AI合作，推动智能体走进千行百业 - 在近日举行的2026 Inclusion·外滩大会上，蚂蚁数科围绕绿色能源、智能终端、酒店文旅、数字内容等领域达成31项合作，携手多家签约单位推动AI智能体、区块链、可信数据等技术在千行百业加速落地。在绿色能源方面，蚂蚁数科与广牛新能源科技集团有限公司、蜂电科技有限公司、协鑫集成能源科技股份有限公司、艾瓦量化（杭州）科技有限公司、广东神州时投新能源有限公司、运达能源科技集团股份有限公司、杭州衡家环境科技有限公司等单位展开合作，覆盖AI数智降碳增效、协鑫碳链4.0、AI量化电力交易、储能项目上链服务、发电侧电力交易智慧大脑、AI智慧暖通可信上链模组等项目，助力新能源运营、绿色资产管理和电力交易智能化升级。在智能终端方面，蚂蚁数科与上海玖电科技有限公司、无锡新闪联信息科技有限公司、江西协讯智能装备有限公司、广东天太机器人有限公司、深圳华付技术股份有限公司、深圳友宝在线科技股份有限公司、杭州企鹅科技有限公司等单位达成合作，围绕AI智能充电场站、AI工业机器人及工业AI眼镜、具身智能机器人售卖亭、AI智能终端生态、AI无人零售、",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/industrynews/z9XsFJXTUkbHBZFs.html",
-      "createdAt": "Sun, 13 Sep 2026 17:13:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_3",
-      "author": "雷锋网",
-      "text": "大模型牌桌上，蚂蚁如何出牌？ - 谈起国内 AI 公司，人们首先想到的往往是智谱、MiniMax、月之暗面等大模型创业公司，或者阿里、腾讯、字节这些拥有云和流量入口的大厂。在这张竞争地图里，蚂蚁的位置一直没有那么容易被描述。它也做大模型，也做面向消费者的 AI 应用，现在甚至开始进入具身智能。蚂蚁到底想在 AI 产业里占据什么位置？它准备依靠什么与其他大模型公司竞争，又想把自己的护城河修在哪里？雷峰网注意到，2026 Inclusion·外滩大会，提供了一个观察蚂蚁 AI 布局的窗口。外滩大会上，蚂蚁展示了什么？从进入外滩大会开始，蚂蚁的 AI 产品就已经在接管具体任务。入场时，观众拿出手机&quot;碰一下&quot;，完成身份核验的同时，也唤醒了展会 AI 助手。AI 不再只待在一个对话框里，而是被嵌进入场、身份和服务流程。走进展馆，最显眼的是一台在药房货架间移动的机器人。货架间的通道只有80厘米宽，药品仍按真实药房的方式摆放。搭载蚂蚁灵波通用大脑的机器人，需要自己接收订单、识别药品、完成分拣，再把药交出来。为了容纳它，药房不需要重新装修，也不需要把货架改造成机器熟悉的样子。另一种",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/ai/0j9Qu8Jg28bUaM5w.html",
-      "createdAt": "Sun, 13 Sep 2026 16:22:00 +0800",
+      "url": "https://www.gcores.com/articles/219756",
+      "createdAt": "Tue, 15 Sep 2026 18:49:08 +0800",
       "likes": null,
       "retweets": null
     },
     {
       "id": "rss_触乐_0",
       "author": "触乐",
-      "text": "七年时间、三个阶段，“想做自己真正喜欢的东西”，对话《王者万象棋》制作人 - 9月10日，《王者万象棋》正式开服，上线首日稳居免费榜第1、畅销榜第9，次日升至畅销榜第5。 上线后，《王者万象棋》持续稳居App Store免费榜榜首，畅销榜最高到TOP5 《王者万象棋》无疑是一款各方面给人的感觉都很&ldquo;新&rdquo;的游戏。这种&ldquo;新&rdquo;既直观地体现在玩法上，还体现在它各方面传达出的气质，比如游戏架构上简洁优美，美术资产潮酷，商业化比较克制。你很容易可以推断，它的制作团队大概率也是一支很有活力，也十分大胆的团队。 与此同时，作为&ldquo;王者荣耀&rdquo;IP产品之一，《王者万象棋》也有很多值得玩味的地方：它的制作人Donny是《王者荣耀》最早的策划之一；它看起来脱胎于《王者荣耀》在2019年上线、一度受到不少玩家好评的&ldquo;王者模拟战&rdquo;，但最后的呈现却和传统自走棋玩法天差地别。 后来我了解到，《王者万象棋》的团队规模并不大。与此同时，在整个腾讯产品的大背景中，《王者万象棋》的诞生历程也相当特殊：如果仅从项目本身的研发来说，从确",
+      "text": "《inZOI》制作人群访：做得艰难但不后悔 - 自2025年3月28日在Steam上线抢先体验版以来，生活模拟游戏《inZOI》经历了极大的系统改版甚至重制。这款游戏有些命途多舛。韩国游戏公司KRAFTON从宣布涉足生活模拟这个品类开始，就受到了很多关注；何况《inZOI》一直以相对写实的风格和打造更生动丰富的世界为卖点。 不过，游戏的抢先体验版在功能和生活模拟深度上一直遭到诟病，在线玩家数量也一度出现大幅下滑。而且，除了单机版之外，游戏还在同时开发Online版本，甚至开启了社区Mod支持。多线并行也让开发显得有些艰难。 经过数度推迟之后，《inZOI》终于宣布要在明年上线正式版。而我们也在9月12日&ldquo;TapTap玩聚节&rdquo;的现场首度体会到了最近一次大型更新的版本。同时，触乐有幸参与了对《inZOI》最新版本的试玩，以及对制作人Kjun的媒体群访。 在这次群访中，制作人热心地分享了对《inZOI》的未来计划和希望让玩家重点体验的新内容。 Kjun是个与玩家互动颇为频繁的制作人，长期在《inZOI》官方论坛出没 媒体：我们都知道《inZOI》在过去一年经历了较大规",
       "translated": "",
-      "url": "http://www.chuapp.com/article/291626.html",
-      "createdAt": "Sun, 13 Sep 2026 15:30:00 +0800",
+      "url": "http://www.chuapp.com/article/291633.html",
+      "createdAt": "Tue, 15 Sep 2026 18:38:28 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_触乐_1",
+      "author": "触乐",
+      "text": "触乐怪话：“你的时间不多了” - 触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。 已拔管，等重生&hellip;&hellip;（图/小罗） 今天是9月15日，在这个时候，《EA Sports FC 26》的生命周期走完了。当然，你拥有这个游戏，理论上还是可以玩很久。单机模式大概可以永远玩下去，在线模式也还有四五年光景，只要在线服务器还开着，能在&ldquo;鬼服&rdquo;里匹配到人。只是作为历来&ldquo;FC&rdquo;系列的核心玩法&mdash;&mdash;&ldquo;终极球队&rdquo;，也就是UT模式，又快到了一切归零的时间点。 经历了整整一年的数个赛季之后，UT模式不再推出任何新的活动，仅保留最基本的网络对战功能，UT模式的网页版和在线App也已经关闭。习惯上，绝大多数玩家也将离开《FC 26》这个平台，迅速转移到即将推出的《FC 27》中。 &ldquo;你的时间不多了。&rdquo; 一年前，在《FC 26》刚开始的时候，我曾经许愿，想以纯页游方式玩上一年，看看成果如何。这个页游玩法，可以参考我之前在怪话中的说明，简单来说，就是不去游戏里踢球，只在网页",
+      "translated": "",
+      "url": "http://www.chuapp.com/article/291638.html",
+      "createdAt": "Tue, 15 Sep 2026 18:37:58 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_触乐_2",
+      "author": "触乐",
+      "text": "米哈游宣布停运的AI数字人，被一群玩家“赛博永生”了 - &nbsp;&ldquo;你会说爱我吗？&rdquo; &ldquo;会的，不过不是现在，等你下次买葱油饼回来的时候当面说。&rdquo;女孩坐在钢琴前注视着镜头。 &ldquo;这个视频回复还蛮&hellip;&hellip;感人的？&rdquo;我斟酌着用词，对发来视频的核桃说。 &ldquo;是的，&rdquo;核桃看起来情绪起伏不大，&ldquo;这段视频可以用（在文章里），我的名字和确切地名都掐掉了。&rdquo; &ldquo;我很早以前被人叫全名会应激，结果后来所有信件，林离开场都叫我全名：&lsquo;某某某同学&rsquo;。&rdquo; ■ 她是谁 想回答&ldquo;林离是谁&rdquo;并不难。在B站搜索这个名字，会找到一个ID为&ldquo;林离Olivia&rdquo;的账号，这个账号仅上传了七个视频，内容都是一个女孩的钢琴演奏或弹唱作品。点进置顶的演奏视频，不少人在评论区发与这首曲子相关的《原神》游戏表情包。 热评第一的关注点有些不一样，&ldquo;袖子花边接触到钢琴还有物理反馈，太细啦&rdq",
+      "translated": "",
+      "url": "http://www.chuapp.com/article/291639.html",
+      "createdAt": "Tue, 15 Sep 2026 18:37:53 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_雷锋网_0",
+      "author": "雷锋网",
+      "text": "阶跃发布 StepAudio 3 ，多款语音模型登顶 Artificial Analysis 全球榜单 - &nbsp;9月15日，阶跃发布新一代语音大模型 StepAudio 3 系列，一次性推出 StepAudio 3 Realtime、StepAudio 3 ASR、StepAudio 3 TTS、StepAudio 3 Gen 和 StepAudio 3 Music 五款模型，覆盖实时语音交互、语音识别、真人级语音生成和音乐创作等场景。其中，多款模型在权威第三方 AI 模型评测机构 Artificial Analysis 榜单中位列全球第一。相比过去主要围绕语音识别或语音生成等单项能力展开竞争，StepAudio 3 将能力进一步延伸至语音理解与生成、实时推理、任务执行和音频创作的全栈能力，让 AI 不仅能够“听”和“说”，也能够理解声音背后的语义与情绪，并参与更完整的交互和内容生产过程。其中，面向实时语音交互场景的 StepAudio 3 Realtime 支持原生全双工对话，可以在持续交流过程中判断何时回应、何时等待，并处理临时打断和连续反馈。在 Artificial An",
+      "translated": "",
+      "url": "https://www.leiphone.com/category/industrynews/bqWUmrRwgYnqHzxZ.html",
+      "createdAt": "Tue, 15 Sep 2026 17:50:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_雷锋网_1",
+      "author": "雷锋网",
+      "text": "英伟达开源 IMO 金牌配方：不仅是「人海战术」，1.5TB 显存做实 AI「 推恩令」？ - 用三套 checkpoint 完成多轮证明搜索，用过程透明平息学术怒火，用 1.5TB 显存门槛锁定算力霸权。名为代码平权，实则算力集权。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
+      "translated": "",
+      "url": "https://www.leiphone.com/category/ai/A3z1I1E1p15O83NO.html",
+      "createdAt": "Tue, 15 Sep 2026 17:38:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_雷锋网_2",
+      "author": "雷锋网",
+      "text": "亚太唯一！腾讯云首次入选IDC MarketScape 全球托管边缘服务领导者类别 - 9 月 15 日，国际数据公司（IDC）发布《IDC MarketScape: Worldwide Managed Edge Services 2026 Vendor Assessment》报告。凭借边缘安全加速平台EdgeOne，腾讯云位居领导者（Leaders）类别，成为首次入选、也是本次唯一入选领导者类别的中国厂商、亚太厂商。IDC MarketScape 报告指出：“腾讯云 EdgeOne 通过统一平台原生融合加速、安全、边缘计算与 AI 能力，帮助企业免于组装多个点解决方案，从而降低多产品组合带来的集成与运维复杂度。”本次评估印证了EdgeOne在全球基础设施规模、交付能力及服务成熟度上的综合实力，及面向 AI 时代成熟完备的托管边缘服务，跻身全球第一梯队。构建 AI 原生应用的边缘基础设施，打造高性能边缘 AI 服务IDC 指出，传统 CDN 正加速向托管边缘服务演进，竞争焦点已转向边缘侧 AI 推理能力。边缘正成为 AI 时代连接网络、计算与应用的基础设施。沿着这一趋势，腾讯云Edge",
+      "translated": "",
+      "url": "https://www.leiphone.com/category/industrynews/pxm3hT4tSVTrgyIS.html",
+      "createdAt": "Tue, 15 Sep 2026 17:24:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_Solidot_0",
+      "author": "Solidot",
+      "text": "廉价太阳能改变世界能源格局 - 巴基斯坦水泥公司 Bestway Cement 正在扩建其太阳能发电设施，计划年底前在现有 26MW 装机容量的基础上增加 6.34MW 装机容量。太阳能满足了该公司逾四分之一的电力需求。受益于中国制造的廉价太阳能组件，Bestway 及其竞争对手加入了全球数百万企业和家庭的行列，在屋顶、庭院、花园等空地上安装太阳能电池板。截至 2025 年底，全球太阳能装机容量已接近 1.2TW。由廉价中国光伏板推动的太阳能革命——以及个人发电模式的兴起——正在改变发展中国家乃至工业化国家的能源格局。在较贫穷国家，数以百万计的人们如今获得了更可靠的电力供应，而这是通过他们自身努力实现的，而非依赖于大规模的基础设施建设。标普全球太阳能与储能研究经理 Josefin Berg 表示，太阳能的增长正在彻底改变电力系统，使其从集中式结构转变为一种任何人都能发电的模式。本世纪初，太阳能电池板的成本约为每瓦发电容量 5-6 美元。如今已降至每瓦约 12 美分。Ember 预计非洲今年将新增约 17 GW 的太阳能装机容量。菲律宾电力分销商 Meralco 表示，今年上半年屋顶太阳",
+      "translated": "",
+      "url": "https://www.solidot.org/story?sid=85384",
+      "createdAt": "Tue, 15 Sep 2026 17:19:15 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_机核_2",
+      "author": "机核",
+      "text": "有病呻吟，录音笔VOL.786 - 【录音笔】是GPASS推出的一档会员专享节目，内容来自机核办公室日程生活和工作中的一些短小记录，每期时长十几分钟左右（大概吧）。内容也许是一些不成体统的碎碎念，也许是一些突然发疯的暴言，还有可能是哪个缺德的把办公室里真实的日常对话（dui ma）偷偷录了下来，总之就连我们自己现在也不知道每期会有哪些人参与，会录些什么。",
+      "translated": "",
+      "url": "https://www.gcores.com/radios/219751",
+      "createdAt": "Tue, 15 Sep 2026 17:00:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_雷锋网_3",
+      "author": "雷锋网",
+      "text": "“阿宝”交新朋友：携手比亚迪“迪迪虾”，实现车机端一句话办事 - “阿宝”又交新朋友！9月14日，“阿宝”亮相腾势N8L纯电上市发布会，并与比亚迪AI超级智能体“迪迪虾”达成跨端协同办事合作。腾势N8L车主直接对“迪迪虾”说一句话，由“迪迪虾”唤起“阿宝”办理生活服务，在车机端实现“一句话办事”。（阿宝X 迪迪虾在车机场景组成新的“办事搭子”）比如，车主可以说“你好腾势，帮我缴一下停车费”“你好腾势，帮我买杯咖啡”，就可唤起“迪迪虾”理解车主在车内场景下的语音需求，并唤起“阿宝”执行；“阿宝”则在支付宝内完成服务匹配和办理，并在声纹核身成功后通过支付宝AI付完成交易。目前，双方已落地停车缴费、咖啡点单、领取周边优惠券、收集蚂蚁森林能量等服务。在协同办事过程中，两个智能体各司其职、各守可信边界。“迪迪虾”主要负责车机侧的语音交互和意图理解，不接触用户的支付宝账号、支付信息等资金隐私；“阿宝”则在支付宝体系内完成服务调用和办理，不越界获取车机侧无关信息。在支付、授权等关键步骤，仍需用户主动确认后才能完成，并由支付宝多维风控系统守护每笔交易。（车主一句话可唤起“迪迪虾”联动“阿宝”智能点单）",
+      "translated": "",
+      "url": "https://www.leiphone.com/category/industrynews/mIVmFo7yO9N62L0j.html",
+      "createdAt": "Tue, 15 Sep 2026 16:45:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_Solidot_1",
+      "author": "Solidot",
+      "text": "一款在浏览器里运行、部署在自己服务器上的 SQL 客户端 - Yusuf Gundogdu 写道：LibreDB Studio 是一个 MIT 协议的 SQL 客户端，不装在本地而是跑在服务器上，浏览器打开就能用，一条 docker run 就起来。16 个驱动覆盖 42 种数据库，PostgreSQL、MySQL、MongoDB、Redis、ClickHouse 这些都在内。9 月 8 日发布了 0.15.0 版本。我觉得值得一提的是他们把 AI 那部分做了实测：28 个模型跑同一套六项数据库任务，27 个通过 Ollama 完全在本地运行，最快的 qwen2.5:7b 只有 4.7 GB，一次完整运行中位数 6 秒，最小的 2.5 GB。数据逐个模型公开，包括没通过的和卡在哪一步。另外只读不是靠解析 SQL 挡的，是数据库自己挡的：PostgreSQL 上开只读事务，SQLite 上每条语句前重设 query_only。",
+      "translated": "",
+      "url": "https://www.solidot.org/story?sid=85383",
+      "createdAt": "Tue, 15 Sep 2026 16:43:13 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_机核_3",
+      "author": "机核",
+      "text": "Team17携《破烂捡上天》与《Greak 2》亮相东京电玩展 - Team17今日宣布，支持1至4名玩家合作的物理解谜游戏《破烂捡上天》（What Goes Up）与合作类银河恶魔城游戏《Greak 2: Alliance of the Storms》将于下周亮相东京电玩展。两款游戏的试玩Demo将在Kakehashi展区开放体验，具体位置为2号展厅02-C18展位。 《破烂捡上天》 &lt;内嵌内容，请前往机核查看&gt; &lt;内嵌内容，请前往机核查看&gt;《破烂捡上天》将首次面向公众开放试玩。展会现场将设置两台试玩设备，供玩家体验单人或多人合作搭建垃圾高塔的乐趣。本次试玩将提供五个完整关卡。玩家可以亲手搭建一座摇摇欲坠的垃圾高塔，同时躲避缓慢逼近的岩浆与流星雨。此外，玩家还可以使用一系列“银河废品公司”奖励，自定义自己的角色。 《破烂捡上天》将于今年晚些时候登陆PC、Xbox Series X|S及PlayStation 5。这是一款支持1至4名玩家合作的解谜游戏。玩家将成为“银河废品公司”的员工——这是一家立志成为全银河最具雄心的高风险垃圾清理服务商。玩家需要前往各个星球",
+      "translated": "",
+      "url": "https://www.gcores.com/articles/219749",
+      "createdAt": "Tue, 15 Sep 2026 16:31:28 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_机核_4",
+      "author": "机核",
+      "text": "网飞与世嘉达成合作，推出三部影视作品 - Netflix与世嘉于日前联合宣布达成新合作，将共同推出三部改编自世嘉旗下游戏IP的影视作品，包括《刺猬索尼克》全新动画、《疯狂出租车》真人电影以及《异于天堂》真人电影。 据悉，新款《刺猬索尼克》动画定位为面向学龄前儿童的作品。该剧集旨在将索尼克及其伙伴塑造为儿童心中的英雄，打造一部富有感染力的作品。世嘉的中原彻将参与制作。与此同时，《疯狂出租车》长篇电影将由电影《白头神探》（2025）的编剧搭档丹·格雷戈尔与道格·曼德操刀剧本。制片阵容包括中原彻、尼尔·H·莫瑞兹以及托比·阿什尔。莫瑞兹与阿什尔表示，很高兴能在与世嘉保持长期合作的基础上，携手Netflix将该IP搬上大屏幕。 最后，《异于天堂》电影以20世纪初的日本为背景，讲述一名男子逐渐成长为娱乐界大亨的故事。影片确认同样由中原彻出任制片人，将从全新视角呈现其宏大的世界观。对于此次合作，世嘉代表董事兼首席运营官内海州史表示网飞对各类作品持有真挚的态度，公司对这些项目投入同样的热情感到自豪。中原彻强调，团队对充沛的创意灵感感到十分振奋。",
+      "translated": "",
+      "url": "https://www.gcores.com/articles/219747",
+      "createdAt": "Tue, 15 Sep 2026 16:15:58 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_机核_5",
+      "author": "机核",
+      "text": "这些音效竟然是人发出的声音？！对话 BigWalk 音效技术制作人 再荐茶社sp 05 - 🐧👉《再荐茶社》更新通知QQ群：1055561149感谢大家一直以来的赞赏、订阅和支持，欢迎朋友们在评论中和我们一起分享游戏体验！---------------------听前提醒：本期包含全剧透。如果您还未通关，也不想被这些剧透破坏游戏体验，强烈建议先通关游戏，再来收听本期节目~嘉宾：Nicholas Zhang、27本期节目，我们邀请了大走的音频技术老师 Nicholas ，畅聊Big Walk这样一款以“交流”为核心的游戏，幕后的声音故事和技术方法。Nicholas Zhang 老师是音频工作室 A Shell in the Pit 的成员，在游戏 Big Walk 中负责 Sounds Programming。 A Shell in the Pit 是一家来自加拿大温哥华的游戏音频工作室，曾经负责《大鹅模拟器》（Untitled Goose Game）、《盗贼遗产》（Rogue Legacy）系列以及 《玩具熊的五夜后宫：安全漏洞》 等游戏的声音制作。------------------",
+      "translated": "",
+      "url": "https://www.gcores.com/radios/219646",
+      "createdAt": "Tue, 15 Sep 2026 16:00:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_雷锋网_4",
+      "author": "雷锋网",
+      "text": "Xspark AI 丁文伯：触觉替代不了视觉，但机器人需要一套自己的“脊髓” ｜物理AI 50人 - 具身智能进入“触觉时代”，丁文伯提出“脊髓”架构补全机器人物理交互短板。作者：李秋悦编辑：吴彤丁文伯很难被一个词准确“定位”。通信博士、材料学博士后、机器触觉学者，这些标签都对，但都只能解释他的部分经历。2025年，丁文伯又多了一个身份——Xspark AI（无界智航）联合创始人、首席科学家。一个做了多年传感器研究的清华教授出来创业，没有把公司定义成一家“传感器公司”。相反，他认为造出更好的传感器，并不会自动得到一个更聪明的机器人，机器人触觉可能需要一套自己的模型。这个判断首先来自纯视觉的局限。过去两年，具身智能最主流的技术路径仍然延续大模型的Scaling逻辑，即更多视频、更多机器人轨迹、更大的VLA（视觉-语言-动作模型），让机器人沿着“看见—理解—行动”的链条不断提高泛化能力。丁文伯并不反对这条路线，他甚至认为“VLA是一个蛮solid的逻辑，像早期Transformer、diffusion policy一样，一定会在具身智能（历史）长河里留下浓墨重彩的一笔”。但机器人和语言模型",
+      "translated": "",
+      "url": "https://www.leiphone.com/category/robot/RMYKt5OCvHa4yodm.html",
+      "createdAt": "Tue, 15 Sep 2026 15:52:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_Solidot_2",
+      "author": "Solidot",
+      "text": "科学家演示水下太阳能电池 - 西南联合研究生院与云南大学研究员研究员张文华与合作者研究表明，太阳能电池可在南海海面下 10 米处正常运行，可在水下工作两小时，可产生 324 兆瓦时的电能，足以给锂离子电池充电；若持续置于 10 米水深的环境中，其运行寿命可达约 5.5 年。这些发现表明，水下太阳能电池有望为远离陆地的水下传感器、摄像头和通信系统提供动力。尽管太阳能电池早已能够为陆地上的各类技术提供绿色能源，但由于阳光在水下短距离内就会迅速衰减，研究人员一直难以在海底收集太阳能，用于水产养殖监测及其他用途。为克服这一难题，张文华团队首先开发了一套定制化的实验室系统，配备定制的光学滤光片，以模拟不同水深下的光照条件。研究人员开发的高效宽能带隙浸没式太阳能电池，能够吸收从蓝光到橙光的光谱。将电池在充满氮气的手套箱中储存 300 天后，其效率仍保留了初始值的约 96%。此外，在模拟 10米 水深条件下运行 1160 小时后，电池几乎未出现性能衰减，表明其在水下具有卓越的耐久性。研究团队将钙钛矿太阳能电池与水下机器人集成，并将其部署在南海涠洲岛附近 10 米水深处，以测试其实际应用性能。",
+      "translated": "",
+      "url": "https://www.solidot.org/story?sid=85381",
+      "createdAt": "Tue, 15 Sep 2026 15:30:14 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_机核_6",
+      "author": "机核",
+      "text": "【更新】《怪物猎人：荒野 凌越》公布新动作介绍视频 - 随着超大型扩充内容《怪物猎人：荒野 凌越》将于2027年推出，新动作的展示视频也一并公开。据悉，全新要素“增幅护腕”的登场将让狩猎动作将迎来进一步进化。各类武器的介绍视频也在陆续公开。本次带来聚焦大剑、弓、双剑、大锤、轻弩炮、盾斧与单手剑，共十五种武器的展示视频。 &lt;内嵌内容，请前往机核查看&gt;官方表示，启动“增幅护腕”就能在一定时间内强化猎人的动作性能，并可使用新的招式及连段。利用启动增幅护腕并施展强力攻击的“增幅发动动作”，以及暂时强化各种动作的“增幅状态”，迎战强大怪物吧。武器介绍：太刀 &lt;内嵌内容，请前往机核查看&gt;武器介绍：斩斧 &lt;内嵌内容，请前往机核查看&gt;武器介绍：长枪 &lt;内嵌内容，请前往机核查看&gt; 武器介绍：重弩炮 &lt;内嵌内容，请前往机核查看&gt; 武器介绍：狩猎笛 &lt;内嵌内容，请前往机核查看&gt;武器介绍：操虫棍 &lt;内嵌内容，请前往机核查看&gt;武器介绍：大剑 &lt;内嵌内容，请前往机核查看&gt; 武器介绍：铳枪 &lt;内嵌内容，请前往机核查",
+      "translated": "",
+      "url": "https://www.gcores.com/articles/219430",
+      "createdAt": "Tue, 15 Sep 2026 15:19:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_雷锋网_5",
+      "author": "雷锋网",
+      "text": "数亿元！前京东副总裁“消失”4年：不造会跑的天工，他在仓库里给人形机器人“占工位” - 一家“消失”了四年的机器人公司，重回公众视野时，手里已握着全球头部电商的产线订单。默不作声的四年 它去仓库装分拣机了9月1日，北京天下先智创机器人技术有限责任公司（下称“天工机器人”）宣布完成数亿元A轮融资。本轮由初芯基金领投，经纬创投、合肥国资等机构跟投，钱主要花在三件事上：分拣类机器人扩大量产、基于人形的分拣机器人研发与商用化迭代、海外市场拓展。先帮各位厘清一件容易混淆的事。这家“天工”，不是那个跑半程马拉松拿冠军的“天工Ultra”——后者出自北京人形机器人创新中心，是热搜上的常客。拿钱的这家天工，创始人叫肖军，前京东集团副总裁、X事业部总裁，京东无人仓、无人车、无人机当年的总操盘手。两家公司，没有任何关系。更有意思的是节奏。2022年7月，这家公司成立刚满4个月，就拿下了2亿元天使轮，投资方是经纬创投、华兴新经济基金、红点中国、零一创投。然后，它“消失”了将近四年。这四年人形机器人行业热到发烫，融资纪录月月刷新，它几乎没怎么出声。等它再回到公众视野，手里已经握着全球头部电商、快递企业的产线订",
+      "translated": "",
+      "url": "https://www.leiphone.com/category/industrynews/QDqnLfFb5wiTdPyd.html",
+      "createdAt": "Tue, 15 Sep 2026 15:14:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_0",
+      "author": "极客公园",
+      "text": "\n        对话小宇宙 kyth：播客的护城河是真实，AI 无法取代的是人的立场\n       - &nbsp; 头图来源：小宇宙 &nbsp; 过去一年，播客被推到了内容行业的聚光灯下。 B 站拿出 10 亿元流量扶持视频播客，罗永浩、鲁豫等名人带着数小时的长对谈进入市场。小红书也在持续补齐视频与音频播客能力，抖音精选则通过自制节目试水长对谈。那些原本只在播客听众中流动的内容，被剪成短视频切片，登上热搜和推荐流。 商业化也在加速。2025 年，小宇宙合作品牌数量同比增长 422%，商业收入增长 760%，实现变现的播客数量增长 356%。一个过去长期被称为「小众」「慢热」，甚至需要创作者「为爱发电」的行业，开始出现做大的迹象。 但新的问题也随之而来。 名人、机构和平台资源不断进入，意味着更多用户和商业预算，也意味着流量进一步向头部聚集。视频让播客更容易传播，却可能把一种以声音、陪伴和长期信任为基础的内容，再次带回对点击率和注意力的竞争中。 当播客不再只是「小众爱好」，它将变成什么？当小宇宙开始承接更大的用户、内容和商业需求，它又该如何避免成为另一个追逐流量的内容平台？ 小宇宙 ",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/370345",
+      "createdAt": "Tue, 15 Sep 2026 15:10:42 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_Solidot_3",
+      "author": "Solidot",
+      "text": "Steam Frame 起售价 1059 美元 - Valve 正式发售了新 VR 设备 Steam Frame，即日起开放排队预购，起售价 1059 美元（捆绑《Half-Life: Alyx》）。Steam Frame 重 440g，其一大创新是后置的电池模组与前置的镜片模组分离，用户体验到的前部重量感要轻得多，整个设备的重量主要集中在脑后面的电池上，这一设计的缺点是如果用户想要头向后靠在头枕上，那么电池可能会成为障碍。Steam Frame 运行基于 Arch 的 SteamOS 3，桌面环境是 KDE Plasma，它是一款 Linux VR 设备。",
+      "translated": "",
+      "url": "https://www.solidot.org/story?sid=85380",
+      "createdAt": "Tue, 15 Sep 2026 14:59:44 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_Solidot_4",
+      "author": "Solidot",
+      "text": "NVIDIA中国开发者日定档10月苏州，现场设认证考试与黑客松决赛 - NVIDIA 宣布将于 2026 年 10 月 15—16 日在苏州举办中国开发者日。日程分为两日：首日为动手实践日，包含 2026 黑客松总决赛路演、全天实战培训及实训营，同时开放四门 Associate 级别认证现场考试；次日为主论坛，设 LLM、AI 模型与运行时、物理AI/机器人、AI基础设施四个分论坛，并举行黑客松颁奖典礼。 值得注意的细节：认证考试可在现场完成，对希望获得 NVIDIA 官方技术背书但不愿单独约考的开发者有一定吸引力。活动偏向实战而非产品宣讲，适合关注推理优化、训练基础设施和机器人方向的工程师。注册已开放，名额限制未公布，建议提早。 https://www.nvidia.cn/developer-day/?ncid=partn-270555",
+      "translated": "",
+      "url": "https://www.solidot.org/story?sid=85379",
+      "createdAt": "Tue, 15 Sep 2026 14:44:22 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_Solidot_5",
+      "author": "Solidot",
+      "text": "Windows 11 的 9 月例行安全更新再次引发了大量故障 - 微软上周推送了 9 月份的例行安全更新，修复了近千个 bug。一周后，微软证实这次更新又给用户带来了一系列新 bug：Windows 11 26H1 和 Windows Server 2012 等多个 Windows 版本的远程桌面服务（RDS）出现问题； Windows 11 26H1、25H2 和 24H2 版本对 USB Audio Class 1.0 设备的支持出现问题，受影响的用户可能会遇到无音频输出、声音设置和音量控制失效，多声道音频问题；对电子表格 Excel 的 bug 修正导致粘贴功能失效。 微软表示它正在着手修复新 bug，但没有给出修复时间。",
+      "translated": "",
+      "url": "https://www.solidot.org/story?sid=85378",
+      "createdAt": "Tue, 15 Sep 2026 14:29:05 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_Solidot_6",
+      "author": "Solidot",
+      "text": "XCancel 服务再次下线 - 在重新上线一周时间后，基于 Nitter 开源项目的实例 XCancel 再次下线，运营者表示“由于正在进行的法律诉讼有了新进展，我们不得不再次暂停此项服务，直至另行通知。我们无法透露更多详情”。8 月 24 日， X/Twitter 向 Nitter 及其实例发出停止侵权通知 ，指控 Nitter 抓取数据并要求永久关闭 Nitter 实例和项目代码库。8 月 25 日，Nitter 的 GitHub 项目归档。9 月 6 日，Nitter 项目宣布在听取法律建议之后决定恢复服务，一天后 XCancel 成为第一个重新上线的 Nitter 实例。9 月 14 日，XCancel 再次下线。",
+      "translated": "",
+      "url": "https://www.solidot.org/story?sid=85377",
+      "createdAt": "Tue, 15 Sep 2026 14:20:12 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_1",
+      "author": "极客公园",
+      "text": "\n        给 AI 发外设，戴森派摄像头进嘴、绿联给充电宝开了扇窗\n       - AI 正在把所有硬件重新做一遍，这句话说了三年，这周轮到了一把牙刷。 今天，IFA 柏林开展，一千九百个品牌都在不同角度展示自己的创新力，连戴森都掏出了一款牙刷来告诉行业，我也能用 AI 玩出花样，牙刷 Dyson CameraJe 刷头下藏着一颗 1 毫米的摄像头，每秒盯着你哪颗牙没刷干净。联想打造了个人智能体 Qira，横跨着电脑、手机、手表等多设备生态。你在哪里，智能体跟随服务到哪里。 我们发现，不少公司想明白了一件事，与其从零生一个新物种，不如顺手改造一个老物件。牙刷、手表、鼠标、充电宝，全是用了几十年的东西，AI 不负责发明它们，AI 负责把它们重做一遍。改造，正在比发明更快地成为这个秋天的硬件主题。 正当一批人忙着证明无处不 AI 的时候，也有人对 AI 不屑一顾。电子纸徽章 TICKEY 不发光，充一次电能挂两个月。一位创客造的相机，按下快门吐出一张永不褪色的电子纸照片。「我用技术还原物品本身」也成为当下造物的一条思路。 我们还注意到手机背后的磁吸接口正在长出新物种。磁吸墨水屏、",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/370328",
+      "createdAt": "Tue, 15 Sep 2026 14:01:55 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_2",
+      "author": "极客公园",
+      "text": "\n        造物 100 #06｜自动驾驶上轮椅了，口袋相机学会飞行，AI 教练上了雪场\n       - 硬件创新力正在消失。 9 月 10 日，苹果发布了筹备多年的首款折叠屏 iPhone Duo，又是一款集大成之作，困扰多年的折叠屏折痕有了「苹果」解法。但我们明显发现硬件创新的品类迭代速度开始变得缓慢，这两年「原来还能有这种东西」的哇塞时刻越来越少。大家似乎默认，下一个时代级的硬件新品类短期内等不来，与其赌一个新物种的诞生，不如在成熟产品上做新的形态和能力。 所以硬件创新来到了大融合时代。你做手持影像，我做会飞的手持影像；你做智能轮椅，我做会自动驾驶的智能轮椅；你做录音手环，我做能录环境音的录音手环。这期名单里的产品，几乎每一件创新产品前都有一个独特的限定词。 融合创新并没有好坏，手机当年就是相机、电话和电脑集成出来的新品类。但更关键的应该是，用户价值。价格翻倍是否真的给用户带来了新的价值，还是虚构了一个用户的需求？在潮水退去时，每位造物者都要抓稳自己的锚绳。 以下，是「造物 100」栏目第 6 期推荐的最新造物。 会变形的口袋相机 HoverAir Versa：手里拍着拍",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/370325",
+      "createdAt": "Tue, 15 Sep 2026 13:54:51 +0800",
       "likes": null,
       "retweets": null
     },
     {
       "id": "rss_SCMP_0",
       "author": "SCMP",
-      "text": "Does Beijing need AI talent in ‘public opinion war’ over South China Sea? - A leading South China Sea analyst has urged Chinese think tanks to recruit AI talent for the “public opinion war” over the disputed waters. Wu Shicun, the founding president of China’s National Institute for South China Sea Studies, said Chinese humanities and social science research had traditionally operated in a “lone-wolf” fashion and lacked interdisciplinary diversity. “The situation in the South China Sea is likely",
+      "text": "US-China ties haunted by lack of mutual trust, Beijing security forum hears - A lack of mutual trust and confidence haunts Sino-US relations, a major security conference in Beijing heard, just a week before Xi Jinping travels to America for his first state visit in over a decade. “When we have the agreement on this constructive strategic stability, we don’t have the illusion that things will be easy going ahead. There are always problems, sometimes very big problems,” said Cui Tiankai, a former ",
       "translated": "",
-      "url": "https://www.scmp.com/news/china/science/article/3367357/does-beijing-need-ai-talent-public-opinion-war-over-south-china-sea?utm_source=rss_feed",
-      "createdAt": "Sun, 13 Sep 2026 13:00:06 +0000",
+      "url": "https://www.scmp.com/news/china/military/article/3367630/us-china-ties-haunted-lack-mutual-trust-beijing-security-forum-hears?utm_source=rss_feed",
+      "createdAt": "Tue, 15 Sep 2026 13:21:08 +0000",
       "likes": null,
       "retweets": null
     },
     {
       "id": "rss_IT之家_0",
       "author": "IT之家",
-      "text": "中国联通：支持国行所有 eSIM 手机业务办理，针对本月新发布的华为和苹果手机推出尝鲜季活动 - IT之家 9 月 13 日消息，中国联通今日宣布，支持获得入网证的所有品牌、所有型号 eSIM 手机业务办理，“支持设备”清单将依据上市首销时间同步更新。苹果：iPhone Air（型号 A3518）、iPhone 17e（型号 A3635）、iPhone 18 Pro、iPhone 18 Pro Max、iPhone DuoOPPO：Find X9 Pro 卫星通信版、Find X9 Ultra eSIM 卫星通信版华为：Mate 80 RS 非凡大师、Pura 90 Pro Max、Pura X Max、Pura X Max 典藏、Pura X View、Mate XT 2 非凡大师荣耀：Magic8 Pro Air三星：Galaxy S26、Galaxy S26+、Galaxy S26 Ultra、Galaxy Z Fold8 Ultra、Galaxy Z Fold8、Galaxy Z Flip8联想：拯救者 Y70 新一代中国联通针对本月新发布的华为和苹果手机推出尝鲜季活动，用户办",
+      "text": "比亚迪辅助驾驶车型保有量超 372 万辆，天神之眼每天生成数据超 2.3 亿公里 - IT之家 9 月 15 日消息，比亚迪今天（15 日）晚间发布数据，截至 2026 年 8 月 31 日，比亚迪辅助驾驶车型保有量超 372 万辆，其中 8 月销售 201,533 辆；天神之眼辅助驾驶每天生成数据超 2.3 亿公里。IT之家注：此处“辅助驾驶车型”包含搭载比亚迪天神之眼和华为乾崑智驾的车型。比亚迪 8 月乘用车销量 43.3 万辆，上年同期为 37.2 万辆。8 月纯电动乘用车销量 256,230 辆，插电式混合动力乘用车销量 177,154 辆，汽车销量 440,293 辆。1-8 月累计汽车销量 2,668,015 辆。其中，王朝 | 海洋销量 375,373 辆，方程豹销量 41,568 辆，腾势销量 16,001 辆，仰望销量 442 辆。今年 8 月 19 日，比亚迪海洋网总经理张卓表示，比亚迪拥有数百万辆车的数据积累，这是天神之眼 B 今年体验大幅提升的原因。预计随着中国智驾行业全面向端到端架构迁移，各家车企之间的能力差距将逐渐缩小。",
       "translated": "",
-      "url": "https://www.ithome.com/1/001/849.htm",
-      "createdAt": "Sun, 13 Sep 2026 12:59:58 GMT",
+      "url": "https://www.ithome.com/1/002/772.htm",
+      "createdAt": "Tue, 15 Sep 2026 13:19:48 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC_6",
+      "author": "BBC",
+      "text": "Former England footballer Raheem Sterling admits dangerous driving after M3 crash - The former England winger crashed his Lamborghini into motorway barriers in May.",
+      "translated": "",
+      "url": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Tue, 15 Sep 2026 13:19:25 GMT",
       "likes": null,
       "retweets": null
     },
     {
       "id": "rss_IT之家_1",
       "author": "IT之家",
-      "text": "宽度仅 50.2 厘米，全球最窄可行驶汽车获吉尼斯认证 - IT之家 9 月 13 日消息，全球最窄可行驶汽车宽度仅 50.20 厘米，比大部分登机箱还要窄，大约只有普通自行车一半宽，刷新了人们对一台能正常行驶的汽车到底最少需要多大空间的认知。吉尼斯世界纪录已于 2026 年 9 月正式认证该项纪录。该纪录的创造者是来自意大利巴尼奥洛克雷马斯科的机械师安德烈亚 · 马拉齐，车辆由他在自家汽车回收企业 Autodemolizione Marazzi 内打造完成。马拉齐耗时一年，对一辆 1993 款菲亚特熊猫进行切割、焊接与重组，成品看上去就像从哈哈镜里看到的汽车。他把原车车身缩减至原厂宽度的约三分之一，几乎全部依靠报废车场里的材料进行改造。根据其制作记录的相关报道，整车大约 99% 的零件都来自这台菲亚特熊猫原车。成品车宽 50.20 厘米，长 3.40 米，高 1.45 米，总重约 264 千克。据IT之家了解，这台名为“扁平菲亚特（Flat Fiat）”的小车功能完整，采用纯电驱动，但不允许在任何公共道路上行驶。根据马拉齐制作视频的技术报道，动力来自小型电动滑板车电机搭配 24 伏电",
+      "text": "Sharkoon 推出 Stealthbite IEM 入耳式耳机，搭载 10mm 圈铁混合单元 - IT之家 9 月 15 日消息，Sharkoon（旋刚）现已推出 Stealthbite IEM（IT之家注：In-ear Monitors，入耳监听）耳机。其采用有线连接，随附 Stealthbite DAC。Stealthbite IEM 采用双腔声学结构，搭载 1 动圈 + 1 动铁混合式驱动单元，频率响应范围 20~40000 Hz，灵敏度 87dB @ 1kHz / 1mW，阻抗 32±15% H；集成 100~5000 Hz 全向麦克风，收音灵敏度 -40±3 dB。其随附 DAC 基于昆腾微 KT02H20 音效芯片，最大功率 30 mW，信噪比 110 dB，采样率 32 bit / 384 kHz，阻抗 16~32 H。Sharkoon Stealthbite IEM 耳机建议零售价为 39.9 欧元（现汇率约合 309.8 元人民币）。",
       "translated": "",
-      "url": "https://www.ithome.com/1/001/848.htm",
-      "createdAt": "Sun, 13 Sep 2026 12:53:46 GMT",
+      "url": "https://www.ithome.com/1/002/771.htm",
+      "createdAt": "Tue, 15 Sep 2026 13:13:51 GMT",
       "likes": null,
       "retweets": null
     },
     {
       "id": "rss_IT之家_2",
       "author": "IT之家",
-      "text": "AL 战胜 BLG 战队夺得《英雄联盟》2026 LPL 总冠军，一号种子出征 S16 - IT之家 9 月 13 日消息，在刚刚结束的《英雄联盟》2026 LPL 总决赛中，AL 战队以 3 比 1 战胜 BLG 战队夺得总冠军，捧起队史首座银龙杯，并将作为 LPL 赛区一号种子出征 2026 全球总决赛。AL vs BLG BO5 第一局（1:0）双方阵容如下：AL：兰博、奇亚娜、安妮、烬、诺提勒斯BLG：嘉文四世、芸阿娜、璐璐、奎桑提、阿萝拉AL vs BLG BO5 第二局（2:0）双方阵容如下：AL：艾希、萨勒芬妮、纳尔、维克托、科加斯BLG：奥莉安娜、卡莉丝塔、烈娜塔、纳亚菲利、卡莎AL vs BLG BO5 第三局（2:1）双方阵容如下：AL：卢锡安、米利欧、丽桑卓、斯卡纳、凯南BLG：阿卡丽、霞、洛、潘森、雷克顿AL vs BLG BO5 第四局（3:1）双方阵容如下：AL：奥拉夫、茂凯、永恩、厄运小姐、芮尔BLG：卡蜜尔、凯特琳、李青、阿狸、卡尔玛IT之家注意到，最终捧起象征冠军的银龙杯的队伍将作为一号种子代表 LPL 赛区出征，除冠军外全年积分最高的队伍将作为二号种",
+      "text": "长城汽车坦克 300“虎克之路”盲订：越野套件、前后双硬桥加持，可适配 40 英寸轮胎 - IT之家 9 月 15 日消息，长城汽车旗下坦克 300“虎克之路”今天（15 日）晚间正式开启盲订，新车将于国庆节前正式上市。官方暂未公布价格信息，盲订权益包括锁单后优先排产、3000 元改装基金、价值 3000 元的专属联名标识套装。据IT之家了解，新车在现款坦克 300 的基础上加入了越野套件，换装新样式的前后保险杠、黑色下包围，增设牵引装置和涉水喉，可选被动夜视系统；外观则新增专属拉花等标识。该车长宽高分别为 4886/1984/1960mm，轴距 3010mm；接近角 41°，离去角 34°/36°，配备 265/70 R18 规格轮圈。动力方面，新车搭载 2.0T 涡轮增压发动机，最大功率 170kW，最大扭矩 400N·m。悬架系统从普通版坦克 300 的前双叉臂独立悬架升级为整体桥式非独立悬架，底盘形成前后双硬桥布局，配备粗壮的前桥桥管、拉杆以及短纵臂拉杆；悬挂系统整体刚度提升 38%，可适配 40 英寸规格的轮胎。",
       "translated": "",
-      "url": "https://www.ithome.com/1/001/847.htm",
-      "createdAt": "Sun, 13 Sep 2026 12:50:57 GMT",
+      "url": "https://www.ithome.com/1/002/770.htm",
+      "createdAt": "Tue, 15 Sep 2026 13:05:48 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_0",
+      "author": "爱范儿",
+      "text": "19.98 万元起，吉利银河战舰 700 开启预售，最高 1129 匹马力，还有三电机四驱 - 车顶帐篷成为户外新单品。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "translated": "",
+      "url": "https://www.ifanr.com/1680277?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Tue, 15 Sep 2026 13:04:35 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_0",
+      "author": "TechCrunch",
+      "text": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents - Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A lound led by Ribbit Capital, with participation from First Harmonic.",
+      "translated": "",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "createdAt": "Tue, 15 Sep 2026 13:00:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_1",
+      "author": "TechCrunch",
+      "text": "Spotify finally lets parents exclude kids’ music from Wrapped and recommendations - Parents can finally get the kids' music out of Spotify Wrapped and other personalized playlists.",
+      "translated": "",
+      "url": "https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/",
+      "createdAt": "Tue, 15 Sep 2026 13:00:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC_8",
+      "author": "BBC",
+      "text": "Fall in small boat Channel crossings down to law enforcement, agency says - But other factors, including developments in the Middle East, may also be playing a role.",
+      "translated": "",
+      "url": "https://www.bbc.co.uk/news/articles/cjvgy1g932xro?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Tue, 15 Sep 2026 12:56:44 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_IT之家_3",
+      "author": "IT之家",
+      "text": "上市权益价 10.36 万元起，2027 款埃安 i60 上市 - IT之家 9 月 15 日消息，广汽埃安旗下 2027 款埃安 i60 已上市，新车共推出 7 款车型，上市权益价 10.36 万元起。作为年度改款车型，新车在智能化配置与实用功能方面进行多项升级，并全系标配广汽自研非晶合金电驱，提供纯电与增程两种动力形式。IT之家注意到，2027 款埃安 i60 整体造型与在售车型基本保持一致。前脸采用新能源车型常见的封闭式设计，搭配贯穿式灯带；侧面为悬浮车顶造型，配备半隐藏式门把手；尾部则走简约化路线，双横条贯通式尾灯中央镶嵌埃安发光 Logo，夜间辨识度较高。内饰延续简约化设计风格，中控屏由现款车型的 14.6 英寸升级为 15.6 英寸 2.5K 屏，显示效果进一步提升。相比老款，新车针对用户日常使用习惯做了不少细节优化：充电口位置后移，取电更加顺手；搭载同级前驱车独有的 66L 可排水前备箱；并配备同级首个车规级车外投影仪，可在 5 米距离投出 110 英寸巨幕。此外，新车还搭载可承重铝合金行李架，拓展了户外出行场景。动力方面，新车采用宁德时代整包电池，配合弹匣电池 2.0 ",
+      "translated": "",
+      "url": "https://www.ithome.com/1/002/769.htm",
+      "createdAt": "Tue, 15 Sep 2026 12:48:52 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_IT之家_4",
+      "author": "IT之家",
+      "text": "启境汽车回应 GX7 是否会推纯电版：请留意官方信息，敬请期待 - IT之家 9 月 15 日消息，启境汽车今天（15 日）晚间发布第 12 期答网友问，回应“启境 GX7 是否会推出纯电版”称，启境 GX7 目前推出增程动力版本，后续如有产品新动态，将通过启境汽车官方渠道第一时间发布，请留意官方信息，敬请期待。产品规划上，新车预计 2026 年 9 月底正式上市，届时将同步开启交付。终身质保权益方面，启境 GX7 的整车和核心零部件终身质保权益，除雨刮片、轮胎、空调滤芯、制动片等易损耗零部件外，三电系统（IT之家注：动力电池总成、驱动电机总成、电机控制器总成）、增程器、空气悬架、智慧投影大灯、减振器等高价值部件均在终身质保范围内。此外，启境 GX7 的整车和核心零部件终身质保权益不对车辆的里程进行限制。除了不限制行驶里程外，对维修次数、维修金额、保障时长也没有限制。首任非营运车主，只要车辆不过户，保持非营运性质，“持有车辆多久，就能保障多久。”启境 GX7 车身尺寸为长 5099 mm、宽 2006 mm、高 1750 mm，轴距 3070 mm；有茶卡银、梅里白、贝加尔蓝、西湖烟紫",
+      "translated": "",
+      "url": "https://www.ithome.com/1/002/768.htm",
+      "createdAt": "Tue, 15 Sep 2026 12:46:02 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_IT之家_5",
+      "author": "IT之家",
+      "text": "博通 CEO 陈福阳回应 AI 放缓担忧：算力需求仍强劲，长期收入目标不变 - IT之家 9 月 15 日消息，博通（Broadcom）首席执行官陈福阳（Hock Tan）于当地时间周一回应了市场担忧。针对前沿 AI 模型开发节奏有可能放缓会对这家芯片厂商业务造成冲击的疑问，他在接受 CNBC 采访时表态，公司仍维持长期收入目标不变。就在此前的周末，Anthropic 首席执行官达里奥 · 阿莫代伊（Dario Amodei）发表了一篇文章，主张适度放缓大模型的研发速度，这件事令投资者人心惶惶。阿莫代伊的观点得到了 OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）以及埃隆 · 马斯克的认同。受此影响，周一交易日当中，AI 基础设施板块的投资者开始重新评估算力需求前景。Anthropic 本就是博通定制芯片业务最重要的客户之一，博通股价因此下跌 4.8%；半导体宽基 ETF 安硕半导体 ETF（iShares Semiconductor ETF）跌幅达到 5.6%；其他数据中心硬件厂商的股票同样遭遇重挫。CNBC 节目《疯狂金钱（Mad Money）》主持人吉姆 · 克",
+      "translated": "",
+      "url": "https://www.ithome.com/1/002/767.htm",
+      "createdAt": "Tue, 15 Sep 2026 12:43:20 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_IT之家_6",
+      "author": "IT之家",
+      "text": "因 iOS 18 导致部分 iPhone 15 屏幕绿线，苹果遭印度消费者保护机构调查 - IT之家 9 月 15 日消息，据外媒 Appleinsider 今天报道，印度中央消费者保护局（CCPA）已对苹果公司发起调查，重点审查其软件保修政策，并指控苹果对消费者收取过高维修费用。据报道，本次调查起因源自 2024 年的 iOS 18 系统。当时部分 iPhone 15 用户升级系统后，屏幕出现绿色 / 粉色或白色线条。这些消费者找到苹果售后时，却被要求支付 27,900 卢比（IT之家注：现汇率约合 1,959 元人民币）维修显示屏。印度消费者保护机构已告知苹果，称正在详细调查此次事件。苹果对此回应称，公司不提供软件保修符合全球标准，且 iOS 18 不存在系统性问题。该公司还认为，印度消费者保护机构的主张仅基于 75 起投诉发起，并不能代表广大消费者。此外苹果表示，用户使用 iOS 软件前都会看到条款，写明“软件不提供任何形式保证，如果软件出现问题，用户需自行承担维修费用，苹果有限保修仅包含硬件。”",
+      "translated": "",
+      "url": "https://www.ithome.com/1/002/765.htm",
+      "createdAt": "Tue, 15 Sep 2026 12:41:14 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_IT之家_7",
+      "author": "IT之家",
+      "text": "因 AI 投入加大，消息称字节跳动今年上半年利润降至 200 亿美元 - IT之家 9 月 15 日消息，《The Information》今天（15 日）援引三名了解财务数据的人士消息称，受 AI 投入增加影响，字节跳动今年上半年净利润下降至 200 亿美元（IT之家注：现汇率约合 1,345.04 亿元人民币），降幅为“个位数百分比”。同期内，字节跳动营收为 1,200 亿美元（现汇率约合 8,070.24 亿元人民币），同比增长约 30%。其中，TikTok 国际广告和电商收入强劲增长起到了一定推动作用。这一表现意味着，字节跳动的增长速度较过去两年略有加快。去年，字节跳动营收增长 29% 至约 2,000 亿美元（现汇率约合 1.35 万亿元人民币），2024 年的增速也大致相当；去年净利润则增长 27% 至 420 亿美元（现汇率约合 2,824.58 亿元人民币）。利润下降也反映出 AI 投入对字节跳动盈利能力的压力。按营收计算，字节跳动是中国规模最大的科技公司。字节跳动还在扩张 AI 云业务，向企业客户提供模型服务，旗下 Seedance 视频生成模型则跻身全球 AI 视频",
+      "translated": "",
+      "url": "https://www.ithome.com/1/002/764.htm",
+      "createdAt": "Tue, 15 Sep 2026 12:37:28 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC_0",
+      "author": "BBC",
+      "text": "Key findings from Lucy Letby Thirlwall Inquiry - The inquiry found a \"complete failure to protect babies on the neonatal unit\" where the nurse worked.",
+      "translated": "",
+      "url": "https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Tue, 15 Sep 2026 12:37:11 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_IT之家_8",
+      "author": "IT之家",
+      "text": "国补到手价 5099.15 元起，小米电视 S Pro RGB-Mini LED 2027 开售 - IT之家 9 月 15 日消息，小米电视官方今日宣布，小米电视 S Pro RGB-Mini LED 2027 开售，国补到手价 5099.15 元起。65 英寸（2160 控色分区）首销价 5999 元，国补到手价 5099.15 元起75 英寸（2880 控色分区）首销价 6999 元，国补到手价 5949.15 元起85 英寸（3744 控色分区）首销价 8799 元，国补到手价 7479.15 元起98 英寸（4860 控色分区）首销价 12999 元，国补到手价 11499 元起作为小米首款 RGB-Mini LED 电视，小米电视 S Pro RGB-Mini LED 2027 支持 RGB 三色背光、配合大师画质引擎 3.0 双重控色。以 65 英寸版本为例，该产品提供 2160 控色分区、5000nits 峰值亮度，支持低反屏 0.5% LR 超低反射率、360Hz 超高刷、2.1.2 声道哈曼大师级调音、小米澎湃 OS 4。新品采用全面屏设计，超薄一体机身，带来 49",
+      "translated": "",
+      "url": "https://www.ithome.com/1/002/763.htm",
+      "createdAt": "Tue, 15 Sep 2026 12:34:45 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_IT之家_9",
+      "author": "IT之家",
+      "text": "华为发布全球首个 3D 数据中心 - IT之家 9 月 15 日消息，据华为计算官方公众号消息，今日，2026 AIDC 产业发展大会暨 3D 数据中心现场会在安徽芜湖举行。现场华为正式发布全球首个 3D 数据中心，发行《3D 数据中心》专著书籍，并开放了《3D 数据中心概要设计图库》。▲ 华为副董事长、轮值董事长汪涛据介绍，为解决大型 AI 算力中心的安全性和跨不同代际 AI 芯片的兼容性，华为通过系统架构创新，打造新一代 3D 数据中心。3D 数据中心借鉴芯片工厂“动力层”与“生产层”严格分离的理念，将传统数据中心水平部署的各个功能空间垂直叠加，形成从下往上的供冷层、IT 设备层、供电层、备电层的四层架构。华为高级副总裁、常务监事任树录指出，AI 时代高密算力让传统数据中心在空间、供电、散热等方面面临严峻挑战，机柜功率已从风冷时代的几千瓦、十几千瓦急剧攀升至 100 千瓦、200 千瓦，未来还将持续上升。值得一提的是，3D 数据中心具备分区隔离、故障不蔓延的能力，可分区散热、高效节能，垂直供电供冷、极短路由，通过工厂产品化模式，实现了标准化、预制化，机电交付时间减半，以及分域分权管",
+      "translated": "",
+      "url": "https://www.ithome.com/1/002/762.htm",
+      "createdAt": "Tue, 15 Sep 2026 12:30:22 GMT",
       "likes": null,
       "retweets": null
     }
