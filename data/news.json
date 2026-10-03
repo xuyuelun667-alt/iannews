@@ -1,28 +1,8 @@
 {
-  "fetchedAt": "2026-10-01T15:19:49Z",
+  "fetchedAt": "2026-10-03T13:14:55Z",
   "articles": [
     {
-      "id": "rss_TechCrunch_7",
-      "author": "TechCrunch",
-      "text": "Google releases Gemini 4 Argon, called its most powerful model yet - Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-      "translated": "",
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "createdAt": "Wed, 30 Sep 2026 23:43:07 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_3",
-      "author": "NASA",
-      "text": "Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them - Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, Sept. 18, 2026 Curiosity surprised us at the beginning of the week with a change in rock texture — instead of the finely layered bedrock blocks we’ve been seeing in our recent sulfate unit workspaces, suddenly we were looking […]",
-      "translated": "",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/",
-      "createdAt": "Wed, 30 Sep 2026 23:37:47 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_1",
+      "id": "rss_Solidot_5",
       "author": "Solidot",
       "text": "CNNIC 称中国生成式 AI 用户超 7 亿 - 中国互联网络信息中心（CNNIC）发布了《生成式人工智能应用发展报告（2026）》，截至 2026 年上半年，我国生成式人工智能用户规模突破 7亿 人，普及率超 50%。76.0%的 用户表示自己会让生成式人工智能回答问题；使用生成式人工智能处理图片/视频、文本、工作总结/会议纪要/PPT的用户占比分别为 47.8%、37.6% 和 32.5%。数据显示，38.7%的网民近半年在网上购买过智能硬件设备。其中可穿戴设备和3C数码产品是我国网民接触智能硬件设备的首要入口。购买过智能可穿戴设备的网民比例为 20.2%；购买智能手机、平板电脑等3C数码产品的网民比例为18.2%。报告称，深度求索、月之暗面等本土企业先后发布多个万亿级参数开源大模型，全球主流大模型调用榜单上排名前六的模型全部来自中国团队。",
       "translated": "",
@@ -32,17 +12,7 @@
       "retweets": null
     },
     {
-      "id": "rss_TechCrunch_8",
-      "author": "TechCrunch",
-      "text": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next - Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend.",
-      "translated": "",
-      "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
-      "createdAt": "Wed, 30 Sep 2026 23:08:00 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_2",
+      "id": "rss_Solidot_6",
       "author": "Solidot",
       "text": "新奥声称实现氢硼聚变反应突破 - 新奥集团发表新闻稿，称其“玄龙-50U”装置实现氢硼聚变反应。新闻稿称：氢硼聚变具有无中子、燃料丰富易得、低成本等商业化优势，产物是氦（α粒子），但相对于氘氚聚变，反应温度及三乘积要求更高，反应条件更苛刻。本次新奥聚变团队通过高能中性束注入与射频波的协同，大幅提高了氢硼反应第一共振峰的非热平衡快质子份额，实现了大于 10^8/秒的氢硼聚变反应率，表明新奥氢硼聚变迈入燃烧等离子体相关实验阶段，是中国多路径聚变能发展的重大突破。来自全球多个国家科研院所与知名高校的十余位聚变权威专家就本次实验成果召开专题论证会，一致认为：本次实验实现了球形环装置中质子能谱及氢硼聚变反应产物α粒子的有效、可重复测量，探测方法可靠，可支撑氢硼聚变反应验证，是球形环氢硼聚变创新探索实践的里程碑突破，对全球磁约束氢硼反应的科学研究具有重要价值贡献。",
       "translated": "",
@@ -52,17 +22,7 @@
       "retweets": null
     },
     {
-      "id": "rss_机核_6",
-      "author": "机核",
-      "text": "太阳朋克，核周报 9.30 - 本期时间轴制作：佟和本周要闻：Bungie 宣布《命运 2》被封存内容将全部回归；微软Xbox再裁 268 人，《光环》交由动视开发，Rare 与 World's Edge划归动视；黑曜石划归 Bethesda，Xbox Game Studios 仅存三家直属工作室，且《战争机器：事变日》发售前两周剧情总监 Juan Vaca 被裁，其未来将系于《事变日》的商业表现；《心之眼》开发商 Build A Rocket Boy 进入破产流程；TGS 2026 因台风取消最后一个公众日；《宝可梦 Pokopia》获日本游戏大奖 2026年度大奖，樱井政博宣布「游戏设计师奖」今年为最后一届等。",
-      "translated": "",
-      "url": "https://www.gcores.com/radios/219909",
-      "createdAt": "Wed, 30 Sep 2026 23:00:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_3",
+      "id": "rss_Solidot_7",
       "author": "Solidot",
       "text": "美国佛蒙特州通过家庭电池储能网络应对气候变化 - 过去几年极端气候频发，美国佛蒙特州每年都会因此发生十几次持续数小时的断电事故。当地电力公司 Green Mountain Power(GMP)记录到的 10 场最具有破坏性的飓风有 7 场发生在过去十年，造成了逾 2.25 亿美元的损失。为了应对气候变化导致的断电，该公司推出了分布式电池储能网络，向参与该网络的家庭出租两块电池，租期十年，每月费用为 55 美元。该州有超过 5,500 人参与了该家庭电池网络，半数家庭还安装了太阳能电池板。该项目目前提供约 110 MW 的电力，相当于一座中小型天然气发电厂的装机容量。美国其他州也有类似的电池储能网络。",
       "translated": "",
@@ -72,7 +32,7 @@
       "retweets": null
     },
     {
-      "id": "rss_雷锋网_0",
+      "id": "rss_雷锋网_2",
       "author": "雷锋网",
       "text": "昉擎科技创始人被强制执行 寒武纪股权激励争议尘埃落定 - 寒武纪于2026年9月30日发布《关于离职高管诉讼进展的公告》。从公告内容来看，寒武纪与原高管梁军股权激励纠纷争议基本尘埃落定，梁军连续6次提起诉讼均以败诉收场，且因拒绝配合办理回购手续该案件处于司法强制执行阶段。公告披露内容指出，尽管梁军本次变更诉讼请求提高索赔金额，但对公司日常研发及经营不存在影响。寒武纪表示，已聘请律师团队对梁军诉讼请求进行全面分析、论证，生效判决已经认定：梁军在激励股份限售期内离职的行为，触发了约定的股份回购条款。指定受让人基于回购安排被指定受让案涉合伙份额，符合《持股计划》及相关合伙协议的规定，应属合法有效。基于回购安排，梁军不应享有相应权益。梁军起诉要求赔偿“股权激励损失”，并于近期变更诉讼请求增加赔偿金额，与梁军已签署的《持股计划》的约定及人民法院及仲裁机构作出的已生效裁判文书的认定不符。&nbsp;",
       "translated": "",
@@ -82,87 +42,7 @@
       "retweets": null
     },
     {
-      "id": "rss_机核_7",
-      "author": "机核",
-      "text": "Control, I'm Not Coming Back 国庆假期，想推荐给大家玩 - 中秋节，上三天，又是国庆节。每年国庆结束都有人说：滴滴！您的本年度假期已告罄！趁着最后的假期对自己好点，玩点游戏吧！ Control, I'm Not Coming Back这游戏起于一场火箭发射，你和指挥官负责这次航天任务，你们嵌在航天飞机的座椅上，等待地面控制中心发来点火信号。剧情就讲这么多，因为整个游戏也就只有1小时左右的内容量，游戏里大部分都是一些对谈，有关出发的勇气，目的地，途中的景色之类的。更多哲学隐喻或者艺术致敬我也不太懂，只是感觉玩完后心里暖暖的，有种强烈的想要分享的感觉。很感谢我们的本地化经理 Mars 很包容我的任性，和我一起完成了这次无偿翻译工作。（不过他倒是玩得也很开心就是，而且这游戏也没多少字）几周前，我们做的本地化终于和其他语种一起更新了。作者很开心在公告中表示他得到了各国志愿者的帮助，没有依赖AI，纯手工完成了那么多语言的更新，我也很开心，嘻嘻。 游戏不支持存档，建议你一口气打完。而且，如果，你也和我一样，面对所剩不多的，今年剩下的时间，不知所措的话。建议你试试这个游戏",
-      "translated": "",
-      "url": "https://www.gcores.com/articles/220429",
-      "createdAt": "Wed, 30 Sep 2026 21:39:17 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_机核_8",
-      "author": "机核",
-      "text": "《赛车经理2》实机首曝：竞赛系统全面升级，2027年登陆Steam - Playsport今日发布《赛车经理2》（Motorsport Manager 2）PC版首段实机玩法，公开了这部备受期待的系列续作的更多细节。本作将于2027年登陆Steam。 全新发布的完整公开预告片首次展示了《赛车经理2》的实际游戏画面，内容涵盖更广阔的赛车运动世界、更深度的车队与赛车管理，以及Playsport全新打造的“实时应变竞赛”（Reactive Racing）系统——让每一个比赛周末都更具变数、更加扣人心弦。 &lt;内嵌内容，请前往机核查看&gt;与预告片同步，Playsport还发布了《赛车经理2》首期开发者日志，带领玩家走进开发团队幕后，了解这部续作的设计理念，以及工作室如何在初代《赛车经理》的基础上持续进化。“实时应变竞赛”是《赛车经理2》的核心所在。对手车队不再机械地执行预设的比赛策略，而是会随赛况发展实时调整决策。赛道车流、轮胎、燃油、车况、安全车以及其他车队的动向，都可能左右他们的策略判断——一次进站，就可能在全场引发连锁反应。 全新的天气模拟系统进一步放大了比赛的不确定性：天气系统",
-      "translated": "",
-      "url": "https://www.gcores.com/articles/220430",
-      "createdAt": "Wed, 30 Sep 2026 21:27:53 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_4",
-      "author": "NASA",
-      "text": "Help Overlap Zoo Reveal Cosmic Dust - Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space. But every so often, a coincidence occurs: Two galaxies line up from our point of view on Earth (or from a space telescope) and appear to overlap in the sky. These rare overlapping galaxies […]",
-      "translated": "",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/",
-      "createdAt": "Wed, 30 Sep 2026 21:19:33 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_5",
-      "author": "NASA",
-      "text": "NASA Adds New Science Investigations for Moon Base - Editor&#8217;s note: This release was updated on Sept. 30, 2026, to correct the name of the DISCO payload. NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base. The suite of science instruments and technologies [&#8230;]",
-      "translated": "",
-      "url": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
-      "createdAt": "Wed, 30 Sep 2026 21:11:23 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_9",
-      "author": "TechCrunch",
-      "text": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation - Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-      "translated": "",
-      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "createdAt": "Wed, 30 Sep 2026 21:07:40 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_机核_9",
-      "author": "机核",
-      "text": "如何引导、构建逻辑链？以《逆转裁判4-1扑克谋杀案》为例，谜题构筑法Vol.2 - 本期时间轴制作：雏雏【注意！！】本集涉及到剧透的作品共2部：《逆转裁判4-1扑克谋杀案》《x的悲剧》欢迎收听系列节目《谜题构筑法：学会拆解推理小说/游戏的谜题构造》的第2集！本系列希望通过全6集的播客节目，帮助大家了解推理故事的创作逻辑，梳理推理创作中的逻辑链，对今后欣赏或创作推理故事有所帮助！在本集中我们集中探讨的是：一个推理故事是如何构建逻辑链的？什么是“逻辑链”呢？简单来说，它是从线索到结论的推理路径。此次，将会以《逆转裁判4-1扑克谋杀案》的拉片分析为线索，向大家讲述一个好的创作者是如何向观众展示线索、构建逻辑链的。嘉宾简介： 钟声礼，推理作者以及一名普通的游戏玩家。曾获第一届“QED长篇推理小说奖”首奖、第二届“连城杯推理小说奖”首奖及最佳创意奖。代表作《放学后的小巷》《熊猫骑士》。作品常见巧妙的伏线布置和缜密的逻辑推理。",
-      "translated": "",
-      "url": "https://www.gcores.com/radios/211460",
-      "createdAt": "Wed, 30 Sep 2026 21:00:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_6",
-      "author": "NASA",
-      "text": "NASA Awards Contract to Develop 5G Communications for Moon - NASA has awarded Modulate Space Corporation a contract to develop key elements of a 5G communications system for use on the lunar surface with built-in Wi-Fi 6, for NASA’s Glenn Research Center in Cleveland. This accelerated effort is organized into two primary work areas that together will develop a scalable, standards-based communications capability designed to [&#8230;]",
-      "translated": "",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/",
-      "createdAt": "Wed, 30 Sep 2026 20:41:26 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_10",
-      "author": "TechCrunch",
-      "text": "Factory CEO just accused his VC board adviser of spying for Cognition - VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
-      "translated": "",
-      "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
-      "createdAt": "Wed, 30 Sep 2026 20:39:09 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_触乐_1",
+      "id": "rss_触乐_3",
       "author": "触乐",
       "text": "走到第十年的《阴阳师》，凭什么还能让玩家挤爆广州塔？ - 晚上8点左右，广州塔广场的二层平台，表演还没有开始，玩家们却已经密密麻麻地在舞台下围坐很久了。现场的人非常多，但并不嘈杂，大部分人都在用适中的音量和朋友交谈，或者在游戏里的附近或阴阳寮频道聊天，总体上来说都很放松和安逸。我身后是一位Cosplay成犬神的玩家，起初他在和其他人合照，后来看起来似乎有点累了，盘腿坐下，拿下头套抱在怀里，脸被闷得很红，额头上都是汗水&mdash;&mdash;这几天的广州天气确实很热，某种意义上，这种&ldquo;热&rdquo;也串联起我对《阴阳师》一贯的感受：亲密、温暖、绵长。 等待演出开始的玩家聚集在台下 忽然，舞台侧面的玩家间传来了一些小小的骚动：一位女孩看起来似乎正站起来发放自制的物料，整个现场立刻活络起来，近处的玩家纷纷举手示意，&ldquo;老师这里！这里也想要！&rdquo;，远处的玩家也在跟着起哄。 那名女孩看起来没想到会有这么热烈的反响，有点呆住了，她努力地把自己的物料递出去，但还是左支右绌，最后干脆把手里的最后一把物料往前用力一抛，其他玩家都跟着&ldquo;哇&rdquo;起来",
       "translated": "",
@@ -172,7 +52,7 @@
       "retweets": null
     },
     {
-      "id": "rss_触乐_2",
+      "id": "rss_触乐_4",
       "author": "触乐",
       "text": "触乐怪话：裁缝知道得还是太多了 - 触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。 还好游戏里的猫并不会这样！（图/小罗） 我玩过不少换装、时尚主题的游戏，但那些游戏的重点无一例外都放在穿搭和适配上，然后又无一例外地变成&ldquo;拼数值&rdquo;和&ldquo;圣诞树&rdquo;。至于衣服、配饰是怎么来的，无非是买和做两种，买倒还好，一手交钱一手交货；做的过程则会大幅简化，凑够素材和钱，一道光闪过，东西就自动收进衣柜；还有些衣服和首饰干脆就是抽出来的，就更不用考虑&ldquo;制作&rdquo;了。 但独立游戏千千万，总有一些会把眼光放在&ldquo;做衣服&rdquo;上。最近相当热门的《针影裁梦》（Dressmaker）就是其中之一。 在游戏里，玩家是一名刚搬到小镇上的制衣师（裁缝），经营一家服装店，主要工作就是按顾客的要求制作衣服。 第一位客人总是很和善 接下订单之后，你的工作大致可以分成几步：第一步是测量三围并设计款式，从上身、袖子到裙摆，可选样式非常多；第二步是决定面料材质和颜色，与现实中相似，不同布料的光泽、质感都有很大差异，需要花心思搭配；第三步是裁样、缝合",
       "translated": "",
@@ -182,37 +62,7 @@
       "retweets": null
     },
     {
-      "id": "rss_机核_10",
-      "author": "机核",
-      "text": "米哈游《源初之结》过审：2026年9月份网络游戏审批信息公布 - 国家新闻出版署于今日公布了2026年9月份国产及进口网络游戏审批信息，包括 《源初之结》 《诡秘之主：愚者》 在内的215款游戏作品（206款国产游戏、3款进口游戏）获发版号。汇总如下：",
-      "translated": "",
-      "url": "https://www.gcores.com/articles/220426",
-      "createdAt": "Wed, 30 Sep 2026 20:30:26 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_11",
-      "author": "TechCrunch",
-      "text": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America - Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant capital to build out its preventative-health platform. Why are investors betting so big on this category? On th",
-      "translated": "",
-      "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
-      "createdAt": "Wed, 30 Sep 2026 20:20:02 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_机核_11",
-      "author": "机核",
-      "text": "游戏玩家的“最后一米”，终于被解决 - 作者：柏亚舟2026年的9月，走在上海的街头的你，很容易与空气里“瓦”的味道不期而遇。随着《无畏契约》全球冠军赛如期而至，加上游戏年度版本的重磅更新，整座城市几乎变成了一个巨大的线下服务器。从场馆内山呼海啸的欢呼，到街头巷尾随处可见的赛事视觉与玩家打卡，那种独属于电子竞技的热血与躁动，正毫无保留地从赛场蔓延至城市的每一个角落。 但无论赛场上的灯光有多耀眼，当夜晚降临，狂欢散场，每一个被点燃了胜负欲的玩家最终还是要回到同一个地方——自己房间里的那张电脑桌前。在宏大的赛事叙事之外，我们日常与游戏发生连接的那个最小单位，其实就是面前这一亩三分地的桌面。而在这张桌面上，哪怕你拥有最顶级的鼠标、最顺手的客制化键盘、素质最强的显示器，往往也会在一个最不起眼的角落里“破功”。那个角落里躺着的，通常是一块灰扑扑、扁平死板、甚至因为供电发热而有些烫手的金属疙瘩——你的拓展坞。这两年，因为工作经常需要满世界出差跑展会的缘故，我和身边绝大多数年轻玩家、学生党一样，主力设备早就切换成了高性能游戏本。但凡你是一个“游戏本+外接显示器”的双修玩家，你一定懂那种每次把电脑带回",
-      "translated": "",
-      "url": "https://www.gcores.com/articles/220410",
-      "createdAt": "Wed, 30 Sep 2026 20:08:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_1",
+      "id": "rss_雷锋网_3",
       "author": "雷锋网",
       "text": "AI办公进入「上下文战争」，百度如何出牌？ - 上下文，正成为AI办公新的竞争变量。“任何事情都可以成为用户的上下文。”在百度AI Day开放日接受雷峰网采访时，百度集团副总裁、个人超级智能事业群组（PSIG）总裁王颖表示，过往的历史积累、沉淀的文件资产，以及与同事之间的对话，都是上下文的重要组成部分。当AI办公迈入上下文竞争阶段，各家手里的优势也各不相同：有的来自企业协作场景，消息、文档、会议天然沉淀其中；有的来自业务软件，更贴近垂直流程和行业数据；而百度的一张王牌，来自文库和网盘等多年积累的内容资产。对百度而言，这是一座“富矿”——文库和网盘，均已运营十余年。这种优势，让团队在过去几年里并没有跟随ChatBot热潮，而是前瞻性地选择生产力赛道：去年4月，百度文库和网盘联合推出GenFlow 1.0，开始以通用AI Agent的形态，切入写论文、做PPT、生成行业报告等任务场景。今年8月，GenFlow官宣中文名为“库库AI”，同时上线独立端，以更完整的产品形态继续参与AI办公大战。十余年家底，成为上下文“富矿”如果把视线拉回AI时代之前，百度文库和网盘解决的是两类颇为具体的需求：文",
       "translated": "",
@@ -222,7 +72,7 @@
       "retweets": null
     },
     {
-      "id": "rss_雷锋网_2",
+      "id": "rss_雷锋网_4",
       "author": "雷锋网",
       "text": "DeepSeek 开源算子工具大礼包，联手华为昇腾，手撕 CUDA 绑定！ - 一套代码能跑遍所有芯片。&nbsp; &nbsp; 作者丨高允毅&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;刚刚，DeepSeek做了一个开源壮举：把给英伟达 GPU 写代码的全套工具",
       "translated": "",
@@ -232,17 +82,7 @@
       "retweets": null
     },
     {
-      "id": "rss_NASA_7",
-      "author": "NASA",
-      "text": "NASA, International Partners Advance Work on Space Crops - NASA, CSA (Canadian Space Agency), and the German Aerospace Center signed a joint statement of intent to begin coordinated, preparatory work toward an Earth-based demonstrator to learn how to grow crops on the Moon.",
-      "translated": "",
-      "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/",
-      "createdAt": "Wed, 30 Sep 2026 18:38:20 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_4",
+      "id": "rss_Solidot_8",
       "author": "Solidot",
       "text": "500 光年外的一颗巨行星探测到水、甲烷和氨 - 文学家团队借助韦伯望远镜在距地球 500 光年的巨行星 HATS-6 b 大气中探测到水、甲烷、氨，同时发现这颗行星温度可能比标准推算温度低得多。这是透射光谱技术第二次在系外行星大气中检出水汽之外的氨信号。由于氨这类含氮分子在较冷的巨行星中本应比在炽热类木星行星中更为丰富，这一发现支持了一个判断：围绕 M 型矮星运行的行星可能在化学上构成独特群体。HATS-6 b 体积大致相当于木星，每 3 天绕一颗体积小的低温红矮星公转一周。按现有认识，小恒星周围的气体尘埃盘既缺乏足够物质，也缺乏足够时间积聚出木星、土星级别的行星。目前人类已在太阳系外发现 6000 多颗行星，多数与太阳系内行星毫无相似之处。团队表示，弄清它们由什么构成、怎样形成，是判断其他星系是否与太阳系有共同起源的前提。",
       "translated": "",
@@ -252,7 +92,7 @@
       "retweets": null
     },
     {
-      "id": "rss_Solidot_5",
+      "id": "rss_Solidot_9",
       "author": "Solidot",
       "text": "Windows 11 原生支持 Linux 容器 - 微软宣布 WSL Containers GA，该工具为 Windows 11 开发者提供了一种通过 Windows Subsystem for Linux 构建、运行和部署 Linux 容器的内置方案。微软同时提供了容器管理工具 wslc.exe，GPU 支持、网络改进、健康检查、存储挂载、与 Microsoft Defender for Endpoint 和 Intune 的集成。微软还声称，当 Linux 环境访问存储在 Windows 中的文件时，性能最多可提升一倍。",
       "translated": "",
@@ -262,17 +102,7 @@
       "retweets": null
     },
     {
-      "id": "rss_NASA_8",
-      "author": "NASA",
-      "text": "Star Trails - This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea on Sept. 20, 2026. Image credit: NASA/Anil Menon",
-      "translated": "",
-      "url": "https://www.nasa.gov/image-article/star-trails/",
-      "createdAt": "Wed, 30 Sep 2026 17:50:50 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC中文_3",
+      "id": "rss_BBC中文_10",
       "author": "BBC中文",
       "text": "軍情五處警告：中國資助英國研究，成果交予北京間諜機關 - 當局敦促英國各大學，停止與中國通用技術研究院往來，該研究院與中國國家安全部有聯繫。",
       "translated": "",
@@ -282,7 +112,7 @@
       "retweets": null
     },
     {
-      "id": "rss_雷锋网_3",
+      "id": "rss_雷锋网_5",
       "author": "雷锋网",
       "text": "Muse爆火，dots入场：Personal Agent开始和互联网平台抢入口 - Personal Agent，正在成为这一轮 AI 产品竞争里最热的新概念之一。9 月 29 日，OpenAI 发布了可以长期在线的个人 Agent 产品 dots，提出“always-on agents”。更早把这个词推到台前的是 Meta 发布的个人 Agent 产品 Muse，截至 9 月下旬下载量突破 300 万，一度将 ChatGPT 从美国 App Store 免费榜第一的位置上挤下。（雷峰网）Muse 运行在一台独立的云端虚拟电脑里，有自己的浏览器，可以替用户打开网页、填写表格、发邮件、预订旅行；一些耗时更长的任务，即使用户退出 App，它也可以继续在后台执行。扎克伯格举过用 Muse 爬山预约的例子：任务可以跨几天甚至几周持续存在。Muse 之后，这条路线很快开始变得拥挤。9 月 28 日，Manus 推出一款名为 Cue 的独立应用。国内大厂也开始往同一个方向靠拢。千问宣布加速打造 Personal Agent；豆包早在今年 4 月就启动了代号 Spell 的 Personal Age",
       "translated": "",
@@ -292,7 +122,7 @@
       "retweets": null
     },
     {
-      "id": "rss_雷锋网_4",
+      "id": "rss_雷锋网_6",
       "author": "雷锋网",
       "text": "2000座高速闪充站落成，比亚迪如何扛住国庆车流？ - 作者丨马诗晴编辑丨马广宇在第2000座高速闪充站建成后，比亚迪将迎来第一场大考。几天前，比亚迪宣布第2000座高速闪充站在扬州宝应服务区落成。这意味着在国庆假期，比亚迪高速闪充网络将要面临首次车流集中压力测试。在现场演示中，比亚迪汽车从10%电量充至97%，用时约9分钟。用比亚迪闪充业务总经理王俊保的的话来说：“充电站‘有’和‘好用’是两个概念”，而从其表述来看，比亚迪是后者。当前，节假日补能需求仍在增长。从国家能源局披露的数据来看，今年春节假期，全国高速公路新能源汽车日均充电量达到0.17亿度，而五一期间日均充电量达到了0.19亿度，再创历史新高。&nbsp;但单车充得快，并不意味着高峰时段排队就短。站点能同时服务多少辆车、车位能否及时周转、供电能否跟上，都会影响实际补能耗时。&nbsp;2000座高速闪充站落成，体现了比亚迪的建设进度。国庆期间，这些站点能否在集中补能需求下保持充电效率、缩短用户等待，考验的却是整站运营能力。&nbsp;建站数量之外看什么？闪充站总量增长，并不一定弥补了局部补能缺口。对长途自驾而言，尤其在偏远旅",
       "translated": "",
@@ -302,7 +132,7 @@
       "retweets": null
     },
     {
-      "id": "rss_雷锋网_5",
+      "id": "rss_雷锋网_7",
       "author": "雷锋网",
       "text": "实测 Qwen-3.8 与 GLM-5.3 的 Flash 版：谁能让我提前下班半小时？ - 2026 年 8 月 26 日，同一天，Qwen 发布 Qwen3.8-Flash-Next/Qwen3.8-Flash，Z.AI 发布 GLM-5.3-Flash。从名字看，“Flash 模型”代表低价、快速、负责高频调用，更多是旗舰模型的补位产品，但这次两家官方给出的宣传重点，其实已经不再停留在便宜聊天上。（雷峰网）千问云对 Qwen3.8-Flash 的定位直指&nbsp;1M 长上下文、长文档、完整代码库、复杂对话、编程辅助、工作流编排和视觉理解，并强调它能够接入开发者工具；而智谱对 GLM-5.3-Flash 的描述则更进一步把视觉编程、办公任务、金融研究、文档处理，以及 PPTX、PDF、DOCX、XLSX 这类交付成果写进核心卖点。因此，两款模型都传递出一个新的信号：Flash 并非只是旗舰模型的低价补位，而是正在进入办公、开发和交付物生成这些真实生产力场景的底层基座。那么，一个更实际的问题是：如果 Flash 模型是为了应对用户每天的高频任务而生，首先应该证明什么？我们的判断是",
       "translated": "",
@@ -312,7 +142,7 @@
       "retweets": null
     },
     {
-      "id": "rss_雷锋网_6",
+      "id": "rss_雷锋网_8",
       "author": "雷锋网",
       "text": "从 Codex Harness 开源，看 AI 公司的护城河是什么？ - 8 月 19 日，OpenAI 正式开源了 Codex Harness。这家公司名字里的 Open，久违地兑现了一次。（雷峰网）长期深耕 Agent Harness 的开发者群体对该消息的普遍反馈是“振奋”。因为过去只有少数顶尖 Agent 产品掌握的 Harness，现在终于开始向更多开发者和企业开放了。随着 Codex 等最佳实践的开源，Harness&nbsp;正在经历从“私产”到“公器”的转化，其本身的稀缺性，正在快速下降。这也是 OpenAI 为什么终于“Open”了一回的重要原因。当顶尖 Agent 产品积累的 Harness 方法论不断扩散，Codex 这样的最佳实践也正式开源，开发者便可以站在现成的 Agent Runtime 上继续开发。过去许多公司依靠 Harness Engineering 建立起来的技术领先，也会更快被行业学习和复制。那究竟什么是 Harness？对于不太熟悉这个领域的朋友，可以用一个极简公式来理解这个概念：Agent = Model + Harness如果说模型是输出原始",
       "translated": "",
@@ -322,7 +152,7 @@
       "retweets": null
     },
     {
-      "id": "rss_雷锋网_7",
+      "id": "rss_雷锋网_9",
       "author": "雷锋网",
       "text": "全网最硬核 OpenClaw 2.0 实测：从 ToC 到 ToB 的试探，Agent 网关能重塑工作流边界吗？ - 8 月 31 日，OpenClaw 2.0 正式发布（版本号： v2026.8.1 ），933 位贡献者、569 位首次贡献者、16,962 个 PR 提交。这组数字让它成为近期最受关注的开源 Agent 更新之一。（雷峰网）在过去 230 天里，OpenClaw 曾发布 106 个版本，但在 2.0 到来前已经有近 7 周没有更新了。因此，这一次 OpenClaw 不是给 Agent 多补几个工具，而是把安装、浏览器、云会话、记忆管理、插件、安全、多人协作和恢复能力几乎重新梳理了一遍。因此，一个急需回答的问题是：OpenClaw 2.0 到底是一次声量很大的版本升级，还是把个人 AI Agent 从一个能干活的工具，往可长期运行、可协作、可审计的系统推了一步？为回答这个问题，我们选择 OpenClaw &nbsp;v2026.7.1-2 （1.x） 和官方标注为 2.0 的 v2026.8.1 的新版本进行对比。我们用同一道复杂长任务，对比两个版本的上手门槛、任务推进",
       "translated": "",
@@ -332,7 +162,7 @@
       "retweets": null
     },
     {
-      "id": "rss_雷锋网_8",
+      "id": "rss_雷锋网_10",
       "author": "雷锋网",
       "text": "5500颗光引擎如何撑起4096卡超节点？华为NPO的故事还没讲完 - 华为自研光引擎Hi-ONE的首个落点终于浮出水面——千卡级超节点。不久前的CIOE上，海思已经展示这颗带宽能力高达7.2T的光引擎，并透露Hi-ONE将以NPO（Near-Packaged Optics，近封装光学）形式进入下一代超节点。华为称，这也是全球首个采用NPO的AI智算超节点。为什么是NPO？答案藏在电信号的传输路径上。随着芯片侧高速接口速率不断提升，从电芯片到光引擎的这段电连接越长，信号越容易出现衰减和失真，对信号完整性的挑战也越大。相比传统可插拔光模块还要让高速电信号在PCB板上“长途跋涉”，也不同于CPO（Co-Packaged Optics，共封装光学）将光引擎与主芯片更紧密绑定的“破釜沉舟”，华为锚定的NPO，试图在带宽、时延和可维护性之间寻找平衡，将高速电连接压缩至约5厘米——相当于两枚1元硬币首尾相接的长度。不只一颗光引擎实现了近距离互联，几天后的华为全联接大会上，华为又公布了Hi-ONE在下一代超节点中的部署情况：代替4.8万颗800G可插拔光模块，5500颗Hi-ONE将进入4096卡昇",
       "translated": "",
@@ -342,7 +172,7 @@
       "retweets": null
     },
     {
-      "id": "rss_雷锋网_9",
+      "id": "rss_雷锋网_11",
       "author": "雷锋网",
       "text": "对比 Codex，免费的 AgnesCode 也能在底层算子优化任务中打得有来有回 - &nbsp;AgnesCode在部分芯片上跑出更高性能，免费模型完成专业级交付。&nbsp; &nbsp; 作者丨吴海明 曹PP&nbsp; &nbsp; 编辑丨李 &nbsp; 娜&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;免费",
       "translated": "",
@@ -352,27 +182,7 @@
       "retweets": null
     },
     {
-      "id": "rss_雷锋网_10",
-      "author": "雷锋网",
-      "text": "从海拉鲁到现实世界：视频模型如何理解「变化」 - HiDream-O1-Video 的三场世界回应测试。&nbsp; &nbsp; 作者丨Reah&nbsp; &nbsp; 编辑丨李 &nbsp; 娜&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;在《塞尔达传说：旷野之息》中，玩家点燃一片草地，火焰会沿着草叶蔓延，热空气",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/yanxishe/NGx4Ckx3MbUWlIs3.html",
-      "createdAt": "Wed, 30 Sep 2026 16:09:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_11",
-      "author": "雷锋网",
-      "text": "在三张圆明园鼠首照片里，我们看到了3D AI的Harness时刻 - 3D&nbsp;生成的价值正从模型本身转向模型、智能体与专业软件共同完成任务的 3D AI Harness。&nbsp; &nbsp; 作者丨吴海明&nbsp; &nbsp; 编辑丨李娜 岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;成龙电影《十",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/yanxishe/wEE4RarEXO2oNfrH.html",
-      "createdAt": "Wed, 30 Sep 2026 15:57:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_6",
+      "id": "rss_Solidot_10",
       "author": "Solidot",
       "text": "日本人身高增长停滞 - 日本人的身高在 1896～1996 年的 100 年间，男性增长约 14.6 厘米，女性增长了约 16 厘米。但 1990 年代之后升高增长日益乏力，相比下中韩平均身高则在快速增长。2019 年日本 19 岁男性平均身高约 172.1 厘米，女性约 158.5 厘米。韩国男性为 175.5 厘米，女性为 163.2 厘米，中国男性为 175.7 厘米，女性为 163.5 厘米。日本人口身高增长停滞有三种解释：其一是能量摄入减少，日本人均每日能量摄入量在 1995 年至 2023 年间缓慢下降并趋于停滞，中国和韩国的能量摄入则比日本高出约 760-800 千卡。其二是能量摄入问题可能对正在怀孕的女性产生影响，日本每 10 名新生儿中就有 1 人出生体重不足 2500 克，高于中韩。其三可能与婴幼儿时期的睡眠时长相关，日本婴儿（11.62 小时）显著低于中国（12.49小时）和韩国（11.9小时）。",
       "translated": "",
@@ -382,7 +192,7 @@
       "retweets": null
     },
     {
-      "id": "rss_Solidot_7",
+      "id": "rss_Solidot_11",
       "author": "Solidot",
       "text": "日本老龄化达到 29.4%， 一人家庭比例首次超过 4 成  - 日本总务省公布的 2025 年人口普查确定值显示，截至 2025 年 10 月 1 日，包含外国人在内的日本总人口为 122,972,528 人，较 2020 年的上次调查减少 3,173,571 人，降幅为 2.5%。自 2015 年的调查起连续3次负增长。65 岁以上人口在总人口中的占比（老龄化率）为 29.4%，创历史新高。较上次调查上升 0.9 个百分点。总人口中的日本人减少 3.5% 至 119,131,935 人，自 2010 年的调查起连续 4 次减少。居住在日本国内的外国人增加 39.8% 至 3,840,039 人，创历史新高。从国籍来看，越南和尼泊尔增幅显著。日本整体的家庭数量比上一次 2020 年调查增加了 149 万 4465 户，达到 5732 万 4619 户，创出有可比数据以来的新高。每户平均人数降至 2.10 人，降至最低水平。一人家庭达到 2368 万 9024 户，增加了 253 万 7982 户。其中增长最多的是 65 岁以上的老年人，占一人家庭总数的 34.4%。一人家庭中，男性有",
       "translated": "",
@@ -392,17 +202,7 @@
       "retweets": null
     },
     {
-      "id": "rss_Solidot_8",
-      "author": "Solidot",
-      "text": "夜空每年增亮 10% - 世界正日益城市化，夜空的亮度每年都在增加10%。全球八成的人口生活在受光污染影响的夜空之下，真正的黑暗日益稀缺，对大部分人而言正变得遥不可及。享受黑暗的意义不止于观星。黑夜本身就是一个独特的生态环境。人造光会干扰依靠月光导航的动物：无论是误将停车场当成大海而迷途的幼龟，还是绕着灯泡团团转的飞蛾，都深受其害。萤火虫和青​​蛙需要黑暗环境完成求偶仪式；候鸟常因大城市的强光照射而偏离迁徙路线。研究表明，光污染正在破坏植物与授粉昆虫之间的关系，改变树木的开花时节，扰乱包括人类在内的所有生物的昼夜节律。无论是室内的灯光，还是夜间透过窗户射入的光线，研究都证实我们需要黑暗环境休息、恢复体力和保持健康。大多数光污染源自彻夜长明的路灯、建筑物、停车场和运动场，但来自天空本身的光污染威胁也日益增加。地球轨道上的卫星越来越多。",
-      "translated": "",
-      "url": "https://www.solidot.org/story?sid=85512",
-      "createdAt": "Wed, 30 Sep 2026 15:27:07 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_爱范儿_3",
+      "id": "rss_爱范儿_6",
       "author": "爱范儿",
       "text": "突发！苹果全新产品线曝光，Siri AI 进家门 - 致敬 2002，面向 2030#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "translated": "",
@@ -412,37 +212,7 @@
       "retweets": null
     },
     {
-      "id": "rss_Solidot_9",
-      "author": "Solidot",
-      "text": "FBI 与荷兰合作逮捕 ShinyHunters 组织领导成员 - FBI 与荷兰合作逮捕了疑似 ShinyHunters 组织领导成员、24 岁的 Pepijn van der Stap。他是在 9 月 16 日左右被捕的，发生在 ShinyHunters 入侵 FBI 招聘网站 apply.fbijobs.gov 纂改网页窃取逾 2TB 雇员数据之前——有一种解释是 ShinyHunters 组织的领导者换人了，该组织在新领导人的管理下变得更激进，并试图将入侵 FBI 的行动嫁祸给被捕的 van der Stap。van der Stap 曾使用化名 Umbreon，其头像就是宝可梦 Umbreon。入侵 FBI 的 ShinyHunters 黑客在纂改网页时植入了宝可梦 Umbreon 的 ASCII 艺术图。接管 ShinyHunters 的据称是约旦的少年黑客 Rey。",
-      "translated": "",
-      "url": "https://www.solidot.org/story?sid=85511",
-      "createdAt": "Wed, 30 Sep 2026 14:52:45 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_10",
-      "author": "Solidot",
-      "text": "AMD CEO 苏姿丰成为清华经管学院顾问委员会委员 - 据清华大学经济管理学院官方微信公号称，今年清华经管学院顾问委员会新增委员三人，新增接任委员五人。三位新增委员分别是黄仁勋、苏姿丰，以及瑞士百达集团高级管理合伙人百达铭（Marc Pictet）。五位新增接任委员分别是宝马集团董事长聂科维（Milan Nedeljković）、沃尔玛公司总裁兼首席执行官方威翰（John Furner）、可口可乐公司首席执行官柏瑞凯（Henrique Braun）、泛大西洋资本集团联席总裁、全球成长型股权投资负责人马丁·埃斯科瓦里（Martín Escobari），以及bp集团首席执行官梅格·奥尼尔（Meg O’Neill）。清华经管学院称，这五位接任委员所在公司的前任都曾是学院顾问委员会委员，因工作变动不再担任。清华经管学院现任顾问委员会主席为苹果董事会主席库克。马斯克（Elon Musk）、扎克伯格（Mark Zuckerberg）以及微软 CEO 纳德拉(Satya Nadella)都是委员。",
-      "translated": "",
-      "url": "https://www.solidot.org/story?sid=85510",
-      "createdAt": "Wed, 30 Sep 2026 14:08:21 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_11",
-      "author": "Solidot",
-      "text": "加州禁止公职人员发行模因币 - 加州州长 Gavin Newsom 签署了 AB 2409 法案，禁止加州公职人员发行模因币（memecoin），也禁止企业使用公职人员的肖像或形象发行模因币。这项新法规的背景是美国总统特朗普及第一夫人在正式上任前夕发行了自己的模因币，据报道百万购买特朗普模因币的投资者损失了 38 亿美元——模因币的币值与热度密切相关，因此币值波动巨大，最知名的模因币是狗币（Dogecoin）。Newsom 表示：“任何公职人员都不应利用其职位牟利——我们正在实施更强有力的保护措施，以确保此类事件不会在本州发生。”",
-      "translated": "",
-      "url": "https://www.solidot.org/story?sid=85509",
-      "createdAt": "Wed, 30 Sep 2026 14:03:50 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_量子位_0",
+      "id": "rss_量子位_8",
       "author": "量子位",
       "text": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜 - 千禧年难题的突破，10000个Agent最多占了10%的功劳。",
       "translated": "",
@@ -452,7 +222,7 @@
       "retweets": null
     },
     {
-      "id": "rss_量子位_1",
+      "id": "rss_量子位_9",
       "author": "量子位",
       "text": "直播回顾：工业AI的下一个机会在哪？ - 什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
       "translated": "",
@@ -462,7 +232,7 @@
       "retweets": null
     },
     {
-      "id": "rss_爱范儿_4",
+      "id": "rss_爱范儿_7",
       "author": "爱范儿",
       "text": "iQOO 16 体验：可能是今年最卷的「性能旗舰」 - 把日常当主场#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "translated": "",
@@ -472,32 +242,262 @@
       "retweets": null
     },
     {
-      "id": "rss_BBC中文_11",
-      "author": "BBC中文",
-      "text": "印度德里毛孩競逐「最肥狗狗」頭銜 - 印度首都「最肥」小狗的評選活動吸引了數千張選票。",
-      "translated": "",
-      "url": "https://www.bbc.com/zhongwen/articles/c674k2vl0ev0o/trad?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Wed, 30 Sep 2026 10:20:50 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_量子位_2",
-      "author": "量子位",
-      "text": "Anthropic，你是来给智谱打广告的吧！ - 实测说GLM-5.3很强",
-      "translated": "",
-      "url": "https://www.qbitai.com/2026/09/499597.html",
-      "createdAt": "Wed, 30 Sep 2026 10:04:12 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_爱范儿_5",
+      "id": "rss_爱范儿_8",
       "author": "爱范儿",
       "text": "问界新 M8 预售 38.98 万元，自行主导后，赛力斯迎来第一场实战 - 赛力斯有一场持久战要打。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "translated": "",
       "url": "https://www.ifanr.com/1682703?utm_source=rss&utm_medium=rss&utm_campaign=",
       "createdAt": "Wed, 30 Sep 2026 09:03:43 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_4",
+      "author": "极客公园",
+      "text": "\n        OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道\n       - OpenAI 开发者大会推出智能体 dots，重构会员定价，意图打造 AI 超级入口 北京时间 9 月 30 日凌晨，OpenAI 举办其宣称规模最大的一届开发者大会，一次性发布 25 项更新，覆盖新模型、API、智能体、插件生态与企业软件市场。大会现场，Sam Altman 公布 ChatGPT Pro 会员调整方案时台下一片沉寂，套餐调价成为本次发布最受争议的内容。 会员体系重新划分档位：原有 200 美元 / 月的 Pro 200 售价不变，但新订阅用户额度减半；新增 500 美元 / 月的 Pro 500 套餐，额度为 Plus 的 25 倍，独家开放 Astra Ultrafast 高速模式。OpenAI 的计价逻辑发生转变，不再简单按 token 数量计费，转而参考「雇佣 AI 员工」模式，按交付工作量与运行速度单独收费，高速模式消耗额度更快。尽管 GPT-6.1 Sol 等新模型 API 价格大幅下调",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/372005",
+      "createdAt": "Wed, 30 Sep 2026 08:25:27 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_9",
+      "author": "爱范儿",
+      "text": "宝马新一代 3 系亮相！内外全换新，顶配还有 3.0T 六缸 - 3 系迈向「新世代」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "translated": "",
+      "url": "https://www.ifanr.com/1682682?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Wed, 30 Sep 2026 06:50:17 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_5",
+      "author": "极客公园",
+      "text": "\n        除了更贵的订阅和砍半的额度，OpenAI 想做的还是「微信」\n       - 模型越来越便宜，付费给的用量却砍了半 作者｜Alan 北京时间 9 月 30 日凌晨，OpenAI 开完了它口中「迄今规模最大的一届」开发者大会。官方汇总页上一共列了 25 项发布，从新模型、新 API，一路排到给企业买软件用的应用市场。 现场最安静的一刻，出现在 Sam Altman 讲到 ChatGPT Pro 会员调整的时候。台下没有一个人鼓掌。 调整本身不复杂：每月 200 美元的 Pro 200 价格不变，新订阅的用量缩水；另外新增一档 Pro 500，每月 500 美元，用量是 Plus 的 25 倍，外加一个个人套餐里只有它能用的提速档 Astra Ultrafast。 那一阵沉默，比 25 项发布里的任何一项都更能说明今天的本质主题：这场大会真正改掉的，是 ChatGPT 收钱的方式：它不再按一个聊天软件收费，开始按一个「员工」收费，干多少活、干多快，都明码标价。 月费和用量，都是 Plus 的 25 倍｜图片来源：OpenAI 01 AI 开始领工资 和之前预热的一样，毫",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/372003",
+      "createdAt": "Wed, 30 Sep 2026 02:59:48 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_11",
+      "author": "BBC中文",
+      "text": "中國人工智慧工具「教導」研究人員製造生物武器 - 有研究機構發現月之暗面的Kimi模型可以繞過開發者的安全限制，提供製造生化武器的資訊。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 30 Sep 2026 02:20:26 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_10",
+      "author": "爱范儿",
+      "text": "ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车 - 奥特曼：AI 将带来新文艺复兴，而非新工业革命#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "translated": "",
+      "url": "https://www.ifanr.com/1682644?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Wed, 30 Sep 2026 01:34:15 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_11",
+      "author": "爱范儿",
+      "text": "早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一 - · DeepSeek Harness 推出桌面端预览版 · 特斯拉 Roadster 发布会因天气推迟 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "translated": "",
+      "url": "https://www.ifanr.com/1682554?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Wed, 30 Sep 2026 00:26:36 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_10",
+      "author": "WSJ",
+      "text": "Nvidia Supplier SK Hynix Posts Record Profit on AI Boom - The South Korean memory-chip maker reported record quarterly and annual results after stronger-than-expected earnings for the final quarter of 2024 on robust chip demand.",
+      "translated": "",
+      "url": "https://www.wsj.com/articles/sk-hynix-posts-strong-fourth-quarter-net-profit-on-ai-boom-6f32e38b?mod=rss_Technology",
+      "createdAt": "Wed, 22 Jan 2025 21:04:00 -0500",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_11",
+      "author": "WSJ",
+      "text": "Tech, Media & Telecom Roundup: Market Talk - Find insight on Netflix, U.S. advertising spending, AI joint venture Stargate and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "translated": "",
+      "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-85899e83?mod=rss_Technology",
+      "createdAt": "Wed, 22 Jan 2025 16:56:00 -0500",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_触乐_5",
+      "author": "触乐",
+      "text": "没有中国大厂的TGS - 采访：王琳茜，陈可安 撰稿：王琳茜 随着第25号台风在展会开幕后逼近关东，9月19日，主办方宣布，2026年东京电玩展（Tokyo Game Show，简称TGS）将取消21日最终日的全天活动。 在此之前，TGS的展期始终是4天，通常固定在9月中下旬的周四至周日。本届TGS是展会三十年第一次将展期延长至5天，也是第一次在展期中途叫停&mdash;&mdash;也因此，即使在预先宣发中，官方和不少媒体形容今年将是&ldquo;史上最长、史上规模最大&rdquo;的TGS，但从最终结果来说，一切似乎如旧。 TGS2026入口处的标识物 9月20日，TGS主办方日本计算机娱乐协会（CESA）宣布闭展，并公布了相关数据，本届TGS的总到场人数为25万7642人，与2025年的26万3101人相比减少了5459人，约占2.1%，这一定程度上受到最终日临时取消的影响。从规模上来说，开幕前的参展名单显示，本届TGS出展社为1138家，创历史新高。 看起来，在TGS上发生巨大缩减的似乎只有中国游戏厂商。今年，中国展商总数为93家，较去年减少4成，且多为独立游戏、海外发行、硬件",
+      "translated": "",
+      "url": "http://www.chuapp.com/article/291668.html",
+      "createdAt": "Tue, 29 Sep 2026 19:29:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_触乐_6",
+      "author": "触乐",
+      "text": "触乐怪话：游戏排队心理学 - 触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。 3对3的确是最大受害者&hellip;&hellip;（图/小罗） 不管是在现实还是游戏中，我已经很久没有经历过排队了。 上次体验排队还是打《魔兽世界》的时候。《魔兽世界》刚出那会火得不行，你不玩《魔兽世界》简直等于无法社交。一到高峰时段必须排队才能进服务器，就跟今天到网红馆子等位吃饭一样。 有资料显示，在2005年国服公测期间，热门服务器晚高峰的排队人数普遍在数千人起，等上个把小时只是起步。这在当时还是相当新奇的体验，大家一边等一边还算是平心静气，毕竟想玩的冲动远远超越了排队的枯燥感，而且对排队时间有了预期之后，你还可以提前规划，趁排队时吃饭、上厕所、打扫卫生&hellip;&hellip; 现在的排队更夸张&hellip;&hellip; 后来，怀旧服开服和国服回归的时候据说也触发了大规模排队现象，此时我已经不玩很久很久了，立刻就觉得只是为了进服务器等这么久有点不值。比如有人等待3小时，那玩到游戏岂不是都半夜了。 何止3小时，最近几天打《EA Sports FC 27》，在新推出的开放世界模式The ",
+      "translated": "",
+      "url": "http://www.chuapp.com/article/291664.html",
+      "createdAt": "Tue, 29 Sep 2026 19:26:56 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_6",
+      "author": "极客公园",
+      "text": "\n        AMD 82 亿美元收购 World Labs，买的不只是世界模型\n       - 9 月 3 日，英伟达宣布以约 130 亿美元收购 Hugging Face。25 天后，AMD 宣布以约 82 亿美元收购李飞飞创办的 World Labs。 两笔交易放在一起看，更觉得有意思。CNBC 最新的报道提到，Hugging Face 在被英伟达拿下之前，AMD 和 Salesforce 都曾表达过收购兴趣。 没抢到 AI 世界里最大的模型「集散地」，AMD 转身买下了一支造模型的顶级团队。 根据 AMD 的公告，这是一笔全股票交易，预计在 2026 年底前完成交割，仍需通过监管审批。交割之后，李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向 CEO 苏姿丰汇报。 这也是 AMD 历史上第二大收购，仅次于 2022 年约 500 亿美元拿下的赛灵思。 除了科技圈最有分量的两位华裔女性联手外，很多人的第一反应是&mdash;&mdash;AMD 要押注世界模型了，但这个判断只对了一半。 01 「不做模型生意」的模型收购 作为一家 AI 基建公司，AMD 从来不靠卖模型赚",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/372000",
+      "createdAt": "Tue, 29 Sep 2026 19:21:44 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_7",
+      "author": "极客公园",
+      "text": "\n        Anthropic 招股书里，最耐人寻味的 7 个细节\n       - 作者｜Techno 之王 编辑｜靖宇 &nbsp; 当地时间 9 月 28 日，外媒披露了一份 Anthropic 的 IPO 招股书。 先要说清楚这份文件的性质。它并不是 Anthropic 主动公开的版本。今年 6 月，Anthropic 以公益公司身份向美国证交会秘密递交了 S-1 注册声明草案，为普通股首次公开发行做准备。按照规则，公司要在向机构投资者路演前至少 15 天公开递交修订版 S-1，完整财务数据到那时才会被外界看到。路透此次看到的是一份尚未公开的版本，Anthropic 对此拒绝置评。 这意味着其中的数字仍可能随证交会的审阅意见调整，不少细节也只能通过路透的转述窥见一角。 但如果这份文件大体反映了 Anthropic 最终交给公开市场的样子，它的分量很难被高估。这次上市的估值目标，是 Anthropic 自己 5 月估算的 9650 亿美元的两倍以上，也就是超过 2 万亿美元。 这是 ChatGPT 引爆这轮 AI 浪潮近四年来，第一家把完整账本摊给公众投资人的前沿大模型实验",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/371994",
+      "createdAt": "Tue, 29 Sep 2026 17:12:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_8",
+      "author": "极客公园",
+      "text": "\n        三个月，5000 人：拼多多在这里搭起一座新业务基地\n       - 互联网大厂很久没有如此密集地在线下招人了。 今年 5 月底，拼多多正式进入雄安。三个多月后，这家公司的雄安团队已经超过 5000 人。 速度甚至比原来的计划更快。按照拼多多披露的信息，其雄安公司已经提前完成年度专项招聘计划，新办公楼和员工食堂也陆续投入使用。 5000 人是什么概念？ 在今天的互联网大厂，这已经不是一个普通区域办公室的规模。尤其是在互联网公司普遍强调降本增效、控制人员扩张的背景下，一次性在一座新城市搭起数千人的团队，本身就是一个值得观察的动作。 但拼多多在雄安做的，并不是再建一个研发总部。 从已经落地的业务看，这里更像是拼多多新建的一座大型后台业务基地：一头连接平台治理和数据生产，另一头连接平台上的制造业商家。 01 5000 人， 首先是一套互联网平台的「后台」 &nbsp; 拼多多给雄安公司的两个核心定位，一个叫「传统产业数据处理服务中心」，另一个叫「传统制造高质量发展综合服务中心」。 首先是数据处理。 目前，雄安团队已经承担算法标注和模型标注，涉及搜索推荐体验优化、图生视频训",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/371850",
+      "createdAt": "Tue, 29 Sep 2026 14:53:16 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_9",
+      "author": "极客公园",
+      "text": "\n        Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶\n       - 头图来源：Manus &nbsp; 突然地，Manus 在官网和社交平台上公布了 Manus 2.0 版本的更新。 这并非一次简单的产品迭代，更像是Manus 团队尝试将当下所有最热门的 AI 场景和功能，融合到一个「AI 全家桶中」。 此次升级中，团队打造的底层 Cascade Agent 框架，能将任务 Token 消耗减少 23.2%，任务完成时间缩短 28.2%，运行成本降低 32%。同时，Manus 现在也提供「云电脑」的选项供用户选择。 向上，从视频编辑、游戏开发、远程控制和 AI Studio，Manus 为所有用户常用的场景，提供了相关产品。 Manus 正式推出个人助手应用 Cue｜图片来源：Manus 最重要的，这次 Manus 还推出了一款个人 Agent&mdash;&mdash;CUE。这款全新应用支持手机和桌面端，和 Manus 共享同样的基础设施。在个人 AI 这块，Manus 正式出击。 这是 Manus 在蛰伏许久后",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/371493",
+      "createdAt": "Tue, 29 Sep 2026 13:27:55 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_0",
+      "author": "芥末堆",
+      "text": "广东清远宣布2027年秋试点十二年贯通培养 - 具体试点方案暂未公布。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139587.html",
+      "createdAt": "Tue, 29 Sep 2026 09:51:58 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_10",
+      "author": "极客公园",
+      "text": "\n        AMD 82 亿美元收购李飞飞 AI 创业公司；Manus 推出个人 AI 助手 CUE；今年低价手机将减少 2.3 亿部｜极客早知道\n       - Manus 发布 2.0，新增云电脑、远程控制及个人 AI 助手 Cue 9 月 28 日，Manus 发布 2.0 版本，升级自研 Cascade Agent 框架，并推出云电脑、视频编辑、游戏开发及个人 AI 助手 Cue。据官方数据，新框架可使任务 Token 消耗减少 23.2%、完成时间缩短 28.2%、运行成本降低 32%。 升级后的 Manus Studio 支持文档、表格、网站和视频等内容创作，用户可在视频时间线上手动修改素材，再交由 AI 继续编辑。新增远程控制功能允许用户通过手机指挥已授权的电脑，查找文件或操作应用；自动化任务也可由新邮件、日历变更等事件触发，云电脑则为持续运行的项目提供环境。 独立应用 Cue 支持手机和桌面端，每个 AI 助手可拥有独立邮箱、电话号码、钱包和电脑，在用户设定的预算内付款、代接电话，也可与其他助手协作。目前 Cue 处于抢先体验阶段，凭邀请码免费使用。 Manus",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/371359",
+      "createdAt": "Tue, 29 Sep 2026 08:07:40 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_1",
+      "author": "芥末堆",
+      "text": "十一黄金备考期｜告别盲目刷题，科学备战月考&期中大考，高效逆袭不费力 - 查缺补漏",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139586.html",
+      "createdAt": "Tue, 29 Sep 2026 06:52:11 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_6",
+      "author": "芥末堆",
+      "text": "成交总金额3.06亿元，余杭区AI教育项目花落谁家？ - 各项目还公布了未中标的供应商。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139581.html",
+      "createdAt": "Thu, 24 Sep 2026 08:06:12 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_7",
+      "author": "芥末堆",
+      "text": "金吉列亮相2026云栖大会，携手阿里千问办公重磅发布“DingTalk A1”留学版产品 - “DingTalk A1”留学版将成为顾问随身携带的日常工作台，目前正推进规模化部署。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139580.html",
+      "createdAt": "Thu, 24 Sep 2026 08:00:42 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_8",
+      "author": "芥末堆",
+      "text": "从“知识占有”到“能力提升”， 2027版高考蓝皮书带着一线老师的答案来了 - 老师到底该怎么备考、怎么教学？2027版高考蓝皮书系列丛书给出了系统答案。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139579.html",
+      "createdAt": "Thu, 24 Sep 2026 04:44:40 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_9",
+      "author": "芥末堆",
+      "text": "教育部：未来四年，“双一流”高校本科招生数还将扩容7.6万人以上 - 优本扩容并非简单的数量增加，而是同步推进结构优化和质量提升。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139578.html",
+      "createdAt": "Thu, 24 Sep 2026 02:29:03 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_10",
+      "author": "芥末堆",
+      "text": "将Gemini当作语音模型，又一家AI语言学习公司拿到融资 - 虽然全球教育领域融资环境不容乐观，但AI语言学习成为少数逆势增长的赛道。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139577.html",
+      "createdAt": "Thu, 24 Sep 2026 02:27:52 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_11",
+      "author": "芥末堆",
+      "text": "洋葱学园联合创始人兼董事长杨临风入选《财富》“中国40岁以下最具潜力的商界精英榜” - 关注技术能否降低知识理解的门槛，并帮助学生形成独立思考和自主学习的能力。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139576.html",
+      "createdAt": "Thu, 24 Sep 2026 02:25:35 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_8",
+      "author": "WSJ",
+      "text": "Canada to Review Amazon Contracts After Quebec Layoffs - Canada has warned Amazon.com that it is reviewing business ties with the company’s cloud-computing unit following Amazon’s decision to shut down its warehouses in Quebec, leading to the layoff of 1,700 workers.",
+      "translated": "",
+      "url": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology",
+      "createdAt": "Thu, 23 Jan 2025 19:59:00 -0500",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_9",
+      "author": "WSJ",
+      "text": "Tech, Media & Telecom Roundup: Market Talk - Find insight on Electronic Arts, consumer spending on videogames, Meta and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "translated": "",
+      "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-28593f8d?mod=rss_Technology",
+      "createdAt": "Thu, 23 Jan 2025 16:57:00 -0500",
       "likes": null,
       "retweets": null
     }
