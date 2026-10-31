@@ -1,168 +1,8 @@
 {
-  "fetchedAt": "2026-10-29T15:07:25Z",
+  "fetchedAt": "2026-10-31T14:27:50Z",
   "articles": [
     {
-      "id": "rss_TechCrunch_7",
-      "author": "TechCrunch",
-      "text": "Upwind raises $400M after walking away from Datadog acquisition offer - The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
-      "translated": "",
-      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-      "createdAt": "Wed, 28 Oct 2026 23:15:00 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_爱范儿_7",
-      "author": "爱范儿",
-      "text": "触屏 MacBook Pro 上手体验：变轻变强会发光，凭什么值 11 万？ - 很强，很亮，很贵#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "translated": "",
-      "url": "https://www.ifanr.com/1686534?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "createdAt": "Wed, 28 Oct 2026 23:05:55 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_爱范儿_8",
-      "author": "爱范儿",
-      "text": "顶配 11.26 万！触屏 MacBook Pro 终于来了，乔布斯可能有话说 - 苹果标会亮！#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "translated": "",
-      "url": "https://www.ifanr.com/1686513?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "createdAt": "Wed, 28 Oct 2026 23:00:46 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_SCMP_11",
-      "author": "SCMP",
-      "text": "Australia returns ancient stone heads to China after more than 30 years - Australia has returned two stone sculptures to China after more than 30 years abroad. The statues, showing the heads of a military official and civil servant, had been given to the National Gallery of Australia in Canberra by a private collector and date back to the Northern Song dynasty (960–1127). China’s National Cultural Heritage Administration received the heads on Wednesday, according to the state broadcaster CCTV. T",
-      "translated": "",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3372466/australia-returns-ancient-stone-heads-china-after-more-30-years",
-      "createdAt": "Wed, 28 Oct 2026 23:00:07 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_8",
-      "author": "TechCrunch",
-      "text": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme - Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
-      "translated": "",
-      "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
-      "createdAt": "Wed, 28 Oct 2026 22:47:50 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_8",
-      "author": "Solidot",
-      "text": "女子信任 ChatGPT 的用药决策，结果因此猝死 - 一名住在西雅图的 31 岁华人女子，因依照 ChatGPT 提供的逐日减药计划，自行将抗癫痫药物逐步减量至停药后死亡。其父母向旧金山高等法院提起不当致死诉讼，控告 OpenAI 及其 CEO Sam Altman，指 ChatGPT 无照行医、提供危险且不准确的医疗建议。OpenAI 回应称这是“令人心碎的事件”，但涉案的是已经下架的早期版本。死者名为万博文(Bowen Wan)，来自江苏，毕业于亚利桑纳州立大学信息工程系，曾在亚马逊担任软件工程师，2021 年起请长期病假。她患有严重癫痫，服用多年的药物一度失效，后来改用新药，发作次数降至每月数次。她自 2023 年起频繁使用 ChatGPT，询问感情、健康保险与身心障碍给付等问题；2025 年平均每周传送逾 1500 则消息。2025 年 11 月她得知将被亚马逊裁员，须在次年 2 月中旬前找到工作才能留在美国。她担心药物影响语言能力，2026 年 1 月向 ChatGPT 提出，想把抗癫痫药拉莫三嗪(Lamotrigine)的每日剂量从 400 毫克降到 300 毫克，以利求",
-      "translated": "",
-      "url": "https://www.solidot.org/story?sid=85737",
-      "createdAt": "Wed, 28 Oct 2026 22:46:03 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_爱范儿_9",
-      "author": "爱范儿",
-      "text": "刚刚，Gemini 4 Carbon 正式发布，哈基米重回世界第一 - 哈基米终于扬眉吐气了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "translated": "",
-      "url": "https://www.ifanr.com/1686587?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "createdAt": "Wed, 28 Oct 2026 22:31:28 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_9",
-      "author": "Solidot",
-      "text": "加州亿万富翁投入逾 2.93 亿美元反对亿万富翁税 - 统计数据显示，至少 30 位加州亿万富翁累计投入逾 2.93 亿美元反对亿万富翁税。亿万富翁税将对任何身价逾 10 亿美元的加州居民一次性征收 5% 的税，该税将用于医保和教育等项目。加州是全美亿万富翁人数最多的州，总数超过 200 人，很多人在 AI 热下积累了巨额财富。在反对该税的亿万富翁中，Google 联合创始人 Sergey Brin 出资最多，投入巨资的还有 Google 前 CEO Eric Sc​​hmidt、风险投资人 John Doerr、Stripe CEO Patrick Collison、加密货币行业高管 Chris Larsen 等。另一位支持亿万富翁税的亿万富翁 Tom Steyer 也投入了大量资金。",
-      "translated": "",
-      "url": "https://www.solidot.org/story?sid=85736",
-      "createdAt": "Wed, 28 Oct 2026 22:23:06 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_10",
-      "author": "Solidot",
-      "text": "天文学家在柯伊伯带发现一颗巨大的矮行星候选天体 - 2025 年 6 月正式启动观测的 Vera C. Rubin 天文台其任务之一是绘制太阳系内小天体地图，尤其是柯伊伯带天体。现在天文学家报告利用天文台的观测设备在柯伊伯带发现了一颗巨大的矮行星候选天体。矮行星是指不完全符合行星定义但也不是卫星的行星质量天体，目前国际天文学联合会确认的太阳系矮行星共五颗：冥王星、阋神星、妊神星和鸟神星，以及谷神星，此外还有十几颗候选天体。最新发现的天体编号为 2026 ED138，其直径在 600-1500 公里之间，大小可能与妊神星和鸟神星相当。ED138 绕太阳运行一周大约需要 281 年，其近日点距离太阳 36.8 6个天文单位，远日点 49.04 个天文单位。通过进一步观测，尤其是红外波段的观测，天文学家将能更精确确定其大小，评估是否符合矮行星的标准。",
-      "translated": "",
-      "url": "https://www.solidot.org/story?sid=85735",
-      "createdAt": "Wed, 28 Oct 2026 22:09:50 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_9",
-      "author": "TechCrunch",
-      "text": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion - Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
-      "translated": "",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "createdAt": "Wed, 28 Oct 2026 21:58:32 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_6",
-      "author": "NASA",
-      "text": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory  - The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.&#160;&#160; “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks [&#8230;]",
-      "translated": "",
-      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
-      "createdAt": "Wed, 28 Oct 2026 21:50:01 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_10",
-      "author": "TechCrunch",
-      "text": "Google expands AI Search ads globally as core ad growth slows - The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-      "translated": "",
-      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "createdAt": "Wed, 28 Oct 2026 21:48:37 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_11",
-      "author": "TechCrunch",
-      "text": "Microsoft recorded $10 billion in revenue from OpenAI - Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-      "translated": "",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "createdAt": "Wed, 28 Oct 2026 21:34:30 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_爱范儿_10",
-      "author": "爱范儿",
-      "text": "iPad mini 首发上手：体验无可替代，刀法无人能及 - 算力越级，高刷缺席，一款让人爱恨交织的产品#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "translated": "",
-      "url": "https://www.ifanr.com/1686487?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "createdAt": "Wed, 28 Oct 2026 19:27:06 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_7",
-      "author": "NASA",
-      "text": "Artemis III SLS Core Stage Joins Boosters at Kennedy - NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida. &#160; Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting beam designed [&#8230;]",
-      "translated": "",
-      "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
-      "createdAt": "Wed, 28 Oct 2026 18:59:44 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_11",
-      "author": "Solidot",
-      "text": "生育后不久再次分娩可能加速衰老 - 哈佛医学院、麻总百瀚的科学家探讨了妊娠与生物衰老之间的关联。研究者提出假设：若妊娠间隔过短，身体可能缺乏足够的恢复时间，从而导致与生物衰老相关的变化不断累积。研究者提出，两次妊娠之间的恢复时间最终可能影响母亲的长期健康。间隔较短的反复妊娠可能会阻碍身体的完全恢复，致使某些变化在连续妊娠中逐渐累积。世界卫生组织目前建议，在活产之后至少等待 24 个月再受孕，以降低母婴的健康风险。但研究者指出，若要基于生物学衰老而非妊娠结局提出具体建议，则需要开展额外研究，以在多次妊娠中测量生物学年龄，并在随后数十年间对这些母亲进行长期追踪。",
-      "translated": "",
-      "url": "https://www.solidot.org/story?sid=85734",
-      "createdAt": "Wed, 28 Oct 2026 18:50:34 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_触乐_2",
+      "id": "rss_触乐_6",
       "author": "触乐",
       "text": "对话《逆水寒》制作人：我们仍然非常相信MMO的未来 - 近期，游戏市场研究机构Naavik发布了一份关于移动端MMORPG（大型多人在线角色扮演游戏）的研究报告。报告中提到，全球移动端MMORPG的内购收入减少25亿美元。这则报告让&ldquo;MMORPG是否依然像过去一样占据主流&rdquo;的讨论又重新热门起来。 很多人觉得MMORPG已经是个过时的品类了。但事实上，MMORPG本身的形态也在发生变化，当我们今天谈起MMORPG的时候，我们所说的实际上是一个横跨了数十年，游戏核心玩法、表现力和核心设计理念几经改进甚至革命的游戏品类。比如，实际上《逆水寒：新世界》《魔兽世界》《梦幻西游》等，都是MMO在当下仍然具有生命力的例子。7月开启的《逆水寒》&ldquo;黄金畅玩服&rdquo;构成了这款游戏今年最核心的增长点之一。 看起来，MMORPG游戏一直在变化，而这些变化一直在解决老问题的同时带来新问题。同时，MMORPG需要更加明确地面对MOBA、搜打撤等强调单局体验的游戏所带来的竞争。我们可以从《天堂2：盟约》《诡秘之主》等新作，《仙境传说3》《七界梦谭》推进测试中看到这种变化。",
       "translated": "",
@@ -172,17 +12,7 @@
       "retweets": null
     },
     {
-      "id": "rss_NASA_8",
-      "author": "NASA",
-      "text": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur - Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navigating the financial side of the work presented an even greater challenge. Although Gardner was used to leading fellow students [&#8230;]",
-      "translated": "",
-      "url": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
-      "createdAt": "Wed, 28 Oct 2026 18:00:28 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_触乐_3",
+      "id": "rss_触乐_7",
       "author": "触乐",
       "text": "触乐怪话：拖延啊拖延 - 触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。 我看就是这样！（图/小罗） 可能是换季的影响，我的拖延症最近又有朝极端化演变的趋势。一份海运国际邮件需要线上填报税单，我拖到必须去线下领取的地步；一个丢件快递需要投诉理赔，我至今还停留在幻想阶段。很多事情除非拖到了&ldquo;再不做就会死&rdquo;的程度，我就会继续放任自己下去&hellip;&hellip;然后再在死线前狼狈赶工，简直是《永不结束的星期一：梦想与死线》里女主工作状态的现实化。 《永不结束的星期一：梦想与死线》是一款独立游戏，女主有非常严重的拖延症，不到最后一刻总是完成不了工作，但每当加班赶工时又会遇到很多奇妙的事情，就像现实里越要工作，好像眼前吸引人的事情越多一样，但&ldquo;死线&rdquo;总会到来。 我就这样！ 可是死线也有很多定义。坦白说，我觉得每个人都会在心里暗藏一个&ldquo;真死线&rdquo;和一个&ldquo;假死线&rdquo;，前者是超过了真的会产生巨大影响，后者是理论上会产生影响但实际上还有可发挥的空间的死线。就像那句话&ldquo;我需要有一个人用枪逼着",
       "translated": "",
@@ -192,27 +22,7 @@
       "retweets": null
     },
     {
-      "id": "rss_NASA_9",
-      "author": "NASA",
-      "text": "NASA Selects 19 New Citizen Science Proposals in 2026 - So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of the known brown dwarfs, celestial objects that are similar to planets. The Zooniverse platform, […]",
-      "translated": "",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
-      "createdAt": "Wed, 28 Oct 2026 16:25:29 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC中文_6",
-      "author": "BBC中文",
-      "text": "西班牙列車相撞至少68死：我們目前已知甚麼？ - 西班牙兩列載有逾500名乘客的高速列車相撞。該國交通部長表示，電腦系統故障導致列車一度停駛，但控制中心其後在「令人費解的情況下」，沒有實施速度限制而允許列車恢復行駛，最終釀成事故。",
-      "translated": "",
-      "url": "https://www.bbc.com/zhongwen/articles/c50mejwyrypno/trad?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Wed, 28 Oct 2026 16:16:36 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_极客公园_3",
+      "id": "rss_极客公园_7",
       "author": "极客公园",
       "text": "\n        当即梦把剧本、导演和剪辑放进同一个工作室，我们看到了视频生成的下一步\n       - 对于短剧创作者来说，最不缺的可能就是新的故事灵感。 在日常创作中，一个新的人物设定、一段有冲突的情节，甚至刷到的一条社会新闻，都可能成为下一部短剧的起点。 但短剧行业的生产节奏越来越快。团队可能同时推进多个项目，既要保证已有剧集的更新，又要不断寻找新题材、开发新故事；好创意从提出到真正变成作品，中间还需要经历剧本创作、人物设定、分镜设计、视频生成和后期剪辑等一系列环节。 如果有个工具，能够直接从 idea 出发，把后续的制作流程串联起来，会怎么样？ 这正是即梦在尝试解决的问题。 从一个故事灵感出发，即梦可以辅助完善人物设定、剧情冲突和剧本，并自动拆解分镜；进入制作阶段，创作者可以像导演一样安排人物站位、运镜，并在正式生成前预演整场戏；视频生成后，还能局部修改镜头、复用人物与场景资产，持续制作后续剧集。 这些，是即梦在 10 月 26 日上线的「短剧工作室」想要实现的体验&mdash;&mdash;即梦将剧本创作、角色与场景资产管理、分镜设计、视频生成和后期编辑串联起来。 这两年，A",
       "translated": "",
@@ -222,7 +32,7 @@
       "retweets": null
     },
     {
-      "id": "rss_极客公园_4",
+      "id": "rss_极客公园_8",
       "author": "极客公园",
       "text": "\n        斯坦福的研究，红海的珊瑚，与一个中国模型\n       - 2026 年 9 月 4 日，又一年柏林国际消费电子展 IFA 大会开幕，会展中心的创新舞台座无虚席。 IFA 2026 的开幕主题演讲题目是《个人 AI 时代：想象力的未来》，主讲人是 AMD 高级副总裁、计算与图形事业部总经理 Jack Huynh。 作为消费电子圈每年最重要的场合之一，台下所有人都在等 AMD 拿出年度最重磅的内容。Huynh 的前半段演讲照例讲硬件：新一代 Ryzen AI Max PRO 处理器，AMD 历经多年打磨、专为个人 AI 设计的笔记本「Sundance」。 到演示环节，他话锋一转：「如果说，用一句 prompt 就创造一整个世界呢？」 他双手托着笔记本，屏幕上没有播放键，镜头平稳地向前推进，穿过中国小镇的街巷，又走上欧洲乡村的小路，光影随着视角移动自然变化，世界一路向前铺展，仿佛没有尽头。 这不是一段提前渲染好的视频，而是一个正在实时生成、可以交互的三维世界。 过去一段时间，这类能力更多出现在实验室和论文演示里，能以这么高的完成度，出现在消费电子展的主舞台上，还是行业第一",
       "translated": "",
@@ -232,27 +42,7 @@
       "retweets": null
     },
     {
-      "id": "rss_BBC中文_2",
-      "author": "BBC中文",
-      "text": "劉延東逝世：「紅二代」「團派」背景，政治局裡少見的女性身影 - 劉延東的逝世提醒外界一個現象：從吳儀、劉延東到孫春蘭，中共中央政治局曾連續20年保持至少一名女性委員，直到2022年「二十大」中斷，權力核心再無女性。",
-      "translated": "",
-      "url": "https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Wed, 28 Oct 2026 14:51:19 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_爱范儿_11",
-      "author": "爱范儿",
-      "text": "推到重来！魏牌二代蓝山改头换面，长城不想再造奶爸车了 - 打不过就换一个赛道。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "translated": "",
-      "url": "https://www.ifanr.com/1686428?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "createdAt": "Wed, 28 Oct 2026 14:30:40 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_触乐_4",
+      "id": "rss_触乐_8",
       "author": "触乐",
       "text": "在《王者荣耀》的巨浪里随波逐流 - ■ 引言 从酒店到深圳国际会展中心需要一个小时车程。我经过展云路时，已经下午3点多了。车子越过一座立交桥之后，巨大的Q版妲己气模露出了金黄色的头发，之后是整个身形，以及会展中心的18号入口，在入口另一侧，Q版亚瑟王气模举着一个生日蛋糕。 我到达场馆门口时已经是下午，但仍然有许多玩家入场 这是《王者荣耀》的第11个周年庆。周年庆的线下活动第一次包揽了玩家的白天与黑夜。从10月24日到25日的早上10点到晚上7点，玩家可以参加&ldquo;嘉年华暨奇妙日&rdquo;，25日晚上线上直播从7点开始，则是群星汇聚的&ldquo;共创之夜&rdquo;。 我此前已经参加过太多次《王者荣耀》的各类线下活动。这些年来，《王者荣耀》的每一场线下活动都可以说各有特色。与此同时，随着一场场活动的落地，如今的玩家已经对&ldquo;怎么参加一场王者线下活动&rdquo;有了一整套清晰完整的准备流程，涵盖从购票需知、周边攻略、召集搭子，到如何整理发布&ldquo;战利品&rdquo;的方方面面。当玩家从检票口汇入场馆时，我能明显感受到大家都显得比较从容&mdash;&md",
       "translated": "",
@@ -262,67 +52,7 @@
       "retweets": null
     },
     {
-      "id": "rss_量子位_5",
-      "author": "量子位",
-      "text": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告 - 让基建作为常驻buff",
-      "translated": "",
-      "url": "https://www.qbitai.com/2026/10/506194.html",
-      "createdAt": "Wed, 28 Oct 2026 11:09:10 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_量子位_6",
-      "author": "量子位",
-      "text": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告 - 让基建作为常驻buff",
-      "translated": "",
-      "url": "https://www.qbitai.com/2026/10/506098.html",
-      "createdAt": "Wed, 28 Oct 2026 10:32:39 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_量子位_7",
-      "author": "量子位",
-      "text": "威卡：用数据集链接具身智能和工程机械 - 威卡：为工程机械的智能化与少人化，提供一条被验证的路径",
-      "translated": "",
-      "url": "https://www.qbitai.com/2026/10/506063.html",
-      "createdAt": "Wed, 28 Oct 2026 09:01:27 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_量子位_8",
-      "author": "量子位",
-      "text": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板 - 精度达AlphaFold 3两倍，分子之心拿下高难度抗体设计",
-      "translated": "",
-      "url": "https://www.qbitai.com/2026/10/506055.html",
-      "createdAt": "Wed, 28 Oct 2026 08:59:00 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_量子位_9",
-      "author": "量子位",
-      "text": "0营收估值200亿美元，具身版OpenAI又融10亿美元 - 斯坦福伯克利宗师组团，贝索斯红杉抢着送钱",
-      "translated": "",
-      "url": "https://www.qbitai.com/2026/10/506042.html",
-      "createdAt": "Wed, 28 Oct 2026 08:55:26 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC中文_7",
-      "author": "BBC中文",
-      "text": "什麼時候「豪華經濟艙」值得多花錢？來比較2026年全球五強 - 全球豪經艙排名出來，台灣長榮及阿聯酋航空分佔冠亞軍。",
-      "translated": "",
-      "url": "https://www.bbc.com/zhongwen/articles/c3n04z9jp75xo/trad?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Wed, 28 Oct 2026 08:27:55 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_芥末堆_4",
+      "id": "rss_芥末堆_9",
       "author": "芥末堆",
       "text": "纯过日子，能过多久？2026中小教育创业者生存报告 - 未来可以想象，现实必须核算。",
       "translated": "",
@@ -332,52 +62,12 @@
       "retweets": null
     },
     {
-      "id": "rss_芥末堆_5",
+      "id": "rss_芥末堆_10",
       "author": "芥末堆",
       "text": "专注为机构提供OMO一站式解决方案，「天天乐学」将亮相GET2026 | 亮点前瞻 - 成立于2015年，专注为机构提供OMO一站式解决方案的「天天乐学」将亮相GET2026。",
       "translated": "",
       "url": "https://www.jiemodui.com/N/139629.html",
       "createdAt": "Wed, 28 Oct 2026 06:31:37 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC中文_5",
-      "author": "BBC中文",
-      "text": "姆巴佩就「中國獨裁者」迷因道歉 背後的資訊真空與「毛澤東熱」 - 因在節目中以「獨裁者」形容已故中國領導人毛澤東，法國足球明星基利安·姆巴佩（麥巴比）近日在中國引發爭議，多家中國大型品牌先後宣佈終止與其合作。姆巴佩發表道歉聲明也不被中國網民接納。",
-      "translated": "",
-      "url": "https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/trad?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Wed, 28 Oct 2026 05:27:37 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC中文_9",
-      "author": "BBC中文",
-      "text": "台灣地方選舉五大看點：「洋流」能否撼動台北？誰在卡位2028？ - 中共是否介入台灣選舉？ 這次選舉將如何影響賴清德與國民黨主席鄭麗文的政治能量？捲土重來、希望藉著地方議員選舉有所斬獲的小黨，此次結盟能否在主流政黨夾殺中突圍而出？",
-      "translated": "",
-      "url": "https://www.bbc.com/zhongwen/articles/cm8xzrg40dq1o/trad?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Wed, 28 Oct 2026 02:45:08 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC中文_11",
-      "author": "BBC中文",
-      "text": "Anthropic 重磅上市——目前我們知道的五件驚人信息 - Anthropic 的招股說明書長達355頁，其中包含大量從未披露過的公司資訊。",
-      "translated": "",
-      "url": "https://www.bbc.com/zhongwen/articles/c623dz784403o/trad?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Wed, 28 Oct 2026 00:47:45 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC中文_10",
-      "author": "BBC中文",
-      "text": "美國中期選舉：選舉有何影響、為何重要？七個關鍵問題解析 - 美國選民將於11月3日投票，這場選舉的結果可能對總統特朗普餘下任期產生重大影響。",
-      "translated": "",
-      "url": "https://www.bbc.com/zhongwen/articles/cmx2qg1nn1wlo/trad?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Wed, 28 Oct 2026 00:47:37 GMT",
       "likes": null,
       "retweets": null
     },
@@ -402,7 +92,7 @@
       "retweets": null
     },
     {
-      "id": "rss_触乐_5",
+      "id": "rss_触乐_9",
       "author": "触乐",
       "text": "从《影之刃零》完整版中能看到的，是审美、技术与匠心 - 在《影之刃零》正式发售之前，我对它的态度一直有些忐忑。游戏从刚亮相开始就凭借出色的战斗效果惊艳四座，之后的若干次试玩也都保持着不错的水准。此前，触乐也受邀参加了整个第一章的试玩前瞻。照理说，到了这个程度，我没有理由继续担心游戏的整体质量。 这种忐忑从根本上是源于期待。毕竟在当下，游戏可能&ldquo;翻车&rdquo;的地方实在是太多了，虎头蛇尾的例子也太多了。万一《影之刃零》也属于此呢？尤其是在呼声如此高的情况下，一旦有什么不符预期的地方，很容易受到巨大的诟病。 但在提前玩到完整版之后，这些顾虑终于消散了。《影之刃零》不仅达到了我的预期，甚至还带来了不少惊喜。 一个是整部作品&ldquo;量大管饱&rdquo;的程度。50多个招式华丽、风格迥异的Boss，面积巨大的单张地图和贯穿整个流程的漫长支线，都让整个游玩过程相当紧凑密集，几乎没有反复跑路的&ldquo;垃圾时间&rdquo;。游戏的场景设计也给了玩家很大的观察空间，全程虽然不易迷路，但也需要&ldquo;动脑子找路&rdquo;，在弱引导和防迷路之间取得了不错的平衡。 此",
       "translated": "",
@@ -412,7 +102,7 @@
       "retweets": null
     },
     {
-      "id": "rss_触乐_6",
+      "id": "rss_触乐_10",
       "author": "触乐",
       "text": "触乐怪话：在音乐中来一场时空漫游 - 触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。 舞台是所有宇宙的中心（图/小罗） &ldquo;早上好，夜之城！&rdquo;再一次被这句熟悉的问候带入夜之城时，我并没有又一次打开《赛博朋克2077》，而是来到了上周六GGG游戏节奏联欢夜的现场。《赛博朋克2077》的曲目开始演奏之前，一位坐在后排的老哥模仿我的铁哥们斯坦，大声喊出了这句经典台词。 随后，我的铁哥们斯坦越来越多，一声声&ldquo;早上好，夜之城&rdquo;此起彼伏，从各个方向传来。不过这些斯坦们似乎并没有提前排练好，杂乱的问候到了尾声，才有两个斯坦终于想起了其他经典台词的只言片语，像是&ldquo;烧成灰&rdquo;和&ldquo;三十个&rdquo;。《赛博朋克2077》的经典曲目《The Rebel Path》在这声&ldquo;三十个&rdquo;之后开始。节奏响起，我穿越到了3年前，也就是2023年，强尼&middot;银手炸毁荒坂塔的那一刻。 早上好，夜之城！ 这是我第一次观看游戏主题的音乐会，由于没见过世面，获得了一系列的震惊体验。第一份震惊体验就体现在上一句话",
       "translated": "",
@@ -422,7 +112,7 @@
       "retweets": null
     },
     {
-      "id": "rss_极客公园_5",
+      "id": "rss_极客公园_9",
       "author": "极客公园",
       "text": "\n        iPhone Duo 裂屏，是苹果新 CEO 接班后第一次「大考」\n       - 头图图片来源：iFixit2011 年 9 月 30 日，苹果递交了一份名为「Flexible electronic devices」的专利申请。它描述的是一台屏幕可以对折的设备，合起来能揣进口袋，靠传感器判断自己是开着还是合着。这份专利 2015 年 1 月获得授权，发明人一共六位，其中一位叫特努斯（John Ternus）。苹果 2011 年递交的折叠设备专利附图｜图片来源：Apple十五年后，2026 年 9 月 9 日，当年署名的这位工程师，第一次以苹果 CEO 的身份走上发布会舞台，发布的正是一台可以对折的 iPhone：iPhone Duo。巧的是，十二年前的同一天，2014 年 9 月 9 日，库克也在后台等着上台。那是他接任 CEO 三年后，第一次发布全新品类的产品 Apple Watch，同场还有大屏的 iPhone 6。据彭博商业周刊当时的报道，开场前，库克戴着耳机，用 iPhone 听 OneRepublic 的《I Lived》给自己打气。新 CEO 的第一款",
       "translated": "",
@@ -432,7 +122,7 @@
       "retweets": null
     },
     {
-      "id": "rss_极客公园_6",
+      "id": "rss_极客公园_10",
       "author": "极客公园",
       "text": "\n        看了招股书，我终于知道为什么 Anthropic 不在乎用户了\n       - 大的，终于来了。 10 月 26 日，Anthropic 向美国证监会公开递交了 S-1 招股书，准备在纳斯达克全球精选市场挂牌上市，股票代码定为 ANT。媒体报道中，这家公司的估值讨论区间已经来到了 1.5 万亿至 2 万亿美元，发行价区间尚未披露。 24 小时内，这本 300 多页的招股书已经被科技圈和金融圈翻了个底朝天，最抓眼球的几个数字大家都看过了：2026 年上半年营收 162.86 亿美元，去年同期只有 11.63 亿美元；第二季度交出 9.74 亿美元经营利润，迎来公司历史上首个经营盈利的季度；至于账面上高达 807 亿美元的净亏损，大头是 723.88 亿美元的可转债、衍生负债和 SAFE 公允价值变动，属于非现金的会计费用。 但在这些华尔街叙事之外，国内的开发者和日常使用者有着另一种割裂的体感。在中国大陆用户眼里，Claude 大概是目前市面上封号最多、风控最严苛、用起来最让人恼火的 AI 产品。 为什么一家做出顶尖大模型的公司，在面对普通个人用户时总是显得如此冷淡？ ",
       "translated": "",
@@ -442,7 +132,7 @@
       "retweets": null
     },
     {
-      "id": "rss_极客公园_7",
+      "id": "rss_极客公园_11",
       "author": "极客公园",
       "text": "\n        Manus，刚刚悄悄发布了自己的 2.0 宣言\n       - 10 月 26 日，Manus 联合创始人、产品合伙人张涛（网名 HideCloud）最近在自己的公众号「潜云思绪」写了一篇长文，标题叫《用 Manus 改造 Manus》。 文章开头是一个让他印象很深的画面。他给工程师提了几条需求和 Bug，过一会儿去看进展，发现对方电脑上开着一排 Codex 和 Manus 的 Session。随便点开一个，输入就是他刚在 Slack 上发的需求原文，一字未改。 更让他意外的是，这位工程师当时同时在处理十几、二十个需求。在今天的 Manus，这已经是常态。 这篇文章信息量很大，有几件事最值得记下来。 Manus 内部做了一个叫 Manus-mono 的统一代码入口，配上一本写给 AI 看的说明书，让 AI 能看到跨仓库的全局。一个需求，一个人就能写完所有端。移动端团队一直只有 7 个人，同时负责 2 个产品、4 个 App，进度和网页版基本同步。 所有产品经理都向 Manus 提交过代码，大约一半能独立把需求做到上线。有的产品经理交出来的需求，已经从文档变成了一段视",
       "translated": "",
@@ -452,37 +142,7 @@
       "retweets": null
     },
     {
-      "id": "rss_极客公园_8",
-      "author": "极客公园",
-      "text": "\n        启元机器人第 5000 台下线，从规模化量产迈向商业化验证\n       - 10 月 25 日，启元机器人第 5000 台个人机器人正式下线。从 9 月 20 日发售启元 Q1、T1 两款个人机器人，到一个月后完成 5000 台下线，启元在产能爬坡、制造体系与供应链协同上取得阶段性进展。 对仍处产业化早期的个人机器人行业而言，5000 台的意义不止于产量增长，更在于企业将研发阶段的技术能力转化为可复制的制造能力，并进一步连接产品交付、用户使用与软件迭代&mdash;&mdash;这是个人机器人从技术探索走向消费市场的关键环节，也是检验商业化能力的重要维度。 随着人工智能从数字世界走向物理世界，机器人产业的竞争正从技术展示延伸至工程化、产品化和商业化能力，启元此次量产实践提供了一个观察个人机器人产业化进程的具体样本。 01 一个月从 0 到 5000 台， 量产制造体系成形 「自产线启动以来，从 0 台到 5000 台稳定量产下线，仅用时 1 个月。 」启元机器人联席总裁、中央研发部总裁高全中表示，启元机器人的产线目前每 2.5 分钟下线一台机器人，日产能从 10 余",
-      "translated": "",
-      "url": "http://www.geekpark.net/news/373003",
-      "createdAt": "Tue, 27 Oct 2026 16:46:19 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_极客公园_9",
-      "author": "极客公园",
-      "text": "\n        帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状\n       - Shopify AI 交易订单增长了 13 倍。 10 月 16 日清晨，苹果第一款折叠屏手机 iPhone Duo 开启预购。1999 美元起售，首批产能紧张，没过多久交付日期就排到了明年 1 月。 这一次抢首发的，不只是守在屏幕前的人。 今年 Agent 成为 iPhone Duo 黄牛最严厉的父亲｜图片来源：Apple 在 MacRumors 论坛上，一位没抢到的用户愤愤不平地吐槽，Reddit 上有人在炫耀自己设置的 Muse 机器人一口气拿下了好几台，真人还没来得及点，库存就被 AI 扫走了。 Muse 是 Meta 在 9 月 8 日推出的个人 Agent，上线后一度登顶美区 App Store 免费榜，下载量很快超过 250 万。Meta 方面表示，购物已经成为 Muse 最主要的使用场景之一。就在 iPhone Duo 开售前后，Muse 还专门发了新版本适配这台新机，更新说明里紧跟着的一句，是让聊天里的购物变得更方便。 AI 替人购物，已经从发布会上的演示",
-      "translated": "",
-      "url": "http://www.geekpark.net/news/373002",
-      "createdAt": "Tue, 27 Oct 2026 16:42:40 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_极客公园_10",
-      "author": "极客公园",
-      "text": "\n        左手开源模型，右手创作 Agent，Hi3D 的 AI 3D 下半场\n       - 作者｜Cynthia 编辑｜郑玄 2026 年的 AI 3D 赛道，正站在一个微妙的分水岭上。 一级市场的热度仍在攀升，新模型、新创业公司层出不穷，单图生 3D 的正面渲染效果几乎已经做到了以假乱真。 但剥开炫目的 Demo 外壳：绝大多数生成结果依然停留在「转台展示」阶段：一个精致的角色或机械模型，在灯光下缓缓旋转，鳞片、衣褶和金属刻纹栩栩如生；可这些细节一旦进入游戏引擎装配、工业仿真以及 3D 打印的真实生产流程就立刻原形毕现：结构断裂、背面崩坏、细节粘连、网格不可编辑等问题开始集中爆发，大量人工修补成本吞噬了 AI 带来的效率红利。 正面视图保真度不等于 3D 质量成为新的行业共识。AI 3D 的竞赛，也从 能不能生成」的上半场，进入了能不能落地的下半场。 也正是在这个节点上，头部玩家 Hi3D 接连落下两枚棋子：正式开源经过生产验证的 Hi3D V1.0 底座，同时推出以创作者为核心的 Hi3D Agent，一头连接产业底层，一头深度扎根进入真实的创作全流程。 在此之前，这",
-      "translated": "",
-      "url": "http://www.geekpark.net/news/372939",
-      "createdAt": "Tue, 27 Oct 2026 15:59:20 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_触乐_7",
+      "id": "rss_触乐_11",
       "author": "触乐",
       "text": "最会守塔的玩家，遇到了最懂他们的《王者荣耀》 - ■ 一座塔的故事 应县是座老城，也是座小城。如果你从山西大同出发，驱车85公里来到这里，大概率远远就能望见那座矗立在佛宫寺内、高达67.31米的木塔，也可能你本就是为此而来。它的正式名称是佛宫寺释迦塔，大家更习惯叫它应县木塔。 应县木塔距今有九百多年历史，是辽代高层木构，很多营造做法独一无二，可供对比的参照样本很少。比如&ldquo;明五暗四&rdquo;，这是说塔从外面看有五层，实际上还有四层做结构加强的暗层；再比如斗拱铺作，应县木塔的斗拱组合非常丰富，每种斗拱都承担不同的受力任务，可考究的细节很多；除此之外，整座塔还采用了叉柱造、套筒式的双层结构，和常见的明清古建相当不同。 应县木塔的结构和铺作都相当复杂，与之对应的是视觉效果非常震撼 这些知识都不太为大众所熟悉。一般来说，你对这座塔最深的印象应该停留在它的名声或外形：有&ldquo;天下奇观&rdquo;之称，塔身高大，屋檐层层舒展，有一种浑厚的美感。 但在最近，情况似乎发生了一点变化。首先是人流，来应县的人变多了，尤其是年轻人在塔下络绎不绝。然后是与木塔相关的讨论，这些讨论总会或",
       "translated": "",
@@ -492,12 +152,352 @@
       "retweets": null
     },
     {
-      "id": "rss_极客公园_11",
-      "author": "极客公园",
-      "text": "\n        苹果回应 iPhone 折叠屏问题：可申请换机；传腾讯绿泡泡短剧月活过亿；；Anthropic或下月上市｜极客早知道\n       - Anthropic 公开递交纳斯达克 IPO 申请：目标 11 月 16 日当周上市 Anthropic 正式踏上上市之路。这家成立仅五年、身处生成式 AI 浪潮核心的企业，本次 IPO 有望创下历史纪录。 Anthropic 在提交给美国证券交易委员会（SEC）的文件中披露，计划登陆纳斯达克交易所，股票代码定为「ANT」，目标在 11 月 16 日当周进行 IPO。该公司将设立 T 类特殊股票，供 T 类董事持有。 在招股书中，该公司披露，上半年营收 162.9 亿美元，上年同期为 11.6 亿美元；净亏损 807.5 亿美元，上年同期为 129.7 亿美元；营业亏损 6.93 亿美元，上年同期为 21.4 亿美元。 截至 9 月 30 日的九个月内，该公司没有任何单一客户占公司营收的 10%以上。79%的收入来自前五大客户以外的客户。合作方面，根据与 SpaceX AI 的协议，该公司同意在截至 2029 年的期限内累计支出高达 ",
+      "id": "rss_芥末堆_11",
+      "author": "芥末堆",
+      "text": "深耕教育科技领域二十余年，「一高科技」将亮相GET2026 | 亮点前瞻 - 深耕教育科技领域二十余年的「一高科技」将亮相GET2026。",
       "translated": "",
-      "url": "http://www.geekpark.net/news/372952",
-      "createdAt": "Tue, 27 Oct 2026 08:26:51 +0800",
+      "url": "https://www.jiemodui.com/N/139628.html",
+      "createdAt": "Tue, 27 Oct 2026 02:54:07 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_8",
+      "author": "NASA",
+      "text": "Slice of Martian Meteorite Teghaza 001 - Description This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map, helping them find minerals of interest to analyze by different instruments. Figure A is the same image with […]",
+      "translated": "",
+      "url": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/",
+      "createdAt": "Thu, 29 Oct 2026 23:32:35 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_9",
+      "author": "NASA",
+      "text": "Halloween Aboard the International Space Station  - Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative costumes, often designed from materials available aboard the [&#8230;]",
+      "translated": "",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
+      "createdAt": "Thu, 29 Oct 2026 21:44:23 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_10",
+      "author": "BBC中文",
+      "text": "巴西前總統博索納羅之子敗給盧拉後，為何飛往美國？ - 這位參議員離開巴西後，被拍到在美國走下飛機。他在巴西因涉嫌洗錢而接受調查。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/cx5ynjr6q6gzo/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Thu, 29 Oct 2026 16:19:30 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_4",
+      "author": "极客公园",
+      "text": "\n        大众把三年在中国攒的家底，打包成了一颗「星」\n       - &nbsp; 头图来源：极客公园 10 月 28 日，合肥，大众汽车集团（中国）办了自己的第一次技术日。 这场发布会的主角叫「VEGA」，名字取自织女星，是大众在中国本土自研的一体化技术矩阵。它把整车平台、电子电气架构和高级驾驶辅助系统三大核心技术打包成了一套体系。 按大众的说法，它由此成为中国市场唯一一家拥有本土开发自研技术矩阵的外资车企。 大众汽车集团（中国）董事长兼 CEO 贝瑞德在台上说，短短三年，大众在中国打造出了一套一体化的技术矩阵，在国际汽车制造商之中，能做到这一点的应该屈指可数。 这句话的背后，是大众这几年在面对激烈的「中式竞争」后，第一次重新找到了方向的自信。 「在中国造」到「在中国研」 把时间往回拨四年。 2022 年，大众把在华战略从「在欧洲，为中国」改成了「在中国，为中国」。贝瑞德的解释是，大众要从过去在中国生产制造，走向在中国自主创新。 2023 年，大众在德国以外规模最大的研发中心 VCTC 在合肥成立。如今这里有 3000 多名员工，中国团队从执行方变成了主导方，本土工程师拿",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/373086",
+      "createdAt": "Thu, 29 Oct 2026 15:09:14 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_8",
+      "author": "BBC中文",
+      "text": "香港宏福苑大火報告公開：特首率官員鞠躬道歉，房屋局長請辭 - 這場造成168人死亡的大火發生將近一年後，香港特首李家超首次率領官員鞠躬道歉。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/c95ynv03lmk8o/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Thu, 29 Oct 2026 14:47:36 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_触乐_4",
+      "author": "触乐",
+      "text": "从《黑神话：悟空》到《影之刃零》，一份名单里的江湖 - 去年12月，《影之刃零》制作人梁其伟在参加完TGA后，发文分享了自己的现场见闻。其中有一张照片，是他和《光与影：33号远征队》制作人Guillaume Broche的合影。 当时，《影之刃零》正处于开发收官的关键时期。梁其伟借这个机会，向Guillaume交流了开发经验。后来在接受媒体采访时，他提到，《33号远征队》团队给出的建议中，有一条尤其关键：&ldquo;最后九个月的时间，最重要的事情是删东西。从游戏里砍掉一些内容，然后把剩下的部分打磨好。&rdquo; 这不是梁其伟第一次提《33号远征队》。在2025年8月的一次采访中，梁其伟解释《影之刃零》对于类魂游戏的借鉴时，举例说：&ldquo;《33号远征队》也从魂游中提炼了部分元素，将它们与JRPG相结合，为玩家带来了新鲜体验，这与我们正在做的事情非常相似。&rdquo; 也是那个月，Guillaume在参加ChinaJoy期间参观了灵游坊在上海的动捕棚，并试玩新Demo。根据灵游坊官方在小红书的分享，两边团队&ldquo;花了整整一下午，真挚地交换了很多创作的灵感&rdquo",
+      "translated": "",
+      "url": "http://www.chuapp.com/article/291723.html",
+      "createdAt": "Thu, 29 Oct 2026 14:43:25 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_6",
+      "author": "BBC中文",
+      "text": "中共五中全會閉幕：出席委員較本屆初減少四分之一 張升民罕見增選入政治局 - 專家稱，更好的激勵與監督可能減少浪費、提高政策可預期性，但更嚴厲的紀律約束也可能加深幹部不敢作為的局面，拖延支出和投資。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/cmr4y17q4vxxo/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Thu, 29 Oct 2026 13:01:39 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_5",
+      "author": "芥末堆",
+      "text": "教师智能体接入WorkBuddy，一起教育科技与腾讯云共筑教育智能应用生态 - 双方将在WorkBuddy生态应用与云服务两大领域展开深度合作，共同构建 “生态应用+云服务”双轮驱动模式。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139634.html",
+      "createdAt": "Thu, 29 Oct 2026 11:42:15 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_6",
+      "author": "芥末堆",
+      "text": "好未来2027财年Q2净收入9.95亿美元，同比增长15.5% - 毛利5.95亿美元，同比增长21.1%。毛利率59.8%，去年同期为57%。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139633.html",
+      "createdAt": "Thu, 29 Oct 2026 10:12:51 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_触乐_5",
+      "author": "触乐",
+      "text": "等待《影之刃零》上线前的最后一小时，可以看看这些 - 今天上午10点，由国内游戏开发商灵游坊（S-Game）开发并发行的国产3A武侠动作游戏《影之刃零》正式上线。 在游戏正式发售前，梁其伟在昨天发布了一篇文章，回顾了《影之刃零》的开发历程。文章中提到，《影之刃零》是把许多玩家熟悉的玩法重新创作了一遍，并将它们组合成了一个新的整体。在过去几年中，开发团队深度思考了整个ARPG及动作游戏的许多&ldquo;祖宗之法&rdquo;，研究究竟什么是玩家最想要的元素，以及如何将这些元素组合起来达，让所有喜爱武侠文化，喜欢动作表现的玩家都乐在其中。 梁其伟和他的灵游坊是触乐的老朋友了，从《雨血：影之刃》开始，触乐陆续报道灵游坊和梁其伟已经有10年以上。2016年4月和2021年9月，我们分别写过《梁其伟的选择》和《梁其伟的选择II》，在文章中，我们记录了梁其伟在不同时间段面对过的不同选择，和他在行业内的成长脉络。2023年5月24日，我们提前看到了《影之刃零》即将在索尼发布会公开的宣传片，之后的几年里，我们的报道开始围绕着《影之刃零》展开。 在《影之刃零》正式发售前的最后一小时，触乐在此推荐几篇和",
+      "translated": "",
+      "url": "http://www.chuapp.com/article/291722.html",
+      "createdAt": "Thu, 29 Oct 2026 09:00:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_5",
+      "author": "极客公园",
+      "text": "\n        苹果发触屏笔记本，最高 11 万元；DeepSeek V5 模型代码现身；宇树首发财报，净利增 270%\n       - 苹果发布首款触屏 MacBook Pro，顶配超 11 万元 北京时间 10 月 29 日，苹果发布全新 MacBook Pro，首次为 Mac 引入屏幕触控和灵动岛，并采用双层串联 OLED 技术的 PROLED XDR 显示屏。 新机提供 14 英寸和 16 英寸两种版本，搭载 M5 Pro 或 M5 Max 芯片。根据苹果中国区发布信息，新机将于 10 月 30 日开启预购，11 月 6 日正式发售，起售价 22999 元。 在交互方面，用户可直接触摸屏幕滚动网页、缩放照片、拖放幻灯片，以及操作 3D 模型或演奏虚拟乐器。苹果表示，触控传感器直接内嵌于显示面板，macOS 可将触控输入转换为点按，让许多现有应用直接支持触控。新机还调整了铰链设计，以提升触屏操作时的稳定性。 新机最高可选 128GB 统一内存和 16TB 存储，苹果标称电池续航最长可达 24 小时，支持约 30 分钟充至最高 50%电量。搭载 M5 Max 处理器、128G ",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/373085",
+      "createdAt": "Thu, 29 Oct 2026 08:05:58 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_7",
+      "author": "芥末堆",
+      "text": "华图山鼎2026年前三季度营收21.71亿元，将持续聚焦长周期笔试班产品 - 华图山鼎持续聚焦发力直通车、书院培优等产品。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139632.html",
+      "createdAt": "Thu, 29 Oct 2026 07:51:02 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_8",
+      "author": "芥末堆",
+      "text": "新东方2027财年Q1营收18.75亿美元，计划开设更多线下学习中心 - 2027财年第一季度，新东方实现净营收18.75亿美元，同比增长23.1%。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139631.html",
+      "createdAt": "Thu, 29 Oct 2026 05:09:58 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_6",
+      "author": "极客公园",
+      "text": "\n        「推翻」乔布斯的触屏 MacBook 来了，22999 元起\n       - 搭载 PROLED XDR 显示屏的 MacBook Pro｜图片来源：Apple 2010 年 10 月 20 日，乔布斯在苹果「Back to the Mac」发布会上，给触屏笔记本下过一个结论：「我们做过大量用户测试，结果证明这行不通。触控表面不该竖着放。演示效果很好，但用一会儿你就会累，用久了，胳膊都要掉下来。这行不通，人体工学上糟透了。」 16 年后的今天凌晨，苹果发布了第一台带触屏的 Mac：搭载 PROLED XDR 显示屏的 MacBook Pro，14 英寸和 16 英寸两个尺寸，芯片是 M5 Pro 和 M5 Max。国行 14 英寸 22999 元起，16 英寸 27999 元起，10 月 30 日上午 9 点开始预购，比美国晚一天多，11 月 6 日发售。 14 英寸和 16 英寸两个尺寸，刘海换成了灵动岛｜图片来源：Apple 芯片还是今年 3 月发布的那一代。原来那款 mini-LED 屏的 MacBook Pro 没有下架，两条产品线并排卖，起步配置一模一样：",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/373084",
+      "createdAt": "Thu, 29 Oct 2026 02:27:03 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_11",
+      "author": "BBC中文",
+      "text": "印中關係緩和之際：印邊境官員稱中國軍隊大批集結並搭帳篷 - 印中關係原本正處於謹慎的復甦階段，直到一位邊境官員的言論引發了人們對實際情況的新疑慮。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/cwkg5e249vmko/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Thu, 29 Oct 2026 00:23:07 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_8",
+      "author": "WSJ",
+      "text": "Canada to Review Amazon Contracts After Quebec Layoffs - Canada has warned Amazon.com that it is reviewing business ties with the company’s cloud-computing unit following Amazon’s decision to shut down its warehouses in Quebec, leading to the layoff of 1,700 workers.",
+      "translated": "",
+      "url": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology",
+      "createdAt": "Thu, 23 Jan 2025 19:59:00 -0500",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_9",
+      "author": "WSJ",
+      "text": "Tech, Media & Telecom Roundup: Market Talk - Find insight on Electronic Arts, consumer spending on videogames, Meta and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "translated": "",
+      "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-28593f8d?mod=rss_Technology",
+      "createdAt": "Thu, 23 Jan 2025 16:57:00 -0500",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_4",
+      "author": "WSJ",
+      "text": "Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out - Apps can add flexibility and freshness to your routine. Just try not to get injured.",
+      "translated": "",
+      "url": "https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology",
+      "createdAt": "Sun, 26 Jan 2025 09:00:00 -0500",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_Solidot_0",
+      "author": "Solidot",
+      "text": "思科给予一名 27 岁工程师无限 tokens 去重写陈旧代码 - 思科总裁兼首席产品官 Jeetu Patel 在接受《财富》杂志采访时称，该公司给予一名 27 岁工程师无限 tokens 去重写遗留代码（legacy code）。27 岁的 Padmanabhan Krishnamurthy 在 2023 年联合创办了实时翻译初创公司 EzDubs，2025 年该公司被思科收购，他随后加入了思科。两人曾在旧金山办公室有过谈话，Krishnamurthy 许诺只需一个两人团队就能重写思科的遗留代码。他给自己争取了四周时间来证明这一想法，最终目标是在 24 个月内重构思科 98% 的遗留代码。",
+      "translated": "",
+      "url": "https://www.solidot.org/story?sid=85764",
+      "createdAt": "Sat, 31 Oct 2026 20:59:41 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_Solidot_1",
+      "author": "Solidot",
+      "text": "Sam Altman 认为 PC 内存闲置太糟糕 - OpenAI CEO Sam Altman 接受 YouTube 主播 Cheeky Pint 采访时谈到了 AI 行业目前所面临的全球算力供应问题。当话题不可避免转向内存时，Altman 指出，市场看不见的手失灵了，原因可能是并非每一块 DRAM 晶圆都直接流向数据中心，用于运行 AI 模型。他表示：“从全球资源配置角度看，让全球有限的 DRAM 供应分散在每个人的 PC 里且利用率可能仅有 5% 左右，这是非常糟糕的。在当前这种供应极度受限的环境下，我们理应追求云端算力的最大化利用。然而许多人的直觉却恰恰相反。”AI 芯片使用的内存主要是 HBM，和 PC 使用的 DDR4 或 DDR5 并不相同。内存短缺的主要问题是内存厂商将产能转移到了利润更高的 HBM 上。",
+      "translated": "",
+      "url": "https://www.solidot.org/story?sid=85763",
+      "createdAt": "Sat, 31 Oct 2026 20:46:18 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_Solidot_2",
+      "author": "Solidot",
+      "text": "中国首次载人登月计划由三人组成其中两人将着陆月球表面 - 第七届载人航天学术大会星期六（10月31日）在北京航空航天大学举行。中国载人航天工程副总设计师兼月球探测工程总设计师王翔在会上介绍了中国首次载人月球探测任务乘组计划。中国计划在 2030 年前实现中国人登陆月球，首次载人月球探测计划采用环月轨道对接飞行模式，通过“两次发射，一次登月”的方式实现载人登月。这种模式将采用两枚长征十号运载火箭，先将着陆器送往月球轨道，然后再发射载人飞船与着陆器实现交会对接，航天员进入着陆器并与载人飞船分离着陆月面，开展有关科学探测活动。完成任务后，航天员乘坐着陆器从月面上升，在月球轨道上与载人飞船实现二次交会对接，航天员乘坐载人飞船返回地球。王翔还透露，中国首次载人月球探测任务乘组计划由三人组成，其中两人着陆月球表面。",
+      "translated": "",
+      "url": "https://www.solidot.org/story?sid=85762",
+      "createdAt": "Sat, 31 Oct 2026 20:24:31 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_机核_0",
+      "author": "机核",
+      "text": "万智牌中文回归迈出第一步：大型赛事于北京开赛 - 10月31日，全球知名集换式卡牌游戏《万智牌》（Magic: The Gathering）的大型公开赛事——聚光灯系列赛于北京首都国际会展中心正式开赛。来自中国及海外869位万智牌牌手齐聚北京，在为期三天的活动中参与竞技赛事、指挥官对战及新手教学等多种形式的万智牌活动。 中文语言初步回归活动开幕式上，万智牌高级市场营销总监Magnien-Ledesma, Cathy和威世智全球销售副总裁Smith, MK共同宣布：从2027年开始，中文将重新回到万智牌的牌桌上——明年初，最新的新手套牌（Welcome Deck）将推出中文版本。 这是自2024年万智牌宣布停止推出中文语言产品后，官方首次公布中文语言重新进入中国市场的具体产品计划。Cathy在致辞中特别强调，中文新手套牌的推出“只是一个开始”。新手套牌是帮助新牌手认识和学习万智牌的入门产品，一般会在线下牌店中免费发放给新牌手。Cathy表示，中文新手套牌的推出，能让第一次接触万智牌的人通过自己最熟悉的语言认识万智牌、理解游戏规则，更容易加入本地牌手社群。中国万智牌社区持续活跃Cathy在",
+      "translated": "",
+      "url": "https://www.gcores.com/articles/221748",
+      "createdAt": "Sat, 31 Oct 2026 20:18:18 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_Solidot_3",
+      "author": "Solidot",
+      "text": "黑客仅用 20 分钟就从币安盗取了 63 亿美元加密货币 - 在一场被称为史上规模最大的加密货币窃案中，黑客仅用 20 分钟就从币安盗取了价值 63 亿美元的加密货币。币安随后暂停了提款和提现。约一半的被盗资金——全部是稳定币，稳定币发行方能通过智能合约冻结交易——被成功冻结，但另外一半是无法被冻结的比特币、以太币和 XRP，可能难以追回了，币安的损失可能超过 30 亿美元。加密货币追踪公司 TRM Labs 的分析显示，币安在以太坊、比特币、波场和 Solana 等 10 个区块链上的钱包全部被清空，资金转移到了攻击者控制了多个钱包。攻击者的准备工作至少在窃案发生前 36 小时就开始了。攻击者在实施入侵前在多个钱包上测试了攻击代码。测试后四个小时将攻击代码植入到币安的一个热钱包。攻击者被认为是 TraderTraitor——该组织此前曾从 Bybit 交易所窃取了价值 15 亿美元的加密货币。币安称攻击者可能是从一名工程师的笔记本电脑开始的。",
+      "translated": "",
+      "url": "https://www.solidot.org/story?sid=85761",
+      "createdAt": "Sat, 31 Oct 2026 20:12:01 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_机核_1",
+      "author": "机核",
+      "text": "2026北京核聚变简短复盘【那我问你 26年10月号】 - 【那我问你】是一档GPASS会员独享节目，从2025年2月开始，每月更新一期。如果您有想问某位编辑的问题，欢迎在留言区写出想指名提问谁+想问的问题。每期由编辑部选出最有意思的问题，录成节目分享！",
+      "translated": "",
+      "url": "https://www.gcores.com/radios/221747",
+      "createdAt": "Sat, 31 Oct 2026 20:00:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_Solidot_4",
+      "author": "Solidot",
+      "text": "Kogui 族人谈 AI - 生活在南美哥伦比亚圣玛尔塔内华达山脉的原居民 Kogui 族人信仰 Aluna——即万物之母 Gaulčováng。Kogui 族人认为地球是有生命的，人类是地球之子。他们认为，人类为获取资源而进行的开采、破坏和掠夺行为正在削弱万物之母的力量，这最终会导致人类的毁灭。对于最近几年生成式 AI 的发展，Kogui 族人也有类似的观点。他们认为：AI 无法与其背后的思想分离。如果这种思想源于对生命的关切，那么这项技术便有助于保护生命。 如果它源于野心、竞争、积累，或是支配的欲望，那么它所展现并放大的也将是这些东西。AI 就是一面镜子。如果一面镜子仅仅是反射，那么它是无害的。但 AI 这面镜子有潜力将它所反射出的一切无限放大...除了人类的价值观，AI 还能拥有什么价值观？人类就是它唯一的参照样本。它变成什么必然源于人类。一切皆是人类所为，一切责任也由人类承担...自然本身存在着一种秩序。这种秩序在人类到来之前便已存在。水有其流经的路径。山峦有其各自的高度。种子各有其时节，动物各有其功用，人类亦然。那些构建技术的人是否理解这种秩序？还是说，他们仅仅利用了其中可供",
+      "translated": "",
+      "url": "https://www.solidot.org/story?sid=85760",
+      "createdAt": "Sat, 31 Oct 2026 18:59:58 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_雷锋网_0",
+      "author": "雷锋网",
+      "text": "从“懂回答”到“能执行”：Zoho如何让AI走进企业业务 - 10月20日，在以“助力中国企业全球化成长”为主题的Zoho北京媒体沟通会上， Zoho不仅向外界展示了其最新的企业级AI全景战略，更试图回答一个当前行业的普遍痛点：当AI大模型喧嚣了两年之后，为什么大多数企业在业务中依然觉得AI“用不起来”？Zoho全球副总裁Mathivanan一针见血地点出了症结所在：“太短的决策周期，太多的备选工具，从一开始就造成了太多的数据孤岛。”当企业盲目堆叠各种带有AI标签的软件，不仅没有打破原有的信息孤岛，反而催生了“AI孤岛”。Zoho中国COO夏海峰在随后的主题演讲中直言不讳：“如果AI只能回答问题、提供信息，却无法参与实际业务流程，它对商业的价值就微乎其微。”这也揭示了企业AI应用面临的一道关键门槛：能够回答问题，不等于能够完成任务。AI要真正参与业务，不仅需要理解用户的需求，还需要获取相关数据、调用业务系统，并在权限和流程约束下完成具体操作。为了跨过这道从“懂回答”到“能执行”的鸿沟，Zoho在此次会上系统展露了其沉淀多年的AI全景三层架构：底层给数据，中间层做连接，上层管执行。跨越分",
+      "translated": "",
+      "url": "https://www.leiphone.com/category/industrynews/00recUTGoMQ1JRh4.html",
+      "createdAt": "Sat, 31 Oct 2026 17:55:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_触乐_0",
+      "author": "触乐",
+      "text": "触乐本周行业大事：10月195款游戏版号下发，《白银之城》定档，《影之刃零》正式发售，《战舰少女R》核心主创离世 - ■ 10月195款游戏版号下发，散爆少前新作过审，腾讯网易乐元素均在列 10月29日，国家新闻出版署公布2026年10月国产网络游戏审批信息，同步更新进口网络游戏审批信息及审批变更信息。本月共195款游戏过审，其中国产网络游戏183款、进口网络游戏12款；另有10条游戏审批变更信息同步披露。 从数量上来说，本月相较9月的209款（国产206款、进口3款）减少14款，进口版号数量明显回升。从申报类别看，本月移动类125款、移动-休闲益智类48款、移动与客户端双端产品16款、客户端产品4款，另有移动与网页双端产品1款、游戏机（悦动元气机）游戏1款。移动端产品仍占绝对主体，双端与客户端产品合计20款，占比约一成。 截至10月，2026年累计下发游戏版号1766个，其中国产1708个、进口58个。 国产版号名单中，多家头部厂商在列：腾讯《不可卷卷书店》、网易雷火《桃花》、完美世界《诛仙：归来》、三七互娱《斗罗大陆：第十魂环》与《闲田悠悠》、恺英网络《武林外传之七侠重游》、波克科",
+      "translated": "",
+      "url": "http://www.chuapp.com/article/291726.html",
+      "createdAt": "Sat, 31 Oct 2026 16:13:48 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_IT之家_0",
+      "author": "IT之家",
+      "text": "NOTHING Headphone (1) Pro 头戴式耳机开售：三单元主动降噪，到手价 2999 元 - IT之家 10 月 31 日消息，NOTHING Headphone (1) Pro 头戴式耳机在京东正式开售，到手价为 2999 元。京东 NOTHING headphone (1) pro 白色礼盒 2999 元直达链接Headphone (1) Pro 采用全新三驱动单元架构，单侧由 40 mm、13 mm、3.2 mm 三个发声单元组成，覆盖全频段声学表现，为录音棚级聆听体验提供硬件基础。降噪配置方面，该耳机搭载 10 麦克风阵列，支持主动降噪功能，同时配备专业级 EQ、动态空间音频模式以及自定义均衡器，兼顾不同使用场景的听感需求。同时，该耳机包含 1 个 40mm 低频动圈单元、1 个细节增强单元和 1 个 xMEMS 高音单元，支持动态空间音频技术，可打造沉浸式声场。具备 Hi-Res 小金标认证，支持 LDAC 编解码器。Headphone (1) Pro 的无线与有线聆听均通过 Hi-Res Audio 金标认证，支持 LDAC 高解析音频编码，与伦敦大都会录音",
+      "translated": "",
+      "url": "https://www.ithome.com/1/020/623.htm",
+      "createdAt": "Sat, 31 Oct 2026 14:14:23 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_IT之家_1",
+      "author": "IT之家",
+      "text": "颂拓 RACE 2 智能运动手表 2909 元国补直降：升级 1.5 英寸屏、4PD 心率模组 - 【京东活动可能随时变更，需以实付款为准】颂拓 RACE 2 智能手表 2025 年 8 月开售，精钢版定价为 3999 元。京东 11.11 大促期间，按下方步骤下单，叠加 500 元国补后仅需 2909.12 元：领 8.8 折券：点此查看领 800-80 元 PLUS 专享券（需 2 积分 10 点、20 点抢）：点此查看。京东颂拓 RACE 2 智能手表精钢版国补后 2909.12 元领 300 元券京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花：点此抽取。据介绍，RACE 2 智能手表相对于初代主要将手表屏幕从 1.43 英寸调整为 1.5 英寸（466x466 分辨率，2000 尼特峰值亮度）。厚度由 13.3mm 减为 12.5mm，其中精钢版（含表带）重量为 75 克，钛合金版（含表带）重量为 65 克。该表配备 4PD 心率模组，同时提供血氧、加速度、陀螺仪、指南针、气压计、温度计传感器，支持百米防水。手表内置 115 种运动模式，在持久模",
+      "translated": "",
+      "url": "https://www.ithome.com/1/020/622.htm",
+      "createdAt": "Sat, 31 Oct 2026 14:13:09 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_IT之家_2",
+      "author": "IT之家",
+      "text": "国补后 890 → 664 元：怒喵 Infinity.100 电竞鼠标直降，1.2 秒热插拔磁吸换电、含电池重 49g - 【京东活动可能随时变更，需以实付款为准】怒喵 Infinity.100 电竞鼠标开售于 2025 年 3 月，该鼠标采用镁铝合金镂空骨架设计，支持热插拔磁吸电池更换，无线模式（IT之家注：即含电池）的质量为 49g，官方定价 890 元。京东 11.11 大促期间，按下方步骤下单，叠加国补后仅需 664.25 元：点击下方卡片，可领 85 元优惠券。京东怒喵 Infinity.100 电竞鼠标 PAW3950 三模国补后 664.25 元领 85 元券京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花：点此抽取。Infinity Mouse 属于右手专用非对称鼠标，其外部结构采用了“外观与结构一体化”的设计理念，在降低自重的同时保障了刚性与质感；而在内部，该鼠标采用原相 PAW3950DM 光学传感器和 TTC 橙点光微动 V2，微动寿命达一亿次按键。该鼠标支持三模连接，有线和 2.4GHz 无线回报率均达 8KHz；其内置 340m",
+      "translated": "",
+      "url": "https://www.ithome.com/1/020/621.htm",
+      "createdAt": "Sat, 31 Oct 2026 14:04:58 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_SCMP_0",
+      "author": "SCMP",
+      "text": "China narrows the path to elite official training scheme for citizens graduating overseas - China is further narrowing access to a key government recruitment programme for overseas-educated graduates, limiting their pathways into the country’s civil service and party-state system. More than a dozen provincial-level regions, including Beijing and Shanghai, opened applications for the 2027 xuandiaosheng recruitment rounds in September and October. Xuandiaosheng, or the “selected graduates” system,",
+      "translated": "",
+      "url": "https://www.scmp.com/news/china/politics/article/3372827/china-narrows-path-elite-official-training-scheme-citizens-graduating-overseas",
+      "createdAt": "Sat, 31 Oct 2026 14:00:09 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_0",
+      "author": "TechCrunch",
+      "text": "I took two iPhones on vacation. The Duo won me over. - The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+      "translated": "",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "createdAt": "Sat, 31 Oct 2026 14:00:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_0",
+      "author": "爱范儿",
+      "text": "DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活 - AI Agent 的下一个瓶颈，可能是人类自己#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "translated": "",
+      "url": "https://www.ifanr.com/1687026?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Sat, 31 Oct 2026 13:59:57 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_IT之家_3",
+      "author": "IT之家",
+      "text": "连屏幕都是透明的，号称全球首款全透明掌机的 Arduview 成功达成众筹目标 - IT之家 10 月 31 日消息，据外媒 VGC 今天（31 日）晚间报道，号称全球首款全透明游戏机的 Arduview 在 Kickstarter 上已经成功达成众筹目标。这款掌机只有信用卡大小，采用 Arduino 开源项目作为软硬件基础。过去，不少游戏机和掌机都推出过透明外壳版本，但 Arduview 与众不同的地方在于，连屏幕都是透明的。关机时，屏幕看起来就像一块普通玻璃。开机后，屏幕上发光的像素会呈现青色，即使在黑暗环境中也能正常游玩，而没有显示内容的区域依然保持透明。因此即使从机身背面观察，也能透过屏幕直接看到游戏画面，而这这正是 Arduview 所主打的全透明设计。该机整机重量仅约 50 克，不仅采用透明外壳，还将电路板和 OLED 屏幕设计为透明材质，用户可以直接看到机身内部的各个组件。Arduview 由马萨诸塞州巴布森学院学生 Louis Huang 设计。其认为：“设备内部才是最有趣的部分，人们理应能够看到里面。”该产品采用开源 Arduboy 平台开发，目的是让用户能够自行拆开",
+      "translated": "",
+      "url": "https://www.ithome.com/1/020/620.htm",
+      "createdAt": "Sat, 31 Oct 2026 13:58:52 GMT",
       "likes": null,
       "retweets": null
     }
