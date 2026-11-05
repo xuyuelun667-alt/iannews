@@ -1,36 +1,6 @@
 {
-  "fetchedAt": "2026-11-03T16:02:49Z",
+  "fetchedAt": "2026-11-05T16:21:58Z",
   "articles": [
-    {
-      "id": "rss_触乐_10",
-      "author": "触乐",
-      "text": "对话《逆水寒》制作人：我们仍然非常相信MMO的未来 - 近期，游戏市场研究机构Naavik发布了一份关于移动端MMORPG（大型多人在线角色扮演游戏）的研究报告。报告中提到，全球移动端MMORPG的内购收入减少25亿美元。这则报告让&ldquo;MMORPG是否依然像过去一样占据主流&rdquo;的讨论又重新热门起来。 很多人觉得MMORPG已经是个过时的品类了。但事实上，MMORPG本身的形态也在发生变化，当我们今天谈起MMORPG的时候，我们所说的实际上是一个横跨了数十年，游戏核心玩法、表现力和核心设计理念几经改进甚至革命的游戏品类。比如，实际上《逆水寒：新世界》《魔兽世界》《梦幻西游》等，都是MMO在当下仍然具有生命力的例子。7月开启的《逆水寒》&ldquo;黄金畅玩服&rdquo;构成了这款游戏今年最核心的增长点之一。 看起来，MMORPG游戏一直在变化，而这些变化一直在解决老问题的同时带来新问题。同时，MMORPG需要更加明确地面对MOBA、搜打撤等强调单局体验的游戏所带来的竞争。我们可以从《天堂2：盟约》《诡秘之主》等新作，《仙境传说3》《七界梦谭》推进测试中看到这种变化。",
-      "translated": "",
-      "url": "http://www.chuapp.com/article/291719.html",
-      "createdAt": "Wed, 28 Oct 2026 18:12:42 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_触乐_11",
-      "author": "触乐",
-      "text": "触乐怪话：拖延啊拖延 - 触乐怪话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。 我看就是这样！（图/小罗） 可能是换季的影响，我的拖延症最近又有朝极端化演变的趋势。一份海运国际邮件需要线上填报税单，我拖到必须去线下领取的地步；一个丢件快递需要投诉理赔，我至今还停留在幻想阶段。很多事情除非拖到了&ldquo;再不做就会死&rdquo;的程度，我就会继续放任自己下去&hellip;&hellip;然后再在死线前狼狈赶工，简直是《永不结束的星期一：梦想与死线》里女主工作状态的现实化。 《永不结束的星期一：梦想与死线》是一款独立游戏，女主有非常严重的拖延症，不到最后一刻总是完成不了工作，但每当加班赶工时又会遇到很多奇妙的事情，就像现实里越要工作，好像眼前吸引人的事情越多一样，但&ldquo;死线&rdquo;总会到来。 我就这样！ 可是死线也有很多定义。坦白说，我觉得每个人都会在心里暗藏一个&ldquo;真死线&rdquo;和一个&ldquo;假死线&rdquo;，前者是超过了真的会产生巨大影响，后者是理论上会产生影响但实际上还有可发挥的空间的死线。就像那句话&ldquo;我需要有一个人用枪逼着",
-      "translated": "",
-      "url": "http://www.chuapp.com/article/291720.html",
-      "createdAt": "Wed, 28 Oct 2026 17:35:25 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC中文_8",
-      "author": "BBC中文",
-      "text": "美國中期選舉：選舉有何影響、為何重要？七個關鍵問題解析 - 美國選民將於11月3日投票，這場選舉的結果可能對總統特朗普餘下任期產生重大影響。",
-      "translated": "",
-      "url": "https://www.bbc.com/zhongwen/articles/cmx2qg1nn1wlo/trad?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Wed, 28 Oct 2026 00:47:37 GMT",
-      "likes": null,
-      "retweets": null
-    },
     {
       "id": "rss_WSJ_10",
       "author": "WSJ",
@@ -52,37 +22,287 @@
       "retweets": null
     },
     {
-      "id": "rss_机核_0",
-      "author": "机核",
-      "text": "《上古卷轴6》揭晓副标题“哨兵” - 贝塞斯达游戏工作室负责人 Todd Howard 在40年庆典视频中确认，《上古卷轴6》副标题为“哨兵”。",
+      "id": "rss_Solidot_11",
+      "author": "Solidot",
+      "text": "Firefox 测试迷你窗口功能 - Mozilla 正在新版 Firefox Nightly 中测试迷你窗口（Mini Window）功能。该功能类似视频画中画功能，将一个标签页作为独立窗口一直显示在当前标签页之上，这个窗口隐去了地址栏、各类控件、滚动条等常见标签页元素，但如果用户将鼠标悬停在迷你窗口内，各种标签页元素将会显示。迷你窗口方便用户在当前标签页上工作的同时参考迷你窗口的内容，免于在两个标签页之间反复切换。用户可以在专注于当前标签页的同时查看迷你窗口。",
       "translated": "",
-      "url": "https://www.gcores.com/articles/221895",
-      "createdAt": "Tue, 03 Nov 2026 23:05:02 +0800",
+      "url": "https://www.solidot.org/story?sid=85796",
+      "createdAt": "Wed, 04 Nov 2026 23:54:37 +0800",
       "likes": null,
       "retweets": null
     },
     {
-      "id": "rss_机核_1",
-      "author": "机核",
-      "text": "《现代战争4》还真行，《魔兽争霸3》竟出新｜《安利之王》 - 本期时间轴制作：西楼西蒙安利能力直线下滑",
+      "id": "rss_SCMP_10",
+      "author": "SCMP",
+      "text": "What’s the message for China as Japan weighs US$500 billion defence surge? - China could face a substantially more capable Japanese military over the coming years as Tokyo considers nearly doubling its five-year defence spending to as much as 80 trillion yen (US$508 billion), according to media reports in Japan. Observers said such a build-up could strengthen Japan’s ability to deter or respond to People’s Liberation Army operations around Taiwan and the East China Sea, as well as withstand atta",
       "translated": "",
-      "url": "https://www.gcores.com/radios/221702",
-      "createdAt": "Tue, 03 Nov 2026 23:00:00 +0800",
+      "url": "https://www.scmp.com/news/china/military/article/3373139/whats-message-china-japan-weighs-us500-billion-defence-surge",
+      "createdAt": "Wed, 04 Nov 2026 23:00:10 +0000",
       "likes": null,
       "retweets": null
     },
     {
-      "id": "rss_雷锋网_0",
-      "author": "雷锋网",
-      "text": "中国开源走向物理世界，蚂蚁灵波携机器人通用大脑亮相乌镇 - 11月2日至5日，2026年世界互联网大会乌镇峰会在浙江乌镇举行，本届峰会的主题为“开源开放 共建共享——携手构建网络空间命运共同体”。蚂蚁集团旗下具身智能公司蚂蚁灵波，携全栈开源的机器人通用大脑亮相乌镇，展示模型研发、开源协作以及场景应用的新进展。今天，开源正从语言、代码和内容生成，延伸至机器人对物理世界的感知、预测与行动。与数字世界不同，机器人本体千差万别，任务场景高度分散，许多团队不得不为每一种构型、每一个场景从头训练“大脑”。对此，灵波给出的路径是开放的具身基础模型。目前，灵波已向全球开源覆盖空间智能、灵巧操作与环境反馈的核心模型，围绕让机器人“看得更清楚、想得更明白、干得更利索”构建全栈能力，让同一套智能在不同机器人构型、任务和场景中复用。蚂蚁灵波大脑全栈2.0模型矩阵据统计，LingBot系列模型开源9个月来，下载量已突破220万，GitHub Star数超过3.3万，相关工作被 Physical Intelligence、Generalist AI 等全球友商引用。这套来自中国的机器人大脑，已走进全球科研与工程体",
+      "id": "rss_SCMP_11",
+      "author": "SCMP",
+      "text": "Data centre dissent: why American voters aren’t buying Trump’s China AI pitch - Strong voter backlash in the US midterm elections against AI infrastructure projects, including data centres, indicates that framing the domestic buildout as key to competing with China failed to convince Americans and underscores the need to address local concerns, according to analysts. “The argument that we need to build more data centres to win in AI against China no longer seems to have the kind of resonance it ",
       "translated": "",
-      "url": "https://www.leiphone.com/category/industrynews/ADcxxdwtaojQvzhp.html",
-      "createdAt": "Tue, 03 Nov 2026 21:41:00 +0800",
+      "url": "https://www.scmp.com/news/us/us-elections/article/3373322/costs-above-competition-why-us-voters-arent-buying-trumps-china-ai-pitch",
+      "createdAt": "Wed, 04 Nov 2026 22:56:47 +0000",
       "likes": null,
       "retweets": null
     },
     {
-      "id": "rss_极客公园_0",
+      "id": "rss_NASA_6",
+      "author": "NASA",
+      "text": "NASA Shares Plans to Accelerate Artemis, Return to Moon - In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon [&#8230;]",
+      "translated": "",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+      "createdAt": "Wed, 04 Nov 2026 21:04:10 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_3",
+      "author": "BBC中文",
+      "text": "美國中期選舉結果對中國和世界各國意味着什麼？ - 民主黨在美國中期選舉中取得勝利，將在特朗普總統餘下的任期內掌控國會，標誌着美國政治格局出現重大變化。從烏克蘭和中東的衝突，到美國與中國的貿易關係，BBC記者分析這次選舉結果對世界其他地區意味着什麼。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 04 Nov 2026 21:02:11 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC_9",
+      "author": "BBC",
+      "text": "Anthony Zurcher: Trump is weakened but still wields power for now - Trump has given conflicting messages about how he might deal with Democrats in Congress after his party's resounding defeat.",
+      "translated": "",
+      "url": "https://www.bbc.co.uk/news/articles/cmpdg093e589o?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 04 Nov 2026 20:35:07 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_6",
+      "author": "BBC中文",
+      "text": "共和黨在美國中期選舉中慘敗的五大原因 - 從選民的不滿情緒，到總統本人支持度低迷，本文分析為何傳統共和黨票倉的美國選民轉而支持民主黨。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/cxyvrz6qrm2lo/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 04 Nov 2026 20:20:47 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_触乐_4",
+      "author": "触乐",
+      "text": "《称量愿望单》：一场独立游戏发行谜案",
+      "translated": "",
+      "url": "http://www.chuapp.com/article/291734.html",
+      "createdAt": "Wed, 04 Nov 2026 19:05:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_触乐_5",
+      "author": "触乐",
+      "text": "触乐夜话：二次元在KTV - 触乐夜话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。 我要点米奇律师！（图/小罗） 上周末和朋友们一起久违地约了纯K局，不知道从什么时候开始，这帮搞二次元的出来活动，最后总是不约而同地触发&ldquo;要不纯K吧&rdquo;这样固定的台词。 周日下午，我们准时到了纯K，中包坐四个人绰绰有余，一落座大家就直奔目标：有的人在扫码点歌，有的人在扫码点菜，一首歌的功夫里，菜单已经滚了好几遍。好几年前有句暴论叫&ldquo;台湾菜正统在纯K&rdquo;，它的牛肉条曾经是我的必点，这次再来，发现已经黯然下架，那种怅然若失感，就像老玩家回归后发现早已经被时代抛弃，曾经带大自己的轮椅角色已经进了下水道。我在平板上划拉了好几轮，理智上已经明白，只是情感上一时无法接受罢了。 好在卤肉饭和小食上得很快，毕竟是中央厨房统一配送管理，吃饭的人迅速就位，唱歌的人火速补位，玩手机的人也腾出一只手去拿小食，大家都有光明的未来！ 早几年，二次元唱歌并不是只有纯K一个选择，曾经我也试图发掘朗玩（ROUND ONE），那时候日剧《重启人生》播出没多久，原本冷清的朗玩KTV突然火爆到排队，我一",
+      "translated": "",
+      "url": "http://www.chuapp.com/article/291732.html",
+      "createdAt": "Wed, 04 Nov 2026 19:05:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC_11",
+      "author": "BBC",
+      "text": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad - After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.",
+      "translated": "",
+      "url": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 04 Nov 2026 18:35:07 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_7",
+      "author": "NASA",
+      "text": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications - NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration [&#8230;]",
+      "translated": "",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+      "createdAt": "Wed, 04 Nov 2026 18:00:02 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_7",
+      "author": "爱范儿",
+      "text": "实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点 - 这次你一定要用上 Apple 智能！#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "translated": "",
+      "url": "https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Wed, 04 Nov 2026 17:30:04 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_8",
+      "author": "NASA",
+      "text": "NASA Navigation Experiment Shows Promise for Planetary Landings - NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place [&#8230;]",
+      "translated": "",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+      "createdAt": "Wed, 04 Nov 2026 16:52:43 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_9",
+      "author": "NASA",
+      "text": "NASA Space Grant Students Fuel Agency’s Inspiration Tour - NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa, NASA Administrator Jared [&#8230;]",
+      "translated": "",
+      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
+      "createdAt": "Wed, 04 Nov 2026 16:16:41 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_量子位_9",
+      "author": "量子位",
+      "text": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年 - 连路人都有自己的想法",
+      "translated": "",
+      "url": "https://www.qbitai.com/2026/11/507647.html",
+      "createdAt": "Wed, 04 Nov 2026 16:13:23 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_8",
+      "author": "爱范儿",
+      "text": "一文看懂 2026 中国车市：卷死合资不是胜利，「金九银十」已然消失 - 车市的天花板，可能比我们想的更低。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "translated": "",
+      "url": "https://www.ifanr.com/1687720?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Wed, 04 Nov 2026 15:12:46 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_10",
+      "author": "BBC中文",
+      "text": "篤定成為首位穆斯林美國參議員，42歲的賽義德是誰？ - 在密歇根州，民主黨候選人阿卜杜勒·賽義德如今將成為美國首位穆斯林聯邦參議員。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 04 Nov 2026 13:14:11 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_9",
+      "author": "爱范儿",
+      "text": "Anthropic微微发力，AI中转站的天就要塌了？ - 就像发邮件加上数字签名一样#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "translated": "",
+      "url": "https://www.ifanr.com/1687702?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Wed, 04 Nov 2026 10:34:38 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_8",
+      "author": "BBC中文",
+      "text": "德州翻藍：民主黨時隔38年首奪聯邦參議員席次 - 這場勝利不僅改寫德州數十年來的政治版圖，也進一步鞏固民主黨對美國國會的控制。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/cwzrdzl8v6jjo/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 04 Nov 2026 10:11:20 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_10",
+      "author": "爱范儿",
+      "text": "安东内利加冕 F1 最年轻世界冠军，梅赛德斯的十年豪赌拿到了大结果 - 一位天才车手的圆梦之旅。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "translated": "",
+      "url": "https://www.ifanr.com/1687672?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Wed, 04 Nov 2026 10:06:47 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_爱范儿_11",
+      "author": "爱范儿",
+      "text": "加油、充电还能加甲醇！吉利银河星耀 6 EF 上市，7.68 万元起 - 不挑食。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "translated": "",
+      "url": "https://www.ifanr.com/1687688?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "createdAt": "Wed, 04 Nov 2026 10:04:58 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_2",
+      "author": "芥末堆",
+      "text": "一高科技集团董事长张韶维将出席GET2026，分享「如何构建人机协同科技人才培育新生态」 - 2026年，一高科技集团构建“人机协同就业”服务体系，成立具身智能事业部。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139647.html",
+      "createdAt": "Wed, 04 Nov 2026 09:49:02 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_3",
+      "author": "芥末堆",
+      "text": "已服务上万家机构与企业，「翼鸥教育」将亮相GET2026 | 亮点前瞻 - 全球领先的教学解决方案提供商「翼鸥教育」将亮相GET2026。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139646.html",
+      "createdAt": "Wed, 04 Nov 2026 09:46:59 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_4",
+      "author": "极客公园",
+      "text": "\n        国行版苹果 AI 开始测试；ChatGPT 搜索量已达到谷歌 20%；Seedance 被曝五成收入来自海外｜极客早知道\n       - 国行 Apple 智能开始测试：iOS 27.3 首个开发者 Beta 版已推送 11 月 4 日，苹果向开发者推送 iOS 27.3 首个 Beta 版，国行 iPhone 用户开始测试首批 Apple 智能功能，包括实时翻译、照片消除、写作工具和通知摘要等。国行 Apple 智能与阿里巴巴达成合作，在部分体验中接入千问。国内用户可直接在 Siri、写作工具和视觉智能中调用千问，覆盖文本与图像理解相关能力。 这次开放的是开发者测试版，正式版计划于 12 月推出。首批支持 iPhone 15 Pro 系列、iPhone 16 及后续机型，以及 iPhone Air 和 iPhone Duo；WWDC 2026 发布的新版 Siri AI 暂未包含在内。（来源：快科技） 腾讯 12.8 亿用户蝉联中国互联网第一，绿泡泡月活破 1.5 亿，手游 top10 独占 8 款&nbsp; 11 月 3 日，QuestMobile 发布最新《",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/373427",
+      "createdAt": "Wed, 04 Nov 2026 08:28:02 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_11",
+      "author": "BBC中文",
+      "text": "英王演說稱奴隸貿易是英國歷史「可恥的一章」 - 查爾斯三世在英聯邦政府首腦會議（CHOGM）發表這篇演說前，外界曾呼籲英國政府就英國在這項貿易中的歷史角色正式道歉。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/cqn734rxeye6o/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 04 Nov 2026 07:06:49 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_5",
+      "author": "BBC中文",
+      "text": "2026年美國中期選舉結果實時更新 - 美國國會由眾議院和參議院組成。眾議院全部435個議席都會改選，眾議員任期固定為兩年。與此同時，參議院100個議席中，有35席亦會進行改選。參議員任期為六年。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/c5rmyrm0n8k8o/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 04 Nov 2026 05:47:56 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_4",
+      "author": "芥末堆",
+      "text": "鼓励孩子多提问，这款磁吸式AI早教机获800万美元融资 - 该产品鼓励孩子不停地提问，并陪着孩子一起把答案找出来。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139645.html",
+      "createdAt": "Wed, 04 Nov 2026 02:00:03 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_9",
+      "author": "BBC中文",
+      "text": "美智庫解析「技術民族主義」下的中俄軍工合作細節與限度 - 深圳APEC前夕，中俄「無上限」合有任何挑戰嗎？北京對烏克蘭停火興趣如何？在APEC中美俄三方領袖會面能有所突破？",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/c977pge1jkmdo/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 04 Nov 2026 00:23:34 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_5",
       "author": "极客公园",
       "text": "\n        拿下近亿美元融资后，他们造了个开放动态真实世界的「行动伙伴」\n       - 作者｜苏子华 编辑｜郑玄 &nbsp; 博尔赫斯写过一则著名的寓言。一个帝国的制图师们绘制了一张与领土等大的地图，精确到每一寸土地、每一条河流。后代人发现这张地图毫无用处，把它弃置在荒野中，任其腐烂。 真正在一个地方走路的人，靠的从来不是一张一比一的图纸，而是脚底的感觉、眼睛的判断，以及走错了再调整的能力。 具身智能行业正在上演这则寓言的现实版。 过去两年，人形机器人学会了跳舞、翻跟头、弹钢琴。但一个略显尴尬的事实是，这些编排的动作，大多是提前反复排练，且发生在受控的封闭环境里。如果放在现实社会的开放环境中，这些机器人该怎么办，它们到底能帮你干什么？ 费莫一科技（PHYMI）试图回答这个命题。成立初期便完成近亿美元种子轮融资，由 IDG 资本领投，云启资本、滴滴出行、复星锐正、耀途资本、禾赛科技跟投。融资消息仅公布一个月后，它便推出首款行动伙伴。 行动伙伴 Sagi｜图片来源：PHYMI 10 月 28 日，Sagi（萨其玛）正式发布，是行业内首个定位「行动伙伴」的 Physical Ag",
       "translated": "",
@@ -92,27 +312,7 @@
       "retweets": null
     },
     {
-      "id": "rss_机核_2",
-      "author": "机核",
-      "text": "“中国之星计划”第四期新增多家战略合作伙伴，单项目将获价值百万美元投资 - 2026年11月3日，索尼互动娱乐（上海）有限公司（以下简称“索尼互动娱乐”）今日在上海举办“中国之星计划”发布会，正式宣布该计划第四期项目支持力度再次升级：对每个入选项目进行价值100万美元的项目投资；同时，引入更多战略合作伙伴拓展全球网络，包括DENMU電夢及Solutions 2 GO（以下简称“S2G”），为开发者提供更具针对性的专业服务。“中国之星计划”第三期重点游戏《绝晓》将获得价值100万美元的项目投资，《达巴：水痕之地》将于2027年春季发售；《潜阈限界》将于2027年内发售。 2026中国之星计划发布会圆满成功“中国之星计划”自2016年启动以来，至今已累计选拔19款国产游戏，其中11款已经成功上市，项目也在不断成长和优化中，致力于协助本土开发者快速成长，将更多具有中国文化特色的优质游戏带给全球玩家。 索尼互动娱乐（上海）有限公司董事长兼总裁江口达雄在现场分享了PlayStation在中国的任务和愿景：“PlayStation想建立一座连接中国和世界的游戏文化交流之桥：积极将海外高品质硬件产品",
-      "translated": "",
-      "url": "https://www.gcores.com/articles/221889",
-      "createdAt": "Tue, 03 Nov 2026 19:49:02 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_机核_3",
-      "author": "机核",
-      "text": "【会员抽奖】尺中有乾坤！平台解谜游戏《卷尺人》定档11月11日登陆Steam平台 - 由TearBird开发、INDIENOVA发行，以卷尺的多种妙用为核心，融合机关互动与迷宫探索的2D平台跳跃解谜游戏《卷尺人》，将于2026年11月11日在Steam平台正式上线。国区定价34元，上线前两周首发八五折优惠，仅需28.9元。 &lt;内嵌内容，请前往机核查看&gt;在《卷尺人》中，玩家需要利用手中的卷尺，探索一座由谜题构成的巨大迷宫。卷尺可以测量长度、消除障碍，也能搭成平台，帮助玩家跨过难关。玩家需要观察场景结构，结合卷尺的不同用途寻找解法，在搭建通路与排除障碍的过程中逐步探索迷宫。 卷尺还能与移动平台、单向墙壁等场景元素互动，甚至可以导电，组合出更多意想不到的玩法。游戏也融入了“知识锁”设计，有些看似无法通过的地方，需要玩家发现新的机制、理解卷尺的另一种用法后，才能找到解法。那些之前通过的场景，或许就藏着你尚未发现的答案。 游戏特色 探索未知迷宫，发现卷尺的多种妙用 无需文字指引，通过观察与尝试解开谜题 原创背景音乐，将随探索进程逐渐变化 抵达迷宫尽头，揭开意想不到的秘密！ 《卷尺人》",
-      "translated": "",
-      "url": "https://www.gcores.com/articles/221862",
-      "createdAt": "Tue, 03 Nov 2026 19:15:49 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_触乐_0",
+      "id": "rss_触乐_6",
       "author": "触乐",
       "text": "对话小红书小工具：为AI创作时代找到新的分享方式 - 一名喜欢女团的用户，把粉丝之间讨论的话题做成了一款互动玩法。 作品通过小红书的&ldquo;小工具&rdquo;功能挂在笔记下方，其他用户只要直接点击，就可以体验它的内容。 8月18日，小红书小工具功能全量上线。截至目前，小工具已经累计上线近6万个作品，累计创作者1.2万人；累计使用4.54亿次。 如今，Vibe Coding已经成为AI大模型最广泛的使用方式之一。它让普通人有更多机会把自己的想法变成可以操作和交互的内容。小红书小工具业务运营团队告诉触乐，根据他们的观察，到了今年，用户已经可以比较容易地用大模型制作网站、构建应用，但这些作品在发布到社交平台传播时，往往会因为涉及跳转、分享安全等问题，被限制流量，影响作者和用户的体验。 小红书最开始想解决的，就是这个问题。进入AI创作时代后，许多作品可以不仅限于视频、图文等形式，引入小工具，就是让用户通过Vibe Coding做出来的作品，可以直接在小红书上分享，即点即玩。 目前，平台内部已经把小工具作为一种新的内容形式，去做下一步的规划和投入。在这个过程中，小红书也要解决新内容上线后",
       "translated": "",
@@ -122,7 +322,7 @@
       "retweets": null
     },
     {
-      "id": "rss_触乐_1",
+      "id": "rss_触乐_7",
       "author": "触乐",
       "text": "触乐夜话：我们的《红色沙漠》快溢出了 - 触乐夜话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。 &ldquo;GaaS&rdquo;就是&ldquo;Game as a Service&rdquo;，服务型游戏（图/小罗） 几天前，《红色沙漠》第一个收费资料片《未知征途》上线了，我家里客厅里又开始响起游戏读取时那段熟悉的旋律。 在《红色沙漠》刚刚发售、读档特别特别慢的那段时间，这首曲子入脑入心，睡觉时都萦绕在耳边，如今又回到了被它支配的日子。 这还是我本人没有亲手去玩《红色沙漠》，只是看着和听着媳妇玩的后遗症，媳妇也没有说是猛玩，只是隔三差五刷一刷，现在已经打了320小时。 总之，这段音乐大概又得响一阵子了。《未知征途》将游戏舞台从原本的大陆延伸到了海洋，拓展了很多新玩法，现在你可以造船、开船、海战，探索深海，还能恋爱结婚、建设家园、经营城堡&hellip;&hellip;这真不是网游吗？ 准备出发，和我的猫！ 奔向海岛！ 由于不是第一视角体验，仅仅时不时坐在一边观摩，我对《红色沙漠》的印象不一定特别准确，但是跟打过320小时的玩家交流过后，我发现自己的观感也没有特别离谱。应该说这是个优",
       "translated": "",
@@ -132,337 +332,7 @@
       "retweets": null
     },
     {
-      "id": "rss_雷锋网_1",
-      "author": "雷锋网",
-      "text": "腾讯12.8亿用户蝉联中国互联网第一，绿泡泡月活破1.5亿，手游top10独占8款 - 11 月 3 日，QuestMobile发布最新《中国移动互联网秋季大报告》。报告显示，截至 2026 年 9 月，腾讯控股以 12.80 亿去重总用户量（APP + 小程序）位列中国互联网公司用户规模榜首，第九年蝉联榜首，霸主地位稳固。&nbsp;短剧业务是本次报告的关注重点。腾讯旗下嵌入微信生态的绿泡泡短剧2026年9月月活跃用户规模达到 1.56 亿，登顶微信小程序短剧月活榜。该产品依托微信社交关系链与视频号导流快速起量，目前体量已是短剧行业第二名，增长速度很快。&nbsp;游戏业务方面，2026 年 9 月手机游戏 App 月活跃用户 TOP10 中，腾讯独占 8 款，合计月活约 3.41 亿。其中，王者荣耀以 1.29 亿月活位居全行业第二，仅次于乐元素开心消消乐的 1.61 亿；三角洲行动、和平精英分别以 6675 万、3547 万月活位列第三、第四。报告同时提到，名古屋亚运会期间，王者荣耀以庞大玩家基数成为电竞项目顶流。&nbsp;报告指出，短剧视频与短视频已成为驱动全网用户时长增长的",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/industrynews/TIDTmVxPQiwSHe8f.html",
-      "createdAt": "Tue, 03 Nov 2026 18:59:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_2",
-      "author": "雷锋网",
-      "text": "智元荣获2026世界互联网大会杰出贡献奖 - 11月3日，2026年世界互联网大会乌镇峰会在浙江乌镇隆重开幕，国务院总理李强出席开幕式并发表主旨演讲。开幕式上，智元凭借在具身智能领域的系统性技术突破与产业化实践，获颁世界互联网大会杰出贡献奖。智元合伙人、高级副总裁朱洁在领奖时表示：人工智能的终局，不在于屏幕与云端，而扎根于工厂一线和寻常烟火。具身智能赛道的竞争，早已跳出单点技术的竞速，转向软硬协同、工程化落地、产业组织与治理体系的综合比拼。智元期待与各界同心同行，坚守务实，躬身落地。以具身智能创新突破，推动物理AI规模化落地大会自2024年起设立世界互联网大会杰出贡献奖，旨在表彰在全球互联网相关领域作出杰出贡献的个人和企业。两年来，共有来自全球的12位领军人物和26家知名企业获奖。获奖者覆盖互联网平台、移动通信、人工智能、芯片设计等多个领域，推动互联网生态多元繁荣发展。同时，它也如同一面产业观测镜，它会甄别真正完成“技术转化为产品，产品成长为产业，产业产出商业与社会价值”闭环的主体，引导行业回归技术产业化的本质。智元率先构建的“三智一体”具身智能技术体系已成为行业标杆，发布首个定义物理",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/industrynews/9XBEJkK85FIMGErW.html",
-      "createdAt": "Tue, 03 Nov 2026 18:44:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_3",
-      "author": "雷锋网",
-      "text": "香港大学发布全球首个KYA报告关注智能体信任建设，九类企业实践获收录 - 11月3日，香港大学副校长汪扬教授与香港大学经管学院杨宏副教授代表香港大学KYA课题组，在2026年香港金融科技周 x StartmeupHK创业节发布全球首个KYA（Know Your Agent）领域报告《KYA：智能体信用体系研究报告》。报告聚焦智能体参与真实经济活动后的身份、授权、信用与责任问题，结合109份从业者有效问卷及包含Stripe、蚂蚁数科等近十个企业案例，提出智能体成熟度模型、KYA框架和智能体发展指数，并进一步探讨“智能体信任资本”的形成及其经济价值。“没有KYA，就没有智能体经济。”报告认为，模型能力的提升不会自动转化为商业上的可委托性。只有当身份可确权、履约可核验、权限可约束时，智能体才能获得与其能力相匹配的经济授权。KYA所要解决的，正是智能体从技术可能走向商业可行的问题。香港大学副校长汪扬教授与香港大学经管学院杨宏副教授发布全球首个KYA领域报告智能体加速进入真实经济，信任赤字正侵蚀人工智能红利报告将智能体的演进概括为四个阶段：能力智能体、执行智能体、交易智能体和经济智能体。截至目前",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/industrynews/KkjVOHcQ55GyhDLv.html",
-      "createdAt": "Tue, 03 Nov 2026 18:09:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_4",
-      "author": "雷锋网",
-      "text": "最高288核的至强6+，为了Agent高密度部署还下了哪些「云功夫」？ - 作者 | 陈悦琳编辑 | 包永刚&nbsp;一个智能体能顺利完成任务，不代表成百上千个智能体就能同时高效运行。&nbsp;对于承载大量智能体任务的云服务器而言，除了提升计算速度，如何在任务集中到来时迅速准备好执行环境、怎样减少暂时闲置的任务对内存资源的占用，也成为亟待解决的问题。&nbsp;对此，在一年一度的腾讯全球数字生态大会上，英特尔与腾讯云联合发布了基于至强6+处理器的新一代云实例，围绕任务启动效率、内存资源利用率等关键因素进行优化后，其综合性能较上一代提升30%以上。&nbsp;从此前搭载至强6处理器的S9、S9e、S9pro，到如今的新一代云服务器（CVM），英特尔与腾讯云的合作并未停留在处理器性能的升级上。面对当前模型调用量持续攀升、智能体开始在实际业务中承担更多工作等趋势，CPU如何与操作系统、内存等环节协同，正成为云服务器的新考题——而这也是双方此次联合优化的重点。&nbsp;288核至强6+处理器，支撑Agent部署还需跨过内存关AI应用正攀升至全新的量级。中国信通院发布的《大模型词元服务性能",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/chips/GQisGLfVBnbQVxVo.html",
-      "createdAt": "Tue, 03 Nov 2026 18:03:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_机核_4",
-      "author": "机核",
-      "text": "10月Steam新作近半数披露使用AI - 根据 Reddit 用户 ploz 的统计，今年10月Steam平台发售的新游戏中，有约半数（49.9%）游戏标明使用了生成式AI内容。正如下图所见，自Valve于2024年1月实施AI内容披露制度以来，Steam新游戏的AI使用比例持续上升。 2024年1月 AI 披露制度启动时，1.7%的开发者表示使自己用了 AI ，而2024年全年则有13.2%的游戏披露使用AI。2025年增至24%，2026年至今达到40.1%。2026年10月的49.9%为最高单月纪录，约为2025年同期26.4%的两倍。 统计还显示， 统计表明小型游戏与高产开发者使用AI的比例更高。2026年发售且评价低于10条的游戏中，47%披露使用了AI。在评价不少于1000条的游戏中，这一比例降至14%。2026年发售不少于10款游戏的开发者，有68%的作品披露了AI使用。在仅发售一款游戏的开发者中，披露比例为37%。同时，只有3%的游戏在玩家游玩过程中使用实时生成的AI内容。 同时，美术素材是游戏中使用AI最多的项目，占披露游戏的63%。文字与翻译占比30%，商店页与宣",
-      "translated": "",
-      "url": "https://www.gcores.com/articles/221856",
-      "createdAt": "Tue, 03 Nov 2026 17:54:54 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_0",
-      "author": "Solidot",
-      "text": "科学家发现 1.15 亿年前的恐龙红细胞 - 血细胞并不容易形成化石。大多数血细胞在死亡后不久便会分解，这使得找到令人信服的、非常古老的血液痕迹非常困难。然而澳大利亚科廷大学的研究团队在 PNAS 上发表论文称，凭借多条证据，他们在巴西一只 1.15 亿年前的恐龙遗骸中发现了最古老的红细胞化石。这项研究的对象是巴西恐龙“阿拉塔龙”的骨骼化石。研究人员估计，这只恐龙体长约 3 米、重约 34 公斤，死亡后遗体沉入水底，微生物生长并将其掩埋，从而保存了下来。在显微镜下，研究人员在这只恐龙的骨骼中发现化石细胞的迹象：这些结构呈圆形，中心凹陷，每个细胞平均长 23 微米、宽 20 微米，嵌在曾经让血管穿过骨骼的通道中。下一步则是寻找化学线索，以证明这些结构确实含有血细胞，而不仅仅是形似血细胞的矿物质。在他们进行的近 30 项试验中，有一项是将骨样本研磨成粉后用激光照射，从样本散射回来的光显示出血红素的存在。血红素是一种环状化合物，其中的铁元素有助于红细胞运输氧气。研究人员还发现了大量降解形式的血红素。",
-      "translated": "",
-      "url": "https://www.solidot.org/story?sid=85785",
-      "createdAt": "Tue, 03 Nov 2026 17:54:53 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_5",
-      "author": "雷锋网",
-      "text": "国内首个半导体工艺保护流体材料重大突破 - 历时近七年自主攻关，上海凯锐恩半导体科技有限公司成功开发出应用于晶圆级工艺保护的流体成型材料及配套热压成型设备，建立起完整的知识产权体系，实现“材料＋设备＋工艺”三位一体。产品已应用于芯片先进封装领域，实现了国内半导体工艺保护流体材料的产业化突破，技术处于国际领先水平。当前，随着半导体先进封装向凸点、异构堆叠等方向加速发展，晶圆级与面板级封装对保护工艺提出了更高要求；但大部分相关材料、设备和工艺仍被国外企业垄断，已成为制约我国半导体先进封装产业发展的“卡脖子”环节。上海凯锐恩绕开了被国外企业垄断数十年的传统保护胶带专利壁垒，创新性地提出基于流体成型材料的晶圆保护工艺解决方案，以耐腐蚀、无气泡、无剥离残留的流体成型材料技术，从根本上解决了传统胶带的固有物理缺陷，为半导体晶圆保护开辟了全新的材料与工艺路径。目前，上海凯锐恩的流体成型材料与设备工艺一体化技术已与国内外头部芯片制造商开展深度合作，在晶圆减薄保护、晶圆切割保护等多种场景中完成多轮工艺验证，获得半导体企业的广泛认可，为新材料、新工艺规模化导入我国半导体生产奠定了坚实基础。流体成型技术为先",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/industrynews/PHr6tfngmZX7R5db.html",
-      "createdAt": "Tue, 03 Nov 2026 17:41:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_6",
-      "author": "雷锋网",
-      "text": "要更真实，还是更动人？AI视频生成走到了分岔口 | CNCC 2026 - 从5大视角，看AI视频的挑战与风险在哪。&nbsp; &nbsp; 作者丨徐晓飞&nbsp; &nbsp; 编辑丨刘 &nbsp; 伟&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;当下，视频生成的竞争焦点，正在从“像不像”转移到“能不能用”。画",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/industrynews/Huxl5GuqzEUo9CL9.html",
-      "createdAt": "Tue, 03 Nov 2026 17:15:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_7",
-      "author": "雷锋网",
-      "text": "预售24.98万起，全系搭载宁德电池，LS8 NEO能否撬动25万级市场？ - 25万级SUV的市场正在呈现鲜明的对比：增程赛道的竞争日渐旺盛，而纯电市场回暖增长。在4月发布的LS8增程版本基础上，智己顺势推出了LS8 NEO，卡位纯电竞争。预售权益价为24.98万起，新车定于11月5日正式上市。在这台25万级的SUV上，全系标配了宁德时代电池、全线控灵蜥底盘、后轮转向和800V高压平台。今年的成都车展中，智己发布了L6、LS6、LS8三款纯电产品。随着LS8NEO的到来，智己完成了纯电矩阵的布局。其中，全新一代智己LS6在9月上市以来累计交付突破8000辆。在三款产品发布后，智己汽车副总经理徐崟还透露，11 月将会有全新产品亮相。徐崟判断，车市会在明年进入企稳阶段，“可能一季度还有波动，到明年下半年或年底会略为企稳”。双大厂联手做电池当前，国内新能源渗透率已经逼近 70%。动力电池的技术迭代仍在加快，行业重心正在从追求能量密度增速，转向安全与耐久性。作为占据整车成本30%到40%的关键零部件，动力电池的质量决定了整台车的使用安全与驾乘体验。智己与宁德时代的联手，就是顺应市场需求变迁下",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/transportation/stPDU8XxYTbZXexr.html",
-      "createdAt": "Tue, 03 Nov 2026 17:14:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_机核_5",
-      "author": "机核",
-      "text": "女魔头怎么那么让人上头，录音笔VOL.817 - 【录音笔】是GPASS推出的一档会员专享节目，内容来自机核办公室日程生活和工作中的一些短小记录，每期时长十几分钟左右（大概吧）。内容也许是一些不成体统的碎碎念，也许是一些突然发疯的暴言，还有可能是哪个缺德的把办公室里真实的日常对话（dui ma）偷偷录了下来，总之就连我们自己现在也不知道每期会有哪些人参与，会录些什么。",
-      "translated": "",
-      "url": "https://www.gcores.com/radios/221847",
-      "createdAt": "Tue, 03 Nov 2026 17:00:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_8",
-      "author": "雷锋网",
-      "text": "xTool 的「快」与「难」：硬门槛、多线程研发与生态扩张 - 一个女孩在生成器里输入了第一次约会的日期和城市。那天是农历十六，他们在海边，月亮又大又圆。系统调取&nbsp;NASA&nbsp;的真实月相数据，还原了当晚月亮的样子。她把它雕刻出来，做成一盏可以捧在手里的月亮灯。这轮月亮，在任何一个模型网站上都找不到。因为那是只属于她的月亮。这也是激光雕刻与&nbsp;3D&nbsp;打印一个有意思的差别。3D&nbsp;打印用户几乎不建模，直接下载现有模型。激光雕刻用户则习惯从自己的生活里寻找素材：把自家狗狗的照片雕在杯子上，把孩子的名字刻进书包挂件。一个是在别人的作品里挑，一个是把“自己”做成作品。差别不止在用户这一层。这两个品类都是创客工具中的大类，技术难度差异鲜少被提及，而激光雕刻的难度长期被“消费级”的外观严重低估了。10&nbsp;月&nbsp;29&nbsp;日，xTool&nbsp;的&nbsp;X1&nbsp;上市。这台机器背后，是两个品类之间隔着的一座座大山。而这家公司背后，站着腾讯、红杉中国等一批顶级机构。不过，资本只是入场券。真正让&nbsp;xTool&nbsp",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/weiwu/Z53iSk1j7SIjzefT.html",
-      "createdAt": "Tue, 03 Nov 2026 16:57:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_1",
-      "author": "Solidot",
-      "text": "Enlightenment 0.28.0 释出，初步支持 BSD - 轻量级桌面环境 Enlightenment 项目释出了 v0.28.0。主要变化包括：初步支持 NetBSD，支持 Network Manager，原生支持 PipeWire，新的剪贴板管理器，电池管理、AC 轮询等相关代码进行重写，新增设置电池阈值和支持 ACPI 电源配置等等，以及大量 bug 修复和更改。",
-      "translated": "",
-      "url": "https://www.solidot.org/story?sid=85783",
-      "createdAt": "Tue, 03 Nov 2026 16:16:40 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_机核_6",
-      "author": "机核",
-      "text": "「演出高光混剪」13分钟带你回顾GGG游戏节奏联欢夜 - 我们想用一段13分钟的全场高光混剪，带大家再次回顾 GGG 游戏节奏联欢夜的两个夜晚。 演出已经落幕，但有些东西也在不经意间悄悄留在了我们心里。当我们未来再次打开游戏，循着19个ip踏上一段新的冒险，或者重新回到那些流连忘返的世界，我们脑海中浮现的不再只有游戏里的画面。我们还会想起在北京的瓦肆，我们曾与两千多名玩家一同见证那些陪伴了我们无数个日夜的旋律，跨越屏幕在现实中重新响起，让我们与那些冒险与故事有了一次真正的相遇。演出和游戏会结束，但那些旋律和回忆会陪我们走的更远，或许这就是GGG真正想带给大家的意义所在！ 关于GGG，你最印象深刻的瞬间是什么？欢迎大家在评论区分享。",
-      "translated": "",
-      "url": "https://www.gcores.com/videos/221848",
-      "createdAt": "Tue, 03 Nov 2026 16:00:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_IT之家_0",
-      "author": "IT之家",
-      "text": "荣威家越 06 新车申报：纯电 / 插混动力 SUV，可选锰基锂电池版本 - IT之家 11 月 3 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，荣威家越 06 完成申报。IT之家注意到，本次申报的荣威家越 06 定位家用运动型多用途乘用车，车尾带有上汽荣威与家越 06 标识，整车采用简洁的尾部造型，搭配贯穿式尾灯组与黑色后包围。根据公示信息，荣威家越 06 的长 / 宽 / 高分别为 4815mm、1900mm、1695mm（另有 1687mm 高度版本），轴距 2825mm，前轮距与后轮距均为 1650mm，前悬 / 后悬为 936mm / 1054mm，接近角 / 离去角为 18° / 23°。轮胎规格提供 225/60R18、235/55R19 两种选择，额定载客人数为 5 人，最高车速为 200km/h。本次申报版本包含两款纯电动车型与一款插电混动车型。纯电版本方面：三元锂离子电池版本整备质量为 1900kg、1955kg，总质量为 2352kg、2407kg，搭载由上海汽车变速器有限公司生产的 TZ185XY1182 型永磁同步电机，额定功",
-      "translated": "",
-      "url": "https://www.ithome.com/1/021/855.htm",
-      "createdAt": "Tue, 03 Nov 2026 15:58:05 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_9",
-      "author": "雷锋网",
-      "text": "小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖” - 11月3日，小米方面披露，小米集团获得2026世界互联网大会“杰出贡献奖”创新突破类奖项，该奖项旨在表彰全球互联网相关领域作出杰出贡献的个人和企业。同时，小米机器人业务“面向规模化落地的通用机器人操作基座模型关键技术”获大会“领先科技奖”，该奖项旨在奖励全球年度最具领先性的互联网科技成果。峰会期间，小米还对外披露了机器人业务在工业制造和家庭场景的两项最新落地进展。在工厂场景，小米披露人形机器人在汽车工厂的最新“实习”进展：在中控台侧盖板排序工站中首次挑战8小时作业任务，满足工站全天生产需求，并实现作业过程异常自主纠偏与产线系统级协同，初步完成产线级作业能力验证。在家庭场景，小米具身基座模型在小米青年公寓正式启动“试运营”，基于Xiaomi-Robotics-1 预训练模型搭建Agent 系统，已在小米青年公寓完成连续超30分钟、覆盖3个房间、包含50+任务的长程任务验证。中国数实融合50人论坛副秘书长、数字经济智库首席研究员胡麒牧表示，小米机器人实现汽车工厂8小时整班作业、初步完成产线级作业能力验",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/industrynews/VVyx6DK55x5rIlQ4.html",
-      "createdAt": "Tue, 03 Nov 2026 15:56:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_IT之家_1",
-      "author": "IT之家",
-      "text": "长安林肯飞行家 AVIATOR EX8 新车申报：搭载 1.5T 插混动力，磷酸铁锂电池 - IT之家 11 月 3 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，长安福特汽车有限公司林肯飞行家 AVIATOR EX8 完成申报。IT之家注意到，本次申报的林肯 AVIATOR EX8 为插电式混合动力运动型多用途汽车，车尾标注有「长安林肯」与「AVIATOR EX8」字样，采用林肯家族最新的贯穿式尾灯设计，整体造型大气沉稳。两款申报车型的长宽高分别为 5055/1995/1790mm 与 5055/1995/1800mm，轴距均为 3010mm，定位中大型豪华 SUV。轮胎规格提供 255/50R21 与 255/45R22 两种选择，额定载客人数为 5 人。动力方面，新车搭载由重庆长安汽车股份有限公司生产的型号为 JL469ZQ1 的 1.5T 发动机，排量 1497ml，额定功率 110kW，发动机最大净功率为 105kW。车辆具备外接充电能力，支持纯电动模式行驶，最高车速可达 205km/h。储能装置采用磷酸铁锂蓄电池，电池单体及总成均由时代长安动",
-      "translated": "",
-      "url": "https://www.ithome.com/1/021/854.htm",
-      "createdAt": "Tue, 03 Nov 2026 15:48:15 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_IT之家_2",
-      "author": "IT之家",
-      "text": "广汽埃安 AION V 纯电 SUV 新车申报：自带“鼻孔”，165kW + 磷酸铁锂电池 - IT之家 11 月 3 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，广汽埃安新能源汽车股份有限公司申报的埃安（AION）AION V 纯电动多用途乘用车完成申报，产品型号为 AHC6460BEVJ1A。IT之家注意到，新车定位紧凑型纯电 SUV，车身长宽高分别为 4580mm、1854mm、1660mm，轴距为 2765mm，整备质量 1940kg，总质量 2400kg，额定载客 5 人，前后轮距均为 1600mm，接近角 / 离去角为 18°/27°，前悬 / 后悬为 908mm / 907mm，轮胎规格为 215/55R18。外观方面，新车采用埃安家族化设计语言，车头处有一个类似鼻子的开孔，可能是传感设备；车尾配备“AION”字母标识，并带有“埃安”与“V”字样，尾部采用竖向排列的尾灯组，后包围配备黑色护板与红色反光条。动力部分，新车搭载苏州汇川联合动力系统股份有限公司生产的 TZ180XS135 型永磁同步电机，额定功率 45kW，峰值功率 165kW",
-      "translated": "",
-      "url": "https://www.ithome.com/1/021/853.htm",
-      "createdAt": "Tue, 03 Nov 2026 15:46:52 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_IT之家_3",
-      "author": "IT之家",
-      "text": "别克 ELECTRA GS 新车申报：溜背轿跑造型，1.5T 插混动力 - IT之家 11 月 3 日消息，工信部晚间发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，上汽通用别克 ELECTRA GS 插电式混合动力轿车完成申报。申报图显示，新车采用溜背轿跑造型，配备贯穿式尾灯与别克全新三色盾标，车尾左侧标注 ELECTRA GS 标识，右侧为上汽通用标识，整体设计延续别克新能源家族的运动化风格。IT之家注意到，新车长宽高分别为 4979mm、1914mm、1492/1495/1496mm，轴距为 2865mm，额定载客 5 人，最高车速 190km/h；轮胎规格提供 225/50R18、235/45R19 两种选择，整备质量根据配置不同在 1780kg 至 1890kg 之间。动力方面，新车提供两套动力总成：第一套搭载型号为 15FMC 的 1.5T 发动机，额定功率 72kW，最大净功率 70kW；第二套搭载型号为 LD3 的 1.5T 发动机，额定功率 115kW，最大净功率 110kW。两套动力系统均配备同一驱动电机，额定功率 80kW，峰值功率 165kW，且",
-      "translated": "",
-      "url": "https://www.ithome.com/1/021/852.htm",
-      "createdAt": "Tue, 03 Nov 2026 15:42:30 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_IT之家_4",
-      "author": "IT之家",
-      "text": "华晨宝马 330L 新车申报，搭载 B48B20N 2.0T 涡轮增压发动机 - IT之家 11 月 3 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，华晨宝马 330L 完成申报。IT之家注意到，本次申报的华晨宝马 330L 产品型号为 BMW7200WG，属于宝马（BMW）牌轿车，由华晨宝马汽车有限公司生产制造。车身尺寸方面，新车尺寸为 4865mm×1852mm×1461mm，轴距达到 2970mm，定位中型轿车，额定载客人数为 5 人。整备质量为 1753kg，总质量 2230kg，底盘采用承载式车身结构。动力层面，新车搭载型号为 B48B20N 的 2.0T 涡轮增压汽油发动机，由华晨宝马汽车有限公司生产，排量 1998ml，额定功率 211kW，发动机最大净功率为 190kW，最高车速可达 250km/h。排放满足 GB18352.6-2016 国 Ⅵ 排放标准。轮胎规格方面，新车提供 245/40 R19、255/40 R19 以及 245/35 R20、255/35 R20 多种搭配可选。前轮距 1593mm，后轮距 1599mm，接近角",
-      "translated": "",
-      "url": "https://www.ithome.com/1/021/851.htm",
-      "createdAt": "Tue, 03 Nov 2026 15:41:46 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_2",
-      "author": "Solidot",
-      "text": "全球加速发展核电 - 全球在建核电站已增至 79 个机组，达到 40 年来的高水平。据世界核协会统计，2026 年全球有 11 个新核电机组开工建设，截至 10 月 16 日，在建核电机组数量达到 79 个。这是 1986 年（91 个）以来的高位。1986 年是切尔诺贝利核电站事故发生的年份，此后全球新建核电机组数量有所减少。如果将预计未来 15 年内投入运营的正在规划的核电机组也计算在内，数量将达到 201 个。目前全球在运核电机组共有 443 个。即使考虑到因老化而退役的核电机组，到 2040 年前后，全球在运核电机组数量仍有可能超过 600 个。目前全球在建的79个核电机组中，仅中国就有38个，约占总数的一半，其次是印度（8个）和俄罗斯（7个）。从处于规划阶段的核电机组来看，中国同样遥遥领先，达到 42 个，其次是俄罗斯（23个）和印度（14个）。",
-      "translated": "",
-      "url": "https://www.solidot.org/story?sid=85782",
-      "createdAt": "Tue, 03 Nov 2026 15:41:34 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_IT之家_5",
-      "author": "IT之家",
-      "text": "R 星：《GTA6》游戏 11 月 10 日开始预载，最高占用 212GB 空间 - IT之家 11 月 3 日消息，Rockstar 今天宣布，《GTA6》游戏将在 11 月 10 日（周日）开始预载，全球玩家可以从当天开始下载，确保 11 月 19 日发售时第一时间体验到这款开放世界大作。IT之家了解到，PS5 数字版游戏将在当地时间 11 月 10 日午夜开始预载；Xbox Series X|S 版将于格林尼治标准时间 11 月 10 日 00:00（北京时间 8:00）开始预载。盒装兑换码版本预计将于 11 月 12 日起，在各大零售商销售。根据设备不同，游戏预载文件最高需要占用 212GB 存储空间。请确保您手上的游戏机拥有足够可用空间，以便尽早开始预载。此外，R 星将在 11 月 19 日提供《侠盗猎车手 VI》官方封面海报和雷奥奈达地图的打印文件，供玩家免费下载。双面实体海报将在游戏发售后登陆 R 星商城，单买价格 0.99 美元（IT之家注：现汇率约合 6.6 元人民币），购买 R 星商店内任意商品的玩家可免费获赠一份。",
-      "translated": "",
-      "url": "https://www.ithome.com/1/021/850.htm",
-      "createdAt": "Tue, 03 Nov 2026 15:40:28 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_0",
-      "author": "TechCrunch",
-      "text": "Apple restricts dating apps and AI companions to users 18 and up - Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-      "translated": "",
-      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "createdAt": "Tue, 03 Nov 2026 15:38:27 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_IT之家_6",
-      "author": "IT之家",
-      "text": "新款极氪 001 轿车申报：370kW 单电机后驱，搭载磷酸铁锂电池 - IT之家 11 月 3 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，极氪 001 完成申报。本次申报的极氪 001 为纯电动轿车，由浙江吉利汽车有限公司生产。外观方面，新车延续了家族式设计语言，采用贯穿式尾灯组，尾部中央带有「ZEEKR」标识，右侧标注「001」型号。车身尺寸方面，新车长宽高分别为 4977mm/5029mm×1999mm×1545mm/1533mm，轴距为 3005mm。其中选装空气悬架时车高为 1533mm，对应轮胎规格为 255/45R21；普通版本车高为 1545mm，轮胎规格可选 255/55R19。整车整备质量为 2350kg/2420kg，总质量为 2810kg/2880kg，额定载客 5 人。动力系统方面，本次申报的极氪 001 搭载一台型号为 TZ230XYC04 的驱动电机，由衢州极电电动汽车技术有限公司生产，最大功率为 370kW（约 503 马力），最高车速可达 240km/h 或 280km/h。储能装置为磷酸铁锂电池，单体由浙江吉曜通行",
-      "translated": "",
-      "url": "https://www.ithome.com/1/021/849.htm",
-      "createdAt": "Tue, 03 Nov 2026 15:36:29 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_0",
-      "author": "NASA",
-      "text": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking - For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with fractures occurring across the short axis due [&#8230;]",
-      "translated": "",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-      "createdAt": "Tue, 03 Nov 2026 15:35:14 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_IT之家_7",
-      "author": "IT之家",
-      "text": "B 社正式公布《上古卷轴 6：哨兵》，距首次预告片已有 8 年 4 个月 - IT之家 11 月 3 日消息，贝塞斯达（Bethesda）今日正式宣布，《上古卷轴》新作定名为《上古卷轴 6：哨兵》。此次公布距离《上古卷轴 6》首个预告发布已经过去 8 年 4 个月。官方公布的视频显示，《上古卷轴 6：哨兵》将拥有相当精细的沙地物理效果。视频中还出现了一段引言：“卷轴中只有一道微光，薄纱在我眼前缓缓揭开。一个失落的未来，一场未竟的胜利。命运让时间之沙四散飘零。”IT之家注意到，微软 XBOX CEO 阿莎 · 夏尔马曾表示，她今年 8 月探访 B 社时体验过这款游戏。此次游戏公布，距离 B 社遭到大规模裁员还不到半年。不过截至目前，B 社和微软并没有公布这款游戏的更多信息。",
-      "translated": "",
-      "url": "https://www.ithome.com/1/021/845.htm",
-      "createdAt": "Tue, 03 Nov 2026 15:30:04 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC_5",
-      "author": "BBC",
-      "text": "MI5 will not face contempt of court charges despite admitting its evidence was a lie - MI5 chief Sir Ken McCallum welcomed the court's decision and says its judgment \"underlines MI5's serious failures in this case\".",
-      "translated": "",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Tue, 03 Nov 2026 15:28:47 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_10",
-      "author": "雷锋网",
-      "text": "当三体IP开始连接 AI 和硬科技，到底在探索什么？ - “不要回答！不要回答！！不要回答！！！”《三体》中，来自宇宙深处的信号曾让人类面临重大抉择，二十年后，当 AI 可以理解文本、生成 3D 模型，甚至以智能体的形式与人对话，人类能否借助这些技术，主动进入科幻作品所描绘的世界？10月24日至25日，在北京举办的2026三体日·脱水浸泡嘉年华上，三体宇宙（三体IP的版权方和运营方）开始尝试回答这个问题。三体日上，三体宇宙以三体IP为纽带，围绕 AI、航空航天、机器人和沉浸式体验等领域，通过跨界圆桌和内容发布，与来自科研机构、科技企业的从业者们展开交流，尝试探索科幻IP与前沿技术结合的新方式。其间，三体宇宙与无问芯穹联合推出智子 Agent 1.0，与 VAST 旗下 AI 3D 生成平台 Tripo 联合发起“三体·全球3D战舰共创计划”。从 AI 角色互动到 3D 内容共创，再到前沿科技交流，这些尝试背后，是科幻 IP的另一种可能：它可以通过熟悉的故事和角色，让技术能力变得直观可感，也可以与科技企业共同探索新的应用场景，让更多人参与互动与创作。01 当IP与AI结合，变化不只是让角",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/industrynews/5N5x4IScrkNgAuVK.html",
-      "createdAt": "Tue, 03 Nov 2026 15:23:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_爱范儿_0",
-      "author": "爱范儿",
-      "text": "iPad mini 8 首发评测：本该是一台完美的平板电脑 - 全网最细的iPad mini 8 评测，屏幕到底锁没锁帧，我们挖出了超多细节。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "translated": "",
-      "url": "https://www.ifanr.com/1687473?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "createdAt": "Tue, 03 Nov 2026 15:18:46 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_IT之家_8",
-      "author": "IT之家",
-      "text": "国内光模块头部厂商光迅科技发布澄清公告：否认物料短缺、生产停工相关传闻 - IT之家 11 月 3 日消息，今晚，国内光模块头部厂商光迅科技发布“关于市场传闻的澄清公告”。10 月 26 日光迅科技发布《2026 年第三季度报告》。财务报表显示，光迅科技第三季度实现营业收入 50.73 亿元，同比增长 54.27%；归属于上市公司股东的净利润 7.02 亿元，同比增长 102.62%；扣除非经常性损益后的净利润 7.04 亿元，同比增长 121.06%；基本每股收益 0.87 元。前三季度累计，公司营业收入 116.83 亿元，同比增长 36.94%；归母净利润 12.84 亿元，同比增长 78.65%；扣非净利润 12.72 亿元，同比增长 87.48%；加权平均净资产收益率 11.17%，较上年同期提升 3.50 个百分点。IT之家附公告全文如下：近期，公司关注到网络平台上流传关于公司“物料短缺”“生产停工”等生产经营的负面传闻，上述传闻与公司实际经营情况不符，对公司声誉造成了不良影响。经核实，本公司针对上述传闻事项澄清及说明如下：1、截至本公告披露日，公司各项日常生产经营活动严格",
-      "translated": "",
-      "url": "https://www.ithome.com/1/021/844.htm",
-      "createdAt": "Tue, 03 Nov 2026 15:18:14 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_IT之家_9",
-      "author": "IT之家",
-      "text": "小米 17 Ultra 手机“徕卡一瞬”功能页现文字乱码，产品经理回应称问题已修复 - IT之家 11 月 3 日消息，据小米 17 Ultra 用户反馈，在更新澎湃 HyperOS 4.0.6.0.XPACNXM.D01 版本后，“徕卡一瞬”功能的页面顶部会出现文字乱码“!盙望樀拾逨拈”。小米相机部产品经理 @Bao_小李 今日晚间发文回应了此次事件，并表示：“问题已修复。需要大家在应用商店里面更新一下「相机」应用的版本。”据IT之家了解，小米在去年 12 月发布的小米 17 Ultra 徕卡版上，带来了专属「徕卡一瞬」模式，由小米与徕卡合作开发。该模式包含 LEICA M3 和 LEICA M9 两种模式：徕卡 M9 画质，还原传奇 CCD 质感，色彩浓郁；徕卡 M3 + MONOPAN 50 画质，黑白胶片质感；经典 3:2 全画幅，源自徕卡第一代胶片比例。▲ IT之家评测室：小米 17 Ultra 徕卡版黑银色上手延伸阅读公开信息显示，小米 17 Ultra 徕卡版于 2025 年 12 月 25 日发布，适逢小米 15 周年与徕卡 100 周年，是双方影像战略合作从「联合研发",
-      "translated": "",
-      "url": "https://www.ithome.com/1/021/843.htm",
-      "createdAt": "Tue, 03 Nov 2026 15:17:30 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC_4",
-      "author": "BBC",
-      "text": "Reform UK councillor charged with rape and sexual assault - The Crown Prosecution Service has charged George Madgwick with 35 offences, including 12 counts of rape.",
-      "translated": "",
-      "url": "https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Tue, 03 Nov 2026 15:16:53 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_IT之家_10",
-      "author": "IT之家",
-      "text": "十铨预警：内存短缺最严峻阶段尚未到来 - IT之家 11 月 3 日消息，据科技媒体 TechPower Up 今天报道，全球内存短缺最严重的时候可能还没到来。十铨科技在昨日举办的 2026 财年第三季度法人说明会表示，内存需求最旺盛的时期，可能会在 2026 年第四季度至 2027 年第二季度到来，距离现在只有几个月。IT之家从原报道获悉，SK 海力士、三星和美光等 DRAM 厂商的 2027 年产能已经售罄，大客户早就和这些大厂签订长期供货协议，第三方市场越来越难采购到内存。十铨科技表示，即使他们手头有足够资金，也可能无法买到内存。虽然现在还能购买到，但价格已经非常高。用不了多久，消费者可能连买的机会都没有。尽管长鑫存储和长江存储的产品已合计占据近 10% 内存市场份额，但仍然无法满足市场需求。供需关系可能要到 2028 年下半年甚至更晚才有望恢复平衡。十铨科技如今的大部分内存都卖给企业客户。从结构来看，B2B 业务占比达 64.6%；直接面向消费者的 B2C 业务则占 35.4%。如今的数据与 2025 年第三季度形成鲜明反差，当时 B2B 和 B2C 业务占比分别为 24.6%",
-      "translated": "",
-      "url": "https://www.ithome.com/1/021/842.htm",
-      "createdAt": "Tue, 03 Nov 2026 15:16:17 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_1",
-      "author": "NASA",
-      "text": "NASA Astronaut, STEM Creator Connect with Students for STEM Day - Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science, [&#8230;]",
-      "translated": "",
-      "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
-      "createdAt": "Tue, 03 Nov 2026 15:15:50 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_极客公园_1",
+      "id": "rss_极客公园_6",
       "author": "极客公园",
       "text": "\n        心言巴布「Bubbo 1」：一台机器人，如何成为家人\n       - &nbsp; 头图来源：心言机器人 2026 年 10 月 29 日，心言机器人正式发布具身家庭智能体「巴布（Bubbo 1）」。 这台毛绒外形的机器人，基于心言自研的 Bubbo OS，主打「伙伴式交互」：它不是一台等人发号施令的家电，而是一个会主动走近、主动回应的家庭成员。产品即日起在京东等官方渠道发售，售价 9499 元，前 1000 名订购者可享 7999 元。 在心言机器人创始人、Bubbo 1 首席设计师任永亮看来，「技术决定体验的下限，交互决定体验的上限。」过去的 AI，是你不开口它就不在的工具；而巴布要做的，是从「外部」视角搭起一个 Family Agent&mdash;&mdash; 识别家里的每一个人，也关注他们之间的关系。 为此，它在身上装了 13 类、26 个传感器，用 6 个自由度和两块表情屏理解复杂情感，再靠记忆、多模态感知和分级对话，给出有「延迟感、呼吸感、边界感」的回应。 发布环节结束后，任永亮与主持人、极客公园创始人张鹏，全国政协常委、国家统计局原副局长贾楠，哈尔",
       "translated": "",
@@ -472,32 +342,162 @@
       "retweets": null
     },
     {
-      "id": "rss_Solidot_3",
+      "id": "rss_极客公园_7",
+      "author": "极客公园",
+      "text": "\n        马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份\n       - Anthropic 更新 IPO 招股书：第三季度营收近 170 亿美元，算力承诺达 8954 亿美元 11 月 2 日，Anthropic 向美国证券交易委员会提交更新后的 S-1 招股文件，首次补充截至今年 9 月底的第三季度财务数据。 Anthropic 第三季度营收达到 169.6 亿美元，较第二季度增长 47%，但增速低于第二季度的 144%。公司第三季度营业亏损为 5.67 亿美元，而第二季度曾实现 9.74 亿美元营业利润。 与此同时，Anthropic 披露约 8954 亿美元的 AI 基础设施相关支出承诺，涉及亚马逊、谷歌等合作伙伴。公司警告，部分算力供应依赖第三方融资，如果相关资金出现问题，可能影响交付时间和成本。（来源：Reuters） Meta 调整 VR 硬件优先级：将更多资源转向可穿戴设备和 AI 业务，降低消费级 VR 硬件优先级 11 月 2 日消息，Meta 首席财务官 Susa",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/373358",
+      "createdAt": "Tue, 03 Nov 2026 08:40:51 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_5",
+      "author": "芥末堆",
+      "text": "宇树科技与地瓜机器人联合推出具身智能教育解决方案 - ​K12是地瓜机器人与宇树科技联合方案率先落地的场景",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139644.html",
+      "createdAt": "Tue, 03 Nov 2026 07:18:46 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_6",
+      "author": "芥末堆",
+      "text": "ClassIn瓜总：AI时代，寒冬里的校外培训 - 技术越来越强，什么会越来越珍贵？",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139643.html",
+      "createdAt": "Tue, 03 Nov 2026 03:15:15 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_7",
+      "author": "芥末堆",
+      "text": "凯文教育控股子公司推出的教育智能体平台，已进入海淀数十所学校 - 接下来，智启文华计划逐步将覆盖范围扩展到京内外的更多学校。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139642.html",
+      "createdAt": "Tue, 03 Nov 2026 03:06:44 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_8",
+      "author": "WSJ",
+      "text": "Canada to Review Amazon Contracts After Quebec Layoffs - Canada has warned Amazon.com that it is reviewing business ties with the company’s cloud-computing unit following Amazon’s decision to shut down its warehouses in Quebec, leading to the layoff of 1,700 workers.",
+      "translated": "",
+      "url": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology",
+      "createdAt": "Thu, 23 Jan 2025 19:59:00 -0500",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_9",
+      "author": "WSJ",
+      "text": "Tech, Media & Telecom Roundup: Market Talk - Find insight on Electronic Arts, consumer spending on videogames, Meta and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "translated": "",
+      "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-28593f8d?mod=rss_Technology",
+      "createdAt": "Thu, 23 Jan 2025 16:57:00 -0500",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_机核_0",
+      "author": "机核",
+      "text": "盖棺论定说生软（上）：三个医生的龙之狂想 - 本期时间轴制作：猪猪米三十一年尘与土，生软盖棺论定时。10月21日，生软Bioware官宣关闭，旗下IP去向未卜。天下没有不散的宴席，此刻，我们将目光投向宴席开始之处：这既是三个医生的碰撞与莽撞，也是一个神话时代的开始与破灭。与生软的草创密切相关的，是当时的Interplay，后来的黑岛、黑曜石，以及更多曾经在游戏业界响亮的名号。从医疗服务软件开始，直到《博德之门》和《质量效应》，生软开辟了怎样的道路？“生软魔法”为何在最开始是祝福，在后来却变成了诅咒？请听本期节目",
+      "translated": "",
+      "url": "https://www.gcores.com/radios/221703",
+      "createdAt": "Thu, 05 Nov 2026 23:00:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_Solidot_0",
       "author": "Solidot",
-      "text": "Tor Browser 16.0 释出 - Tor Browser 16.0 释出，它是首个基于 Firefox ESR 153 的稳定版本。主要变化包括：Linux 版本支持 64 位 ARM 架构，重新设计设置，名为通用窗口标题（generic window titles）的功能有助于防止其它应用窥探用户的浏览器活动，Android 版本使用 Google 的 Material Design 3 更新了界面，停止支持 32 位 x86 Linux 系统，等等。更多变化可浏览更新日志。",
+      "text": "越南对足球直播盗版者判刑最高一年 - 越南一家法院对 14 名参与盗版足球赛事直播网站 Bun Cha TV 的团队判处最高一年徒刑。4 名内容、编程和运营团队负责人被判处 12 个月徒刑，另外 5 人判处 10 个月监禁，2 人判处 8 个月监禁，3 名解说员被判处 10 个月缓刑。所有 14 名被告都承认了指控，配合了调查。Bun Cha TV 累计直播逾 15 万场体育赛事，通过博彩及赌博广告非法获利逾 200 亿越南盾（约 512 万人民币）。内容团队负责人获利逾 4.3 亿越南盾，解说员非法所得则在 3100 万到 4.8 亿越南盾不等。美国 MPAA 的代表称赞了这一判决。",
       "translated": "",
-      "url": "https://www.solidot.org/story?sid=85781",
-      "createdAt": "Tue, 03 Nov 2026 15:10:27 +0800",
+      "url": "https://www.solidot.org/story?sid=85807",
+      "createdAt": "Thu, 05 Nov 2026 22:38:56 +0800",
       "likes": null,
       "retweets": null
     },
     {
-      "id": "rss_雷锋网_11",
+      "id": "rss_雷锋网_0",
       "author": "雷锋网",
-      "text": "用AI阻断非法野生动物贸易，百度获世界互联网大会杰出贡献奖 - 11月3日，2026年世界互联网大会乌镇峰会开幕。在开幕式上举行的“世界互联网大会杰出贡献奖”颁奖仪式上，百度凭借与国际爱护动物基金会（IFAW）合作的“濒危物种AI守护官”项目，获得“世界互联网大会杰出贡献奖-社会贡献类”奖项。&nbsp;&nbsp;&nbsp;“世界互联网大会杰出贡献奖”自2024年起设立，旨在表彰在全球互联网相关领域作出杰出贡献的个人和企业。此次百度获评社会贡献奖，不仅是对该项目在生物多样性保护成效上的肯定，也是对其近年来持续以人工智能技术赋能全球可持续发展与社会公益实践的权威认可。&nbsp;近年来，非法野生动物贸易已成为威胁全球生物多样性的主要因素之一。据联合国环境规划署与国际刑警组织联合评估，全球非法野生动植物贸易规模年均高达230亿美元，是仅次于毒品、军火走私的第三大跨国犯罪产业。伴随互联网与社交平台的快速普及，网络空间逐步演变为相关非法交易的核心渠道。&nbsp;为应对这一全球性难题，百度自2020年起携手国际爱护动物基金会（IFAW）共同发起“濒危物种AI守护官”项目。依托百度飞桨深度学",
+      "text": "累计发货量突破100万台！鸿蒙电脑厚积薄发，持续拓展桌面应用生态 - 全球桌面操作系统市场格局已固化数十年。面对极高的生态壁垒，传统替代型系统往往困于“特定场景可用、大众市场难推”的瓶颈，难以实现规模化商业闭环。在11月5日启幕的2026鸿蒙办公产业峰会上，一个数字非常亮眼，截至2026年10月，鸿蒙电脑累计发货量突破100万台。华为终端BG平板与PC产品线总裁朱懂东表示：鸿蒙电脑2026年加速增长，单年发货量有望突破100万台，展现出蓬勃之势。他还正式宣布：“鸿蒙电脑全面向开发者开放侧载能力。”从2025年6月首批产品开售，到累计发货量突破100万台，鸿蒙电脑迈出了规模化商业应用的重要一步。2026年单年发货量有望突破100万台，显示华为对后续增长的预期。随着产品、应用和产业伙伴的协同，鸿蒙电脑也在拓展桌面办公的更多可能。破局硬件底座：十年根技术沉淀，全档位矩阵兑现“百万加速度”新操作系统的普及，首要前提是硬件载体的体验不能妥协。鸿蒙电脑之所以能跑出罕见的“百万加速度”，核心在于华为十年PC根技术沉淀与软硬件深度融合优势的集中释放。在底层架构上，鸿蒙电脑通过云隼架构、Super Tu",
       "translated": "",
-      "url": "https://www.leiphone.com/category/industrynews/MFCpP2Cl7MEKkzNj.html",
-      "createdAt": "Tue, 03 Nov 2026 15:08:00 +0800",
+      "url": "https://www.leiphone.com/category/industrynews/6igykQlGwvA6vyCV.html",
+      "createdAt": "Thu, 05 Nov 2026 21:48:00 +0800",
       "likes": null,
       "retweets": null
     },
     {
-      "id": "rss_IT之家_11",
-      "author": "IT之家",
-      "text": "我国人工智能发展速度及应用规模全球领先 - IT之家 11 月 3 日消息，据央视新闻今日报道，国家发展改革委今天（3 日）举行了“奋进‘十五五’”系列新闻发布会。会上提到，当前，我国人工智能发展速度、应用规模全球领先。 国家发展改革委创新和高技术发展司副司长王若蒙介绍，人工智能正从实验室走向工厂、田间、办公室：工业领域，累计建成了万余家先进级智能工厂；农业领域，显著降低农药、化肥用量，田间管理更加精准，改变靠天靠经验的老办法；服务业领域，在金融、物流、外贸方面，智能体可自动完成合同审核、报关报税、理赔核损等任务，催生“员工 + 智能体”等新业态新模式涌现。据IT之家今日早些时候报道，我国目前正在推动世界人工智能（AI）合作组织的实体化运行进程，已有 38 国作为创始成员国加入。本月初，中国电子信息产业发展研究院发布的《新域新质创新发展十大趋势》显示，我国人工智能推理数据量首次超过训练数据量，标志着我国人工智能从模型训练研发阶段迈入规模化产业应用阶段。",
+      "id": "rss_极客公园_0",
+      "author": "极客公园",
+      "text": "\n        极客公园创新大会 2027 首批嘉宾揭晓！\n       - 今年 12 月 5 日&mdash;6 日，北京 798艺术区，还是老地方。 极客公园创新大会（GEEKPARK IF），我们又要见面了。 IF 将进入第 17 年。它像一本记录中国科技行业的「年鉴」，一场科技爱好者的年终盛宴，一次号召创新者聚集、留下历史回音的年度认知集结。 今年，我们的主题是：Revaluation 价值，另有答案 我们要探讨的不再是 AI 可以有多厉害，而是更落地的一面&mdash;&mdash; 工作、创作、生意，你原本笃定的经验，正在一件件被 AI 重新算账。你以为已经看懂的赛道，换个角度，结论可能完全不一样。 哪些老优势正在缩水？哪些被低估的人和机会，正在悄悄长出新的价值？ Revaluation 价值，另有答案 每年办会，最让人期待的，就是把那些跑在最前面的「Outlier」和积极行动者们拉到一块儿。一群从全国各地飞来的人，思想和实践在同一片空间流动，碰撞、激发。 今年，他们也将如期而至。 主舞台之外，我们还在 751图书馆、艺文空间和极客公园，准备了五场小场深谈。 没有大礼堂",
       "translated": "",
-      "url": "https://www.ithome.com/1/021/840.htm",
-      "createdAt": "Tue, 03 Nov 2026 15:07:54 GMT",
+      "url": "http://www.geekpark.net/news/373553",
+      "createdAt": "Thu, 05 Nov 2026 21:15:49 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_触乐_0",
+      "author": "触乐",
+      "text": "被策划TK之后，深度对话《战术小队：破晓攻势》发行制作人 - TK是Team Kill的缩写，指玩家误伤或者击杀队友。在大多数游戏中，为了保证玩家体验，友军伤害通常是默认关闭的。这样一来，玩家可以把注意力集中在战斗本身，不必担心误伤队友。 但对于《战术小队》这样的军事拟真射击游戏来说，情况有所不同。还原真实战场环境，让玩家身临其境地参与一场接近现实的战斗，是游戏设计的核心。友军伤害的存在，也意味着玩家必须学会辨别敌我、通过语音沟通和报点传递信息，并按照战术要求协同行动。 这也是《战术小队》国服版本《战术小队：破晓攻势》在5月首次曝光时，玩家社区非常关心的细节之一。而这些细节往往是构成一款拟真游戏魅力的关键因素。 不过，对于像我这样此前没有接触过《战术小队》的新玩家来说，游戏中的硬核设计带来的上手门槛是实打实的。10月24日，我在北京核聚变现场试玩了最新优化的《战术小队：破晓攻势》。 《战术小队：破晓攻势》在核聚变的现场 那是一局标准模式下的攻防战。说实话，尽管我参加过一次媒体测试，但这次上手面对复杂的战场环境和各种需要经验判断的信息，我依然有些手忙脚乱，只不过由于队长言桢给了我们非常清",
+      "translated": "",
+      "url": "http://www.chuapp.com/article/291738.html",
+      "createdAt": "Thu, 05 Nov 2026 20:50:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_触乐_1",
+      "author": "触乐",
+      "text": "触乐夜话：为了醋包饺子 - 触乐夜话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。 不要欺负植物呀！（图/小罗） （本文含有对《蒲公英不屈》的剧透&hellip;&hellip;虽然它其实没什么可透的。） 不知道是不是因为&ldquo;节奏天国&rdquo;出了新作，我身边玩游戏的朋友，还有视频网站上关注的主播们，大家或多或少都开始关注一些不那么&ldquo;规范&rdquo;的音游。看得多，玩得多了，总会遇到一些怪咖，比如今年9月发售的《蒲公英不屈》。 第一眼看到《蒲公英不屈》，你很容易把它当作一款叙事类、&ldquo;小而美&rdquo;的独游。美术小清新，音乐轻柔舒缓，一粒蒲公英种子随风飞舞，最终在柏油路上落地，靠着缝隙里的一点泥土扎根，艰难生长。落地之后，玩家要做的是收集水、阳光和二氧化碳，通过光合作用让蒲公英长大，先度过一年四季，才能等到开花。 这还是个科普游戏 开花之后，真正的考验才开始。你首先要面对的是推着婴儿车的妈妈，为了哄孩子不哭，她一会儿前后摇晃婴儿车，一会儿拿出玩具给孩子玩，而你，一株不屈的蒲公英，要靠着恰到好处的&ldquo;防御&rdquo;（虽然没有人知道一株植",
+      "translated": "",
+      "url": "http://www.chuapp.com/article/291735.html",
+      "createdAt": "Thu, 05 Nov 2026 20:47:18 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_机核_1",
+      "author": "机核",
+      "text": "从脑洞试炼到走出赛场：在TapTap聚光灯，看见独立游戏的“涌现”时刻 - 作者：柏亚舟在很长一段时间里，“做一款属于自己的游戏”对大多数玩家而言，都是一个令人向往却又有些遥远的念想。它往往意味着需要跨越编程、美术、策划乃至团队磨合等一系列现实门槛，有想法的人很多，真正能动手将其变为现实的人却在少数。 但如果你最近打开TapTap，点进正在进行中的2026「聚光灯GameJam」活动页面，大概会直观地感受到一种变化，横亘在“玩家”和“创作者”之间的高墙，正在变得越来越低。 前不久，新一届TapTap「聚光灯GameJam」结束了为期21天的线上开发阶段，正式进入全民试玩与评审期。一系列数据引起了我的注意，回看此前心动与TapTap发起的五届独立营活动，几年间累计召集了3000余名开发者，产出近500款作品；而在今年的聚光灯挑战中，仅仅一个月的报名期就吸引了上万人参与，并在随后的21天里集中诞生了2000余款可直接上手试玩的游戏Demo。 从历届累计近500款，到单届产出超过2000款。这组数据背后反映出一个清晰的趋势：随着开发工具的迭代、AI辅助技术的普及以及高校游戏开发氛围的成熟，“",
+      "translated": "",
+      "url": "https://www.gcores.com/articles/221985",
+      "createdAt": "Thu, 05 Nov 2026 19:30:33 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_雷锋网_1",
+      "author": "雷锋网",
+      "text": "李彦宏百度世界2026演讲海报曝光，或分享智能组织进化新思考 - 11月4日，百度官方发布了一则百度世界2026大会预热海报，提前透露了百度创始人李彦宏将于11月12日在大会开幕式上发表主题演讲的相关线索。&nbsp;海报中的三个问题引人关注：“什么是AI时代的新厂房？”“组织进化三原则是哪些？”“智能组织将迎来的三大机会是什么？” 结合本届大会“下一幕，智能组织”的主题，李彦宏的主题演讲或围绕“智能组织进化”展开。&nbsp;预测一：或分享智能组织进化趋势，并为企业AI转型提出建议&nbsp;2016年百度世界大会上，李彦宏曾提出“互联网的下一幕，是人工智能”。十年后，百度世界再次以“下一幕”为题，将焦点转向“智能组织”。&nbsp;近一年来，李彦宏持续关注AI如何推动企业组织层变革。在2025年百度世界大会上，他提出内化AI能力，让AI成为企业发展和个人成长的原生推动力。今年5月的Create大会上，他进一步提出AI时代的“进化论”，探讨由人与智能体组成混合编队的超级组织形态，并就企业自我进化提出建议。&nbsp;从“内化AI能力”到“组织自我进化”，相关思考逐步从个人提效延伸至组",
+      "translated": "",
+      "url": "https://www.leiphone.com/category/industrynews/49uolfG855V4Zc9M.html",
+      "createdAt": "Thu, 05 Nov 2026 19:26:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_机核_2",
+      "author": "机核",
+      "text": "大学同学饭局，从他们的视角聊聊脏x佳佳和慢x茜茜 （脏话略多，酌情收听），录音笔VOL.819 - 【录音笔】是GPASS推出的一档会员专享节目，内容来自机核办公室日程生活和工作中的一些短小记录，每期时长十几分钟左右（大概吧）。内容也许是一些不成体统的碎碎念，也许是一些突然发疯的暴言，还有可能是哪个缺德的把办公室里真实的日常对话（dui ma）偷偷录了下来，总之就连我们自己现在也不知道每期会有哪些人参与，会录些什么。",
+      "translated": "",
+      "url": "https://www.gcores.com/radios/221979",
+      "createdAt": "Thu, 05 Nov 2026 18:45:27 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_Solidot_1",
+      "author": "Solidot",
+      "text": "白宫网络监测到住宅代理活动 - 安全公司 Layer3 Intel 报告，他们在分配给白宫的自治系统 AS2650 中监测到住宅代理服务的活动。住宅代理服务会将用户的网络地址租给其他人使用。Layer3 在 10 月 5 日-11 月 3 日期间观察到了 236 次住宅代理连接活动。住宅代理的源头被认为来自 Windows 11 设备安装的俄罗斯代理程序 Infatica。Layer3 Intel 指出，在30 天内有 26 天出现了源自白宫的代理出口节点流量，涉及 6 个 IP，大部分活动发生在傍晚，即下午 5 点至午夜之间。",
+      "translated": "",
+      "url": "https://www.solidot.org/story?sid=85806",
+      "createdAt": "Thu, 05 Nov 2026 18:22:27 +0800",
       "likes": null,
       "retweets": null
     }
