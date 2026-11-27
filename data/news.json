@@ -1,288 +1,98 @@
 {
-  "fetchedAt": "2026-11-25T18:34:53Z",
+  "fetchedAt": "2026-11-27T18:02:13Z",
   "articles": [
     {
-      "id": "rss_BBC中文_8",
-      "author": "BBC中文",
-      "text": "「九合一」五大看點：「洋流」能否撼動台北？誰在卡位2028？ - 中共是否介入台灣選舉？ 這次選舉將如何影響賴清德與國民黨主席鄭麗文的政治能量？捲土重來、希望藉著地方議員選舉有所斬獲的小黨，此次結盟能否在主流政黨夾殺中突圍而出？",
-      "translated": "",
-      "url": "https://www.bbc.com/zhongwen/articles/cm8xzrg40dq1o/trad?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Wed, 28 Oct 2026 02:45:08 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_0",
-      "author": "Solidot",
-      "text": "EA Sports FC 利用 AI 数字重现已故解说员 John Motson 的声音 - EA 透露其足球游戏《EA Sports FC 27》利用 AI 数字重现了已故解说员 John Motson 的声音。Motson 于 2023 年去世，他曾长期担任 BBC Sport 首席解说员，也曾为 EA 足球游戏解说。在其遗孀和儿子的许可下，EA 利用其过去的录音资料与生成式 AI 技术合成了他的声音。该内容将于 11 月 26 日上线《EA Sports FC 27》。EA 向 Motson 的家人支付了费用以获得使用其形象及重现其声音的权利，但未透露具体财务条款。",
-      "translated": "",
-      "url": "https://www.solidot.org/story?sid=85993",
-      "createdAt": "Wed, 25 Nov 2026 23:54:33 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_1",
-      "author": "Solidot",
-      "text": "Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold - AI 生物科技公司 Phylo 研究员 Xinming Tu 本月初使用 OpenAI、Anthropic 和 Google 的大模型测试了它们预测鲜为人知细菌蛋白质序列的能力。他让分析程序运行了整晚，第二天对结果非常吃惊。Anthropic 最新版本的Claude 表现不仅优于其它大模型，而且超过了针对蛋白质序列训练过的专门工具。他与哈佛医学院的 Leo Chen 分享的这一发现在计算生物学界引发了热议。本周二 OpenAI 宣布其最新大模型成功设计出新蛋白质，在实验室合成和测试时部分新蛋白质的行为和预期一样。该研究引发了 生物 AI 未来的讨论，部分科学家预测 Claude 和 ChatGPT 之类的通用模型在蛋白质结构预测和设计等任务上可能会超越 AlphaFold 等专用工具。也有研究人员对此提出质疑，认为大模型展现出的部分能力可能只是训练数据的机械重复。",
-      "translated": "",
-      "url": "https://www.solidot.org/story?sid=85992",
-      "createdAt": "Wed, 25 Nov 2026 23:26:31 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_机核_0",
-      "author": "机核",
-      "text": "游戏茶话会 V.135 《魔兽世界：无限》新老玩家一起重新踏上艾泽拉斯 - 本期时间轴制作：天行本期节目本来是一期录音笔，但是随着时间的推移我们干脆决定补录一点内容，变成一期完整的茶话会。《魔兽世界：无限》开服已经两个礼拜，大部队已经差不多体验完了升级过程，即将开始终局游戏，或开启下一个角色。实话实说，这个又旧又新的魔兽世界里既包含很多相当走心的调整和改动以及新添加的内容，同时让人难受，痛苦，挣扎的东西不但没变少，还增加了。所以只推荐给又有时间，又善于主动社交的朋友们。有组织的话请带带我们，联盟部落都行，谢谢。",
-      "translated": "",
-      "url": "https://www.gcores.com/radios/222596",
-      "createdAt": "Wed, 25 Nov 2026 23:00:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_2",
-      "author": "Solidot",
-      "text": "NASA 计划 2028 年发射验证核电推进技术的探测器 - NASA 计划 2028 年发射验证深空核电推进技术的探测器 Space Reactor‑1 Freedom（SR-1）。SR-1 将利用核能和太阳能将 SkyFall 舱送往火星，SkyFall 内有三架新一代直升机，这些直升机将研究火星的地质和气候历史，探索新地形，搜寻地下冰层的迹象。SR-1 将配备一台布雷顿闭式循环裂变反应堆，使用高纯度但低浓缩的铀作为燃料，能产生 20 千瓦以上的电力。",
-      "translated": "",
-      "url": "https://www.solidot.org/story?sid=85991",
-      "createdAt": "Wed, 25 Nov 2026 22:51:37 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_0",
-      "author": "雷锋网",
-      "text": "阿维塔06T Max先锋版上新，限时权益后19.99万元 - 2026年11月25日（上海），阿维塔科技宣布，阿维塔06T Max先锋版正式上新，官方售价21.99万元，限时权益后19.99万元。新车定位智美全场景运动轿车，标配华为乾崑896线双光路图像级激光雷达与全新一代分布式电驱后轴双电机，是为年轻人专属打造的锋芒座驾。即日起，用户可通过阿维塔App、阿维塔官网、阿维塔小程序及全国各大城市的门店等官方渠道订购。&nbsp;&nbsp;针对阿维塔06T Max先锋版上新，阿维塔还推出了多重限时购车礼遇。2026年12月31日（含）前下定，可享价值至高超过80000元9大限时权益，包括：10000元现金优惠、10000元购置税补贴、价值23920元5年0息限时金融政策、10000元阿维塔车主增换购补贴、首任车主终身三电质保、价值21000元ADS Max高阶功能包等额抵扣券、价值3000元外饰色限时折扣、价值10000元副驾零重力座椅免费升级。&nbsp;&nbsp;自上市以来，阿维塔06T收获了用户的广泛认可：从容的智能辅助驾驶、可靠的全维安全保障，出色的酣畅灵动驾控，让用户的每一次",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/industrynews/u4v3A1QiYM6qUcP1.html",
-      "createdAt": "Wed, 25 Nov 2026 22:29:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_3",
-      "author": "Solidot",
-      "text": "研究显示不是所有地区的男性精子数量都大幅下降 - 丹麦的一项研究显示，该国男性精子的数量并非大幅下降，过去 26 年一直维持稳定，甚至少数人还表现出改善的迹象。这项研究表明男性精子数量的变化趋势可能存在地域差异。对男性精子数量的担忧始于 1992 年，《British Medical Journal》期刊当时发表的一项研究发现自 1940 年以来男性精子浓度下降了 42%。2022 年的一项荟萃​​分析显示 1973-2018 年间男性精子浓度下降了逾 50%，精子总数下降逾 60%。北美、欧洲、澳大利亚、南美、中美洲、亚洲和非洲都出现精子数量下降的现象——尽管下降幅度各不相同。丹麦的研究表明精子数量是否正在下降并没有盖棺定论。",
-      "translated": "",
-      "url": "https://www.solidot.org/story?sid=85990",
-      "createdAt": "Wed, 25 Nov 2026 22:27:27 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_4",
-      "author": "Solidot",
-      "text": "如何维护超算 - 美国橡树岭国家实验室的超算 Frontier 有数以千计的计算节点，维护其正常工作是一大挑战。无法纠正的内存错误，维护失误都会引发问题。技术人员在狭窄紧密的机架之间工作时可能会重启错误的节点，或意外触碰相邻节点的电源。硬件故障可能会影响单个节点，但对于运行在数千个处理器上的模拟任务而言，这可能导致整个进程逐渐停止工作。随之而来的问题是：计算进度最近储存的时间？多少计算工作需要重做？调度程序多久才能让该任务重新运行？Frontie 超算上 HBM 内存发生无法纠正双位错误的概率是每天 1.5 次，相比下该实验室的上一代超算 Summit 每两周才会出现一次此类错误，原因是 Frontie 的内存总容量是 Summit 的 16 倍以上。除了内存，有问题的 GPU 固件、互连故障都会导致严重问题。一个 GPU 故障，使用 1,024 个 GPU 的计算任务就可能被迫停止。有性能问题的 GPU 同样会带来问题：如果某个参与计算的 GPU 单元运行速度只有正常的 80%，其它单元需要停下来等待它。超算使用检查点（checkpointing）机制定时保存计算结果，一旦出错模拟任",
-      "translated": "",
-      "url": "https://www.solidot.org/story?sid=85989",
-      "createdAt": "Wed, 25 Nov 2026 22:18:03 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_1",
-      "author": "雷锋网",
-      "text": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划 - 11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。会议由九章云极DataCanvas主办，深圳市龙华区工业和信息化局支持，清华大学互联网产业研究院为学术指导单位。来自标准机构、高校与科研院所、投资机构，以及机器人本体、世界模型、仿真软件、智算云等领域的上百位嘉宾代表出席。中国电子技术标准化研究院副院长范科峰，深圳市龙华区委常委、常务副区长张智，九章云极DataCanvas董事长方磊分别致辞。会议聚焦的核心命题是：当机器人、世界模型与仿真软件相继通过技术验证，物理AI如何跨越从实验室到产线的产业化鸿沟。答案集中在两个方向：以工程化能力将算力组织为生产体系的物理AI工厂，以及将产业链专业能力联结为整体协作的物理AI生态。范科峰指出，物理AI正在加速连接数字世界与物理世界，跨域协同对标准供给提出了迫切要求，数据接口、通信协议、安全边界等标准化问题将愈发突出，坚持标准先行，才能为物理AI的规模化落地提供关键支撑。中国电子技术标准化研究院副院长范科峰致辞&nbsp;张智常务在致辞中表",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/chips/Qz3QPf26nVIVA0ga.html",
-      "createdAt": "Wed, 25 Nov 2026 22:15:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_2",
-      "author": "雷锋网",
-      "text": "中国算力采购信心指数启动 九章云极核心共建算力市场先行指标 - 11月25日，在2026物理AI行业峰会暨九章云极智算生态大会上，中国经济信息社新华指数研究院副院长周宇涵宣布“中国算力采购信心指数”正式启动。北京九章云极科技股份有限公司（下称“九章云极”）作为核心共建单位，参与指数体系搭建。当前，中国算力产业正处于高速增长与结构性调整并行的阶段。我国智能算力规模高速增长，但训练与推理、东西部布局、层级供需三重错配依然存在，算力租赁价格波动加剧。对于算力需求方，采购决策往往依赖于分散的市场信息，难以形成对行业整体景气程度的系统认知；对于算力供给方，产能规划与定价策略同样缺少来自真实交易一线的反馈信号。市场需要一个能够回答“下个季度需求是扩张还是收缩”的先行指标。算力采购信心指数正是针对这一信息缺口而生：它以景气调查捕捉市场预期，与记录真实成交价格的全球算力价格指数互为补充——一个着眼预期，一个着眼交易，共同拼出算力市场的完整图景。此前，九章云极作为核心共建单位参与了全球算力价格指数的编制建设，这套方法论经验也延续到了采购信心指数的共建之中。该指数借鉴PMI（采购经理指数）的编制逻辑，采用",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/chips/G3lWNUyVJphxOTU2.html",
-      "createdAt": "Wed, 25 Nov 2026 22:01:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_3",
-      "author": "雷锋网",
-      "text": "九章云极携手多方战略合作，物理AI工厂生态协作走进真实场景 - 11月25日，在2026物理AI行业峰会暨九章云极智算生态大会上，北京九章云极科技股份有限公司（九章云极DataCanvas，下称“九章云极”）与深圳市龙华区工业和信息化局、北京清程智汇有限公司、深圳市怡亚通供应链股份有限公司签署物理AI工厂项目战略合作协议；另外两场签约中，九章云极分别与佳都科技集团股份有限公司、北京数字政通科技股份有限公司签署AI算力产业协同战略合作协议。物理AI正处在一个关键节点：机器人、世界模型与仿真软件相继通过技术验证，但跨过从实验室到产线的鸿沟，需要的不仅是算法突破，更是工程化的系统能力。模型在仿真环境里跑得再好，到了真实产线上也可能因为环境噪声、传感器误差和动力学差异而失效。问题在于，验证必须在真实场景中完成。但真实场景分散在政府、制造企业、科研机构和服务商手中，单一厂商无法同时握有场景、研究能力和算力底座，产业链的协作机制尚未建立。大会现场的系列签约，让物理AI的验证环境有了多方共建的载体。共建龙华物理AI工厂项目，搭起“场景—研究—基础设施”协作链物理AI工厂项目战略合作协议围绕物理AI工",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/chips/JWelmQaWCBCTOJi3.html",
-      "createdAt": "Wed, 25 Nov 2026 21:59:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_4",
-      "author": "雷锋网",
-      "text": "九章云极开放两大接口，携手伙伴共建物理AI产业生态   - 11月25日，在2026物理AI行业峰会暨九章云极智算生态大会上，九章云极DataCanvas宣布面向物理AI开放Physical AI Infra API和Physical AI Dev API两大接口，并联合二十余家产业伙伴成立极光物理AI产业生态联盟，推动技术连接与产业协作。两大接口分别面向物理AI的智算基础设施和专业开发工具。Physical AI Infra API面向基础设施层，提供异构算力资源的标准化接入、管理与调度能力；Physical AI Dev API则连接仿真、数据生成、模型训练与验证等专业工具和底层算力，降低研发环节的适配与协同成本。与接口开放同步推进的，是产业协作网络的建立。极光物理AI产业生态联盟由九章云极发起，在深圳龙华区成立，学术指导单位为北京大学软件工程国家工程研究中心，理事单位包括亿欧、中国质检院人工智能检测中心等，首批成员企业来自机器人本体、世界模型、仿真平台、科研机构及智算云服务等领域，覆盖从技术研究、工具开发到产业应用的多个环节。两大接口和产业联盟均由九章云极物理AI工厂承接。作为A",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/chips/omZ0PFr6zVtmUnap.html",
-      "createdAt": "Wed, 25 Nov 2026 21:56:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_5",
-      "author": "雷锋网",
-      "text": "多模型协同落地，浙江人形 NAVIAI 提升长序列任务作业稳定性 - 具身智能要真正走进现实世界，一个足够聪明的“大脑”还不够。与以信息处理为主的数字世界不同，物理世界充满动态变化与不确定性。机器人不仅要理解任务，还要应对物体状态、接触条件和环境的变化，将认知判断转化为可靠的物理操作。模型具备强大的认知能力，并不意味着机器人就能胜任真实作业；面对多环节、长流程任务，单一模型或孤立技能难以独立应对，需要多种模型与技能协同配合，才能实现可靠的任务交付。面向物理环境中的动态变化、多环节任务与复杂交互，浙江人形机器人创新中心有限公司（以下简称“浙江人形”）对原有 SPIRE 体系进行迭代升级，推出 SPIRE 2.0全链路任务对齐具身智能体系。新体系以 NaviDataset 积累真实作业数据，通过 NaviRepresentation 开展任务导向的环境描述，帮助机器人理解作业环境；再由 NaviPolicy 打通动作控制，构建灵活自主的闭环作业能力，并通过 NaviAssistant 协调不同模型，最终将能力沉淀为可复用、可组合的 NaviSkillLib 技能库，贯通从数据积累、任务理解",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/industrynews/KnGzlsg6xlU9Nnpk.html",
-      "createdAt": "Wed, 25 Nov 2026 21:51:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_机核_1",
-      "author": "机核",
-      "text": "与熟悉的世界告别：机核专访《追逐末日之光》制作人 JINO - 如果有一天，我们得知世界将在六个月后迎来终结，接下来的生活又会发生怎样的变化？有人可能会选择放弃一切，尽情享受剩余的时间；有人或许仍然会坚持原本的生活，试图维持最后一点秩序；当然，也一定有人不愿接受这样的结局，想尽办法寻找活下去的希望……由韩国独立开发者 JINO 制作的《追逐末日之光》（GOODBYE SEOUL），讲述的便是这样一个故事。 游戏将舞台设定在小行星即将撞击地球的六个月前。玩家将扮演一名原本正在准备考试的女高中生罗妍，在逐渐陷入混乱的首尔展开冒险，并追寻一个名为「太空避难计划」的神秘项目。游戏采用2.5D像素美术风格，以环境解谜和平台跳跃为主要玩法，同时将大量篇幅留给了末日之下的人物与故事。值得一提的是，《追逐末日之光》也是 JINO 独立开发的第一款游戏。2021年，他辞去原本的工作，开始尝试将自己的想法制作成游戏。在随后的五年里，他几乎独自承担了程序、关卡设计、剧本和美术等核心工作，其间甚至经历过数次大规模的推倒重来。随着游戏全新宣传片的公开，我们也有机会采访到制作人 JINO，和他聊了聊《追逐末日之光",
-      "translated": "",
-      "url": "https://www.gcores.com/articles/222765",
-      "createdAt": "Wed, 25 Nov 2026 19:28:11 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_6",
-      "author": "雷锋网",
-      "text": "元材新界发布 FrontierMat：330 道真实研发难题难住 GPT-6 Astra，自研跨尺度材料大模型登顶 - 今年 10 月，在美国得克萨斯州的 SpaceX 测试基地，马斯克让一辆特斯拉 Roadster“飞”了起来。支撑这次腾空的高压气体，其核心储能部件，正是塞满车身空间的碳纤维缠绕的复合材料压力容器。从飞行汽车、大飞机到聚变装置，极端工况下先进装备的上限，归根结底受制于材料研发的边界。而材料研发有一个绕不开的特点：答案从来不在同一个尺度上。一只复合材料容器能承受多大的压力，要从原子尺度的界面键合与缺陷，看到微米尺度的纤维构型、晶粒与孔隙，再到米级构件的整体响应，前后跨越近十个数量级。业内把这条链路称为“成分—结构—工艺—性能”的构效关系。真实的材料研发，本质上就是在这条链路上做跨尺度推理。但今天用来衡量大模型“懂不懂材料”的基准，考的还是教科书和考试题。没有来自真实研发的考卷，就无从判断模型能不能做真实的材料研究，更谈不上训练出这样的模型。近日，元材新界（MATARIA）联合清华大学、北京大学、中国科学技术大学、上海交通大学、哈尔滨工业大学、西北工业大学、武汉理工大学、",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/industrynews/GMIW0ZLuJPyQHSR4.html",
-      "createdAt": "Wed, 25 Nov 2026 19:04:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_7",
-      "author": "雷锋网",
-      "text": "希音发布三季度业绩，经调整净利润同比增长近27% - 希音今日公布了截至2026年9月30日的三个月未经审计业绩，这是其上市后的首个完整季度。财报显示，今年三季度，希音多元化布局效果显现：欧洲市场承受了贸易政策变化带来的压力，美国市场继续复苏，其他地区市场保持健康增长。在充满挑战的全球消费环境下，希音调整后净利润仍同比增长26.8%至7.9亿美元，彰显出其核心端到端业务模式的强劲韧性。欧洲本地履约已占四成，美国订单量开始增长今年7月1日起，欧盟取消了150 欧元以下包裹的关税豁免，并对每类商品征收 3 欧元关税。应对贸易政策的变化，希音在欧盟市场上调产品价格，这在抵消额外成本的同时，也导致需求有所减弱，三季度净收入103亿美元，同比下降5.9%。不过，在截至2026年9月30日的十二个月期间，希音活跃客户数量依然达到2.91亿，与截至2026年6月30日止十二个月的数据持平。同时，三季度调整后净利润7.9亿美元，同比增长高达26.8%；在剔除一次性项目后，调整后净利润占净营收的比重也显著改善，较上一季度实现逾一倍的环比增长。“我们相信，随着我们产品以及履约能力的升级，欧洲市场规模在中长",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/industrynews/Cnxqgh4z73YfXvCm.html",
-      "createdAt": "Wed, 25 Nov 2026 18:44:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_8",
-      "author": "雷锋网",
-      "text": "冻薪、加班、砍休息时长！大众汽车降本连招惹怒工会：员工抬着棺材威胁罢工；黄仁勋：英伟达不需要接班人计划；红果短剧上线「时间锁」 - 要闻提示1.冻薪、加班、砍休息时长！大众汽车降本连招惹怒工会：员工抬着棺材威胁罢工2.新加坡子公司被列入美实体清单，阿里巴巴回应3.魏建军自曝压力很大，长城汽车从自主品牌销量第一滑落到第九4.红果短剧上线“时间锁”5.影石经销商称 Luna 云台系列产品将于 12 月 15 日起涨价6.传快手生活服务重启服务商和商户补贴，官方暂无回应7.黄仁勋承认不止两段婚外情并向英伟达董事会表达悔意，并称英伟达不需要接班人计划8.特斯拉、SpaceX合并谈判细节曝光：全股票合并谈判推进，最早或12月宣布今日头条冻薪、加班、砍休息时长！大众汽车降本连招惹怒工会：员工抬着棺材威胁罢工11月24日消息，据外媒报道，大众汽车与劳方的首轮工资谈判周二在德国埃姆登不欢而散，双方仅谈了两小时就散场，双方诉求相距甚远。谈判开始前，约4000名工人在会场外集会抗议，有人抬着分别写有“未来”和“信任”字样的黑色棺材，象征着公司未来的死亡和信任的消亡。报道称，埃姆登是大众计划下个十年初可能关",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/zaobao/1ER4gdHHQ4gNFpKi.html",
-      "createdAt": "Wed, 25 Nov 2026 18:39:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_机核_2",
-      "author": "机核",
-      "text": "节目继续，功能更新：GPASS冬促将在12月9日开启！ - 12月9日，GPASS冬季特惠将正式开启。今天还不是活动的开始，我们只是想提前提醒最近准备加入或续费GPASS的朋友：可以把预算留到12月9日，具体优惠方式会在活动开启时公布。今年秋天，我们以“回归游戏”为主题，公布了新一季GPASS节目单。从中国单机游戏走过的三十年，到游戏中的魔物、书籍、音乐、历史与真实事件，我们希望重新从一款游戏、一家公司或一段创作经历出发，慢慢走进它们背后的广阔世界。现在，GPASS内容正在沿着此前公布的节目单继续交付。我们想把已经答应大家的内容逐步呈现，也借这个机会同步目前的制作进度。已经上线：从一本魔物书开始新一季首档节目《地下城主的魔物书》已经正式上线。 &lt;Gadio Spec《地下城主的魔物书》&gt; 从神话传说到影视、动画与游戏，那些令人恐惧又忍不住想多看两眼的怪物，总会在不同作品中不断变换模样。节目将沿着这些熟悉的形象，聊聊魔物从哪里来、经历了怎样的演变，又为什么总能勾起我们的好奇。12月：两档重磅节目即将到来12月，我们将率先带来两档大家期待已久的节目。《游戏帝国》第三季 重轻回归",
-      "translated": "",
-      "url": "https://www.gcores.com/articles/222773",
-      "createdAt": "Wed, 25 Nov 2026 18:30:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC_0",
-      "author": "BBC",
-      "text": "Poundland collapses putting 11,000 jobs at risk - The discount chain has fallen into administration after its owners failed to find a buyer.",
-      "translated": "",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Wed, 25 Nov 2026 18:29:42 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_9",
-      "author": "雷锋网",
-      "text": "芯片研发上云后，沐曦和火山引擎一起走进更多AI应用现场 - 芯片研发不同阶段，算力需求可能相差数倍。低峰期，按峰值配置的固定资源容易闲置；流片前的冲刺阶段，算力又可能在短时间内不足。与火山引擎合作后，沐曦股份逐步将科学计算从IDC托管迁移至云上，同配置最新机型的测试效率提升40%。这只是双方合作的一部分。研发算力之外，沐曦股份还将开发者平台和内部IT业务逐步迁移至火山引擎，并与火山引擎联合探索“GPU算力＋智能体平台”的行业方案。双方的关系，正从云服务供需走向能力互补的产业生态合作。科学计算全量上云，支撑芯片研发提速芯片研发不同阶段对算力的需求差异明显：前端验证仿真更依赖CPU主频，后端设计需要大内存和高性能存储；批量仿真、流片冲刺时，算力需求还可能增长至低峰期的数倍。传统IDC若按峰值配置，日常容易闲置；若按常态需求配置，关键阶段又可能扩容不足。针对EDA任务对高主频、大内存和高I/O的需求，火山引擎为沐曦股份提供高主频云服务器、弹性裸金属及本地SSD等资源。沐曦股份可以在流片前提前锁定大规模资源，并在业务低峰期释放非核心资源。合作经过POC验证、小规模迁移和逐步扩容，沐曦科学计算最",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/industrynews/qpNTm1Kc6QN6mVY3.html",
-      "createdAt": "Wed, 25 Nov 2026 18:20:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_雷锋网_10",
-      "author": "雷锋网",
-      "text": "独家丨哥大博士创业做眼动追踪，已获 1800 万种子轮融资 - 创始人贾璋曾在苹果开创“原彩显示”技术，并与联合创始人陈子泰在 Meta 共事多年。作者丨黄艳冰编辑丨姚单雷峰网·鲸犀独家获悉，观格科技已完成&nbsp;1800 万元种子轮融资，并取得香港理工大学相关技术许可。目前，公司新一轮融资也即将完成，创维投资或担任领投方。观格科技成立于 2024 年，专注传感技术和 AI 算法，以及应用于 XR 装置关键技术的解决方案。核心团队横跨科技企业与高校科研领域。创始人兼 CEO 贾璋（Jerry Jia）本科毕业于北京大学物理系，后获哥伦比亚大学材料科学与工程博士学位。他先后任职苹果、 Meta 十余年，是苹果“原彩显示”功能开创者，获国际信息显示学会 （SID）年度产品奖。在 Meta 期间，他主导 XR 光学与眩晕数学模型研究，成果为业内首创，获 SID 最佳论文奖。在计算机视觉、光学、传感算法等领域有 20 余项美国专利。联合创始人魏敏晨（Tommy Wei）本科毕业于复旦大学，后获美国宾夕法尼亚州立大学建筑工程博士学位，现任香港理工大学建筑环境及能源工程学系教授。他长期研究影像",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/weiwu/4Hb8s6tRcpRrICqZ.html",
-      "createdAt": "Wed, 25 Nov 2026 18:19:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_0",
+      "id": "rss_TechCrunch_5",
       "author": "TechCrunch",
-      "text": "Want to buy your kid an AI toy this Christmas? Not in New York - New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "text": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks - The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
       "translated": "",
-      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-      "createdAt": "Wed, 25 Nov 2026 18:11:46 +0000",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "createdAt": "Wed, 25 Nov 2026 22:44:32 +0000",
       "likes": null,
       "retweets": null
     },
     {
-      "id": "rss_机核_3",
-      "author": "机核",
-      "text": "「游戏制作人大师课」线下活动开启，《博德之门1&2》《这是我的战争》《守望先锋》主创齐聚！ - 知乎游戏 X BGM游戏展邀请热爱游戏的你来「游戏制作人大师课」啦！这是一场以【主题演讲】和【对谈圆桌】构筑的「大师课」。我们跨越半个地球，试图把那些可能只在访谈里出现过的游戏制作人请到现场，与你面对面，好好聊聊做游戏这件小事儿。 单人海报： 北京场报名链接：https://s.zhihu.com/2_12whwP上海场购票链接：https://s.zhihu.com/2_1FPlae🔥 先聊聊活动初心吧对每一个热爱游戏、用代码与剧本构筑世界的开发者来说，肯定想知道这些影响了一代人的经典游戏 —— 无论是定义现代经典 CRPG 的《博德之门1&amp;2》、将人性与道德困境融入玩法的《这是我的战争》、《冰汽时代》，还是开创英雄射击风潮的团队竞技现象级作品《守望先锋》—— 在它们诞生的瞬间，究竟藏着怎样的创意火花与游戏灵魂？因为，做出一款打动人心的好游戏从来不是偶然。在工业化与新技术滚滚向前的今天，这些创意火花与灵魂仍然重要，一线游戏创作者们总会面临现实的拷问： 当工作室越做越大，初心如何在日",
-      "translated": "",
-      "url": "https://www.gcores.com/articles/222775",
-      "createdAt": "Wed, 25 Nov 2026 17:51:51 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_5",
-      "author": "Solidot",
-      "text": "日本政府开发智能体打击盗版动漫 - 日本文化厅正在测试一款 AI 智能体去自动识别和标记可能包含非法或盗版内容的动漫网站。测试结果显示其准确率极高。2025 财年针对国内的一项调查显示，AI 标记的 1168 条可疑 X 推文有 84% 是非法内容；AI 检测的 1564 个动画网站中 89% 含有盗版动画；1935 个漫画网站中盗版漫画比例高达 94%。2026 财年日本政府将监测范围扩大至海外。日本政府计划最早于 2027 年 3 月汇总并公布最新调查结果。",
-      "translated": "",
-      "url": "https://www.solidot.org/story?sid=85988",
-      "createdAt": "Wed, 25 Nov 2026 17:49:29 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC_4",
-      "author": "BBC",
-      "text": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash - Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
-      "translated": "",
-      "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Wed, 25 Nov 2026 17:48:28 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC_8",
-      "author": "BBC",
-      "text": "US stocks fall further as fears over AI intensify - All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-      "translated": "",
-      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Wed, 25 Nov 2026 17:48:09 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_1",
+      "id": "rss_TechCrunch_6",
       "author": "TechCrunch",
-      "text": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers - U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
+      "text": "FCC approves SpaceX plan to put AI data centers in space - The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
       "translated": "",
-      "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
-      "createdAt": "Wed, 25 Nov 2026 17:36:51 +0000",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "createdAt": "Wed, 25 Nov 2026 20:56:44 +0000",
       "likes": null,
       "retweets": null
     },
     {
-      "id": "rss_TechCrunch_2",
+      "id": "rss_TechCrunch_7",
       "author": "TechCrunch",
-      "text": "State AGs fight Character AI’s plan to auction off users’ private chats - The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "text": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work - OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
       "translated": "",
-      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-      "createdAt": "Wed, 25 Nov 2026 17:35:58 +0000",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "createdAt": "Wed, 25 Nov 2026 20:03:27 +0000",
       "likes": null,
       "retweets": null
     },
     {
-      "id": "rss_极客公园_0",
+      "id": "rss_TechCrunch_8",
+      "author": "TechCrunch",
+      "text": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it - Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "translated": "",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "createdAt": "Wed, 25 Nov 2026 19:54:57 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_9",
+      "author": "TechCrunch",
+      "text": "The canceled Tesla Cybertruck is the fastest-selling used truck in America - The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+      "translated": "",
+      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+      "createdAt": "Wed, 25 Nov 2026 19:54:32 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_10",
+      "author": "TechCrunch",
+      "text": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’ - Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "translated": "",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "createdAt": "Wed, 25 Nov 2026 19:44:24 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_6",
+      "author": "NASA",
+      "text": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement - How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE [&#8230;]",
+      "translated": "",
+      "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/",
+      "createdAt": "Wed, 25 Nov 2026 19:06:56 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_11",
+      "author": "TechCrunch",
+      "text": "1Password said hackers broke into its internal systems, but customer passwords are safe - The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+      "translated": "",
+      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+      "createdAt": "Wed, 25 Nov 2026 18:49:52 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_7",
+      "author": "NASA",
+      "text": "NASA Eyes Crop Candidates for Future Menus - As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving. Recent testing points to strawberries, […]",
+      "translated": "",
+      "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
+      "createdAt": "Wed, 25 Nov 2026 17:53:42 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_7",
       "author": "极客公园",
       "text": "\n        Plaud、影石、小红书、Looki......我们发起了一场 AI 硬件圈的年度聚会\n       - 在模型飞速演进的 2026 年，硬件世界反而开始告别「爽文叙事」。 前两年聊 AI 硬件，行业里经常讨论做出一个取代智能手机的「下一代超级入口」的终局命题。听着很过瘾，但真干起来才发现，做硬件这事儿，哪有那么多一步登天。 今年，气氛明显不一样了。 创业者们扎进一个个具体的生活场景里，一批新形态的产品，正在一些新场景里逐渐成为共识。 所以，今年跑得最快的几个方向，都没有「下一代入口」那么性感的叙事，但又都挺有意思： 健康可穿戴 AI 加入后，原本冰冷的身体信号，变成了普通消费者随时能看懂的身体状态、训练指导和睡眠建议。可穿戴，正在从记录仪变成随身教练。 录音卡 录音也正在从单纯的「存储」，向可以随时调取的个人记忆，甚至工作助手演进。以至于行业已经开始讨论，这类可以在特定场景里采集大量物理世界上下文的设备，也许会成为 Personal Agent 的第一个硬件形态。 墨水屏 一个典型的「反参数叙事」品类。彩墨屏技术的成熟，加上开源插件生态的繁荣，墨水屏从阅读器，演进出",
       "translated": "",
@@ -292,57 +102,7 @@
       "retweets": null
     },
     {
-      "id": "rss_雷锋网_11",
-      "author": "雷锋网",
-      "text": "AI加速酒店从标准化到\"千店千策\"，中国饭店协会联合千问办公发布酒旅行业白皮书 - 11 月 25 日，在2026中国饭店业高质量大会上，中国饭店协会联合千问办公发布《酒旅行业白皮书——从岗位、门店到千城万店的AI经营实践》。白皮书指出，酒旅行业的增长重心正从标准化转向个性化：过去，行业主要依赖物业、品牌来扩张；如今，单店经营质量更受关注。AI 正渗入行业全链条管理，从项目筹建、品质巡检到经营诊断、宾客服务，通过“千店千策”协助酒店转型。&nbsp;&nbsp;图说：中国饭店协会联合千问办公发布《酒旅行业白皮书——从岗位、门店到千城万店的AI经营实践》&nbsp;中国是全球规模最大的酒旅市场之一。根据《2026中国酒店业发展报告》，截至 2025 年末，全国酒店业设施约 37.5 万家，客房连锁化率 41.8%，规模庞大而结构分散。白皮书指出，以加盟制为主体的经营模式下，统一标准能保住品牌底线，却难以回答每家门店面对的具体经营问题。大模型能力在持续提升，但AI 要在行业真正落地，还需要理解企业知识、协助经营决策、推动业务协同，并随组织持续进化。东呈集团是广州的连锁酒店集团，加盟酒店超过",
-      "translated": "",
-      "url": "https://www.leiphone.com/category/industrynews/PiVtVm8Sy8CGtTb1.html",
-      "createdAt": "Wed, 25 Nov 2026 17:32:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC_5",
-      "author": "BBC",
-      "text": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater - The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
-      "translated": "",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Wed, 25 Nov 2026 17:30:16 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_3",
-      "author": "TechCrunch",
-      "text": "X’s latest update for creators focuses on vertical video - As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
-      "translated": "",
-      "url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
-      "createdAt": "Wed, 25 Nov 2026 17:28:29 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_机核_4",
-      "author": "机核",
-      "text": "小尝一口 GTA，录音笔VOL.833 - 【录音笔】是GPASS推出的一档会员专享节目，内容来自机核办公室日程生活和工作中的一些短小记录，每期时长十几分钟左右（大概吧）。内容也许是一些不成体统的碎碎念，也许是一些突然发疯的暴言，还有可能是哪个缺德的把办公室里真实的日常对话（dui ma）偷偷录了下来，总之就连我们自己现在也不知道每期会有哪些人参与，会录些什么。",
-      "translated": "",
-      "url": "https://www.gcores.com/radios/222764",
-      "createdAt": "Wed, 25 Nov 2026 17:00:00 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_TechCrunch_4",
-      "author": "TechCrunch",
-      "text": "WhatsApp now lets you schedule messages in group and individual chats - Users can schedule messages from 10 minutes later to after 14 days.",
-      "translated": "",
-      "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
-      "createdAt": "Wed, 25 Nov 2026 16:57:51 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_0",
+      "id": "rss_NASA_8",
       "author": "NASA",
       "text": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard - Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had after the space shuttle Challenger disaster,” [&#8230;]",
       "translated": "",
@@ -352,57 +112,7 @@
       "retweets": null
     },
     {
-      "id": "rss_BBC_10",
-      "author": "BBC",
-      "text": "Trump's accounts traded Nvidia shares 44 times this year, records show - A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
-      "translated": "",
-      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Wed, 25 Nov 2026 16:42:11 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_机核_5",
-      "author": "机核",
-      "text": "非正经AI修仙《不问凡尘》亮相2026 WePlay文化展 - 近日，非正经AI修仙RPG《不问凡尘》（World Apart）参加了2026 WePlay 文化展！《不问凡尘》是一款几乎百分百AI浓度的非正经3D修仙互动作品，以“真人”超写实视觉呈现修仙世界，将AI NPC互动、策略回合制战斗与自由修仙养成相结合，让道友们能够深入体验一段修仙故事。目前，《不问凡尘》在Steam好评率接近九成，获特别好评。 在WePlay的展台中，《不问凡尘》开放了抢先体验后首个大版本试玩：玩家从凡人起步，体验修行日常与回合制斗法，培养自身和NPC修为，与修仙世界互动等等！现场另设 “化身工坊”，可借助AI生成自己的修士形象并当场看到效果哦~ 在展会期间，《不问凡尘》吸引不少路人驻足拍照，也有已购游戏的玩家到场交流。 值得一提的是，在本作中，玩家以凡尘修士的身份，体验角色演出、修行日常、斗法历练等内容，真实走进修仙小说中的世界、亲自参与其中。作品里的NPC有各自的性格与经历。玩家可以通过自然语言与他们交流，从闲谈中了解人物、打听消息，也可以尝试说服和交涉，在往来中发现新的机缘。面对不同的修士，同一句话",
-      "translated": "",
-      "url": "https://www.gcores.com/articles/222770",
-      "createdAt": "Wed, 25 Nov 2026 16:35:41 +0800",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_量子位_0",
-      "author": "量子位",
-      "text": "我以为这是摄影作品，你告诉我这是最新的国产AI？！ - 商汤SenseNova U1.6",
-      "translated": "",
-      "url": "https://www.qbitai.com/2026/11/512748.html",
-      "createdAt": "Wed, 25 Nov 2026 16:34:09 +0000",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC_1",
-      "author": "BBC",
-      "text": "Why has Poundland collapsed and what happens next? - The retail chain has collapsed just one year after being bought for £1 by an American firm.",
-      "translated": "",
-      "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Wed, 25 Nov 2026 16:24:30 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC_2",
-      "author": "BBC",
-      "text": "US announces new tariff proposals on EU, China, and other trade partners - The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "translated": "",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Wed, 25 Nov 2026 16:21:34 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_NASA_1",
+      "id": "rss_NASA_9",
       "author": "NASA",
       "text": "Eye of the Sahara - The Richat Structure, also known as the &#8220;Eye of the Sahara,&#8221; is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks [&#8230;]",
       "translated": "",
@@ -412,92 +122,382 @@
       "retweets": null
     },
     {
-      "id": "rss_Solidot_6",
+      "id": "rss_极客公园_8",
+      "author": "极客公园",
+      "text": "\n        从手腕到雪鞋，运动可穿戴探索下一个可能 | 对话 Heygo\n       - 随身可穿戴，是智能硬件领域里一个非常清晰且明确的产品方向。 背后的逻辑，是把硬件「传感化」，用传感器在物理世界里拿到过去模型很难获得的上下文数据，再经过 AI 处理，最终兑现成高价值的个人服务。 落在具体产品上，目前已经可以看到两个「超级共识」的形态： 一类是以语音采集为抓手的个人效率工具，代表公司 Plaud 目前估值已经突破百亿；另一类是个人健康监测设备，这个赛道里既有超级巨头苹果旗下的 Apple&nbsp;Watch，也已经出现了 WHOOP、Oura 这样的新锐独角兽企业。 所以，对新晋入场的创业者们而言，要想在激烈竞争的共识里找到机会，大概率需要找到一个新的「非共识」切口：要么是新的数据，要么是新的场景。 2025 年在深圳成立的 Heygo，正是希望在单板滑雪这个垂直场景里，重新挖掘数据的价值。 创始人 Edward 是一个有着 7 年雪龄的资深滑雪用户。在他看来，滑雪一直缺少一把评估表现的「尺子」。教练只能隔着雪服凭经验判断，AI 看不懂全景相机拍的视频，智能手表能记下心率",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/374470",
+      "createdAt": "Wed, 25 Nov 2026 14:45:34 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_9",
+      "author": "极客公园",
+      "text": "\n        荣耀眼里的 AI 手机：前沿模型可以进来，但入口不能拿走\n       - 作者｜张勇毅 编辑｜郑玄 &nbsp; 11 月 23 日下午，荣耀在武汉发布了荣耀 700 系列，包括 700S、700 和 700 Pro 三款机型，补贴后 2899 元起，11 月 27 日开售。发布会上，全系 2 亿像素主摄、9000mAh 电池和背面那块 1.72 英寸小屏占了不少篇幅。 AI 手机助手 YOYO 豆包，这一代在荣耀 700 上有了专属的背屏显示载体｜图片来源：极客公园 但真正让手机圈竖起耳朵的，是荣耀官方通稿里的一个新称呼。荣耀手机上的 AI 助手一直叫 YOYO，到了荣耀 700 系列，它的正式名称变成了「AI 手机助手 YOYO 豆包」。 此前市面上搭载豆包手机助手的手机只有努比亚两代产品，荣耀 700 系列成了第二款搭载豆包的手机，只不过豆包在这台手机上的位置，和在努比亚手机上并不一样。 AI 能力，从手机正面到背面 荣耀 700 系列的 AI 能力，大半围绕这次机身背面的「AI 灵动背屏」和「YOYO 豆包」展开。 按荣耀官方介绍，新机首发了「AI 定制随心",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/374462",
+      "createdAt": "Wed, 25 Nov 2026 13:02:43 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_触乐_8",
+      "author": "触乐",
+      "text": "触乐夜话：没想到丢账号这种事也发生在我身上 - 触乐夜话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。 重生，这一世我要把失去的都夺回来！（图/小罗） 前段时间，我可算是遭遇了一件对我来说堪称天塌了的大事：我发现我玩了数年的《最终幻想14》（下文简称《FF14》）账号，竟然没了。 作为一款已经运营了十多年的网游，《FF14》自然积累了相当庞大的内容，而我也在其中投入了难以计数的时间。如今，游戏已进入7.0版本的末期，而我出于各种原因，已经有一段时间没有打开过它了。 直到最近，随着8.0版本逐渐临近，相关消息越来越多，我身边那些还在关注《FF14》的朋友也开始变得&ldquo;躁动&rdquo;起来。 毕竟，在我们看来，最近两个大版本的表现简直称得上灾难，大家平时没少对着游戏破口大骂。甚至最近一段时间本游的知名笑话是，商城推出了一个可以精准跳过这两个&ldquo;大粪&rdquo;版本的剧情直通包，售价只需19元。所以可以说，就连官方自己都知道它们真的很糟糕&hellip;&hellip; 讲个笑话 但骂归骂，面对即将到来的新版本，大家多少还是抱有一点期待。也许这次真的不一样呢？ 在看完新的",
+      "translated": "",
+      "url": "http://www.chuapp.com/article/291785.html",
+      "createdAt": "Wed, 25 Nov 2026 10:35:21 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_10",
+      "author": "极客公园",
+      "text": "\n        豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道\n       - 豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定量免费额度。 小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是「一个懂你，还能主动帮你办事的豆包」。未来，小豆上的能力与体验也将逐步在豆包 App 上线。（来源：IT 之家） 特斯拉 SpaceX 合并最新进展曝光 据报道，马斯克旗下特斯拉与 SpaceX 的潜在合并交易迎来新进展，双方已经确定五名董事，分别负责指导各自特别委员会推进合并谈判。 这五人中，三人来自特斯拉，分别是董事长罗宾&middot;登霍尔姆、董事凯瑟琳&middot;威尔逊-汤普森以及杰克&middot;哈通。 SpaceX 方面则由红杉资本合伙人鲁洛夫&middot;博塔和董事兰迪&middot;格莱恩参与。",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/374438",
+      "createdAt": "Wed, 25 Nov 2026 08:44:18 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_3",
+      "author": "芥末堆",
+      "text": "银河智学在GET2026分享多校实践，让个性化学习走进日常课堂 - “教育AI的价值，必须走进真实课堂去检验。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139672.html",
+      "createdAt": "Wed, 25 Nov 2026 07:34:57 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_10",
+      "author": "BBC中文",
+      "text": "宏福苑大火一週年：「這條刺永遠都在」，遺屬在傷痛中尋找答案 - 對許多家庭來說，道歉只是「最低消費」，他們仍在等一個完整的答案。BBC中文接觸了多位遇難者家屬，記錄他們怎樣度過這一年。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/c3j4r274lj82o/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 25 Nov 2026 03:21:30 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_10",
+      "author": "WSJ",
+      "text": "Nvidia Supplier SK Hynix Posts Record Profit on AI Boom - The South Korean memory-chip maker reported record quarterly and annual results after stronger-than-expected earnings for the final quarter of 2024 on robust chip demand.",
+      "translated": "",
+      "url": "https://www.wsj.com/articles/sk-hynix-posts-strong-fourth-quarter-net-profit-on-ai-boom-6f32e38b?mod=rss_Technology",
+      "createdAt": "Wed, 22 Jan 2025 21:04:00 -0500",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_11",
+      "author": "WSJ",
+      "text": "Tech, Media & Telecom Roundup: Market Talk - Find insight on Netflix, U.S. advertising spending, AI joint venture Stargate and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "translated": "",
+      "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-85899e83?mod=rss_Technology",
+      "createdAt": "Wed, 22 Jan 2025 16:56:00 -0500",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_6",
+      "author": "BBC中文",
+      "text": "2026台灣地方選舉：「九合一」為何重要？選舉時程是什麼？ - 台灣的地方選舉又稱「九合一」選舉，每四年一次，多數落在總統任期中段的年底，故被視為總統的「期中考」。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/cp931k7xx4do/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Wed, 16 Sep 2026 04:47:26 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_触乐_9",
+      "author": "触乐",
+      "text": "许多人批评《GTA 6》，但这重要吗？ - 《GTA 6》在上市之后就掀起了猛烈的舆论风暴。 批评《GTA 6》的意见大体可以分为两个部分，其一是社会层面的，很多人对这款游戏的剧情不满，认为游戏的男主角杰森缺乏个性，女主角的性格又惹人生厌，由此引发出一系列批评。其二是游戏设计层面本身的，一些玩家认为这款游戏过于乏味，让玩家找不到&ldquo;GTA的感觉&rdquo;。 在社会层面上，游戏引发如此重大舆论风波的原因之一是GTA已经超越了单纯的游戏领域，而成为了一种&ldquo;文化现象&rdquo;。在《GTA 6》发售的那一个月里，几乎所有媒体、网红和论坛都在关注它，这也就导致了它成了真正意义上的流量密码。大量用户通过观看主播的游戏实况或游戏评论来建立对游戏的观感，而很多人对游戏的印象就是在这种传播过程中被扭曲和放大。 在初期，比较经典的传闻包括&ldquo;男主和另一个男人睡在一起&rdquo;（实际上是男主角和他的朋友玩游戏到深夜，两个人直接在男主家睡下）&ldquo;男主不能在同性恋夜店开枪&rdquo;（实际上游戏无法在所有夜店开枪）&ldquo;男主角为了迎接女主出狱要做各",
+      "translated": "",
+      "url": "http://www.chuapp.com/article/291787.html",
+      "createdAt": "Tue, 24 Nov 2026 19:20:09 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_11",
+      "author": "极客公园",
+      "text": "\n        黄仁勋，离开英伟达的 11 天\n       - 作者｜宇航猿 编辑｜靖宇 11 月 12 日，执掌英伟达 33 年的黄仁勋因被曝两段婚外情，突然辞去 CEO、总裁及董事职务，即刻生效。 硅谷，迎来一场剧烈的风暴。 11 月 17 日，黄仁勋在社交媒体发声，为给董事会制造麻烦深表后悔，同时明确递出话头，只要符合股东、员工与公司的最佳利益，他随时愿意回归。这封声明让英伟达股价在 27 分钟内从 150.45 美元跳涨至 155.35 美元。然而同一天的财报电话会上，董事会主席哈维&middot;琼斯冷硬地关上了门，宣布一致接受辞职，「无意让他复任 CEO」，并透露已聘请猎头公司海德思哲寻找继任者。 资本市场和科技圈，随即用最暴烈的方式投了反对票。黄仁勋离开后的 7 个交易日里，英伟达股价连跌约 28%，市值蒸发约 1.16 万亿美元。与此同时，一个名为「Stand with Jensen」的请愿网站在 8 天内收集了约 20.45 万个签名。 到了 11 月 23 日，仅仅过去 11 天，英伟达董事会推翻了自己六天前的公开表态。周末连开两次会后，董事会全票通过决议，恢复",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/374431",
+      "createdAt": "Tue, 24 Nov 2026 17:58:05 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_4",
+      "author": "芥末堆",
+      "text": "九章老师2.0全新亮相，为教师配备专业智能教研组 - ​目前，教师可通过九章老师客户端与网页端体验。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139671.html",
+      "createdAt": "Tue, 24 Nov 2026 02:57:13 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_Solidot_9",
       "author": "Solidot",
-      "text": "男性肥胖者服用 GLP-1 药物后改善了精子质量 - 根据发表在《Biomedicines》期刊上的一项研究，男性肥胖者在服用 GLP-1 药物之后改善了精子质量和睾酮水平。研究针对了 108 名有肥胖症和/或 2 型糖尿病男性，服用 GLP-1 药物一年后他们的精子浓度显著增加。在服用 GLP-1 前样本中仅有略超 3% 的精子形状正常，12 个月的治疗后这一比例上升至 4.5%。具有前向运动能力的精子比例也从 23% 提高到了 38%。服用者平均睾酮水平上升 30%，雌二醇水平则有所下降。",
+      "text": "今天的老年人相比上一代人记忆力衰退放缓 - 今天的老年人相比上一代人认知衰退更慢记忆更好。一项针对 1910-1964 年间出生的 21.9 万人的研究发现，出生年份每向后推移十年，60 岁时的记忆力得分便会提高 10%。全世界很多国家的人口正在老龄化，患有痴呆症的人数也在上升。但过去四十年美国人任何年龄患痴呆症的个人风险下降了三分之二。研究人员推测，记忆力的提升可能得益于童年时期更好的教育、医疗保健和营养状况；而认知功能衰退速度的放缓，则可能受到人生后期多种因素的影响，例如心血管疾病和代谢性疾病治疗水平的改善。",
       "translated": "",
-      "url": "https://www.solidot.org/story?sid=85987",
-      "createdAt": "Wed, 25 Nov 2026 16:05:18 +0800",
+      "url": "https://www.solidot.org/story?sid=86006",
+      "createdAt": "Thu, 26 Nov 2026 23:58:59 +0800",
       "likes": null,
       "retweets": null
     },
     {
-      "id": "rss_IT之家_0",
-      "author": "IT之家",
-      "text": "蛮啾《蓝色星原：旅谣》今日公测：两百余种奇波可捕捉骑乘，登陆 PC、iOS、安卓、鸿蒙与 PS5 - IT之家 11 月 26 日消息，由《碧蓝航线》开发商蛮啾网络打造的幻想大世界 RPG《蓝色星原：旅谣》将于 11 月 26 日 10:00 正式开启公测，登陆 PC、iOS、安卓、鸿蒙与 PS5 平台。该作由上海蛮啾网络科技有限公司研发并运营，采用 Unity 引擎开发，背景音乐有川井宪次、西木康智等作曲家参与。海外发行方面，日服由蛮啾网络与悠星联合发行，韩服由 NEXON 代理，东南亚地区由 PlayPark 负责。故事舞台为幻想大陆普罗米利亚。玩家扮演“星临者”重返这片土地，在灾变后秩序失衡的世界中游历，追寻散落于天地间的星光传说。与常见的开放世界产品不同，本作不设强制线性流程，探索解谜、动作战斗与家园经营之间的切换由玩家自行安排。核心玩法围绕幻想生物“奇波”展开（IT之家注：奇波为本作中对幻想生物的统称）。目前游戏内已实装两百余种奇波，不同物种拥有各自的生态习性与地域亚种。奇波可上场参战并释放技能，也能化为飞行、水上骑乘载具，用于跨越地形或破解环境机关，还可派驻家园牧场承担种植",
-      "translated": "",
-      "url": "https://www.ithome.com/1/032/534.htm",
-      "createdAt": "Wed, 25 Nov 2026 16:00:07 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_IT之家_1",
-      "author": "IT之家",
-      "text": "奕境曾清林：新能源汽车来到智能化下半场，四激光正是面向 L3、一步到位的智驾硬件方案 - IT之家 11 月 25 日消息，奕境汽车品牌总经理曾清林刚刚发文，分享了 70% 和 90% 两组数据：70% 来自工信部。2026 年以来，搭载辅助驾驶功能的乘用车新车，市场渗透率已经达到 70%。这再次印证，新能源上半场是电动化，现在来到了下半场的智能化。随着充电网络的普及和续航的提升，充电和续航对很多朋友来说已经不再是主要焦虑，真正的考题在智驾。90% 这个数据来自华为智能辅助驾驶后台：买了华为智驾车型的车主，90% 以上每天都在用。这个数据在我身上也可以得到验证。我目前开奕境 X9，每天 90% 的路程都是智驾开的。曾清林表示，有的智能辅助驾驶，让用户雨天不敢用、晚上没法用，极端工况更是害怕用，这样的智驾只会给用户添麻烦。问题往往出在感知硬件上。摄像头在夜晚、雨天、小目标面前存在短板，硬件看不全、看不准，算法再强也无从判断。他认为，要补上这些短板，激光雷达的数量和布局，就是绕不过去的一环。四激光，正是面向 L3、一步到位的智驾硬件方案。曾清林透露，即将亮相华为乾崑生态大会的奕境 X9 纯",
-      "translated": "",
-      "url": "https://www.ithome.com/1/032/533.htm",
-      "createdAt": "Wed, 25 Nov 2026 15:59:21 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_IT之家_2",
-      "author": "IT之家",
-      "text": "北京汽车 T700 新车申报：1.5T 增程动力、单 / 双电机两种版本 - IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，北汽 T700 完成申报。本次申报的车型由北京汽车集团越野车有限公司生产，隶属于北京牌，定位为插电式增程混合动力运动型乘用车，车尾分别标注“T700”与“北汽集团”字样。根据外观及动力差异，公示中包含两种版本，整体造型延续方正硬派的方盒子设计语言，配备贯穿式尾灯与银色下护板装饰。IT之家注意到，两种版本的三围尺寸均为长 4973mm、宽 2019mm，轴距同为 3050mm ，额定载客 5 人。基础版本高度为 1930mm，整备质量 2410kg，最高车速 180km/h；高配版本高度略降为 1910mm，整备质量提升至 2700kg，最高车速达到 200km/h，同时可选装牵引专用装置（电连接头、拖钩孔），准拖挂车总质量最高 2000kg。动力方面，两款车型均搭载由北京汽车动力总成有限公司生产的 A156T3 型 1.5T 增程器，排量 1498ml，发动机额定功率 115kW、最大净功率 110kW，满",
-      "translated": "",
-      "url": "https://www.ithome.com/1/032/531.htm",
-      "createdAt": "Wed, 25 Nov 2026 15:53:13 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_IT之家_3",
-      "author": "IT之家",
-      "text": "“独立”微信音乐悄悄上线：内置在听一听中，曲库来源于 QQ 音乐 - IT之家 11 月 25 日消息，据公众号“大厂产品”分享，微信也有了自己的音乐产品。打开微信发现页中的听一听，进入「我的-个人歌单」会看到个人歌单下显示有微信音乐。虽然是微信音乐，但歌曲还是来源于 QQ 音乐。除了微信音乐外，用户还可绑定 QQ 音乐、酷狗音乐。QQ 音乐是使用微信账号，绑定 QQ 音乐账号后，同步 QQ 音乐收藏、最近播放歌曲。酷狗音乐也和 QQ 音乐类似，是和微信账号绑定和同步的操作。从目前的分享来看，微信音乐内置在听一听中，是听一听的一部分，其曲库来源于 QQ 音乐，不过有微信音乐自己的推荐、评论、分享、共享等玩法。大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。",
-      "translated": "",
-      "url": "https://www.ithome.com/1/032/530.htm",
-      "createdAt": "Wed, 25 Nov 2026 15:42:27 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_BBC_3",
-      "author": "BBC",
-      "text": "Wife drugged and raped by husband asked police if she was to blame, mass sexual offence trial hears - The woman told a court suggestions she was 'pretending to be asleep' were 'absolute rubbish'.",
-      "translated": "",
-      "url": "https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&at_campaign=rss",
-      "createdAt": "Wed, 25 Nov 2026 15:42:10 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_IT之家_4",
-      "author": "IT之家",
-      "text": "零跑 C19 新车申报：增程 / 纯电双动力，5.1 米长 5/6/7 座中大型 SUV - IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，零跑 C19 增程版与纯电版完成申报。本次申报的零跑 C19 车身尺寸为长 5128mm、宽 1972mm、高 1770mm（选装配置时为 1765mm），轴距 3000mm，定位中大型 SUV。车尾右侧标注有「C19」字样，左侧为「零跑」中文标识，中部为「LEAPMOTOR」英文标识，采用贯穿式尾灯设计。▲ 零跑 C19 增程版IT之家注意到，零跑 C19 增程版搭载重庆小康动力型号为 L15T 的 1.5T 四缸增程器，排量 1496ml，发动机额定功率 97kW，最大净功率 95kW，系统最高车速 180km/h。增程版采用前后双电机四驱布局，前电机额定功率 65kW、峰值功率 100kW，后电机额定功率 80kW、峰值功率 210kW。增程版提供两个申报型号，其中型号 FZ6510REEVWC19C 仅提供 6 座布局，整备质量 2360kg，总质量 2860kg，配备磷酸铁锂电池，",
-      "translated": "",
-      "url": "https://www.ithome.com/1/032/529.htm",
-      "createdAt": "Wed, 25 Nov 2026 15:35:07 GMT",
-      "likes": null,
-      "retweets": null
-    },
-    {
-      "id": "rss_Solidot_7",
+      "id": "rss_Solidot_10",
       "author": "Solidot",
-      "text": "CIA 部分非机密信息泄漏 - 中央情报局（CIA）和国家情报总监办公室（ODNI）最近发现了一起网络入侵事件，导致部分非机密信息遭到泄露。此次入侵影响了一个开源情报分析系统，机密信息未泄漏。开源情报旨在利用公开非机密信息搜寻情报线索，其涵盖范围广泛，包括可商业获取的数据集、社交媒体内容、卫星图像以及其它网络数据。开源情报结合其它数据源，经常能揭示出极具价值的情报。情报机构常将此类数据与其它情报来源综合使用以辅助分析判断。",
+      "text": "英国人性生活频率大幅下降 - 根据发表在《柳叶刀》期刊上的一项研究，英国人性生活频率大幅下降，从 1990 年每月四次降至如今的每月两次；三分之一的 16–24 岁年轻人表示从未有过性行为，而 1990-2010 年间这一比例是五分之一；过去十年同性性行为的报告在增加；观看网络色情非常流行，一半年轻女性和近九成年轻男性表示过去一年曾看过色情；无子女女性明确表示不打算生育的比例过去十年间翻了一番；等等。",
       "translated": "",
-      "url": "https://www.solidot.org/story?sid=85986",
-      "createdAt": "Wed, 25 Nov 2026 15:33:54 +0800",
+      "url": "https://www.solidot.org/story?sid=86005",
+      "createdAt": "Thu, 26 Nov 2026 23:41:40 +0800",
       "likes": null,
       "retweets": null
     },
     {
-      "id": "rss_IT之家_5",
-      "author": "IT之家",
-      "text": "岚图梦想家 8 申报：纯电 / 插混可选，7 座中大型 MPV - IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，岚图汽车全新中大型 MPV 岚图梦想家 8 完成申报，涵盖纯电动、插电式混合动力共三款车型。IT之家注意到，本次申报的岚图梦想家 8 车尾带有“梦想家 8”标识，整体采用简约方正的 MPV 车身造型，配备贯穿式尾灯组，后包围下方设有红色反光饰条，整体风格偏向家用与商务兼顾的定位。车身尺寸方面，新车长宽高分别为 5260/2008/1780-1805mm，轴距为 3150mm，采用 7 座布局，轮胎规格提供 255/55R19、255/50R20 两种选择。配置上，新车可选装双色车身、前格栅样式、前格栅饰条、不同轮辋，全系配备 ABS、汽车事件数据记录系统（EDR），并可选装直接供电式 ETC，最高车速均为 200km/h。动力部分，纯电版车型搭载前后双电机，峰值功率分别为 175kW、230kW，配备三元锂离子蓄电池，电池由宁德时代旗下多家公司供应；两款插混版车型均搭载 1.5T 发动机（型号 DFMC15TE3，最",
+      "id": "rss_触乐_3",
+      "author": "触乐",
+      "text": "触乐夜话：去了WePlay - 触乐夜话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。 我的意中人是个出租车司机，有一天他会开着车来四叶草接我（图/小罗） 说来也怪，虽然人在上海，我却是第一次去WePlay。上周末的上海，虽然气温很低但好在天晴，哪怕这几天的太阳被戏称是冰箱里的灯泡，只起到一个照明的作用，但去过Bilibili World的朋友应该有所体会，一个不刮风下雨的好天气胜过黄金万两。 经典永流传（图源：B站UP主&ldquo;孑诺Sang&rdquo;） 这次的展会地点在国家会展中心，也就是大家口中的&ldquo;四叶草&rdquo;，因其形状为四叶草而得名，总建筑面积155万平方米，是目前世界上最大的建筑单体，很不幸，这一次我就充分领略了其之大。 WePlay的展馆在远离地铁口的一侧，入场路线需要绕场大半周，而四叶草作为一个会展综合体，同时举办好几个展是再正常不过的事，于是在出站后，我面对中国国际纺织机械展览会的展板和许多西装革履的中年商务人士陷入了迷茫，试图在人群中找到流露出一丝一毫游戏同好气息的人，哪怕只是一个痛包或者挂件呢！求求了出现吧！当然，很快我就抛弃了这种无谓的念头",
       "translated": "",
-      "url": "https://www.ithome.com/1/032/528.htm",
-      "createdAt": "Wed, 25 Nov 2026 15:30:49 GMT",
+      "url": "http://www.chuapp.com/article/291791.html",
+      "createdAt": "Thu, 26 Nov 2026 23:38:07 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_触乐_4",
+      "author": "触乐",
+      "text": "DNFU2026嘉年华：和勇士们一起搞点“新动作” - ■ 1 从2024年起，几乎每年的这个时间段，我都会参加&ldquo;DNF宇宙&rdquo;（Dungeon&amp;Fighter Universe，简称DNFU）嘉年华，地点一路从深圳、上海再变换到这次的成都。参加的次数渐多，我也随之对DNFU嘉年华有了许多鲜明的印象：场地开阔，NPC还原又鲜活，游玩体验非常丰富；伴随着游戏本体展开的文创联动、公益活动，路人也会被吸引；有赛事，也有同人交流的场地，玩家多样性总会在过程中得到更多展示。 今年DNFU嘉年华的场地在成都东郊记忆，主题是&ldquo;玩点新动作&rdquo; 对于一款游戏来说，线下总是能够最直接地传达这款游戏的气质，和它当下的状态，甚至是它对未来的规划。而作为媒体，我也在这些参与的过程中，得以从一个更远、更持续的视角去观察嘉年华和DNF IP本身的变化。 比如，2024年，我在当时的嘉年华试玩了《地下城与勇士：卡赞》，这是DNF这个IP下第一款严格意义上的买断制单机游戏；去年，我在《代号Fight》的试玩区和工作人员开了一局，当时这款产品还没有正式面向玩家公布；今年",
+      "translated": "",
+      "url": "http://www.chuapp.com/article/291793.html",
+      "createdAt": "Thu, 26 Nov 2026 23:36:22 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_Solidot_11",
+      "author": "Solidot",
+      "text": "已故网络工程师 Dave Täht 获得 Jonathan B. Postel 服务奖 - 2025 年 4 月 1 日去世的网络工程师 Dave Täht 获得了互联网协会颁发的 Jonathan B. Postel 服务奖。今年初路由器发行版 OpenWrt 曾为纪念他而以他的名字命名 v25.12.0。互联网协会称：在 Täht 看来，视频通话中断、网页加载缓慢、进度条冻结——这些现象统称为缓冲区膨胀（bufferbloat）——都是阻碍互联网连接的障碍。所谓缓冲区膨胀是指数据在负责转发流量的硬件设备中滞留的时间。Täht 致力于寻找并推广解决网络拥塞的方案，旨在让人们真正享受到互联网的全部潜能。",
+      "translated": "",
+      "url": "https://www.solidot.org/story?sid=86004",
+      "createdAt": "Thu, 26 Nov 2026 23:24:13 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_0",
+      "author": "TechCrunch",
+      "text": "Nvidia hits pause on chip shipments to Southeast Asia - Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "translated": "",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "createdAt": "Thu, 26 Nov 2026 20:03:54 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_1",
+      "author": "TechCrunch",
+      "text": "Is Alice Huang a spy or not? - The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+      "translated": "",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "createdAt": "Thu, 26 Nov 2026 20:00:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_2",
+      "author": "TechCrunch",
+      "text": "X finally gets parental controls after 20 years - Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+      "translated": "",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "createdAt": "Thu, 26 Nov 2026 19:31:50 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_4",
+      "author": "极客公园",
+      "text": "\n        好消息，AI 可以替你打客服电话了；坏消息，电话那头也是 AI\n       - 作者｜Lilyann 编辑｜靖宇 网上冲浪这么多年，你一定有过这样的经历：想取消一项自动续费，却怎么都找不到入口；明明是商家多扣了钱，申请退款却要层层转接；为了几十块钱，和客服解释半个小时，最后听到一句「非常抱歉，暂时无法为您处理」。 钱不一定很多，但就是咽不下这口气。更憋屈的是，你明明有道理，却没时间跟它耗。企业有一整套客服系统，而你可能只有一个午休时间。 现在，这种不对称的关系，终于迎来改变了。 AI，尤其是 Personal AI 的出现，让消费者可以把这些生活琐事，交给 AI 来处理，无论是邮件往来，或者是 App 上的申诉，Agent 都能一键代劳。 但是，新的问题，也出现了。 好消息是，AI 终于可以替你打客服电话了。坏消息是，电话那头可能也是 AI。 一边是企业派出的 AI 客服，一边是消费者派出的 AI 助理。双方不知疲倦地讨论一笔十几美元的账单争议，真正的消费者早就去忙别的了，只剩两个 AI 还在礼貌地交涉。 听起来像个黑色幽默，但在 2026 年的硅谷，这已经是创业公",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/374536",
+      "createdAt": "Thu, 26 Nov 2026 17:04:47 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_3",
+      "author": "TechCrunch",
+      "text": "A month with the iPhone Duo has changed how I use my phone - From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+      "translated": "",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "createdAt": "Thu, 26 Nov 2026 17:00:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_5",
+      "author": "极客公园",
+      "text": "\n        成本低九成、开源权重：MAGI-2 带动视频模型进入大掀桌时代\n       - 作者｜Cynthia 编辑｜郑玄 2026 年的视频大模型圈子，有一个心照不宣的保留节目：无论哪家推出新模型，最终的成绩页上，永远会留一行和 Seedance 2.5 的对标数据。 这款上半年坐稳行业标杆的闭源模型，如今成了整条赛道公认的「基准线」&mdash;&mdash; 快手可灵 Kling 3.0 上线，要比镜头控制与生成时长；阿里 Wan 3.0 推出，主打同画质下的性价比；MiniMax 发 H3 系列，也要在 AA 榜单上标清和 Seedance 的 Elo 分差。 你方唱罢我登场，榜首的排位刷了一轮又一轮，但行业的底色没变：顶尖能力始终攥在闭源厂商手里，靠云端 API 和创作平台对外输出。即便是开放基础模型权重的 MiniMax H3，其完整生成系统中仍有部分能力未开放。 直到 11 月 25 日，作为开源视频模型代表的Sand.ai 正式 掀桌，公司宣布： 旗下 480B 总参数的 MAGI-2 音视频统一模型，计划尽快开源全量权重，把 Seedance 2.5 级别的",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/374532",
+      "createdAt": "Thu, 26 Nov 2026 16:38:54 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_TechCrunch_4",
+      "author": "TechCrunch",
+      "text": "Grand Theft Auto VI proves why efficiency isn’t a virtue - On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "translated": "",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "createdAt": "Thu, 26 Nov 2026 16:00:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_8",
+      "author": "BBC中文",
+      "text": "九合一選前反轉：沈伯洋破天荒取消台北「選前之夜」，如何影響選情？ - 這是台北市自1994年恢復市長直選以來，首次有民進黨參選人不舉辦選前之夜。有政治學者向BBC中文分析，沈伯洋取消活動可為交通爭議「止血」，但同時窒礙了綠營凝聚聲勢。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/cwz0kymdzdd8o/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Thu, 26 Nov 2026 13:41:15 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_1",
+      "author": "芥末堆",
+      "text": "从敢开口到为地球发声，51Talk 全球学员代表亮相联合国气候变化大会 - 这也是51Talk学员连续五年亮相COP舞台。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139674.html",
+      "createdAt": "Thu, 26 Nov 2026 13:09:56 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_极客公园_6",
+      "author": "极客公园",
+      "text": "\n        黄仁勋复职后首次主持全员大会：向员工道歉；iPhone Duo 零部件成本创历代 iPhone 新高；Anthropic 跌破发行价｜极客早知道\n       - 黄仁勋复职后首次主持全员大会：向员工道歉，称将调整管理方式 当地时间 11 月 24 日，英伟达 CEO 黄仁勋在复职后首次召开的公司全员大会上向员工道歉，承认自己违反了公司行为准则，并表示已经开始接受每日一个半小时的心理治疗。 他称自己犯下了「非常严重的个人错误」，伤害了家人，也辜负了员工，并感谢公司董事会给予自己第二次机会。 黄仁勋承认，以往过于强势的管理方式有时影响员工发挥主动性，今后将征求同事反馈，并接受针对自己的 360 度绩效评估。对于继任安排，他表示不认同传统接班人计划，认为董事会可以在需要时从管理团队中选择人选。 黄仁勋称，复职决定由董事会作出。英伟达此前的公告同时披露，董事会在决策过程中听取了美国政府高级官员的意见；针对相关事件的独立调查仍将继续。（来源：IT 之家） iPhone Duo 零部件成本率达 64%，创历代 iPhone 新高 11 月 25 日，CNMO 科技从「日经中文网",
+      "translated": "",
+      "url": "http://www.geekpark.net/news/374500",
+      "createdAt": "Thu, 26 Nov 2026 08:19:57 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_芥末堆_2",
+      "author": "芥末堆",
+      "text": "以科普启智 以数理筑基 以创新致远 “数学好玩”数理创新素养培育计划研讨会回顾 - 兴趣是在学习中产生的，要把数学的重要性和应用价值讲透。",
+      "translated": "",
+      "url": "https://www.jiemodui.com/N/139673.html",
+      "createdAt": "Thu, 26 Nov 2026 06:21:55 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_9",
+      "author": "BBC中文",
+      "text": "宏福苑大火一周年：居民受壓、媒體噤聲，為何悼念變得小心翼翼？ - 宏福苑大火一周年前夕，港府官員稱「政府絕對容許」合法活動，但有遺屬表示悼念活動受壓，也有新聞工作者向BBC中文透露，相關周年報導在製作完成後突然「被抽起」。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Thu, 26 Nov 2026 05:41:40 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_4",
+      "author": "NASA",
+      "text": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis - APOD Science APOD APOD: 2026 November 26 – Eye… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Eye in [&#8230;]",
+      "translated": "",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/",
+      "createdAt": "Thu, 26 Nov 2026 05:05:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_NASA_5",
+      "author": "NASA",
+      "text": "Seeking Refuge on Resolution Island - New Zealanders have long envisioned the island as a predator-free zone for native birds, but swimming stoats have shown a resolve of their own.",
+      "translated": "",
+      "url": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/",
+      "createdAt": "Thu, 26 Nov 2026 05:01:00 +0000",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_触乐_5",
+      "author": "触乐",
+      "text": "《崩坏：因缘精灵》终于要回答“那个问题”了 - &ldquo;你死了。&rdquo; 在我无视警告，让主角拉动一根逗猫的绳子之后，屏幕上弹出了这三个字。我以为这和《崩坏：星穹铁道》里的恶搞剧情一样，不过是一次玩笑，但这次似乎不是。 黑暗的画面中，一段动画随之展开：&ldquo;前&middot;死生的真王&rdquo;阿姆斯泰达特坐在王座上，回忆起他与主角之间的契约。这份契约赋予了主角一项特殊能力：不会真正&ldquo;永亡&rdquo;。就像读档机制一样，动画结束后，阿姆斯泰达特又把主角推回了现实。 死了还要被嘲讽，哼 这已经不是我在今天开启的《崩坏：因缘精灵》三测中第一次死亡了。在剧情任务&ldquo;元理的游戏&rdquo;里，主角第一次进入任务时，因为没有满足通关条件，推开中庭大门的瞬间就触发了死亡。同样的，经过一段回溯，主角又被送回了任务起点。 如果你关注过《崩坏：因缘精灵》（下称《因缘精灵》）此前的一测和二测，应该对它的CRPG元素有所耳闻。这款米哈游&ldquo;崩坏&rdquo;系列的新作，不仅加入了由属性驱动的对话检定，还在部分任务中设计了分支选择与回溯机制，试图打破",
+      "translated": "",
+      "url": "http://www.chuapp.com/article/291790.html",
+      "createdAt": "Thu, 26 Nov 2026 00:33:25 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_触乐_6",
+      "author": "触乐",
+      "text": "触乐夜话：瞎折腾了一些设备 - 触乐夜话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。 打游戏和末世求生其实是一样的！（图/小罗） 我不知道这算不算某种怪癖&mdash;&mdash;当我出门时，我必须确保身上至少有一件以上的娱乐设备。在我仍需要搭乘广州地铁3号线通勤的日子里，我几乎每天都要背上一台游戏机。最开始是初版的Switch，我会用它玩&ldquo;塞尔达&rdquo;两部曲和《神界：原罪2》，后来，我已经通关了&ldquo;塞尔达&rdquo;们很久了，它的位置被一台年会里抽到的Steam Deck取代了。装完各种插件、过了一开始的新鲜劲儿之后，我其实很少在Steam Deck上玩游戏了。它很重，OLED屏幕对眼睛并不友好，它的系统也隔三差五地出问题&mdash;&mdash;但我仍然几乎每天都背着它出门。 随Steam Deck一起伺候我的还有一台七八年前的Kindle，型号应该是paper white3。我在某一年找第三方店铺给它做过&ldquo;升级&rdquo;:存储空间从原本的4GB加到了256GB，原生系统改成了某个第三方系统，让它可以兼容更多电子书的格式，同时还能打",
+      "translated": "",
+      "url": "http://www.chuapp.com/article/291789.html",
+      "createdAt": "Thu, 26 Nov 2026 00:32:28 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_触乐_7",
+      "author": "触乐",
+      "text": "做出百万销量爆款后，他们现在不做超过一年半的项目 - &ldquo;当时已经不想考虑太多，做完了赶紧上。&rdquo;2024年1月底，折腾近三年，&ldquo;奥秘之家&rdquo;终于上架了国风解谜游戏《山河旅探》。当时正是春节前夕，陈振没事会打开Steam瞄一眼后台&mdash;&mdash;越看他越心灰意冷，觉得游戏恐怕要&ldquo;扑街&rdquo;了。 陈振是奥秘之家的联合创始人。当时，他对这个结果不太意外。&ldquo;我们花了不少功夫做推广，但折腾到上线前，愿望单也没过3万。&rdquo;陈振回忆，&ldquo;按照一般经验，上线可能就两三万套。&rdquo; 在发售后第三天，游戏才迎来了转机。逍遥散人等游戏区UP主陆续上传直播录屏，《山河旅探》在玩家群体中迅速传播，每日销量涨至之前的大约两倍，势头持续了一两月。据国游销量榜统计，2024年，《山河旅探》年销量55万套。截至今年，《山河旅探》累计售出100万套。 Up主直播成为转折点 近日，奥秘之家再次露面，公布新游《潜梦者》。近三年过去，在他们身上发生了许多改变。 2024年，奥秘之家团队有40人，现在他们减少至30",
+      "translated": "",
+      "url": "http://www.chuapp.com/article/291788.html",
+      "createdAt": "Thu, 26 Nov 2026 00:30:00 +0800",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_BBC中文_4",
+      "author": "BBC中文",
+      "text": "白紙運動四年之後，上海青年公共空間去哪兒了？ - 白紙運動四年後，BBC中文對話多位上海酒吧、咖啡店老闆和昔日常客、白紙運動親歷者，在他們眼裡，青年空間是如何在四年裡逐漸消失的。",
+      "translated": "",
+      "url": "https://www.bbc.com/zhongwen/articles/cwe851kg1kj1o/trad?at_medium=RSS&at_campaign=rss",
+      "createdAt": "Thu, 26 Nov 2026 00:29:38 GMT",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_8",
+      "author": "WSJ",
+      "text": "Canada to Review Amazon Contracts After Quebec Layoffs - Canada has warned Amazon.com that it is reviewing business ties with the company’s cloud-computing unit following Amazon’s decision to shut down its warehouses in Quebec, leading to the layoff of 1,700 workers.",
+      "translated": "",
+      "url": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology",
+      "createdAt": "Thu, 23 Jan 2025 19:59:00 -0500",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_9",
+      "author": "WSJ",
+      "text": "Tech, Media & Telecom Roundup: Market Talk - Find insight on Electronic Arts, consumer spending on videogames, Meta and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "translated": "",
+      "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-28593f8d?mod=rss_Technology",
+      "createdAt": "Thu, 23 Jan 2025 16:57:00 -0500",
+      "likes": null,
+      "retweets": null
+    },
+    {
+      "id": "rss_WSJ_4",
+      "author": "WSJ",
+      "text": "Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out - Apps can add flexibility and freshness to your routine. Just try not to get injured.",
+      "translated": "",
+      "url": "https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology",
+      "createdAt": "Sun, 26 Jan 2025 09:00:00 -0500",
       "likes": null,
       "retweets": null
     }
